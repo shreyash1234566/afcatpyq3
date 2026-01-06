@@ -1,0 +1,642 @@
+{
+  "year": 2015,
+  "shift": 1,
+  "total_questions": 91,
+  "topic_data": [
+    {
+      "year": 2015,
+      "section": "verbal_ability",
+      "topic": "unknown",
+      "count": 5,
+      "difficulties": {
+        "easy": 5,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In a jiffy",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Upto the hilt",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Female polar bears give birth during",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "verbal_ability",
+      "topic": "Inferred Verbal Ability",
+      "count": 21,
+      "difficulties": {
+        "easy": 11,
+        "medium": 9,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "Man of Letters",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Sangfroid [LIKELY FIGURE - incomplete text]",
+          "difficulty": "easy"
+        },
+        {
+          "text": "[VERBAL - likely passage/cloze question]",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "verbal_ability",
+      "topic": "VA_COMP",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "With reference to the passage, the following assumptions have been made:",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "verbal_ability",
+      "topic": "RM_VR_BLOOD",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Mother bear",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "verbal_ability",
+      "topic": "GA_TECH",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A Curtain Lecture",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "verbal_ability",
+      "topic": "RM_VR_CAL",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "Inferred General Awareness",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A man can row 9",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "NA_STD",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The speed of a boat in still water is 10 Kmph. If it can travel 26 Km downstream and 14 Km upstream in the same time, the speed of the stream is",
+          "difficulty": "medium"
+        },
+        {
+          "text": "A man travelled from a point A to B at the rate of 25 Kmph and walked back at the rate of 4 Kmph. If the whole journey took 5 hrs 48 minutes, the distance between A and B is",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "NA_AVG",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "If a sum becomes double in 16 years, how many times will it be in 8 years?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "NA_SI_CI",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In how many years will a sum of Rs 800 at 10% per annum compounded semi-annually become Rs",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "NA_PL",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A sell 2 TV sets, one at a loss of 15% and another at a profit of 15%. Find the loss/gain percentage in the overall transaction?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "NA_TRAIN",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A train travelling at a uniform speed clears a platform 200 m long in 10 seconds and passes a telegraph post in 5 seconds. The speed of the train is",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "NA_PER",
+      "count": 3,
+      "difficulties": {
+        "easy": 0,
+        "medium": 3,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The price of sugar increases by 20% due to the festive season. By what percentage should a family reduce the consumption of sugar so that there is no change in the expenditure?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "A’s salary is 20% lower than B’s salary, which is 15% lower than C’s salary. By how much percent is",
+          "difficulty": "medium"
+        },
+        {
+          "text": "The average weight of 5 men is increased by 2 Kg when one of the men whose weight is 60 Kg is replaced by a new man.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "NA_TW",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A and B can do a piece of work in 18 days; B and C can do it in 24 days, A and C can do it in 36 days.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "RM_VR_ANA",
+      "count": 7,
+      "difficulties": {
+        "easy": 5,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The opposition part status is accorded to a political party in the Lok Sabha only if it captures at least",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Which county among the following has been declared Ebola-free by WHO?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "How many Gold medals did India win in the Incheon Asian Games held in Oct 2014?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "GA_BOOK",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who amongst the following in the author of the book 'A Bend in the River?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "'Long Walk to Freedom' is a book written by",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "RM_VR_RANK",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which sports personality has been awarded the honorary rank of Group Captain by the IAF?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "GA_DEF",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which among the following is India's first long range subsonic cruise missile?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "K-15 missile is",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "GA_SCI_BIO",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The branch of science that studies cells is called",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "GA_AWARD",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Sir CV Raman was awarded Nobel Prize for his work connected with which of the following phenomenon of radiation?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "reasoning",
+      "topic": "RM_VR_ANA",
+      "count": 4,
+      "difficulties": {
+        "easy": 3,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "India agreed to UN Chief Ban Ki-Moon's offer to remain as a member of the advisory board of one of the following recently.",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Why did Kalinga prove to be a turning point in the life of Ashoka?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the following wings was not part of the espionage system described by Kautilya?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "reasoning",
+      "topic": "personalities",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Kaziranga National Park is famous for",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "reasoning",
+      "topic": "GA_SPORTS",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who was the first Indian to win an individual medal in Olympics?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "count": 5,
+      "difficulties": {
+        "easy": 2,
+        "medium": 1,
+        "hard": 2
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED REASONING Q59] (a) Milkha Singh \n(b) PT Usha \n(c) Karnam Malleshwari \n(d) KD Jadhav \n\n--- PAGE 12 --Q.59. Who among the following was the Congress President at Madras Session of 1927 when it ...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "[RESCUED REASONING Q65] (a) Agni-I \n(b) Agni-II \n(c) Agni-IV \n(d) Agni-VI \n \n\n--- PAGE 13 --Q.65. Who among the following was adjudged as the Most Valuable Player of the 17th Asian Games held at \nInch...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "Trilogy: Novel ∷ ?: ?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "reasoning",
+      "topic": "GA_HIST_MED",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Alauddin Khilji did not build",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "reasoning",
+      "topic": "RM_VR_CLK",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following dynasties was ruling over North India at the time of Alexander's invasion?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "reasoning",
+      "topic": "GA_ORG",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following Intercontinental Ballistic Missiles (ICBMs) is under development in India?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "reasoning",
+      "topic": "unknown",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Ignominy: Disloyalty ∷ ?: ?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Loath: Coercion ∷ ?: ?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "reasoning",
+      "topic": "RM_VR_SEAT",
+      "count": 3,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following diagrams indicates the best relation between Doctors. Human Beings and",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the following diagrams indicates the best relation between Thief, Criminal and Police?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the following diagrams indicates the best relation between Man, Worker and Garden?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "reasoning",
+      "topic": "RM_VR_VENN",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following diagrams indicates the best relation Children, Naughty and Studious?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "count": 15,
+      "difficulties": {
+        "easy": 9,
+        "medium": 6,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Problem Figures:",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Problem Figures:",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Problem Figures:",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "numerical_ability",
+      "topic": "NA_SI_CI",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "DIRECTIONS (Qs. 96-100): Each of the following questions consists of two sets of figures. Figures 1, 2, 3 and 4 constitute the Problem Set while figures a, b, c and d constitute the Answer Set. There ...",
+          "difficulty": "medium"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "verbal_ability": 30,
+    "general_awareness": 25,
+    "reasoning": 20,
+    "numerical_ability": 16
+  },
+  "difficulty_distribution": {
+    "easy": 53,
+    "medium": 35,
+    "hard": 3
+  }
+}

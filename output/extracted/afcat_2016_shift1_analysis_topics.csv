@@ -1,0 +1,32 @@
+Year,Section,Topic,Count,Easy,Medium,Hard
+2016,general_awareness,GA_AWARD,3,2,1,0
+2016,general_awareness,GA_BOOK,1,1,0,0
+2016,general_awareness,GA_GEO_IND,1,1,0,0
+2016,general_awareness,GA_TECH,2,1,1,0
+2016,general_awareness,Inferred General Awareness,1,0,0,1
+2016,general_awareness,NA_PER,2,0,2,0
+2016,general_awareness,NA_PL,1,0,1,0
+2016,general_awareness,NA_STD,1,0,0,1
+2016,general_awareness,RM_VR_ANA,6,5,1,0
+2016,general_awareness,RM_VR_CAL,1,1,0,0
+2016,general_awareness,RM_VR_DIR,1,0,1,0
+2016,general_awareness,RM_VR_SYL,1,0,1,0
+2016,general_awareness,VA_COMP,1,1,0,0
+2016,general_awareness,unknown,3,3,0,0
+2016,numerical_ability,Inferred Numerical Ability,15,15,0,0
+2016,numerical_ability,RM_VR_SEAT,5,5,0,0
+2016,reasoning,GA_SCI_BIO,1,1,0,0
+2016,reasoning,Inferred Reasoning,12,5,6,1
+2016,reasoning,NA_RAT,1,0,1,0
+2016,reasoning,NA_SI_CI,3,0,1,2
+2016,reasoning,NA_STD,1,0,0,1
+2016,reasoning,NA_TW,2,0,1,1
+2016,reasoning,RM_NV_EMB,1,0,1,0
+2016,reasoning,RM_VR_CLK,1,0,1,0
+2016,reasoning,unknown,3,3,0,0
+2016,verbal_ability,GA_ECON,1,1,0,0
+2016,verbal_ability,GA_ORG,1,1,0,0
+2016,verbal_ability,Inferred Verbal Ability,21,9,12,0
+2016,verbal_ability,RM_VR_ANA,1,1,0,0
+2016,verbal_ability,VA_COMP,2,1,1,0
+2016,verbal_ability,unknown,4,3,1,0

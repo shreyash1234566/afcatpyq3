@@ -1,0 +1,752 @@
+{
+  "year": 2012,
+  "shift": null,
+  "total_questions": 93,
+  "topic_data": [
+    {
+      "year": 2012,
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "count": 5,
+      "difficulties": {
+        "easy": 5,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The author's attitude the advent of computer technology can be best summarised as",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Who was known as father of administration in medieval India?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Brahma Samaj was founded by",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "verbal_ability",
+      "topic": "time_and_work",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The author would agree with which of the following statements?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "verbal_ability",
+      "topic": "reading_comprehension",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The author's primary purpose in writing this passage is most likely which of the following?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "count": 16,
+      "difficulties": {
+        "easy": 5,
+        "medium": 10,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "OSMOSIS [LIKELY FIGURE - incomplete text]",
+          "difficulty": "medium"
+        },
+        {
+          "text": "OSTRACISE,",
+          "difficulty": "easy"
+        },
+        {
+          "text": "ALACRITY [LIKELY FIGURE - incomplete text]",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "count": 7,
+      "difficulties": {
+        "easy": 6,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Harshad, along with (d)",
+          "difficulty": "easy"
+        },
+        {
+          "text": "He received timely support (d)",
+          "difficulty": "easy"
+        },
+        {
+          "text": "One of the drawbacks",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "verbal_ability",
+      "topic": "analogy_verbal",
+      "count": 3,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "His book was marked by many ______ remarks which made us forget its main theme.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The dispute among the parties became so _______ that there was every likelihood of a free exchange of blows.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The judge decided to resign when he was _______ for promotion to Chief Justice.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "verbal_ability",
+      "topic": "personalities",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who among the following had discovered the Bramhi Script in 1838?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "verbal_ability",
+      "topic": "organizations",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who discharges the function of the President when vacancy occur In the office of President & Vice",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "verbal_ability",
+      "topic": "geography_world",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "From which country does the top seeded Tennis player Rafael Nadal hail from?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "verbal_ability",
+      "topic": "classification",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which Indian Boxer won the gold medal in 60 kg category in Asian game and became the youngest to win a boxing gold for India?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "verbal_ability",
+      "topic": "mixtures_alligation",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In 2010 Leander Paes in partnership with Cara Black won the mixed doubles title of",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "general_awareness",
+      "topic": "geography_india",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "River Jhelum emerges from",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "general_awareness",
+      "topic": "science_chemistry",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Haematite ores is the ore of which metal?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "general_awareness",
+      "topic": "science_biology",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Green revolution relates to which of the following?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The layer common to two adjacent plant cells called Middle Lamella is composed of",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "general_awareness",
+      "topic": "analogy",
+      "count": 6,
+      "difficulties": {
+        "easy": 4,
+        "medium": 1,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "Nuclear Submarine Akula has been handed over to India recently by",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Vertebrates have two endocrine glands associated with the brain, namely",
+          "difficulty": "easy"
+        },
+        {
+          "text": "With the increase of the effective nuclear charge, the size of the atom or ion",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "general_awareness",
+      "topic": "important_days",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "On which among the following dates, the Army Day is celebrated?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "general_awareness",
+      "topic": "inferred_general_awareness",
+      "count": 3,
+      "difficulties": {
+        "easy": 0,
+        "medium": 3,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "When heated with chloroform, secondary amines and tertiary amines",
+          "difficulty": "medium"
+        },
+        {
+          "text": "If a/(a + b) = 17/23, what is (a + b)/(a – b) equal to?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "(598+479)2−(598−479)2",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "general_awareness",
+      "topic": "organizations",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The number whose square is equal to the difference of the squares of 40 and 32 is",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "general_awareness",
+      "topic": "Inferred General Awareness",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 2
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED GA Q42] (a) 45.09 \n(b) 24 \n(c) 25 \n(d) 28 \n \n\n--- PAGE 9 --Q.42. 5 buckets of water fill a tank when the capacity of each bucket is 7 litres. How many buckets will be needed to fill the same ...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "[RESCUED GA Q53] (a) Rs. 6000 \n(b) Rs. 5500 \n(c) Rs. 5000 \n(d) Rs. 4500 \n \n\n--- PAGE 11 --Q.53. In an election between two candidates, 60% of the voters cast their votes, out of which 4% of the votes ...",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "general_awareness",
+      "topic": "mixtures_alligation",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "A vessel, full of water, weighs 27.5 kg. when the vessel is 1/4 full, it weighs 12.26 kg. Find the weight of empty vessel?",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "general_awareness",
+      "topic": "simplification",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "If a + b = 10 and ab = 21, find the value of a3 + b3?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "general_awareness",
+      "topic": "percentages",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "A man’s average monthly expenditure for the first four months of the year was Rs. 225.25. For the next five months, the average monthly expenditure was Rs. 20.75 more than what it was during the first...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "If the price of kerosene be raised by 9%, find how much percent a house holder must reduce his consumption of kerosene so that not to increase his expenditure",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "general_awareness",
+      "topic": "ratio_proportion",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The ratio of the present age of P and Q is 2:3. The ratio of their age after 18 years will be 4:5. What is the present age of Q?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "general_awareness",
+      "topic": "coding_decoding",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The mean temperature of Monday to Wednesday was 37°C and of Tuesday to Thursday was 34°C. If the temperature on Thursday was 4/5th that of Monday, the temperature on Thursday was",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "numerical_ability",
+      "topic": "simple_compound_interest",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The simple interest on sum of money is 1/9 of the sum. The number of years is numerically equal to the rate percent per annum. The rate percent per annum is",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Calculate the amount on Rs. 1250 for 2 years at 4% per annum. compounded yearly.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "general_awareness",
+      "topic": "averages",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A sum of Rs. 10.000 is lent partly at 8% and the remaining at 10% per annum, If the yearly interest on the average is 9.2%. The money lent at 10% is",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "reasoning",
+      "topic": "ratio_proportion",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A jar contains black and white marbles. If there are ten marbles in the jar, then which of the following could not be the ratio of black to white marbles?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "numerical_ability",
+      "topic": "ratio_proportion",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A sum of money is to be distributed among P, Q and R in the ratio of 6:19:7. If R gives Rs. 200 from his share to Q, the ratio of P, Q and R becomes 3:10:3, what is the total sum?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "reasoning",
+      "topic": "mixtures_alligation",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In what ratio should tea worth Rs. 10 per kg be mixed with tea worth Rs. 14 per kg so that the average price of the mixture may be Rs. 11 per kg?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "reasoning",
+      "topic": "averages",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A sum of Rs. 3200 is lent out into two parts, one at 6% and another at 4%. If the total annual income is Rs. 176, find the money lent at 6%.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "reasoning",
+      "topic": "inferred_reasoning",
+      "count": 8,
+      "difficulties": {
+        "easy": 8,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Surgeon: Scalpel",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Creche: Infants",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Fish: Aquarium",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "reasoning",
+      "topic": "science_biology",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Pesticide: Plant",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "reasoning",
+      "topic": "analogy",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Ecstasy: Pleasure",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Malaria: Disease ∷ Sword: ?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "reasoning",
+      "topic": "calendar",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Calendar: Dates ∷ Dictionary :?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "reasoning",
+      "topic": "art_culture",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Eye: Wink ∷ Heart: ?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Earth: Sun ∷ Moon: ?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "count": 9,
+      "difficulties": {
+        "easy": 9,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "[MATH - topic cannot be inferred from neighbors]",
+          "difficulty": "easy"
+        },
+        {
+          "text": "[RESCUED MATH Q91] (a), (b), \n(c) and (d). Select the alternative that carries the correct figure which clearly shows the embedded portion of the original figure. \n \nQ.91. \n \n \nQ.92. \n \n \nQ.93.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "[RESCUED MATH Q92] (a), (b), \n(c) and (d). Select the alternative that carries the correct figure which clearly shows the embedded portion of the original figure. \n \nQ.91. \n \n \nQ.92. \n \n \nQ.93.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "reasoning",
+      "topic": "embedded_figures",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "DIRECTIONS (Qs 91- 95): The original figure is embedded or hidden in one of the answer figures",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "section": "numerical_ability",
+      "topic": "inferred_numerical_ability",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "DIRECTIONS (Qs 96-100): Find out from the given option",
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "verbal_ability": 22,
+    "reasoning": 34,
+    "general_awareness": 24,
+    "numerical_ability": 13
+  },
+  "difficulty_distribution": {
+    "easy": 56,
+    "medium": 31,
+    "hard": 6
+  }
+}

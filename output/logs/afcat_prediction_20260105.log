@@ -1,0 +1,581 @@
+2026-01-05 13:35:04,239 - utils.ocr_engine - INFO - Initialized EasyOCR engine
+2026-01-05 13:35:04,253 - pipeline.exam_analyzer - INFO - Initialized AFCATExamAnalyzer with easyocr engine, quality=standard
+2026-01-05 13:35:04,254 - pipeline.exam_analyzer - INFO - 📄 Analyzing paper: AFCAT_2024_Aug09_Shift1_Memory.pdf
+2026-01-05 13:35:04,255 - pipeline.exam_analyzer - INFO - Step 1/4: Extracting text (OCR)...
+2026-01-05 13:35:05,278 - utils.ocr_engine - INFO - Processing page 1/11
+2026-01-05 13:35:05,325 - utils.ocr_engine - INFO - Processing page 2/11
+2026-01-05 13:35:05,336 - utils.ocr_engine - INFO - Processing page 3/11
+2026-01-05 13:35:05,351 - utils.ocr_engine - INFO - Processing page 4/11
+2026-01-05 13:35:05,367 - utils.ocr_engine - INFO - Processing page 5/11
+2026-01-05 13:35:05,370 - utils.ocr_engine - INFO - Processing page 6/11
+2026-01-05 13:35:05,376 - utils.ocr_engine - INFO - Processing page 7/11
+2026-01-05 13:35:05,393 - utils.ocr_engine - INFO - Processing page 8/11
+2026-01-05 13:35:05,410 - utils.ocr_engine - INFO - Processing page 9/11
+2026-01-05 13:35:05,425 - utils.ocr_engine - INFO - Processing page 10/11
+2026-01-05 13:35:05,440 - utils.ocr_engine - INFO - Processing page 11/11
+2026-01-05 13:35:05,447 - pipeline.exam_analyzer - INFO -    Extracted 11 text blocks (confidence: 100.0%)
+2026-01-05 13:35:05,448 - pipeline.exam_analyzer - INFO - Step 2/4: Parsing questions...
+2026-01-05 13:35:05,464 - utils.ocr_engine - INFO - Figure detection found 26 candidates
+2026-01-05 13:35:05,469 - utils.ocr_engine - INFO - Detected paper format: memory_based
+2026-01-05 13:35:05,473 - utils.ocr_engine - INFO - Extracted 30 questions total
+2026-01-05 13:35:05,473 - pipeline.exam_analyzer - INFO -    Found 30 questions
+2026-01-05 13:35:05,474 - pipeline.exam_analyzer - INFO -    Zone enforcement: DISABLED (single-subject ~30Q paper)
+2026-01-05 13:35:05,474 - pipeline.exam_analyzer - INFO - Step 3/4: Classifying questions...
+2026-01-05 13:35:05,549 - pipeline.exam_analyzer - INFO -    Classified 30 questions
+2026-01-05 13:35:05,550 - pipeline.exam_analyzer - INFO - Step 4/4: Generating statistics...
+2026-01-05 13:35:05,555 - pipeline.exam_analyzer - INFO - 💾 Saved full analysis: output\extracted\afcat_2024_shift1_analysis.json
+2026-01-05 13:35:05,557 - pipeline.exam_analyzer - INFO - 💾 Saved simple format: output\extracted\afcat_2024_shift1_analysis_simple.json
+2026-01-05 13:35:05,560 - pipeline.exam_analyzer - INFO - 💾 Saved CSV summary: output\extracted\afcat_2024_shift1_analysis_topics.csv
+2026-01-05 13:35:44,474 - utils.ocr_engine - INFO - Initialized EasyOCR engine
+2026-01-05 13:35:44,491 - pipeline.exam_analyzer - INFO - Initialized AFCATExamAnalyzer with easyocr engine, quality=standard
+2026-01-05 13:35:44,491 - pipeline.exam_analyzer - INFO - 📄 Analyzing paper: AFCAT_2016_Official_Paper1.pdf
+2026-01-05 13:35:44,492 - pipeline.exam_analyzer - INFO - Step 1/4: Extracting text (OCR)...
+2026-01-05 13:35:44,887 - utils.ocr_engine - INFO - Processing page 1/22
+2026-01-05 13:35:44,914 - utils.ocr_engine - INFO - Processing page 2/22
+2026-01-05 13:36:10,399 - utils.ocr_engine - INFO - Processing page 3/22
+2026-01-05 13:36:10,408 - utils.ocr_engine - INFO - Processing page 4/22
+2026-01-05 13:36:10,423 - utils.ocr_engine - INFO - Processing page 5/22
+2026-01-05 13:36:10,428 - utils.ocr_engine - INFO - Processing page 6/22
+2026-01-05 13:36:10,432 - utils.ocr_engine - INFO - Processing page 7/22
+2026-01-05 13:36:10,436 - utils.ocr_engine - INFO - Processing page 8/22
+2026-01-05 13:36:10,440 - utils.ocr_engine - INFO - Processing page 9/22
+2026-01-05 13:36:10,445 - utils.ocr_engine - INFO - Processing page 10/22
+2026-01-05 13:36:10,451 - utils.ocr_engine - INFO - Processing page 11/22
+2026-01-05 13:36:10,456 - utils.ocr_engine - INFO - Processing page 12/22
+2026-01-05 13:36:10,463 - utils.ocr_engine - INFO - Processing page 13/22
+2026-01-05 13:36:10,468 - utils.ocr_engine - INFO - Processing page 14/22
+2026-01-05 13:36:10,474 - utils.ocr_engine - INFO - Processing page 15/22
+2026-01-05 13:36:10,481 - utils.ocr_engine - INFO - Processing page 16/22
+2026-01-05 13:36:10,485 - utils.ocr_engine - INFO - Processing page 17/22
+2026-01-05 13:36:10,490 - utils.ocr_engine - INFO - Processing page 18/22
+2026-01-05 13:36:10,495 - utils.ocr_engine - INFO - Processing page 19/22
+2026-01-05 13:36:10,500 - utils.ocr_engine - INFO - Processing page 20/22
+2026-01-05 13:36:10,506 - utils.ocr_engine - INFO - Processing page 21/22
+2026-01-05 13:36:32,909 - utils.ocr_engine - INFO - Processing page 22/22
+2026-01-05 13:36:32,921 - pipeline.exam_analyzer - INFO -    Extracted 50 text blocks (confidence: 65.2%)
+2026-01-05 13:36:32,922 - pipeline.exam_analyzer - INFO - Step 2/4: Parsing questions...
+2026-01-05 13:36:32,947 - utils.ocr_engine - INFO - Figure detection found 22 candidates
+2026-01-05 13:36:32,954 - utils.ocr_engine - INFO - Detected paper format: unknown
+2026-01-05 13:36:32,964 - utils.ocr_engine - INFO - Vacuum Scraper rescued 4 additional questions
+2026-01-05 13:36:32,965 - utils.ocr_engine - INFO - Added 4 placeholder questions for gaps (Safe Mode enabled)
+2026-01-05 13:36:32,965 - utils.ocr_engine - INFO - Added 15 trailing placeholders (Q86-Q100)
+2026-01-05 13:36:32,966 - utils.ocr_engine - INFO - Added 15 trailing placeholders to reach Q100
+2026-01-05 13:36:32,971 - utils.ocr_engine - INFO - Extracted 100 questions total
+2026-01-05 13:36:32,972 - pipeline.exam_analyzer - INFO -    Found 100 questions
+2026-01-05 13:36:32,972 - pipeline.exam_analyzer - INFO -    Zone enforcement: ENABLED (full paper)
+2026-01-05 13:36:32,972 - pipeline.exam_analyzer - INFO - Step 3/4: Classifying questions...
+2026-01-05 13:36:33,036 - pipeline.exam_analyzer - INFO -    Classified 100 questions
+2026-01-05 13:36:33,037 - pipeline.exam_analyzer - INFO - Step 4/4: Generating statistics...
+2026-01-05 13:36:33,058 - pipeline.exam_analyzer - INFO - 💾 Saved full analysis: output\extracted\afcat_2016_shift1_analysis.json
+2026-01-05 13:36:33,063 - pipeline.exam_analyzer - INFO - 💾 Saved simple format: output\extracted\afcat_2016_shift1_analysis_simple.json
+2026-01-05 13:36:33,065 - pipeline.exam_analyzer - INFO - 💾 Saved CSV summary: output\extracted\afcat_2016_shift1_analysis_topics.csv
+2026-01-05 13:37:36,795 - utils.ocr_engine - INFO - Initialized EasyOCR engine
+2026-01-05 13:37:36,808 - pipeline.exam_analyzer - INFO - Initialized AFCATExamAnalyzer with easyocr engine, quality=standard
+2026-01-05 13:37:36,808 - pipeline.exam_analyzer - INFO - 📄 Analyzing paper: AFCAT_2015_Official_Paper1.pdf
+2026-01-05 13:37:36,809 - pipeline.exam_analyzer - INFO - Step 1/4: Extracting text (OCR)...
+2026-01-05 13:37:37,223 - utils.ocr_engine - INFO - Processing page 1/22
+2026-01-05 13:37:37,245 - utils.ocr_engine - INFO - Processing page 2/22
+2026-01-05 13:38:00,423 - utils.ocr_engine - INFO - Processing page 3/22
+2026-01-05 13:38:00,441 - utils.ocr_engine - INFO - Processing page 4/22
+2026-01-05 13:38:00,445 - utils.ocr_engine - INFO - Processing page 5/22
+2026-01-05 13:38:00,449 - utils.ocr_engine - INFO - Processing page 6/22
+2026-01-05 13:38:00,454 - utils.ocr_engine - INFO - Processing page 7/22
+2026-01-05 13:38:00,462 - utils.ocr_engine - INFO - Processing page 8/22
+2026-01-05 13:38:00,470 - utils.ocr_engine - INFO - Processing page 9/22
+2026-01-05 13:38:00,474 - utils.ocr_engine - INFO - Processing page 10/22
+2026-01-05 13:38:00,478 - utils.ocr_engine - INFO - Processing page 11/22
+2026-01-05 13:38:00,482 - utils.ocr_engine - INFO - Processing page 12/22
+2026-01-05 13:38:00,486 - utils.ocr_engine - INFO - Processing page 13/22
+2026-01-05 13:38:00,492 - utils.ocr_engine - INFO - Processing page 14/22
+2026-01-05 13:38:00,498 - utils.ocr_engine - INFO - Processing page 15/22
+2026-01-05 13:38:00,503 - utils.ocr_engine - INFO - Processing page 16/22
+2026-01-05 13:38:00,508 - utils.ocr_engine - INFO - Processing page 17/22
+2026-01-05 13:38:00,514 - utils.ocr_engine - INFO - Processing page 18/22
+2026-01-05 13:38:00,518 - utils.ocr_engine - INFO - Processing page 19/22
+2026-01-05 13:38:00,522 - utils.ocr_engine - INFO - Processing page 20/22
+2026-01-05 13:38:00,527 - utils.ocr_engine - INFO - Processing page 21/22
+2026-01-05 13:38:22,993 - utils.ocr_engine - INFO - Processing page 22/22
+2026-01-05 13:38:45,661 - pipeline.exam_analyzer - INFO -    Extracted 61 text blocks (confidence: 59.8%)
+2026-01-05 13:38:45,661 - pipeline.exam_analyzer - INFO - Step 2/4: Parsing questions...
+2026-01-05 13:38:45,685 - utils.ocr_engine - INFO - Figure detection found 25 candidates
+2026-01-05 13:38:45,692 - utils.ocr_engine - INFO - Detected paper format: unknown
+2026-01-05 13:38:45,706 - utils.ocr_engine - INFO - Vacuum Scraper rescued 3 additional questions
+2026-01-05 13:38:45,707 - utils.ocr_engine - INFO - Added 9 placeholder questions for gaps (Safe Mode enabled)
+2026-01-05 13:38:45,712 - utils.ocr_engine - INFO - Extracted 91 questions total
+2026-01-05 13:38:45,713 - pipeline.exam_analyzer - INFO -    Found 91 questions
+2026-01-05 13:38:45,713 - pipeline.exam_analyzer - INFO -    Zone enforcement: ENABLED (full paper)
+2026-01-05 13:38:45,713 - pipeline.exam_analyzer - INFO - Step 3/4: Classifying questions...
+2026-01-05 13:38:45,761 - pipeline.exam_analyzer - INFO -    Classified 91 questions
+2026-01-05 13:38:45,762 - pipeline.exam_analyzer - INFO - Step 4/4: Generating statistics...
+2026-01-05 13:38:45,779 - pipeline.exam_analyzer - INFO - 💾 Saved full analysis: output\extracted\afcat_2015_shift1_analysis.json
+2026-01-05 13:38:45,783 - pipeline.exam_analyzer - INFO - 💾 Saved simple format: output\extracted\afcat_2015_shift1_analysis_simple.json
+2026-01-05 13:38:45,794 - pipeline.exam_analyzer - INFO - 💾 Saved CSV summary: output\extracted\afcat_2015_shift1_analysis_topics.csv
+2026-01-05 14:06:38,957 - utils.ocr_engine - INFO - Initialized EasyOCR engine
+2026-01-05 14:06:38,964 - pipeline.exam_analyzer - INFO - Initialized AFCATExamAnalyzer with easyocr engine, quality=standard
+2026-01-05 14:06:38,964 - pipeline.exam_analyzer - INFO - 📄 Analyzing paper: AFCAT_2016_Official_Paper1.pdf
+2026-01-05 14:06:38,964 - pipeline.exam_analyzer - INFO - Step 1/4: Extracting text (OCR)...
+2026-01-05 14:06:39,190 - utils.ocr_engine - INFO - Processing page 1/22
+2026-01-05 14:06:39,199 - utils.ocr_engine - INFO - Processing page 2/22
+2026-01-05 14:06:53,179 - utils.ocr_engine - INFO - Processing page 3/22
+2026-01-05 14:06:53,183 - utils.ocr_engine - INFO - Processing page 4/22
+2026-01-05 14:06:53,187 - utils.ocr_engine - INFO - Processing page 5/22
+2026-01-05 14:06:53,190 - utils.ocr_engine - INFO - Processing page 6/22
+2026-01-05 14:06:53,193 - utils.ocr_engine - INFO - Processing page 7/22
+2026-01-05 14:06:53,196 - utils.ocr_engine - INFO - Processing page 8/22
+2026-01-05 14:06:53,198 - utils.ocr_engine - INFO - Processing page 9/22
+2026-01-05 14:06:53,201 - utils.ocr_engine - INFO - Processing page 10/22
+2026-01-05 14:06:53,204 - utils.ocr_engine - INFO - Processing page 11/22
+2026-01-05 14:06:53,207 - utils.ocr_engine - INFO - Processing page 12/22
+2026-01-05 14:06:53,210 - utils.ocr_engine - INFO - Processing page 13/22
+2026-01-05 14:06:53,212 - utils.ocr_engine - INFO - Processing page 14/22
+2026-01-05 14:06:53,216 - utils.ocr_engine - INFO - Processing page 15/22
+2026-01-05 14:06:53,219 - utils.ocr_engine - INFO - Processing page 16/22
+2026-01-05 14:06:53,221 - utils.ocr_engine - INFO - Processing page 17/22
+2026-01-05 14:06:53,224 - utils.ocr_engine - INFO - Processing page 18/22
+2026-01-05 14:06:53,227 - utils.ocr_engine - INFO - Processing page 19/22
+2026-01-05 14:06:53,230 - utils.ocr_engine - INFO - Processing page 20/22
+2026-01-05 14:06:53,233 - utils.ocr_engine - INFO - Processing page 21/22
+2026-01-05 14:07:04,645 - utils.ocr_engine - INFO - Processing page 22/22
+2026-01-05 14:07:04,660 - pipeline.exam_analyzer - INFO -    Extracted 50 text blocks (confidence: 65.2%)
+2026-01-05 14:07:04,661 - pipeline.exam_analyzer - INFO - Step 2/4: Parsing questions...
+2026-01-05 14:07:04,669 - utils.ocr_engine - INFO - Figure detection found 22 candidates
+2026-01-05 14:07:04,673 - utils.ocr_engine - INFO - Detected paper format: unknown
+2026-01-05 14:07:04,680 - utils.ocr_engine - INFO - Vacuum Scraper rescued 4 additional questions
+2026-01-05 14:07:04,680 - utils.ocr_engine - INFO - Added 4 placeholder questions for gaps (Safe Mode enabled)
+2026-01-05 14:07:04,680 - utils.ocr_engine - INFO - Added 15 trailing placeholders (Q86-Q100)
+2026-01-05 14:07:04,681 - utils.ocr_engine - INFO - Added 15 trailing placeholders to reach Q100
+2026-01-05 14:07:04,683 - utils.ocr_engine - INFO - Extracted 100 questions total
+2026-01-05 14:07:04,683 - pipeline.exam_analyzer - INFO -    Found 100 questions
+2026-01-05 14:07:04,684 - pipeline.exam_analyzer - INFO -    Zone enforcement: ENABLED (full paper)
+2026-01-05 14:07:04,684 - pipeline.exam_analyzer - INFO - Step 3/4: Classifying questions...
+2026-01-05 14:07:04,710 - pipeline.exam_analyzer - INFO -    Classified 100 questions
+2026-01-05 14:07:04,710 - pipeline.exam_analyzer - INFO - Step 4/4: Generating statistics...
+2026-01-05 14:07:04,716 - pipeline.exam_analyzer - INFO - 💾 Saved full analysis: output\extracted\afcat_2016_shift1_analysis.json
+2026-01-05 14:07:04,718 - pipeline.exam_analyzer - INFO - 💾 Saved simple format: output\extracted\afcat_2016_shift1_analysis_simple.json
+2026-01-05 14:07:04,719 - pipeline.exam_analyzer - INFO - 💾 Saved CSV summary: output\extracted\afcat_2016_shift1_analysis_topics.csv
+2026-01-05 14:10:56,577 - utils.ocr_engine - INFO - Initialized EasyOCR engine
+2026-01-05 14:10:56,584 - pipeline.exam_analyzer - INFO - Initialized AFCATExamAnalyzer with easyocr engine, quality=standard
+2026-01-05 14:10:56,584 - pipeline.exam_analyzer - INFO - 📄 Analyzing paper: AFCAT_2016_Official_Paper1.pdf
+2026-01-05 14:10:56,584 - pipeline.exam_analyzer - INFO - Step 1/4: Extracting text (OCR)...
+2026-01-05 14:10:56,808 - utils.ocr_engine - INFO - Processing page 1/22
+2026-01-05 14:10:56,816 - utils.ocr_engine - INFO - Processing page 2/22
+2026-01-05 14:11:09,382 - utils.ocr_engine - INFO - Processing page 3/22
+2026-01-05 14:11:09,386 - utils.ocr_engine - INFO - Processing page 4/22
+2026-01-05 14:11:09,390 - utils.ocr_engine - INFO - Processing page 5/22
+2026-01-05 14:11:09,392 - utils.ocr_engine - INFO - Processing page 6/22
+2026-01-05 14:11:09,394 - utils.ocr_engine - INFO - Processing page 7/22
+2026-01-05 14:11:09,396 - utils.ocr_engine - INFO - Processing page 8/22
+2026-01-05 14:11:09,398 - utils.ocr_engine - INFO - Processing page 9/22
+2026-01-05 14:11:09,400 - utils.ocr_engine - INFO - Processing page 10/22
+2026-01-05 14:11:09,404 - utils.ocr_engine - INFO - Processing page 11/22
+2026-01-05 14:11:09,406 - utils.ocr_engine - INFO - Processing page 12/22
+2026-01-05 14:11:09,409 - utils.ocr_engine - INFO - Processing page 13/22
+2026-01-05 14:11:09,412 - utils.ocr_engine - INFO - Processing page 14/22
+2026-01-05 14:11:09,414 - utils.ocr_engine - INFO - Processing page 15/22
+2026-01-05 14:11:09,416 - utils.ocr_engine - INFO - Processing page 16/22
+2026-01-05 14:11:09,418 - utils.ocr_engine - INFO - Processing page 17/22
+2026-01-05 14:11:09,420 - utils.ocr_engine - INFO - Processing page 18/22
+2026-01-05 14:11:09,422 - utils.ocr_engine - INFO - Processing page 19/22
+2026-01-05 14:11:09,425 - utils.ocr_engine - INFO - Processing page 20/22
+2026-01-05 14:11:09,427 - utils.ocr_engine - INFO - Processing page 21/22
+2026-01-05 14:11:20,724 - utils.ocr_engine - INFO - Processing page 22/22
+2026-01-05 14:11:20,729 - pipeline.exam_analyzer - INFO -    Extracted 50 text blocks (confidence: 65.2%)
+2026-01-05 14:11:20,729 - pipeline.exam_analyzer - INFO - Step 2/4: Parsing questions...
+2026-01-05 14:11:20,737 - utils.ocr_engine - INFO - Figure detection found 22 candidates
+2026-01-05 14:11:20,739 - utils.ocr_engine - INFO - Detected paper format: unknown
+2026-01-05 14:11:20,745 - utils.ocr_engine - INFO - Vacuum Scraper rescued 4 additional questions
+2026-01-05 14:11:20,745 - utils.ocr_engine - INFO - Added 4 placeholder questions for gaps (Safe Mode enabled)
+2026-01-05 14:11:20,745 - utils.ocr_engine - INFO - Added 15 trailing placeholders (Q86-Q100)
+2026-01-05 14:11:20,745 - utils.ocr_engine - INFO - Added 15 trailing placeholders to reach Q100
+2026-01-05 14:11:20,748 - utils.ocr_engine - INFO - Extracted 100 questions total
+2026-01-05 14:11:20,748 - pipeline.exam_analyzer - INFO -    Found 100 questions
+2026-01-05 14:11:20,748 - pipeline.exam_analyzer - INFO -    Zone enforcement: ENABLED (full paper)
+2026-01-05 14:11:20,748 - pipeline.exam_analyzer - INFO - Step 3/4: Classifying questions...
+2026-01-05 14:11:20,769 - pipeline.exam_analyzer - INFO -    Classified 100 questions
+2026-01-05 14:11:20,769 - pipeline.exam_analyzer - INFO - Step 4/4: Generating statistics...
+2026-01-05 14:11:20,777 - pipeline.exam_analyzer - INFO - 💾 Saved full analysis: output\extracted\afcat_2016_shift1_analysis.json
+2026-01-05 14:11:20,779 - pipeline.exam_analyzer - INFO - 💾 Saved simple format: output\extracted\afcat_2016_shift1_analysis_simple.json
+2026-01-05 14:11:20,780 - pipeline.exam_analyzer - INFO - 💾 Saved CSV summary: output\extracted\afcat_2016_shift1_analysis_topics.csv
+2026-01-05 14:12:50,417 - utils.ocr_engine - INFO - Initialized EasyOCR engine
+2026-01-05 14:12:50,425 - pipeline.exam_analyzer - INFO - Initialized AFCATExamAnalyzer with easyocr engine, quality=standard
+2026-01-05 14:12:50,425 - pipeline.exam_analyzer - INFO - 📄 Analyzing paper: AFCAT_2024_Aug09_Shift1_Memory.pdf
+2026-01-05 14:12:50,425 - pipeline.exam_analyzer - INFO - Step 1/4: Extracting text (OCR)...
+2026-01-05 14:12:50,659 - utils.ocr_engine - INFO - Processing page 1/11
+2026-01-05 14:12:50,670 - utils.ocr_engine - INFO - Processing page 2/11
+2026-01-05 14:12:50,676 - utils.ocr_engine - INFO - Processing page 3/11
+2026-01-05 14:12:50,683 - utils.ocr_engine - INFO - Processing page 4/11
+2026-01-05 14:12:50,688 - utils.ocr_engine - INFO - Processing page 5/11
+2026-01-05 14:12:50,691 - utils.ocr_engine - INFO - Processing page 6/11
+2026-01-05 14:12:50,694 - utils.ocr_engine - INFO - Processing page 7/11
+2026-01-05 14:12:50,698 - utils.ocr_engine - INFO - Processing page 8/11
+2026-01-05 14:12:50,703 - utils.ocr_engine - INFO - Processing page 9/11
+2026-01-05 14:12:50,708 - utils.ocr_engine - INFO - Processing page 10/11
+2026-01-05 14:12:50,713 - utils.ocr_engine - INFO - Processing page 11/11
+2026-01-05 14:12:50,717 - pipeline.exam_analyzer - INFO -    Extracted 11 text blocks (confidence: 100.0%)
+2026-01-05 14:12:50,717 - pipeline.exam_analyzer - INFO - Step 2/4: Parsing questions...
+2026-01-05 14:12:50,723 - utils.ocr_engine - INFO - Figure detection found 26 candidates
+2026-01-05 14:12:50,725 - utils.ocr_engine - INFO - Detected paper format: memory_based
+2026-01-05 14:12:50,728 - utils.ocr_engine - INFO - Extracted 30 questions total
+2026-01-05 14:12:50,728 - pipeline.exam_analyzer - INFO -    Found 30 questions
+2026-01-05 14:12:50,728 - pipeline.exam_analyzer - INFO -    Zone enforcement: DISABLED (single-subject ~30Q paper)
+2026-01-05 14:12:50,728 - pipeline.exam_analyzer - INFO - Step 3/4: Classifying questions...
+2026-01-05 14:12:50,757 - pipeline.exam_analyzer - INFO -    Classified 30 questions
+2026-01-05 14:12:50,758 - pipeline.exam_analyzer - INFO - Step 4/4: Generating statistics...
+2026-01-05 14:12:50,760 - pipeline.exam_analyzer - INFO - 💾 Saved full analysis: output\extracted\afcat_2024_shift1_analysis.json
+2026-01-05 14:12:50,761 - pipeline.exam_analyzer - INFO - 💾 Saved simple format: output\extracted\afcat_2024_shift1_analysis_simple.json
+2026-01-05 14:12:50,762 - pipeline.exam_analyzer - INFO - 💾 Saved CSV summary: output\extracted\afcat_2024_shift1_analysis_topics.csv
+2026-01-05 14:14:33,959 - utils.ocr_engine - INFO - Initialized EasyOCR engine
+2026-01-05 14:14:33,966 - pipeline.exam_analyzer - INFO - Initialized AFCATExamAnalyzer with easyocr engine, quality=standard
+2026-01-05 14:14:33,966 - pipeline.exam_analyzer - INFO - 📄 Analyzing paper: AFCAT_2015_Official_Paper1.pdf
+2026-01-05 14:14:33,966 - pipeline.exam_analyzer - INFO - Step 1/4: Extracting text (OCR)...
+2026-01-05 14:14:34,187 - utils.ocr_engine - INFO - Processing page 1/22
+2026-01-05 14:14:34,196 - utils.ocr_engine - INFO - Processing page 2/22
+2026-01-05 14:14:46,824 - utils.ocr_engine - INFO - Processing page 3/22
+2026-01-05 14:14:46,828 - utils.ocr_engine - INFO - Processing page 4/22
+2026-01-05 14:14:46,830 - utils.ocr_engine - INFO - Processing page 5/22
+2026-01-05 14:14:46,832 - utils.ocr_engine - INFO - Processing page 6/22
+2026-01-05 14:14:46,834 - utils.ocr_engine - INFO - Processing page 7/22
+2026-01-05 14:14:46,837 - utils.ocr_engine - INFO - Processing page 8/22
+2026-01-05 14:14:46,842 - utils.ocr_engine - INFO - Processing page 9/22
+2026-01-05 14:14:46,844 - utils.ocr_engine - INFO - Processing page 10/22
+2026-01-05 14:14:46,846 - utils.ocr_engine - INFO - Processing page 11/22
+2026-01-05 14:14:46,848 - utils.ocr_engine - INFO - Processing page 12/22
+2026-01-05 14:14:46,850 - utils.ocr_engine - INFO - Processing page 13/22
+2026-01-05 14:14:46,853 - utils.ocr_engine - INFO - Processing page 14/22
+2026-01-05 14:14:46,857 - utils.ocr_engine - INFO - Processing page 15/22
+2026-01-05 14:14:46,860 - utils.ocr_engine - INFO - Processing page 16/22
+2026-01-05 14:14:46,863 - utils.ocr_engine - INFO - Processing page 17/22
+2026-01-05 14:14:46,866 - utils.ocr_engine - INFO - Processing page 18/22
+2026-01-05 14:14:46,869 - utils.ocr_engine - INFO - Processing page 19/22
+2026-01-05 14:14:46,871 - utils.ocr_engine - INFO - Processing page 20/22
+2026-01-05 14:14:46,875 - utils.ocr_engine - INFO - Processing page 21/22
+2026-01-05 14:14:58,368 - utils.ocr_engine - INFO - Processing page 22/22
+2026-01-05 14:15:09,439 - pipeline.exam_analyzer - INFO -    Extracted 61 text blocks (confidence: 59.8%)
+2026-01-05 14:15:09,440 - pipeline.exam_analyzer - INFO - Step 2/4: Parsing questions...
+2026-01-05 14:15:09,450 - utils.ocr_engine - INFO - Figure detection found 25 candidates
+2026-01-05 14:15:09,453 - utils.ocr_engine - INFO - Detected paper format: unknown
+2026-01-05 14:15:09,459 - utils.ocr_engine - INFO - Vacuum Scraper rescued 3 additional questions
+2026-01-05 14:15:09,459 - utils.ocr_engine - INFO - Added 9 placeholder questions for gaps (Safe Mode enabled)
+2026-01-05 14:15:09,461 - utils.ocr_engine - INFO - Extracted 91 questions total
+2026-01-05 14:15:09,462 - pipeline.exam_analyzer - INFO -    Found 91 questions
+2026-01-05 14:15:09,462 - pipeline.exam_analyzer - INFO -    Zone enforcement: ENABLED (full paper)
+2026-01-05 14:15:09,462 - pipeline.exam_analyzer - INFO - Step 3/4: Classifying questions...
+2026-01-05 14:15:09,483 - pipeline.exam_analyzer - INFO -    Classified 91 questions
+2026-01-05 14:15:09,484 - pipeline.exam_analyzer - INFO - Step 4/4: Generating statistics...
+2026-01-05 14:15:09,489 - pipeline.exam_analyzer - INFO - 💾 Saved full analysis: output\extracted\afcat_2015_shift1_analysis.json
+2026-01-05 14:15:09,491 - pipeline.exam_analyzer - INFO - 💾 Saved simple format: output\extracted\afcat_2015_shift1_analysis_simple.json
+2026-01-05 14:15:09,492 - pipeline.exam_analyzer - INFO - 💾 Saved CSV summary: output\extracted\afcat_2015_shift1_analysis_topics.csv
+2026-01-05 14:27:41,363 - utils.ocr_engine - INFO - Initialized EasyOCR engine
+2026-01-05 14:27:41,368 - pipeline.exam_analyzer - INFO - Initialized AFCATExamAnalyzer with easyocr engine, quality=standard
+2026-01-05 14:27:41,369 - pipeline.exam_analyzer - INFO - 📄 Analyzing paper: AFCAT_2024_Aug09_Shift1_Memory.pdf
+2026-01-05 14:27:41,369 - pipeline.exam_analyzer - INFO - Step 1/4: Extracting text (OCR)...
+2026-01-05 14:27:41,440 - utils.ocr_engine - INFO - Processing page 1/11
+2026-01-05 14:27:41,449 - utils.ocr_engine - INFO - Processing page 2/11
+2026-01-05 14:27:41,457 - utils.ocr_engine - INFO - Processing page 3/11
+2026-01-05 14:27:41,465 - utils.ocr_engine - INFO - Processing page 4/11
+2026-01-05 14:27:41,472 - utils.ocr_engine - INFO - Processing page 5/11
+2026-01-05 14:27:41,474 - utils.ocr_engine - INFO - Processing page 6/11
+2026-01-05 14:27:41,477 - utils.ocr_engine - INFO - Processing page 7/11
+2026-01-05 14:27:41,483 - utils.ocr_engine - INFO - Processing page 8/11
+2026-01-05 14:27:41,489 - utils.ocr_engine - INFO - Processing page 9/11
+2026-01-05 14:27:41,494 - utils.ocr_engine - INFO - Processing page 10/11
+2026-01-05 14:27:41,498 - utils.ocr_engine - INFO - Processing page 11/11
+2026-01-05 14:27:41,503 - pipeline.exam_analyzer - INFO -    Extracted 11 text blocks (confidence: 100.0%)
+2026-01-05 14:27:41,503 - pipeline.exam_analyzer - INFO - Step 2/4: Parsing questions...
+2026-01-05 14:27:41,512 - utils.ocr_engine - INFO - Figure detection found 26 candidates
+2026-01-05 14:27:41,515 - utils.ocr_engine - INFO - Detected paper format: memory_based
+2026-01-05 14:27:41,518 - utils.ocr_engine - INFO - Extracted 30 questions total
+2026-01-05 14:27:41,518 - pipeline.exam_analyzer - INFO -    Found 30 questions
+2026-01-05 14:27:41,518 - pipeline.exam_analyzer - INFO -    Zone enforcement: DISABLED (single-section override: verbal_ability)
+2026-01-05 14:27:41,518 - pipeline.exam_analyzer - INFO - Step 3/4: Classifying questions...
+2026-01-05 14:27:41,554 - pipeline.exam_analyzer - INFO -    Classified 30 questions
+2026-01-05 14:27:41,554 - pipeline.exam_analyzer - INFO - Step 4/4: Generating statistics...
+2026-01-05 14:27:41,558 - pipeline.exam_analyzer - INFO - 💾 Saved full analysis: output\extracted\afcat_2024_shift1_analysis.json
+2026-01-05 14:27:41,559 - pipeline.exam_analyzer - INFO - 💾 Saved simple format: output\extracted\afcat_2024_shift1_analysis_simple.json
+2026-01-05 14:27:41,559 - pipeline.exam_analyzer - INFO - 💾 Saved CSV summary: output\extracted\afcat_2024_shift1_analysis_topics.csv
+2026-01-05 14:52:49,905 - utils.ocr_engine - INFO - Initialized EasyOCR engine
+2026-01-05 14:52:49,910 - pipeline.exam_analyzer - INFO - Initialized AFCATExamAnalyzer with easyocr engine, quality=standard
+2026-01-05 14:52:49,910 - pipeline.exam_analyzer - INFO - 📄 Analyzing paper: AFCAT_2017_Memory.pdf
+2026-01-05 14:52:49,911 - pipeline.exam_analyzer - INFO - Step 1/4: Extracting text (OCR)...
+2026-01-05 14:52:50,186 - utils.ocr_engine - INFO - Processing page 1/22
+2026-01-05 14:52:50,194 - utils.ocr_engine - INFO - Processing page 2/22
+2026-01-05 14:53:03,184 - utils.ocr_engine - INFO - Processing page 3/22
+2026-01-05 14:53:03,189 - utils.ocr_engine - INFO - Processing page 4/22
+2026-01-05 14:53:03,192 - utils.ocr_engine - INFO - Processing page 5/22
+2026-01-05 14:53:03,194 - utils.ocr_engine - INFO - Processing page 6/22
+2026-01-05 14:53:03,196 - utils.ocr_engine - INFO - Processing page 7/22
+2026-01-05 14:53:03,198 - utils.ocr_engine - INFO - Processing page 8/22
+2026-01-05 14:53:03,200 - utils.ocr_engine - INFO - Processing page 9/22
+2026-01-05 14:53:03,202 - utils.ocr_engine - INFO - Processing page 10/22
+2026-01-05 14:53:03,204 - utils.ocr_engine - INFO - Processing page 11/22
+2026-01-05 14:53:03,206 - utils.ocr_engine - INFO - Processing page 12/22
+2026-01-05 14:53:03,209 - utils.ocr_engine - INFO - Processing page 13/22
+2026-01-05 14:53:03,211 - utils.ocr_engine - INFO - Processing page 14/22
+2026-01-05 14:53:03,213 - utils.ocr_engine - INFO - Processing page 15/22
+2026-01-05 14:53:03,216 - utils.ocr_engine - INFO - Processing page 16/22
+2026-01-05 14:53:03,219 - utils.ocr_engine - INFO - Processing page 17/22
+2026-01-05 14:53:03,221 - utils.ocr_engine - INFO - Processing page 18/22
+2026-01-05 14:53:03,223 - utils.ocr_engine - INFO - Processing page 19/22
+2026-01-05 14:53:03,225 - utils.ocr_engine - INFO - Processing page 20/22
+2026-01-05 14:53:03,227 - utils.ocr_engine - INFO - Processing page 21/22
+2026-01-05 14:53:03,229 - utils.ocr_engine - INFO - Processing page 22/22
+2026-01-05 14:53:03,232 - pipeline.exam_analyzer - INFO -    Extracted 42 text blocks (confidence: 67.0%)
+2026-01-05 14:53:03,232 - pipeline.exam_analyzer - INFO - Step 2/4: Parsing questions...
+2026-01-05 14:53:03,240 - utils.ocr_engine - INFO - Figure detection found 21 candidates
+2026-01-05 14:53:03,242 - utils.ocr_engine - INFO - Detected paper format: memory_based
+2026-01-05 14:53:03,246 - utils.ocr_engine - INFO - Vacuum Scraper rescued 4 additional questions
+2026-01-05 14:53:03,246 - utils.ocr_engine - INFO - Added 3 placeholder questions for gaps (Safe Mode enabled)
+2026-01-05 14:53:03,248 - utils.ocr_engine - INFO - Extracted 100 questions total
+2026-01-05 14:53:03,248 - pipeline.exam_analyzer - INFO -    Found 100 questions
+2026-01-05 14:53:03,248 - pipeline.exam_analyzer - INFO -    Zone enforcement: FLEX (full paper)
+2026-01-05 14:53:03,249 - pipeline.exam_analyzer - INFO - Step 3/4: Classifying questions...
+2026-01-05 14:53:03,267 - pipeline.exam_analyzer - WARNING -    ⚠️ Q7: name 'logger' is not defined
+2026-01-05 14:53:03,267 - pipeline.exam_analyzer - WARNING -    ⚠️ Q8: name 'logger' is not defined
+2026-01-05 14:53:03,267 - pipeline.exam_analyzer - WARNING -    ⚠️ Q9: name 'logger' is not defined
+2026-01-05 14:53:03,269 - pipeline.exam_analyzer - WARNING -    ⚠️ Q16: name 'SECTION_ZONES' is not defined
+2026-01-05 14:53:03,269 - pipeline.exam_analyzer - WARNING -    ⚠️ Q17: name 'logger' is not defined
+2026-01-05 14:53:03,269 - pipeline.exam_analyzer - WARNING -    ⚠️ Q18: name 'logger' is not defined
+2026-01-05 14:53:03,270 - pipeline.exam_analyzer - WARNING -    ⚠️ Q19: name 'SECTION_ZONES' is not defined
+2026-01-05 14:53:03,270 - pipeline.exam_analyzer - WARNING -    ⚠️ Q26: name 'logger' is not defined
+2026-01-05 14:53:03,270 - pipeline.exam_analyzer - WARNING -    ⚠️ Q27: name 'logger' is not defined
+2026-01-05 14:53:03,271 - pipeline.exam_analyzer - WARNING -    ⚠️ Q28: name 'logger' is not defined
+2026-01-05 14:53:03,271 - pipeline.exam_analyzer - WARNING -    ⚠️ Q29: name 'logger' is not defined
+2026-01-05 14:53:03,271 - pipeline.exam_analyzer - WARNING -    ⚠️ Q30: name 'logger' is not defined
+2026-01-05 14:53:03,271 - pipeline.exam_analyzer - WARNING -    ⚠️ Q31: name 'logger' is not defined
+2026-01-05 14:53:03,271 - pipeline.exam_analyzer - WARNING -    ⚠️ Q32: name 'logger' is not defined
+2026-01-05 14:53:03,271 - pipeline.exam_analyzer - WARNING -    ⚠️ Q33: name 'logger' is not defined
+2026-01-05 14:53:03,272 - pipeline.exam_analyzer - WARNING -    ⚠️ Q35: name 'logger' is not defined
+2026-01-05 14:53:03,272 - pipeline.exam_analyzer - WARNING -    ⚠️ Q36: name 'logger' is not defined
+2026-01-05 14:53:03,272 - pipeline.exam_analyzer - WARNING -    ⚠️ Q37: name 'logger' is not defined
+2026-01-05 14:53:03,272 - pipeline.exam_analyzer - WARNING -    ⚠️ Q38: name 'logger' is not defined
+2026-01-05 14:53:03,273 - pipeline.exam_analyzer - WARNING -    ⚠️ Q39: name 'logger' is not defined
+2026-01-05 14:53:03,273 - pipeline.exam_analyzer - WARNING -    ⚠️ Q40: name 'logger' is not defined
+2026-01-05 14:53:03,273 - pipeline.exam_analyzer - WARNING -    ⚠️ Q41: name 'logger' is not defined
+2026-01-05 14:53:03,273 - pipeline.exam_analyzer - WARNING -    ⚠️ Q42: name 'logger' is not defined
+2026-01-05 14:53:03,273 - pipeline.exam_analyzer - WARNING -    ⚠️ Q43: name 'logger' is not defined
+2026-01-05 14:53:03,274 - pipeline.exam_analyzer - WARNING -    ⚠️ Q44: name 'logger' is not defined
+2026-01-05 14:53:03,274 - pipeline.exam_analyzer - WARNING -    ⚠️ Q45: name 'logger' is not defined
+2026-01-05 14:53:03,274 - pipeline.exam_analyzer - WARNING -    ⚠️ Q46: name 'logger' is not defined
+2026-01-05 14:53:03,274 - pipeline.exam_analyzer - WARNING -    ⚠️ Q48: name 'logger' is not defined
+2026-01-05 14:53:03,274 - pipeline.exam_analyzer - WARNING -    ⚠️ Q49: name 'logger' is not defined
+2026-01-05 14:53:03,275 - pipeline.exam_analyzer - WARNING -    ⚠️ Q50: name 'logger' is not defined
+2026-01-05 14:53:03,275 - pipeline.exam_analyzer - WARNING -    ⚠️ Q51: name 'logger' is not defined
+2026-01-05 14:53:03,275 - pipeline.exam_analyzer - WARNING -    ⚠️ Q52: name 'logger' is not defined
+2026-01-05 14:53:03,275 - pipeline.exam_analyzer - WARNING -    ⚠️ Q54: name 'logger' is not defined
+2026-01-05 14:53:03,276 - pipeline.exam_analyzer - WARNING -    ⚠️ Q55: name 'logger' is not defined
+2026-01-05 14:53:03,276 - pipeline.exam_analyzer - WARNING -    ⚠️ Q56: name 'logger' is not defined
+2026-01-05 14:53:03,276 - pipeline.exam_analyzer - WARNING -    ⚠️ Q57: name 'logger' is not defined
+2026-01-05 14:53:03,276 - pipeline.exam_analyzer - WARNING -    ⚠️ Q58: name 'logger' is not defined
+2026-01-05 14:53:03,276 - pipeline.exam_analyzer - WARNING -    ⚠️ Q59: name 'logger' is not defined
+2026-01-05 14:53:03,277 - pipeline.exam_analyzer - WARNING -    ⚠️ Q60: name 'logger' is not defined
+2026-01-05 14:53:03,277 - pipeline.exam_analyzer - WARNING -    ⚠️ Q61: name 'logger' is not defined
+2026-01-05 14:53:03,277 - pipeline.exam_analyzer - WARNING -    ⚠️ Q62: name 'logger' is not defined
+2026-01-05 14:53:03,277 - pipeline.exam_analyzer - WARNING -    ⚠️ Q63: name 'logger' is not defined
+2026-01-05 14:53:03,277 - pipeline.exam_analyzer - WARNING -    ⚠️ Q65: name 'logger' is not defined
+2026-01-05 14:53:03,278 - pipeline.exam_analyzer - WARNING -    ⚠️ Q66: name 'logger' is not defined
+2026-01-05 14:53:03,278 - pipeline.exam_analyzer - WARNING -    ⚠️ Q73: name 'logger' is not defined
+2026-01-05 14:53:03,278 - pipeline.exam_analyzer - WARNING -    ⚠️ Q74: name 'SECTION_ZONES' is not defined
+2026-01-05 14:53:03,278 - pipeline.exam_analyzer - WARNING -    ⚠️ Q75: name 'logger' is not defined
+2026-01-05 14:53:03,278 - pipeline.exam_analyzer - WARNING -    ⚠️ Q77: name 'logger' is not defined
+2026-01-05 14:53:03,280 - pipeline.exam_analyzer - WARNING -    ⚠️ Q78: name 'logger' is not defined
+2026-01-05 14:53:03,280 - pipeline.exam_analyzer - WARNING -    ⚠️ Q79: name 'logger' is not defined
+2026-01-05 14:53:03,280 - pipeline.exam_analyzer - WARNING -    ⚠️ Q81: name 'logger' is not defined
+2026-01-05 14:53:03,281 - pipeline.exam_analyzer - WARNING -    ⚠️ Q87: name 'logger' is not defined
+2026-01-05 14:53:03,281 - pipeline.exam_analyzer - WARNING -    ⚠️ Q88: name 'logger' is not defined
+2026-01-05 14:53:03,281 - pipeline.exam_analyzer - WARNING -    ⚠️ Q89: name 'logger' is not defined
+2026-01-05 14:53:03,281 - pipeline.exam_analyzer - WARNING -    ⚠️ Q90: name 'logger' is not defined
+2026-01-05 14:53:03,282 - pipeline.exam_analyzer - WARNING -    ⚠️ Q91: name 'logger' is not defined
+2026-01-05 14:53:03,282 - pipeline.exam_analyzer - WARNING -    ⚠️ Q92: name 'logger' is not defined
+2026-01-05 14:53:03,282 - pipeline.exam_analyzer - WARNING -    ⚠️ Q93: name 'logger' is not defined
+2026-01-05 14:53:03,282 - pipeline.exam_analyzer - WARNING -    ⚠️ Q94: name 'logger' is not defined
+2026-01-05 14:53:03,282 - pipeline.exam_analyzer - WARNING -    ⚠️ Q95: name 'logger' is not defined
+2026-01-05 14:53:03,282 - pipeline.exam_analyzer - WARNING -    ⚠️ Q96: name 'logger' is not defined
+2026-01-05 14:53:03,282 - pipeline.exam_analyzer - WARNING -    ⚠️ Q97: name 'logger' is not defined
+2026-01-05 14:53:03,282 - pipeline.exam_analyzer - WARNING -    ⚠️ Q98: name 'logger' is not defined
+2026-01-05 14:53:03,283 - pipeline.exam_analyzer - WARNING -    ⚠️ Q100: name 'logger' is not defined
+2026-01-05 14:53:03,283 - pipeline.exam_analyzer - INFO -    Classified 36 questions
+2026-01-05 14:53:03,283 - pipeline.exam_analyzer - INFO - Step 4/4: Generating statistics...
+2026-01-05 14:53:03,286 - pipeline.exam_analyzer - INFO - 💾 Saved full analysis: output\extracted\afcat_2017_shift1_analysis.json
+2026-01-05 14:53:03,289 - pipeline.exam_analyzer - INFO - 💾 Saved simple format: output\extracted\afcat_2017_shift1_analysis_simple.json
+2026-01-05 14:53:03,290 - pipeline.exam_analyzer - INFO - 💾 Saved CSV summary: output\extracted\afcat_2017_shift1_analysis_topics.csv
+2026-01-05 14:57:58,341 - utils.ocr_engine - INFO - Initialized EasyOCR engine
+2026-01-05 14:57:58,346 - pipeline.exam_analyzer - INFO - Initialized AFCATExamAnalyzer with easyocr engine, quality=standard
+2026-01-05 14:57:58,346 - pipeline.exam_analyzer - INFO - 📄 Analyzing paper: AFCAT_2017_Memory.pdf
+2026-01-05 14:57:58,346 - pipeline.exam_analyzer - INFO - Step 1/4: Extracting text (OCR)...
+2026-01-05 14:57:58,411 - utils.ocr_engine - INFO - Processing page 1/22
+2026-01-05 14:57:58,420 - utils.ocr_engine - INFO - Processing page 2/22
+2026-01-05 14:58:10,720 - utils.ocr_engine - INFO - Processing page 3/22
+2026-01-05 14:58:10,726 - utils.ocr_engine - INFO - Processing page 4/22
+2026-01-05 14:58:10,728 - utils.ocr_engine - INFO - Processing page 5/22
+2026-01-05 14:58:10,730 - utils.ocr_engine - INFO - Processing page 6/22
+2026-01-05 14:58:10,731 - utils.ocr_engine - INFO - Processing page 7/22
+2026-01-05 14:58:10,733 - utils.ocr_engine - INFO - Processing page 8/22
+2026-01-05 14:58:10,735 - utils.ocr_engine - INFO - Processing page 9/22
+2026-01-05 14:58:10,737 - utils.ocr_engine - INFO - Processing page 10/22
+2026-01-05 14:58:10,739 - utils.ocr_engine - INFO - Processing page 11/22
+2026-01-05 14:58:10,742 - utils.ocr_engine - INFO - Processing page 12/22
+2026-01-05 14:58:10,744 - utils.ocr_engine - INFO - Processing page 13/22
+2026-01-05 14:58:10,746 - utils.ocr_engine - INFO - Processing page 14/22
+2026-01-05 14:58:10,748 - utils.ocr_engine - INFO - Processing page 15/22
+2026-01-05 14:58:10,751 - utils.ocr_engine - INFO - Processing page 16/22
+2026-01-05 14:58:10,753 - utils.ocr_engine - INFO - Processing page 17/22
+2026-01-05 14:58:10,756 - utils.ocr_engine - INFO - Processing page 18/22
+2026-01-05 14:58:10,759 - utils.ocr_engine - INFO - Processing page 19/22
+2026-01-05 14:58:10,762 - utils.ocr_engine - INFO - Processing page 20/22
+2026-01-05 14:58:10,764 - utils.ocr_engine - INFO - Processing page 21/22
+2026-01-05 14:58:10,767 - utils.ocr_engine - INFO - Processing page 22/22
+2026-01-05 14:58:10,770 - pipeline.exam_analyzer - INFO -    Extracted 42 text blocks (confidence: 67.0%)
+2026-01-05 14:58:10,770 - pipeline.exam_analyzer - INFO - Step 2/4: Parsing questions...
+2026-01-05 14:58:10,781 - utils.ocr_engine - INFO - Figure detection found 21 candidates
+2026-01-05 14:58:10,784 - utils.ocr_engine - INFO - Detected paper format: memory_based
+2026-01-05 14:58:10,790 - utils.ocr_engine - INFO - Vacuum Scraper rescued 4 additional questions
+2026-01-05 14:58:10,790 - utils.ocr_engine - INFO - Added 3 placeholder questions for gaps (Safe Mode enabled)
+2026-01-05 14:58:10,793 - utils.ocr_engine - INFO - Extracted 100 questions total
+2026-01-05 14:58:10,793 - pipeline.exam_analyzer - INFO -    Found 100 questions
+2026-01-05 14:58:10,794 - pipeline.exam_analyzer - INFO -    Zone enforcement: FLEX (full paper)
+2026-01-05 14:58:10,794 - pipeline.exam_analyzer - INFO - Step 3/4: Classifying questions...
+2026-01-05 14:58:10,826 - pipeline.exam_analyzer - INFO -    Classified 100 questions
+2026-01-05 14:58:10,826 - pipeline.exam_analyzer - INFO - Step 4/4: Generating statistics...
+2026-01-05 14:58:10,832 - pipeline.exam_analyzer - INFO - 💾 Saved full analysis: output\extracted\afcat_2017_shift1_analysis.json
+2026-01-05 14:58:10,834 - pipeline.exam_analyzer - INFO - 💾 Saved simple format: output\extracted\afcat_2017_shift1_analysis_simple.json
+2026-01-05 14:58:10,835 - pipeline.exam_analyzer - INFO - 💾 Saved CSV summary: output\extracted\afcat_2017_shift1_analysis_topics.csv
+2026-01-05 15:08:05,282 - utils.ocr_engine - INFO - Initialized EasyOCR engine
+2026-01-05 15:08:05,288 - pipeline.exam_analyzer - INFO - Initialized AFCATExamAnalyzer with easyocr engine, quality=standard
+2026-01-05 15:08:05,288 - pipeline.exam_analyzer - INFO - 📄 Analyzing paper: AFCAT_2017_Memory.pdf
+2026-01-05 15:08:05,288 - pipeline.exam_analyzer - INFO - Step 1/4: Extracting text (OCR)...
+2026-01-05 15:08:05,504 - utils.ocr_engine - INFO - Processing page 1/22
+2026-01-05 15:08:05,528 - utils.ocr_engine - INFO - Processing page 2/22
+2026-01-05 15:08:19,577 - utils.ocr_engine - INFO - Processing page 3/22
+2026-01-05 15:08:19,583 - utils.ocr_engine - INFO - Processing page 4/22
+2026-01-05 15:08:19,587 - utils.ocr_engine - INFO - Processing page 5/22
+2026-01-05 15:08:19,591 - utils.ocr_engine - INFO - Processing page 6/22
+2026-01-05 15:08:19,593 - utils.ocr_engine - INFO - Processing page 7/22
+2026-01-05 15:08:19,595 - utils.ocr_engine - INFO - Processing page 8/22
+2026-01-05 15:08:19,597 - utils.ocr_engine - INFO - Processing page 9/22
+2026-01-05 15:08:19,599 - utils.ocr_engine - INFO - Processing page 10/22
+2026-01-05 15:08:19,603 - utils.ocr_engine - INFO - Processing page 11/22
+2026-01-05 15:08:19,606 - utils.ocr_engine - INFO - Processing page 12/22
+2026-01-05 15:08:19,608 - utils.ocr_engine - INFO - Processing page 13/22
+2026-01-05 15:08:19,610 - utils.ocr_engine - INFO - Processing page 14/22
+2026-01-05 15:08:19,612 - utils.ocr_engine - INFO - Processing page 15/22
+2026-01-05 15:08:19,617 - utils.ocr_engine - INFO - Processing page 16/22
+2026-01-05 15:08:19,622 - utils.ocr_engine - INFO - Processing page 17/22
+2026-01-05 15:08:19,628 - utils.ocr_engine - INFO - Processing page 18/22
+2026-01-05 15:08:19,631 - utils.ocr_engine - INFO - Processing page 19/22
+2026-01-05 15:08:19,634 - utils.ocr_engine - INFO - Processing page 20/22
+2026-01-05 15:08:19,637 - utils.ocr_engine - INFO - Processing page 21/22
+2026-01-05 15:08:19,640 - utils.ocr_engine - INFO - Processing page 22/22
+2026-01-05 15:08:19,645 - pipeline.exam_analyzer - INFO -    Extracted 42 text blocks (confidence: 67.0%)
+2026-01-05 15:08:19,645 - pipeline.exam_analyzer - INFO - Step 2/4: Parsing questions...
+2026-01-05 15:08:19,658 - utils.ocr_engine - INFO - Figure detection found 21 candidates
+2026-01-05 15:08:19,661 - utils.ocr_engine - INFO - Detected paper format: memory_based
+2026-01-05 15:08:19,669 - utils.ocr_engine - INFO - Vacuum Scraper rescued 4 additional questions
+2026-01-05 15:08:19,669 - utils.ocr_engine - INFO - Added 3 placeholder questions for gaps (Safe Mode enabled)
+2026-01-05 15:08:19,671 - utils.ocr_engine - INFO - Extracted 100 questions total
+2026-01-05 15:08:19,671 - pipeline.exam_analyzer - INFO -    Found 100 questions
+2026-01-05 15:08:19,672 - pipeline.exam_analyzer - INFO -    Zone enforcement: FLEX (full paper)
+2026-01-05 15:08:19,672 - pipeline.exam_analyzer - INFO - Step 3/4: Classifying questions...
+2026-01-05 15:08:20,650 - models.question_classifier - WARNING - Grok API error: 400 Client Error: Bad Request for url: https://api.x.ai/v1/chat/completions
+2026-01-05 15:08:21,389 - models.question_classifier - WARNING - Grok API error: 400 Client Error: Bad Request for url: https://api.x.ai/v1/chat/completions
+2026-01-05 15:08:22,400 - models.question_classifier - WARNING - Grok API error: 400 Client Error: Bad Request for url: https://api.x.ai/v1/chat/completions
+2026-01-05 15:08:23,608 - models.question_classifier - WARNING - Grok API error: 400 Client Error: Bad Request for url: https://api.x.ai/v1/chat/completions
+2026-01-05 15:08:24,561 - models.question_classifier - WARNING - Grok API error: 400 Client Error: Bad Request for url: https://api.x.ai/v1/chat/completions
+2026-01-05 15:08:25,428 - models.question_classifier - WARNING - Grok API error: 400 Client Error: Bad Request for url: https://api.x.ai/v1/chat/completions
+2026-01-05 15:08:26,803 - models.question_classifier - WARNING - Grok API error: 400 Client Error: Bad Request for url: https://api.x.ai/v1/chat/completions
+2026-01-05 15:08:27,520 - models.question_classifier - WARNING - Grok API error: 400 Client Error: Bad Request for url: https://api.x.ai/v1/chat/completions
+2026-01-05 15:08:28,613 - models.question_classifier - WARNING - Grok API error: 400 Client Error: Bad Request for url: https://api.x.ai/v1/chat/completions
+2026-01-05 15:08:30,000 - models.question_classifier - WARNING - Grok API error: 400 Client Error: Bad Request for url: https://api.x.ai/v1/chat/completions
+2026-01-05 15:08:30,756 - models.question_classifier - WARNING - Grok API error: 400 Client Error: Bad Request for url: https://api.x.ai/v1/chat/completions
+2026-01-05 15:08:31,872 - models.question_classifier - WARNING - Grok API error: 400 Client Error: Bad Request for url: https://api.x.ai/v1/chat/completions
+2026-01-05 15:08:32,892 - models.question_classifier - WARNING - Grok API error: 400 Client Error: Bad Request for url: https://api.x.ai/v1/chat/completions
+2026-01-05 15:08:33,850 - models.question_classifier - WARNING - Grok API error: 400 Client Error: Bad Request for url: https://api.x.ai/v1/chat/completions
+2026-01-05 15:08:34,796 - models.question_classifier - WARNING - Grok API error: 400 Client Error: Bad Request for url: https://api.x.ai/v1/chat/completions
+2026-01-05 15:08:35,771 - models.question_classifier - WARNING - Grok API error: 400 Client Error: Bad Request for url: https://api.x.ai/v1/chat/completions
+2026-01-05 15:08:36,711 - models.question_classifier - WARNING - Grok API error: 400 Client Error: Bad Request for url: https://api.x.ai/v1/chat/completions
+2026-01-05 15:08:36,719 - pipeline.exam_analyzer - INFO -    Classified 100 questions
+2026-01-05 15:08:36,719 - pipeline.exam_analyzer - INFO - Step 4/4: Generating statistics...
+2026-01-05 15:08:36,728 - pipeline.exam_analyzer - INFO - 💾 Saved full analysis: output\extracted\afcat_2017_shift1_analysis.json
+2026-01-05 15:08:36,729 - pipeline.exam_analyzer - INFO - 💾 Saved simple format: output\extracted\afcat_2017_shift1_analysis_simple.json
+2026-01-05 15:08:36,730 - pipeline.exam_analyzer - INFO - 💾 Saved CSV summary: output\extracted\afcat_2017_shift1_analysis_topics.csv
+2026-01-05 15:17:57,571 - utils.ocr_engine - INFO - Initialized EasyOCR engine
+2026-01-05 15:17:57,578 - pipeline.exam_analyzer - INFO - Initialized AFCATExamAnalyzer with easyocr engine, quality=standard
+2026-01-05 15:17:57,578 - pipeline.exam_analyzer - INFO - 📄 Analyzing paper: AFCAT_2017_Memory.pdf
+2026-01-05 15:17:57,578 - pipeline.exam_analyzer - INFO - Step 1/4: Extracting text (OCR)...
+2026-01-05 15:17:57,656 - utils.ocr_engine - INFO - Processing page 1/22
+2026-01-05 15:17:57,668 - utils.ocr_engine - INFO - Processing page 2/22
+2026-01-05 15:18:10,902 - utils.ocr_engine - INFO - Processing page 3/22
+2026-01-05 15:18:10,906 - utils.ocr_engine - INFO - Processing page 4/22
+2026-01-05 15:18:10,910 - utils.ocr_engine - INFO - Processing page 5/22
+2026-01-05 15:18:10,912 - utils.ocr_engine - INFO - Processing page 6/22
+2026-01-05 15:18:10,914 - utils.ocr_engine - INFO - Processing page 7/22
+2026-01-05 15:18:10,916 - utils.ocr_engine - INFO - Processing page 8/22
+2026-01-05 15:18:10,918 - utils.ocr_engine - INFO - Processing page 9/22
+2026-01-05 15:18:10,921 - utils.ocr_engine - INFO - Processing page 10/22
+2026-01-05 15:18:10,923 - utils.ocr_engine - INFO - Processing page 11/22
+2026-01-05 15:18:10,925 - utils.ocr_engine - INFO - Processing page 12/22
+2026-01-05 15:18:10,928 - utils.ocr_engine - INFO - Processing page 13/22
+2026-01-05 15:18:10,930 - utils.ocr_engine - INFO - Processing page 14/22
+2026-01-05 15:18:10,932 - utils.ocr_engine - INFO - Processing page 15/22
+2026-01-05 15:18:10,934 - utils.ocr_engine - INFO - Processing page 16/22
+2026-01-05 15:18:10,936 - utils.ocr_engine - INFO - Processing page 17/22
+2026-01-05 15:18:10,938 - utils.ocr_engine - INFO - Processing page 18/22
+2026-01-05 15:18:10,940 - utils.ocr_engine - INFO - Processing page 19/22
+2026-01-05 15:18:10,942 - utils.ocr_engine - INFO - Processing page 20/22
+2026-01-05 15:18:10,944 - utils.ocr_engine - INFO - Processing page 21/22
+2026-01-05 15:18:10,946 - utils.ocr_engine - INFO - Processing page 22/22
+2026-01-05 15:18:10,949 - pipeline.exam_analyzer - INFO -    Extracted 42 text blocks (confidence: 67.0%)
+2026-01-05 15:18:10,949 - pipeline.exam_analyzer - INFO - Step 2/4: Parsing questions...
+2026-01-05 15:18:10,960 - utils.ocr_engine - INFO - Figure detection found 21 candidates
+2026-01-05 15:18:10,962 - utils.ocr_engine - INFO - Detected paper format: memory_based
+2026-01-05 15:18:10,968 - utils.ocr_engine - INFO - Vacuum Scraper rescued 4 additional questions
+2026-01-05 15:18:10,968 - utils.ocr_engine - INFO - Added 3 placeholder questions for gaps (Safe Mode enabled)
+2026-01-05 15:18:10,970 - utils.ocr_engine - INFO - Extracted 100 questions total
+2026-01-05 15:18:10,970 - pipeline.exam_analyzer - INFO -    Found 100 questions
+2026-01-05 15:18:10,970 - pipeline.exam_analyzer - INFO -    Zone enforcement: FLEX (full paper)
+2026-01-05 15:18:10,971 - pipeline.exam_analyzer - INFO - Step 3/4: Classifying questions...
+2026-01-05 15:18:43,657 - pipeline.exam_analyzer - INFO -    Classified 100 questions
+2026-01-05 15:18:43,658 - pipeline.exam_analyzer - INFO - Step 4/4: Generating statistics...
+2026-01-05 15:18:43,664 - pipeline.exam_analyzer - INFO - 💾 Saved full analysis: output\extracted\afcat_2017_shift1_analysis.json
+2026-01-05 15:18:43,666 - pipeline.exam_analyzer - INFO - 💾 Saved simple format: output\extracted\afcat_2017_shift1_analysis_simple.json
+2026-01-05 15:18:43,667 - pipeline.exam_analyzer - INFO - 💾 Saved CSV summary: output\extracted\afcat_2017_shift1_analysis_topics.csv
+2026-01-05 15:25:51,669 - utils.ocr_engine - INFO - Initialized EasyOCR engine
+2026-01-05 15:25:51,675 - pipeline.exam_analyzer - INFO - Initialized AFCATExamAnalyzer with easyocr engine, quality=standard
+2026-01-05 15:25:51,676 - pipeline.exam_analyzer - INFO - 📄 Analyzing paper: AFCAT_2017_Memory.pdf
+2026-01-05 15:25:51,676 - pipeline.exam_analyzer - INFO - Step 1/4: Extracting text (OCR)...
+2026-01-05 15:25:51,749 - utils.ocr_engine - INFO - Processing page 1/22
+2026-01-05 15:25:51,758 - utils.ocr_engine - INFO - Processing page 2/22
+2026-01-05 15:26:06,718 - utils.ocr_engine - INFO - Processing page 3/22
+2026-01-05 15:26:06,729 - utils.ocr_engine - INFO - Processing page 4/22
+2026-01-05 15:26:06,733 - utils.ocr_engine - INFO - Processing page 5/22
+2026-01-05 15:26:06,735 - utils.ocr_engine - INFO - Processing page 6/22
+2026-01-05 15:26:06,737 - utils.ocr_engine - INFO - Processing page 7/22
+2026-01-05 15:26:06,739 - utils.ocr_engine - INFO - Processing page 8/22
+2026-01-05 15:26:06,742 - utils.ocr_engine - INFO - Processing page 9/22
+2026-01-05 15:26:06,744 - utils.ocr_engine - INFO - Processing page 10/22
+2026-01-05 15:26:06,747 - utils.ocr_engine - INFO - Processing page 11/22
+2026-01-05 15:26:06,749 - utils.ocr_engine - INFO - Processing page 12/22
+2026-01-05 15:26:06,751 - utils.ocr_engine - INFO - Processing page 13/22
+2026-01-05 15:26:06,754 - utils.ocr_engine - INFO - Processing page 14/22
+2026-01-05 15:26:06,756 - utils.ocr_engine - INFO - Processing page 15/22
+2026-01-05 15:26:06,759 - utils.ocr_engine - INFO - Processing page 16/22
+2026-01-05 15:26:06,762 - utils.ocr_engine - INFO - Processing page 17/22
+2026-01-05 15:26:06,767 - utils.ocr_engine - INFO - Processing page 18/22
+2026-01-05 15:26:06,769 - utils.ocr_engine - INFO - Processing page 19/22
+2026-01-05 15:26:06,772 - utils.ocr_engine - INFO - Processing page 20/22
+2026-01-05 15:26:06,775 - utils.ocr_engine - INFO - Processing page 21/22
+2026-01-05 15:26:06,777 - utils.ocr_engine - INFO - Processing page 22/22
+2026-01-05 15:26:06,782 - pipeline.exam_analyzer - INFO -    Extracted 42 text blocks (confidence: 67.0%)
+2026-01-05 15:26:06,782 - pipeline.exam_analyzer - INFO - Step 2/4: Parsing questions...
+2026-01-05 15:26:06,790 - utils.ocr_engine - INFO - Figure detection found 21 candidates
+2026-01-05 15:26:06,792 - utils.ocr_engine - INFO - Detected paper format: memory_based
+2026-01-05 15:26:06,797 - utils.ocr_engine - INFO - Vacuum Scraper rescued 4 additional questions
+2026-01-05 15:26:06,797 - utils.ocr_engine - INFO - Added 3 placeholder questions for gaps (Safe Mode enabled)
+2026-01-05 15:26:06,798 - utils.ocr_engine - INFO - Extracted 100 questions total
+2026-01-05 15:26:06,798 - pipeline.exam_analyzer - INFO -    Found 100 questions
+2026-01-05 15:26:06,798 - pipeline.exam_analyzer - INFO -    Zone enforcement: FLEX (full paper)
+2026-01-05 15:26:06,799 - pipeline.exam_analyzer - INFO - Step 3/4: Classifying questions...
+2026-01-05 15:26:39,473 - pipeline.exam_analyzer - INFO -    Classified 100 questions
+2026-01-05 15:26:39,473 - pipeline.exam_analyzer - INFO - Step 4/4: Generating statistics...
+2026-01-05 15:26:39,480 - pipeline.exam_analyzer - INFO - 💾 Saved full analysis: output\extracted\afcat_2017_shift1_analysis.json
+2026-01-05 15:26:39,482 - pipeline.exam_analyzer - INFO - 💾 Saved simple format: output\extracted\afcat_2017_shift1_analysis_simple.json
+2026-01-05 15:26:39,483 - pipeline.exam_analyzer - INFO - 💾 Saved CSV summary: output\extracted\afcat_2017_shift1_analysis_topics.csv

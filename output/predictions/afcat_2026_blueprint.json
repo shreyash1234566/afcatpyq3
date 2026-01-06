@@ -1,0 +1,51 @@
+{
+  "name": "AFCAT 2026 Predicted Blueprint",
+  "based_on_year": 2026,
+  "total_questions": 100,
+  "sections": {
+    "verbal_ability": {
+      "cloze_test": 6,
+      "synonyms": 5,
+      "reading_comprehension": 4,
+      "idioms_phrases": 4,
+      "antonyms": 3,
+      "error_spotting": 3,
+      "sentence_completion": 3,
+      "one_word_substitution": 2,
+      "para_jumbles": 2
+    },
+    "general_awareness": {
+      "current_affairs": 6,
+      "defense": 4,
+      "history": 3,
+      "sports": 3,
+      "geography": 3,
+      "science": 3,
+      "polity": 2,
+      "static_gk": 2
+    },
+    "reasoning": {
+      "spatial_ability": 6,
+      "analogy": 5,
+      "series": 3,
+      "venn_diagrams": 3,
+      "blood_relations": 2,
+      "dot_situation": 2,
+      "odd_one_out": 2,
+      "coding_decoding": 2,
+      "direction_sense": 1
+    },
+    "numerical_ability": {
+      "speed_time_distance": 4,
+      "time_and_work": 3,
+      "profit_loss": 2,
+      "percentage": 2,
+      "decimal_fractions": 2,
+      "average": 2,
+      "ratio_proportion": 2,
+      "simple_compound_interest": 1,
+      "probability": 1,
+      "clocks": 1
+    }
+  }
+}

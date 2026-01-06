@@ -1,0 +1,671 @@
+{
+  "year": 2016,
+  "shift": null,
+  "total_questions": 90,
+  "topic_data": [
+    {
+      "year": 2016,
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "count": 32,
+      "difficulties": {
+        "easy": 12,
+        "medium": 19,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+          "difficulty": "medium"
+        },
+        {
+          "text": "To the manner born",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Be like a bear with a sore head",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Lose one's marbles",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Bolt from the blue",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "verbal_ability",
+      "topic": "Inferred Verbal Ability",
+      "count": 3,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED VERBAL Q7] (a) Be in a foul mood \n(b) Have headache \n(c) Powerful and arrogant \n(d) Restless \n \nDIRECTIONS (Qs. 6 to 9) Choose the word which is nearly opposite in meaning to the given word: ...",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[VERBAL - likely passage/cloze question]",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[RESCUED VERBAL Q29] (a) Silver Iodide \n(b) Potassium Nitrate \n(c) Copper Sulphate \n(d) Silver Nitrate \n \n\n--- PAGE 7 --Q.29. Which of the following parts of India receives rainfall from retreating mo...",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The book, 'On My Terms: From the Grassroots to the Corridors of Power,' is the autobiography of",
+          "difficulty": "easy"
+        },
+        {
+          "text": "21st Conference of Parties (COP21) on Climate Change was held in Nov-Dec 2015 at",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "verbal_ability",
+      "topic": "technology",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Artificial rain is produced by seeding clouds with",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "verbal_ability",
+      "topic": "awards",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who was honoured with the Order of Australia, the highest civilian award in January this year?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "awards",
+      "count": 3,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who among the following was awarded India's highest peacetime gallantry award, Ashoka Chakra posthumously on 26 January 2016?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Highest Civilian Award, Bharat Ratna was conferred in 2015 to",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which cricketer has been conferred with Col C K Naidu life time achievement award in 2015?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "technology",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which one of the following best explains the occurrence of the solar eclipse?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Besides the Qutab Mosque and Qutab Minar, Qutab-ud-din Aibak is said to have built",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "analogy",
+      "count": 6,
+      "difficulties": {
+        "easy": 6,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The indigenously developed Navigational Satellite system is known as",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Bajirao was appointed as Peshwa at the age of 20 yrs under the reign of",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Indian Ruler who defeated British in their early stage of rule in India was.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "ranking_ordering",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who among the following will head the Judicial Committee on 'One Rank One Pension (OROP)' scheme?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "calendar",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The mascot of the South Asian Games conducted in February 2016 was",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Resolution of Purna Swaraj was passed on 26 January 1930 at",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "sports",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who among the following shooters clinched the 50 m pistol gold at the ISSF World Cup in Bangkok in",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "geography_world",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which country will host Commonwealth Games in 2018?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The largest Oil Field of Gujarat is in",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "inferred_general_awareness",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Heavy water is called heavy because",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "geography_india",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following soils is most conducive for the growth of cotton?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "Inferred General Awareness",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED GA Q48] (a) Haripur \n(b) Lahore \n(c) Karachi \n(d) Calcutta \n\n--- PAGE 10 --Q.48. Deepika Padukone has received Filmfare award 2016 for the Best Actress in the movie \n(a) Bajirao Mastani \n(b) ...",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[RESCUED GA Q54] (a) Rs. 195 \n(b) Rs. 200 \n(c) Rs.225 \n(d) Rs. 245 \n\n--- PAGE 11 --Q.54. 20 litres of a mixture contains milk and water in the ratio 5 : 3. If 4 litres of this mixture is replaced by 4...",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "polity",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Fundamental Rights are enshrined in the Constitution of India in",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "algebra",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A worker may claim Rs. 1.5 for each km which he travels by taxi and 50 paise for each km he drives his own car. If in one week he claimed Rs. 50 for travelling 80 km, how many kms did he travel by tax...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "numerical_ability",
+      "topic": "ratio_proportion",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "An amount of Rs. 735 was divided between A, B and C. If each of them had received Rs. 25 less, their shares would have been in the ratio of 1 : 3 : 2. The money received by C was",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "numerical_ability",
+      "topic": "trains_boats",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A man rows upstream a distance of 9 km or downstream a distance of 18 km taking 3 hours each time. The speed of the boat in still water is",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "reasoning",
+      "topic": "time_and_work",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A can do a piece of work in 10 days. He works at it for 4 days and then B finishes it in 9 days, in how many days can A and B together finish the work?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "If 3 men or 4 women can plough a field in 43 days, in how many days 7 men and 5 women can plough the same field?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "reasoning",
+      "topic": "technology",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A crate of mangoes contains one bruised mango for every 30 mangoes in the crate. If 3 out of every 4 bruised mangoes are considered unsalable, and there are 12 unsalable mangoes in the crate, how many...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "reasoning",
+      "topic": "trains_boats",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A man can row 30 km upstream and 44 km downstream in 10 hours. He can also row 40 km upstream and 55 km downstream in 13 hours. Find the rate of current,",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "reasoning",
+      "topic": "analogy",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The mean of 50 observations was 36. It was found later that an observation 48 was wrongly taken as",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "reasoning",
+      "topic": "averages",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The average score of a cricketer for ten matches is 38.9 runs. If the average for the first six matches is 42, the average for the last four matches is",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "reasoning",
+      "topic": "simple_compound_interest",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "On a certain sum, the simple interest at the end of 6",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "reasoning",
+      "topic": "profit_loss",
+      "count": 3,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 2
+      },
+      "sample_questions": [
+        {
+          "text": "A horse is sold at a profit of 25 %. If both the cost price and selling price are Rs. 200 less, the profit will be 5 % more. The cost price is",
+          "difficulty": "hard"
+        },
+        {
+          "text": "By selling a chair for ` 368. a man lost 8 %. For how much should he have sold it to gain 15 %?",
+          "difficulty": "hard"
+        },
+        {
+          "text": "A man sold two watches for Rs. 3750 each; on one he gained 5 % and on the other he lost 5 %. What was his total gain or loss as a percentage?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "reasoning",
+      "topic": "seating_arrangement",
+      "count": 4,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "Two trains travel in opposite directions at 36 km/h and 45 km/h respectively. A man sitting in slower train passes the faster train in 8 seconds. The length of the faster train is",
+          "difficulty": "hard"
+        },
+        {
+          "text": "Which of the following diagrams indicates the best relation between Sun, Planets and Earth?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the following diagrams indicates the best relation between Graduate, Teacher and Player?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "reasoning",
+      "topic": "speed_time_distance",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "A train 110 metres long is running with a speed of 60 km/h. In what time will it pass a man who is running at 6 km/h in the direction opposite to that of train?",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "count": 3,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "[MATH - topic cannot be inferred from neighbors]",
+          "difficulty": "easy"
+        },
+        {
+          "text": "[MATH - topic cannot be inferred from neighbors]",
+          "difficulty": "easy"
+        },
+        {
+          "text": "[MATH - topic cannot be inferred from neighbors]",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "numerical_ability",
+      "topic": "inferred_numerical_ability",
+      "count": 4,
+      "difficulties": {
+        "easy": 3,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "--- PAGE 20 --Q.89.",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Eccrinology : Secretions :: Selenography : ?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Virology : Virus :: Semantics : ?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "numerical_ability",
+      "topic": "embedded_figures",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "DIRECTIONS (Qs. 91 to 95) Each of the following questions consists of five figures marked 1, 2, 3, 4 and 5 called the Problem Figures followed by four other figures marked",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "numerical_ability",
+      "topic": "economy",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Tectonics: Building :: Taxidermy : ?",
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "reasoning": 47,
+    "verbal_ability": 9,
+    "general_awareness": 23,
+    "numerical_ability": 11
+  },
+  "difficulty_distribution": {
+    "easy": 47,
+    "medium": 36,
+    "hard": 7
+  }
+}

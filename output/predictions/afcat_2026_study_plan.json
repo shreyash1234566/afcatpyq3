@@ -1,0 +1,237 @@
+{
+  "total_hours": 200,
+  "section_allocation": {
+    "numerical_ability": 60.0,
+    "verbal_ability": 50.0,
+    "reasoning": 50.0,
+    "general_awareness": 40.0
+  },
+  "high_yield_clusters": [
+    "current_affairs",
+    "defense",
+    "cloze_test",
+    "spatial_ability",
+    "synonyms",
+    "history",
+    "geography",
+    "sports",
+    "analogy",
+    "reading_comprehension"
+  ],
+  "top_priority_topics": [
+    {
+      "topic": "current_affairs",
+      "section": "general_awareness",
+      "predicted_questions": 7.4,
+      "confidence": 0.9,
+      "trend": "stable",
+      "roi_score": 9.33,
+      "difficulty": "low",
+      "recommended_hours": 17.7
+    },
+    {
+      "topic": "defense",
+      "section": "general_awareness",
+      "predicted_questions": 4.4,
+      "confidence": 0.9,
+      "trend": "stable",
+      "roi_score": 6.53,
+      "difficulty": "low",
+      "recommended_hours": 12.4
+    },
+    {
+      "topic": "cloze_test",
+      "section": "verbal_ability",
+      "predicted_questions": 5.7,
+      "confidence": 0.9,
+      "trend": "stable",
+      "roi_score": 5.5,
+      "difficulty": "medium",
+      "recommended_hours": 10.5
+    },
+    {
+      "topic": "spatial_ability",
+      "section": "reasoning",
+      "predicted_questions": 5.7,
+      "confidence": 0.9,
+      "trend": "stable",
+      "roi_score": 5.5,
+      "difficulty": "medium",
+      "recommended_hours": 10.5
+    },
+    {
+      "topic": "synonyms",
+      "section": "verbal_ability",
+      "predicted_questions": 5.2,
+      "confidence": 0.9,
+      "trend": "stable",
+      "roi_score": 4.83,
+      "difficulty": "medium",
+      "recommended_hours": 9.2
+    },
+    {
+      "topic": "history",
+      "section": "general_awareness",
+      "predicted_questions": 2.7,
+      "confidence": 0.9,
+      "trend": "stable",
+      "roi_score": 4.67,
+      "difficulty": "low",
+      "recommended_hours": 8.9
+    },
+    {
+      "topic": "geography",
+      "section": "general_awareness",
+      "predicted_questions": 3.8,
+      "confidence": 0.9,
+      "trend": "stable",
+      "roi_score": 4.67,
+      "difficulty": "low",
+      "recommended_hours": 8.9
+    },
+    {
+      "topic": "sports",
+      "section": "general_awareness",
+      "predicted_questions": 3.6,
+      "confidence": 0.9,
+      "trend": "stable",
+      "roi_score": 4.67,
+      "difficulty": "low",
+      "recommended_hours": 8.9
+    },
+    {
+      "topic": "analogy",
+      "section": "reasoning",
+      "predicted_questions": 4.8,
+      "confidence": 0.9,
+      "trend": "stable",
+      "roi_score": 4.33,
+      "difficulty": "medium",
+      "recommended_hours": 8.2
+    },
+    {
+      "topic": "reading_comprehension",
+      "section": "verbal_ability",
+      "predicted_questions": 3.5,
+      "confidence": 0.9,
+      "trend": "stable",
+      "roi_score": 3.67,
+      "difficulty": "medium",
+      "recommended_hours": 7.0
+    },
+    {
+      "topic": "antonyms",
+      "section": "verbal_ability",
+      "predicted_questions": 4.4,
+      "confidence": 0.9,
+      "trend": "stable",
+      "roi_score": 3.67,
+      "difficulty": "medium",
+      "recommended_hours": 7.0
+    },
+    {
+      "topic": "error_spotting",
+      "section": "verbal_ability",
+      "predicted_questions": 3.8,
+      "confidence": 0.9,
+      "trend": "stable",
+      "roi_score": 3.33,
+      "difficulty": "medium",
+      "recommended_hours": 6.3
+    },
+    {
+      "topic": "idioms_phrases",
+      "section": "verbal_ability",
+      "predicted_questions": 2.7,
+      "confidence": 0.9,
+      "trend": "stable",
+      "roi_score": 3.33,
+      "difficulty": "medium",
+      "recommended_hours": 6.3
+    },
+    {
+      "topic": "science",
+      "section": "general_awareness",
+      "predicted_questions": 2.6,
+      "confidence": 0.9,
+      "trend": "stable",
+      "roi_score": 3.27,
+      "difficulty": "low",
+      "recommended_hours": 6.2
+    },
+    {
+      "topic": "series",
+      "section": "reasoning",
+      "predicted_questions": 3.0,
+      "confidence": 0.9,
+      "trend": "stable",
+      "roi_score": 3.0,
+      "difficulty": "medium",
+      "recommended_hours": 5.7
+    }
+  ],
+  "daily_schedule": {
+    "weekday": [
+      {
+        "time": "6:00-7:30",
+        "activity": "Numerical Ability Practice"
+      },
+      {
+        "time": "18:00-19:00",
+        "activity": "General Awareness Revision"
+      },
+      {
+        "time": "21:00-22:00",
+        "activity": "Mock Test / Analysis"
+      }
+    ],
+    "weekend": [
+      {
+        "time": "6:00-8:00",
+        "activity": "Full Mock Test"
+      },
+      {
+        "time": "10:00-12:00",
+        "activity": "Weak Area Focus"
+      },
+      {
+        "time": "16:00-18:00",
+        "activity": "Current Affairs Deep Dive"
+      }
+    ]
+  },
+  "weekly_goals": [
+    "Complete 3 full-length mock tests",
+    "Master 2 new math topics",
+    "Learn 50 new vocabulary words (OLQ focus)",
+    "Cover all current affairs from last 2 weeks",
+    "Practice 100 reasoning questions"
+  ],
+  "revision_schedule": {
+    "week_1": [
+      "Speed/Distance",
+      "Time/Work",
+      "Defense GK"
+    ],
+    "week_2": [
+      "Profit/Loss",
+      "Percentage",
+      "Sports GK"
+    ],
+    "week_3": [
+      "Cloze Test",
+      "Vocabulary",
+      "History"
+    ],
+    "week_4": [
+      "Spatial Reasoning",
+      "Venn Diagrams",
+      "Geography"
+    ],
+    "final_week": [
+      "All Mock Tests",
+      "Weak Areas",
+      "Current Affairs"
+    ]
+  }
+}

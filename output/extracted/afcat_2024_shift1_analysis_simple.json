@@ -1,0 +1,40 @@
+{
+  "year": 2024,
+  "shift": 1,
+  "total_questions": 30,
+  "topic_data": [
+    {
+      "year": 2024,
+      "section": "verbal_ability",
+      "topic": "Inferred Verbal Ability",
+      "count": 30,
+      "difficulties": {
+        "easy": 22,
+        "medium": 8,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Developing nations only focus on curbing the supply of weapons.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "They advocate for arms reduction treaties that address the root causes of conflict.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Developing nations oppose international support for strengthening national arms control systems.",
+          "difficulty": "medium"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "verbal_ability": 30
+  },
+  "difficulty_distribution": {
+    "easy": 22,
+    "medium": 8,
+    "hard": 0
+  }
+}

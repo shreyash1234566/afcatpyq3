@@ -1,0 +1,754 @@
+{
+  "source_file": "data\\papers\\AFCAT_2022_Feb14_Shift1_Memory.pdf",
+  "year": 2022,
+  "shift": null,
+  "extraction_date": "2026-01-02T22:21:57.685112",
+  "total_questions": 25,
+  "questions": [
+    {
+      "question_number": 1,
+      "text": "Harmanpreet Kaur",
+      "options": [],
+      "section": "unknown",
+      "topic": "unknown",
+      "topic_label": "Unknown",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 0.5,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 2,
+      "text": "Dipa Karmakar",
+      "options": [],
+      "section": "unknown",
+      "topic": "unknown",
+      "topic_label": "Unknown",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 0.5,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 3,
+      "text": "Deepika Kumari",
+      "options": [],
+      "section": "unknown",
+      "topic": "unknown",
+      "topic_label": "Unknown",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 0.8,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 4,
+      "text": "Sakshi Malik",
+      "options": [
+        "1-A, 2-B, 3-C, 4-D",
+        "France",
+        "Operation Samudra Setu",
+        "1-C, 2-D, 3-A, 4-B",
+        "Japan",
+        "Operation Saksham",
+        "1-C, 2-A, 3-D, 4-B",
+        "Italy",
+        "Operation Maitri",
+        "1-A, 2-B, 3-D, 4-C",
+        "Germany",
+        "Operation Sankalp"
+      ],
+      "section": "unknown",
+      "topic": "unknown",
+      "topic_label": "Unknown",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 5,
+      "text": "Who among the following won ICC Women’s",
+      "options": [
+        "Mithali Raj",
+        "Smriti Mandhana",
+        "Alyssa Healy",
+        "Ellyse perry"
+      ],
+      "section": "numerical_ability",
+      "topic": "time_and_work",
+      "topic_label": "Time & Work",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.25,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 6,
+      "text": "Which of the following gives black colour to human hair?",
+      "options": [
+        "Melatonin",
+        "Keratin",
+        "Melanin",
+        "Adrenaline"
+      ],
+      "section": "general_awareness",
+      "topic": "technology",
+      "topic_label": "Technology",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.15384615384615385,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 7,
+      "text": "The rate at which the Reserve Bank of India lends money to commercial banks is called",
+      "options": [
+        "Banker’s Rate",
+        "Reverse Repo Rate",
+        "Repo Rate",
+        "Prime lending Rate"
+      ],
+      "section": "general_awareness",
+      "topic": "economy",
+      "topic_label": "Economy & Finance",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.3157894736842105,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 8,
+      "text": "The Mid-Day Meal scheme comes under the purview of which ministry?",
+      "options": [
+        "Ministry of Women and Child Development",
+        "Ministry of Health and Family Welfare",
+        "Ministry of Social Justice and Empowerment",
+        "Ministry of Education"
+      ],
+      "section": "reasoning",
+      "topic": "calendar",
+      "topic_label": "Calendar",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.25,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 9,
+      "text": "Consider the following words:",
+      "options": [
+        "C, D, A, B",
+        "C, D, B, A",
+        "C, A, D, B",
+        "D, A, C, B"
+      ],
+      "section": "verbal_ability",
+      "topic": "vocabulary",
+      "topic_label": "Vocabulary",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.4,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 0.8,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 10,
+      "text": "Which company has developed the new income tax e-filing portal?",
+      "options": [
+        "Infosys",
+        "Tech Mahindra",
+        "TCS",
+        "Wipro"
+      ],
+      "section": "reasoning",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 11,
+      "text": "Name the famous warrior begum from the principality of Awadh, who fought the British as part of the 1857 mutiny?",
+      "options": [
+        "Begum Raziya Sultan",
+        "Begum Meherunnissa",
+        "Begum Jahanara",
+        "Begum Hazrat Mahal"
+      ],
+      "section": "reasoning",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.3,
+        "type": 1.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 12,
+      "text": "What is the code name of the first Nuclear test of",
+      "options": [
+        "Shakti 1 – 1",
+        "Project 596",
+        "Smiling Buddha",
+        "Chagai  1-1"
+      ],
+      "section": "reasoning",
+      "topic": "coding_decoding",
+      "topic_label": "Coding-Decoding",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.23076923076923078,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 13,
+      "text": "Match the following Sports personalities with their respective game: Players Sports",
+      "options": [],
+      "section": "general_awareness",
+      "topic": "sports",
+      "topic_label": "Sports",
+      "subtopic": null,
+      "question_type": "match_following",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.1,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 0.55,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 14,
+      "text": "Which of the following was not an axis country during the World War 2?",
+      "options": [
+        "France",
+        "Japan",
+        "Italy",
+        "Germany"
+      ],
+      "section": "general_awareness",
+      "topic": "geography_world",
+      "topic_label": "World Geography",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.42857142857142855,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 15,
+      "text": "Which Operation was launched by Indian Navy for safe passage of Indian-flagged merchant vessels in the Strait of Hormuz?",
+      "options": [
+        "Operation Samudra Setu",
+        "Operation Saksham",
+        "Operation Maitri",
+        "Operation Sankalp"
+      ],
+      "section": "verbal_ability",
+      "topic": "reading_comprehension",
+      "topic_label": "Reading Comprehension",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 16,
+      "text": "Consider the following statements:",
+      "options": [
+        "Both 1 and 2",
+        "1 only",
+        "2 only",
+        "Neither 1 nor 2"
+      ],
+      "section": "numerical_ability",
+      "topic": "simple_compound_interest",
+      "topic_label": "Simple & Compound Interest",
+      "subtopic": null,
+      "question_type": "inferred_verbal",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.11764705882352941,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 17,
+      "text": "Match the List I with List II and select the correct answer using the code given below: List 1 List 2",
+      "options": [],
+      "section": "reasoning",
+      "topic": "coding_decoding",
+      "topic_label": "Coding-Decoding",
+      "subtopic": null,
+      "question_type": "match_following",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.23076923076923078,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 0.55,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 18,
+      "text": "How many new Sainik Schools are proposed to be set up in Union Budget 2021-22?",
+      "options": [
+        "150",
+        "170",
+        "100",
+        "120"
+      ],
+      "section": "numerical_ability",
+      "topic": "algebra",
+      "topic_label": "Algebra",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.14285714285714285,
+        "type": 1.0,
+        "difficulty": 0.65
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 19,
+      "text": "Which among the following is the secondary pollutant?",
+      "options": [
+        "Fly ash",
+        "Carbon mono-oxide",
+        "Carbondioxide",
+        "Smog"
+      ],
+      "section": "unknown",
+      "topic": "unknown",
+      "topic_label": "Unknown",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 20,
+      "text": "Given below are two statements, one is labelled as Assertion",
+      "options": [
+        "and the other is labelled as",
+        ": Water in lakes remain cold during summer.",
+        "",
+        ".",
+        ".",
+        "",
+        "Both",
+        "Both"
+      ],
+      "section": "reasoning",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.3,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 21,
+      "text": "Weather conditions change in which layer of atmosphere?",
+      "options": [
+        "Stratosphere",
+        "Troposphere",
+        "Exosphere",
+        "Ionosphere"
+      ],
+      "section": "unknown",
+      "topic": "unknown",
+      "topic_label": "Unknown",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 22,
+      "text": "The painting of Bodhisattva Padmapani is one of the most famous and oft-illustrated paintings at",
+      "options": [
+        "Badami",
+        "Ellora",
+        "Bagh",
+        "Ajanta"
+      ],
+      "section": "general_awareness",
+      "topic": "personalities",
+      "topic_label": "Personalities",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.25,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 23,
+      "text": "Where is the headquarter of Organisation for the",
+      "options": [
+        "The Hague",
+        "New York",
+        "Paris",
+        "Geneva"
+      ],
+      "section": "general_awareness",
+      "topic": "science_biology",
+      "topic_label": "Biology",
+      "subtopic": null,
+      "question_type": "inferred_verbal",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.14285714285714285,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 24,
+      "text": "Which of the following pairs (country-capital) is not correctly matched ?",
+      "options": [
+        "Tunisia – Tunis",
+        "Brazil – Brasilia",
+        "Morocco – Marrakech",
+        "Algeria – Algiers"
+      ],
+      "section": "general_awareness",
+      "topic": "geography_world",
+      "topic_label": "World Geography",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.21428571428571427,
+        "type": 1.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    },
+    {
+      "question_number": 25,
+      "text": "With which game is \"Stymie\" associated?",
+      "options": [
+        "Golf",
+        "Cricket",
+        "Hockey",
+        "Football"
+      ],
+      "section": "reasoning",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "inferred_verbal",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2022_Feb14_Shift1_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2022,
+      "shift": null
+    }
+  ],
+  "section_breakdown": {
+    "unknown": 6,
+    "numerical_ability": 3,
+    "general_awareness": 7,
+    "reasoning": 7,
+    "verbal_ability": 2
+  },
+  "topic_breakdown": {
+    "unknown": 6,
+    "time_and_work": 1,
+    "technology": 1,
+    "economy": 1,
+    "calendar": 1,
+    "vocabulary": 1,
+    "analogy": 4,
+    "coding_decoding": 2,
+    "sports": 1,
+    "geography_world": 2,
+    "reading_comprehension": 1,
+    "simple_compound_interest": 1,
+    "algebra": 1,
+    "personalities": 1,
+    "science_biology": 1
+  },
+  "difficulty_distribution": {
+    "easy": 16,
+    "medium": 9,
+    "hard": 0
+  },
+  "ocr_confidence": 1.0,
+  "extraction_method": "pdf_ocr",
+  "page_images": {},
+  "warnings": []
+}

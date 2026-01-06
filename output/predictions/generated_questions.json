@@ -1,0 +1,282 @@
+{
+  "verbal_ability": [
+    {
+      "topic": "cloze_test",
+      "section": "general",
+      "target_difficulty": "medium",
+      "target_count": 1,
+      "questions": [
+        {
+          "question_text": "The Indian Air Force's primary mission is to provide ________________________ for the country's national security, while also supporting humanitarian and disaster relief efforts.",
+          "options": [
+            "Aerial Surveillance",
+            "Strategic Strike Capabilities",
+            "Tactical Support Operations",
+            "Ground-Based Logistics"
+          ],
+          "correct_answer": "Aerial Surveillance",
+          "section": "general",
+          "topic": "cloze_test",
+          "predicted_difficulty": "medium",
+          "question_type": "generated",
+          "generation_reason": "Generated for cloze_test at medium difficulty",
+          "similar_past_questions": [],
+          "confidence": 0.75,
+          "pattern_used": null
+        }
+      ],
+      "generation_stats": {
+        "requested": 1,
+        "generated": 1,
+        "rag_examples_used": 0,
+        "model": "llama3",
+        "success": true
+      },
+      "timestamp": "2026-01-02T15:15:00.863931"
+    },
+    {
+      "topic": "synonyms",
+      "section": "english",
+      "target_difficulty": "medium",
+      "target_count": 1,
+      "questions": [
+        {
+          "question_text": "What is a synonym for 'festival' in the context of Indian culture?",
+          "options": [
+            "Celebration",
+            "Holiday",
+            "Event",
+            "Occasion"
+          ],
+          "correct_answer": "Celebration",
+          "section": "english",
+          "topic": "synonyms",
+          "predicted_difficulty": "medium",
+          "question_type": "generated",
+          "generation_reason": "Generated for synonyms at medium difficulty",
+          "similar_past_questions": [],
+          "confidence": 0.75,
+          "pattern_used": null
+        }
+      ],
+      "generation_stats": {
+        "requested": 1,
+        "generated": 1,
+        "rag_examples_used": 0,
+        "model": "llama3",
+        "success": true
+      },
+      "timestamp": "2026-01-02T15:15:11.933004"
+    }
+  ],
+  "general_awareness": [
+    {
+      "topic": "current_affairs",
+      "section": "general_awareness",
+      "target_difficulty": "medium",
+      "target_count": 1,
+      "questions": [
+        {
+          "question_text": "The National Digital Health Mission (NDHM) was launched by the Government of India in which year?",
+          "options": [
+            "2018",
+            "2019",
+            "2020",
+            "2017"
+          ],
+          "correct_answer": "2020",
+          "section": "general_awareness",
+          "topic": "current_affairs",
+          "predicted_difficulty": "medium",
+          "question_type": "generated",
+          "generation_reason": "Generated for current_affairs at medium difficulty",
+          "similar_past_questions": [],
+          "confidence": 0.75,
+          "pattern_used": null
+        }
+      ],
+      "generation_stats": {
+        "requested": 1,
+        "generated": 1,
+        "rag_examples_used": 0,
+        "model": "llama3",
+        "success": true
+      },
+      "timestamp": "2026-01-02T15:15:24.010947"
+    },
+    {
+      "topic": "defense",
+      "section": "general",
+      "target_difficulty": "medium",
+      "target_count": 1,
+      "questions": [
+        {
+          "question_text": "The Indian Air Force's budget for the fiscal year 2022-23 is approximately Rs.___. Considering the allocated funds, what percentage of the total defense budget would be spent on aviation modernization?",
+          "options": [
+            "22%",
+            "30%",
+            "35%",
+            "40%"
+          ],
+          "correct_answer": "30%",
+          "section": "general",
+          "topic": "defense",
+          "predicted_difficulty": "medium",
+          "question_type": "generated",
+          "generation_reason": "Generated for defense at medium difficulty",
+          "similar_past_questions": [],
+          "confidence": 0.75,
+          "pattern_used": null
+        }
+      ],
+      "generation_stats": {
+        "requested": 1,
+        "generated": 1,
+        "rag_examples_used": 0,
+        "model": "llama3",
+        "success": true
+      },
+      "timestamp": "2026-01-02T15:15:42.144922"
+    }
+  ],
+  "reasoning": [
+    {
+      "topic": "spatial_ability",
+      "section": "general",
+      "target_difficulty": "medium",
+      "target_count": 1,
+      "questions": [
+        {
+          "question_text": "A cargo flight from Mumbai to Delhi carries a shipment of goods worth ₹10,00,000. The aircraft flies at an average speed of 800 km/hour for 1.5 hours. What is the approximate distance covered by the aircraft during this period?",
+          "options": [
+            "1200 km",
+            "1400 km",
+            "1600 km",
+            "1800 km"
+          ],
+          "correct_answer": "1200 km",
+          "section": "general",
+          "topic": "spatial_ability",
+          "predicted_difficulty": "medium",
+          "question_type": "generated",
+          "generation_reason": "Generated for spatial_ability at medium difficulty",
+          "similar_past_questions": [],
+          "confidence": 0.75,
+          "pattern_used": null
+        }
+      ],
+      "generation_stats": {
+        "requested": 1,
+        "generated": 1,
+        "rag_examples_used": 0,
+        "model": "llama3",
+        "success": true
+      },
+      "timestamp": "2026-01-02T15:15:58.265056"
+    },
+    {
+      "topic": "analogy",
+      "section": "general",
+      "target_difficulty": "medium",
+      "target_count": 1,
+      "questions": [
+        {
+          "question_text": "The relationship between a Fighter Jet's speed and its maneuverability is similar to the relationship between a ____________'s price and its quality.",
+          "options": [
+            "Bus",
+            "Car",
+            "Bike",
+            "Smartphone"
+          ],
+          "correct_answer": "Bike",
+          "section": "general",
+          "topic": "analogy",
+          "predicted_difficulty": "medium",
+          "question_type": "generated",
+          "generation_reason": "Generated for analogy at medium difficulty",
+          "similar_past_questions": [],
+          "confidence": 0.75,
+          "pattern_used": null
+        }
+      ],
+      "generation_stats": {
+        "requested": 1,
+        "generated": 1,
+        "rag_examples_used": 0,
+        "model": "llama3",
+        "success": true
+      },
+      "timestamp": "2026-01-02T15:16:10.327469"
+    }
+  ],
+  "numerical_ability": [
+    {
+      "topic": "speed_time_distance",
+      "section": "numerical_ability",
+      "target_difficulty": "medium",
+      "target_count": 1,
+      "questions": [
+        {
+          "question_text": "A bus traveling from Delhi to Agra covers a distance of 240 km in 8 hours. What is its average speed?",
+          "options": [
+            "25 km/hr",
+            "30 km/hr",
+            "28.57 km/hr",
+            "32 km/hr"
+          ],
+          "correct_answer": "28.57 km/hr",
+          "section": "numerical_ability",
+          "topic": "speed_time_distance",
+          "predicted_difficulty": "medium",
+          "question_type": "generated",
+          "generation_reason": "Generated for speed_time_distance at medium difficulty",
+          "similar_past_questions": [],
+          "confidence": 0.75,
+          "pattern_used": null
+        }
+      ],
+      "generation_stats": {
+        "requested": 1,
+        "generated": 1,
+        "rag_examples_used": 0,
+        "model": "llama3",
+        "success": true
+      },
+      "timestamp": "2026-01-02T15:16:26.396143"
+    },
+    {
+      "topic": "time_and_work",
+      "section": "numerical_ability",
+      "target_difficulty": "medium",
+      "target_count": 1,
+      "questions": [
+        {
+          "question_text": "Two pumps can fill a tank of capacity 1200 liters in 12 hours. In how many hours will it take for one pump to fill this tank?",
+          "options": [
+            "36 hours",
+            "24 hours",
+            "48 hours",
+            "60 hours"
+          ],
+          "correct_answer": "36 hours",
+          "section": "numerical_ability",
+          "topic": "time_and_work",
+          "predicted_difficulty": "medium",
+          "question_type": "generated",
+          "generation_reason": "Generated for time_and_work at medium difficulty",
+          "similar_past_questions": [],
+          "confidence": 0.75,
+          "pattern_used": null
+        }
+      ],
+      "generation_stats": {
+        "requested": 1,
+        "generated": 1,
+        "rag_examples_used": 0,
+        "model": "llama3",
+        "success": true
+      },
+      "timestamp": "2026-01-02T15:16:43.105395"
+    }
+  ]
+}

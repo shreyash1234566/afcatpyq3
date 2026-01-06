@@ -1,0 +1,2647 @@
+{
+  "source_file": "data\\papers\\AFCAT_2013_Official_Paper1.pdf",
+  "year": 2013,
+  "shift": null,
+  "extraction_date": "2026-01-02T22:18:58.931476",
+  "total_questions": 89,
+  "questions": [
+    {
+      "question_number": 1,
+      "text": "On the basis of the passage which of the following statements may be said to be correct?",
+      "options": [
+        "The speaker is encouraging his men for the conquest of France",
+        "The speaker is an aggressive and maniacal war-monger",
+        "The speaker is not satisfied with the conquest of the island",
+        "The speaker is a patriot urging the defence of his motherland"
+      ],
+      "section": "verbal_ability",
+      "topic": "direct_indirect",
+      "topic_label": "Direct-Indirect Speech",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.3,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 2,
+      "text": "The speaker in the passage wants to go on fighting because",
+      "options": [
+        "he is a raving lunatic",
+        "he is in a state of utter despair",
+        "he expects help from other quarters",
+        "he is the leader of a suicide squad"
+      ],
+      "section": "verbal_ability",
+      "topic": "reading_comprehension",
+      "topic_label": "Reading Comprehension",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.4,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 3,
+      "text": "Which of the following pair of the phrases helps best to bring out the intension of the speaker?",
+      "options": [
+        "“Go on to the end”, “shall never surrender”",
+        "“Growing confidence”, “subjugated and starving”",
+        "“Subjugated and starving”, “fighting and landing around”",
+        "“Fighting in the streets”, “subjugated and starving”"
+      ],
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.5,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 4,
+      "text": "The passage consists of repetitive patterns in syntax and vocabulary. The effect of this style is that it",
+      "options": [
+        "reveals the speaker’s defects in giving a speech",
+        "produces the impression of bad poetry",
+        "conveys the speaker’s helpless situation",
+        "reinforces the speaker’s basic intention"
+      ],
+      "section": "verbal_ability",
+      "topic": "vocabulary",
+      "topic_label": "Vocabulary",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.6,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 5,
+      "text": "The tone of the speaker is",
+      "options": [
+        "pleading and urging",
+        "inspiring and encouraging",
+        "discouraging and gloomy",
+        "menacing and bullying"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 6,
+      "text": "“MEDDLE” [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Disregard",
+        "Overlook",
+        "Interfere",
+        "Free"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 7,
+      "text": "“ABJURE” [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Renounce",
+        "Run off secretly",
+        "Abide",
+        "Discuss"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 8,
+      "text": "“ESTRANGE”",
+      "options": [
+        "Endanger",
+        "To become puzzling",
+        "Miscalculate",
+        "Alienate"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 9,
+      "text": "“DEROGATORY”",
+      "options": [
+        "Conferred",
+        "Immediate",
+        "Praising",
+        "Private"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 10,
+      "text": "“WANE” [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Widen",
+        "Poor",
+        "Swell",
+        "Tight"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.65,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 11,
+      "text": "[VERBAL - likely passage/cloze question]",
+      "options": [],
+      "section": "verbal_ability",
+      "topic": "Inferred Verbal Ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "verbal_inferred",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 12,
+      "text": "The man who (d)",
+      "options": [
+        "/they thought to be",
+        "/a gentleman turned out",
+        "/to be a rogue.",
+        ""
+      ],
+      "section": "verbal_ability",
+      "topic": "organizations",
+      "topic_label": "Organizations",
+      "subtopic": null,
+      "question_type": "inferred_verbal",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.21428571428571427,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 13,
+      "text": "I told him on his face (d)",
+      "options": [
+        "/that he could not hope",
+        "/to pass the stringent",
+        "/Medical examination of the Services Selection Board.",
+        ""
+      ],
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 14,
+      "text": "Mohan is one of those boys",
+      "options": [
+        "/who has expressed",
+        "/ willingness for joining",
+        "/the education tour.",
+        ""
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 15,
+      "text": "I may spend",
+      "options": [
+        "/ this summer vacations",
+        "/with one of my friends",
+        "/ in the back waters of Kerala.",
+        ""
+      ],
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 16,
+      "text": "According to the weather __________ it is going to be cloudy today.",
+      "options": [
+        "announcement",
+        "indication",
+        "prediction",
+        "forecast"
+      ],
+      "section": "verbal_ability",
+      "topic": "reading_comprehension",
+      "topic_label": "Reading Comprehension",
+      "subtopic": null,
+      "question_type": "application",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 1.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 17,
+      "text": "The villagers __________ the murder of their leader by burning the police van.",
+      "options": [
+        "protested",
+        "avenged",
+        "mourned",
+        "consoled"
+      ],
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 18,
+      "text": "While on the routine fight, the aircraft was hit by a missile and __________ into flames.",
+      "options": [
+        "fired",
+        "burst",
+        "caught",
+        "engulfed"
+      ],
+      "section": "verbal_ability",
+      "topic": "analogy_verbal",
+      "topic_label": "Verbal Analogy",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 19,
+      "text": "Hari got the company car for a __________ price as he was the senior most employee in the company.",
+      "options": [
+        "reduced",
+        "discounted",
+        "fixed",
+        "nominal"
+      ],
+      "section": "verbal_ability",
+      "topic": "analogy_verbal",
+      "topic_label": "Verbal Analogy",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.3,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 20,
+      "text": "The unruly behaviour of the soldiers ___________ their commander.",
+      "options": [
+        "clashed",
+        "aggrieved",
+        "incensed",
+        "impeached"
+      ],
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 21,
+      "text": "Who accorded the title ‘Mahatma” to MK Gandhi?",
+      "options": [
+        "Sardar Patel",
+        "Nehru",
+        "Sarojini Naidu",
+        "Rabindranath Tagore"
+      ],
+      "section": "verbal_ability",
+      "topic": "organizations",
+      "topic_label": "Organizations",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.21428571428571427,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 22,
+      "text": "The Non co-operation Movement started in which year?",
+      "options": [
+        "1900",
+        "1921",
+        "1940",
+        "1935"
+      ],
+      "section": "verbal_ability",
+      "topic": "ratio_proportion",
+      "topic_label": "Ratio & Proportion",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.16666666666666666,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 23,
+      "text": "During the Middle Ages education was confined only to",
+      "options": [
+        "Kshatriyas",
+        "Brahmins",
+        "Peasants",
+        "Shudras"
+      ],
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 24,
+      "text": "Who among the following was responsible for the spread of Buddhism in Sri Lanka?",
+      "options": [
+        "Ashoka",
+        "Mahavira",
+        "Parsavanath",
+        "Chandra Gupta Maurya"
+      ],
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 1.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 25,
+      "text": "The elements which have low value of ionization potential are strong",
+      "options": [
+        "oxidising agents",
+        "Italy",
+        "reducing agents",
+        "Brazil",
+        "oxidising and reducing agents depending upon the reactants",
+        "Argentina",
+        "none of these",
+        "England"
+      ],
+      "section": "verbal_ability",
+      "topic": "simplification",
+      "topic_label": "Simplification",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.3333333333333333,
+        "type": 1.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 26,
+      "text": "[RESCUED VERBAL Q26] (a) oxidising agents \n(b) reducing agents \n(c) oxidising and reducing agents depending upon the reactants \n(d) none of these \n\n--- PAGE 6 --Q.26. Wayne Rooney, the famous footballer, hails from which ",
+      "options": [
+        "oxidising agents",
+        "Italy",
+        "reducing agents",
+        "Brazil",
+        "oxidising and reducing agents depending upon the reactants",
+        "Argentina",
+        "none of these",
+        "England"
+      ],
+      "section": "verbal_ability",
+      "topic": "Inferred Verbal Ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "verbal_inferred",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.35,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 27,
+      "text": "The official song ‘WakaWaka’ of FIFA World Cup held in the year 2010 at South Africa was sung by which popular singer?",
+      "options": [
+        "Madonna",
+        "Destiny Child",
+        "Shakira",
+        "Rihanna"
+      ],
+      "section": "verbal_ability",
+      "topic": "sports",
+      "topic_label": "Sports",
+      "subtopic": null,
+      "question_type": "application",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.45,
+        "type": 1.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 28,
+      "text": "In the year 2011, the ace badminton player Saina Nehwal was honored with which sports award?",
+      "options": [
+        "Dronacharya award",
+        "Rajiv Gandhi Khel Ratana award",
+        "Arjun award",
+        "None of these"
+      ],
+      "section": "verbal_ability",
+      "topic": "awards",
+      "topic_label": "Awards & Honours",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2727272727272727,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 29,
+      "text": "Term ‘Visible Horizon’ in astronomy is defined as",
+      "options": [
+        "The circle of contact of the earth and the cone of visual rays passing through the meridian of the place",
+        "The circle of contact of the earth and the cone of visual rays not passing through the meridian of the place",
+        "The circle of contact of the earth and the cone of visual rays passing through the point of observation",
+        "The circle of contact of the earth and the cone of visual rays not passing through the point of observation"
+      ],
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.3,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 30,
+      "text": "NREGA stands for",
+      "options": [
+        "National Revenue Engagement Guarantee Association",
+        "National Revenue Employment Guarantee Act",
+        "National Rural Employment Guarantee Association",
+        "National Rural Employment Guarantee Act"
+      ],
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.8,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 31,
+      "text": "River Sutlej originates from",
+      "options": [
+        "Northern slopes of the Kailash range",
+        "Iron",
+        "Spring at Verinarg",
+        "Aluminium",
+        "Rakas Lake",
+        "Zinc",
+        "Amarkantak plateau",
+        "Cobalt"
+      ],
+      "section": "general_awareness",
+      "topic": "geography_india",
+      "topic_label": "Indian Geography",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.17647058823529413,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.8,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 32,
+      "text": "[RESCUED GA Q32] (a) Northern slopes of the Kailash range \n(b) Spring at Verinarg \n(c) Rakas Lake \n(d) Amarkantak plateau \n \n\n--- PAGE 7 --Q.32. Limonitic ore is the ore of which metal? \n(a) Iron \n(b) Aluminium \n(c) Z",
+      "options": [
+        "Northern slopes of the Kailash range",
+        "Iron",
+        "Spring at Verinarg",
+        "Aluminium",
+        "Rakas Lake",
+        "Zinc",
+        "Amarkantak plateau",
+        "Cobalt"
+      ],
+      "section": "general_awareness",
+      "topic": "Inferred General Awareness",
+      "topic_label": "Inferred General Awareness",
+      "subtopic": null,
+      "question_type": "ga_inferred",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.35,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 33,
+      "text": "Black revolution relates to which of the following?",
+      "options": [
+        "Self-dependence in foodgrains production",
+        "Self-dependence in milk production",
+        "Self-dependence in petroleum/crude oil",
+        "None of these"
+      ],
+      "section": "general_awareness",
+      "topic": "science_biology",
+      "topic_label": "Biology",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.14285714285714285,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 34,
+      "text": "Karrar is the unmanned bomber aircraft of",
+      "options": [
+        "Iraq",
+        "Iran",
+        "Turkey",
+        "Pakistan"
+      ],
+      "section": "general_awareness",
+      "topic": "technology",
+      "topic_label": "Technology",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.15384615384615385,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 35,
+      "text": "Who is the author of book ‘Keeping the Faith: Members of a Parliamentarian’?",
+      "options": [
+        "David Omand",
+        "Raja Shehadeh",
+        "Raghav Bhal",
+        "Somnath Chatterjee"
+      ],
+      "section": "general_awareness",
+      "topic": "books_authors",
+      "topic_label": "Books & Authors",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.6666666666666666,
+        "type": 1.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 36,
+      "text": "__________ is a thyroid hormone which controls the balance of calcium in the body",
+      "options": [
+        "Calcitonin",
+        "Thyroxine",
+        "Calmodulin",
+        "All of these"
+      ],
+      "section": "general_awareness",
+      "topic": "inferred_general_awareness",
+      "topic_label": "Inferred General Awareness",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 37,
+      "text": "The cell wall in plants is interrupted by narrow pores carrying fine strands of cytoplasm which interlink the contents of the cells. These strands are called:",
+      "options": [
+        "Plasmohole",
+        "Microvilli",
+        "Plasmodesmata",
+        "Plasmalemma"
+      ],
+      "section": "general_awareness",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 38,
+      "text": "Who is the cricketer bestowed with an honorary commission in the Territorial Army?",
+      "options": [
+        "Sachin Tendulkar",
+        "Kapil Dev",
+        "Virendra Sehwag",
+        "Harbhajan Singh"
+      ],
+      "section": "general_awareness",
+      "topic": "organizations",
+      "topic_label": "Organizations",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.21428571428571427,
+        "type": 1.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 39,
+      "text": "The transport phenomenon occurs only in __________ state of a gas and is __________.",
+      "options": [
+        "non-equilibrium, irreversible",
+        "non-equilibrium, reversible",
+        "equilibrium, irreversible",
+        "equilibrium, reversible"
+      ],
+      "section": "general_awareness",
+      "topic": "analogy_verbal",
+      "topic_label": "Verbal Analogy",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 40,
+      "text": "Which of the following compounds form nitrites with nitrous acid?",
+      "options": [
+        "Primary amines",
+        "Secondary amines",
+        "Tertiary amines",
+        "All of these"
+      ],
+      "section": "general_awareness",
+      "topic": "science_chemistry",
+      "topic_label": "Chemistry",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.35714285714285715,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 41,
+      "text": "The number whose square is equal to the difference of the squares of 37 and 23 is",
+      "options": [
+        "45.09",
+        "28.98",
+        "47.09",
+        "28"
+      ],
+      "section": "general_awareness",
+      "topic": "organizations",
+      "topic_label": "Organizations",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.14285714285714285,
+        "type": 0.3333333333333333,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 42,
+      "text": "The average age of 8 men is increased by 4 years when one of them whose age is 30 years is replaced by a new man.",
+      "options": [
+        "55 years",
+        "62 years",
+        "42 years",
+        "69 years"
+      ],
+      "section": "general_awareness",
+      "topic": "averages",
+      "topic_label": "Averages",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.5454545454545454,
+        "type": 1.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 43,
+      "text": "A vessel, full of water, weighs 24 kg. When the vessel is 1/4 full, it weighs 9 kg. Find the weight of empty vessel.",
+      "options": [
+        "4 kg",
+        "5 kg",
+        "8 kg",
+        "3 kg"
+      ],
+      "section": "general_awareness",
+      "topic": "mixtures_alligation",
+      "topic_label": "Mixtures & Alligation",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2727272727272727,
+        "type": 0.75,
+        "difficulty": 0.65
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 44,
+      "text": "If a – b = 4 and ab = 45 find the value of a³ – b³.",
+      "options": [
+        "604",
+        "370",
+        "253",
+        "199"
+      ],
+      "section": "general_awareness",
+      "topic": "simplification",
+      "topic_label": "Simplification",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.6666666666666666,
+        "type": 0.8,
+        "difficulty": 0.65
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 45,
+      "text": "If a/ (a + b) = 15/21, what is (a + b)/(a – b) equal to?",
+      "options": [
+        "13/9",
+        "23/11",
+        "14/5",
+        "21/9"
+      ],
+      "section": "general_awareness",
+      "topic": "inferred_general_awareness",
+      "topic_label": "Inferred General Awareness",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.6666666666666666,
+        "difficulty": 0.75
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 46,
+      "text": "(798+579)2−(798−579)2",
+      "options": [
+        "2",
+        "6",
+        "4",
+        "8"
+      ],
+      "section": "general_awareness",
+      "topic": "inferred_general_awareness",
+      "topic_label": "Inferred General Awareness",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.8,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 47,
+      "text": "A man’s average monthly expenditure for the first four months of the year was Rs. 231.25. For the next five months, the average monthly expenditure was Rs. 22.75 more than what it was during the first four months. If the person spent Rs. 605 in all during the remaining three months of the year, find what percentage of his annual income of Rs. 3500 did he save in the year?",
+      "options": [
+        "10%",
+        "15%",
+        "20%",
+        "25%"
+      ],
+      "section": "general_awareness",
+      "topic": "percentages",
+      "topic_label": "Percentages",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.5833333333333334,
+        "type": 0.5,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 48,
+      "text": "The average age of students of a class is 15.8 years. The average age of boys in the class is 16.4 years and that of the girls is 15.4 years. The ratio of the number of boys to the number of girls in the class is",
+      "options": [
+        "1 : 2",
+        "2 : 3",
+        "3 : 4",
+        "3 : 5"
+      ],
+      "section": "general_awareness",
+      "topic": "averages",
+      "topic_label": "Averages",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.5454545454545454,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 49,
+      "text": "18 buckets of water fill a tank when the capacity of each bucket is 8 litres. How many buckets will be needed to fill the same tank, if the capacity of the bucket is 12 litres?",
+      "options": [
+        "12",
+        "Rs. 8500",
+        "13.5",
+        "Rs. 15000",
+        "24",
+        "Rs. 7500",
+        "cannot be determined due to insufficient data",
+        "Rs. 17000"
+      ],
+      "section": "general_awareness",
+      "topic": "time_and_work",
+      "topic_label": "Time & Work",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.3,
+        "type": 0.6,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 50,
+      "text": "[RESCUED GA Q50] (a) 12 \n(b) 13.5 \n(c) 24 \n(d) cannot be determined due to insufficient data \n \n\n--- PAGE 10 --Q.50. Srinivasan invests two equal amounts in two banks giving 8% and 12% rate of interest respectively. \n",
+      "options": [
+        "12",
+        "Rs. 8500",
+        "13.5",
+        "Rs. 15000",
+        "24",
+        "Rs. 7500",
+        "cannot be determined due to insufficient data",
+        "Rs. 17000"
+      ],
+      "section": "general_awareness",
+      "topic": "Inferred General Awareness",
+      "topic_label": "Inferred General Awareness",
+      "subtopic": null,
+      "question_type": "ga_inferred",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.35,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 51,
+      "text": "The simple interest accrued on a sum of money at the end of four years is 1/5th of its principal. What is the rate of interest per annum?",
+      "options": [
+        "4%",
+        "5%",
+        "6%",
+        "Inadequate data"
+      ],
+      "section": "numerical_ability",
+      "topic": "simple_compound_interest",
+      "topic_label": "Simple & Compound Interest",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 1.0,
+        "type": 0.75,
+        "difficulty": 0.65
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 52,
+      "text": "A sum of Rs. 2600 is lent out into two parts, one at 9% and another at 7%. If the total annual income is Rs. 206, find the money lent at 7%.",
+      "options": [
+        "Rs. 1400",
+        "Rs. 900",
+        "Rs. 1600",
+        "Rs. 1200"
+      ],
+      "section": "general_awareness",
+      "topic": "averages",
+      "topic_label": "Averages",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.5454545454545454,
+        "type": 0.5,
+        "difficulty": 0.75
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 53,
+      "text": "In an election between two candidates, 70% of the voters cast their votes, out of which 2% of the votes were declared invalid. A candidate got 7203 votes which was 60% of the total valid votes. Find the total number of voters enrolled in that election.",
+      "options": [
+        "18050",
+        "17500",
+        "17000",
+        "7203"
+      ],
+      "section": "general_awareness",
+      "topic": "percentages",
+      "topic_label": "Percentages",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.4166666666666667,
+        "type": 0.6666666666666666,
+        "difficulty": 0.65
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 54,
+      "text": "The price of Kerosene was increased by 11%. What percent a house holder must reduce his consumption of kerosene so as not to increase his expenditure?",
+      "options": [
+        "11%",
+        "9.9%",
+        "11.09%",
+        "8.25%"
+      ],
+      "section": "numerical_ability",
+      "topic": "percentages",
+      "topic_label": "Percentages",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 1.0,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 55,
+      "text": "75 puπls from a school appeared for an examination and 80% of them passed. Another school entered 10 more puπls than the first school and five puπls less than the first school passed. The pass % of in the second school was",
+      "options": [
+        "75%",
+        "84%",
+        "72%",
+        "64.7%"
+      ],
+      "section": "general_awareness",
+      "topic": "percentages",
+      "topic_label": "Percentages",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.16666666666666666,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 56,
+      "text": "Divide Rs. 80 in the production of 3 : 6 : 7.",
+      "options": [
+        "Rs. 10, Rs. 35, Rs. 40",
+        "Rs. 15, Rs. 30, Rs. 35",
+        "Rs. 10, Rs. 40, Rs. 35",
+        "Rs. 15, Rs. 35, Rs. 30"
+      ],
+      "section": "reasoning",
+      "topic": "inferred_reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 57,
+      "text": "Calculate the amount on Rs. 1875 for 2 years at 4% per annum, compounded yearly.",
+      "options": [
+        "Rs. 676",
+        "Rs. 776",
+        "Rs. 1778",
+        "Rs. 2028"
+      ],
+      "section": "numerical_ability",
+      "topic": "simple_compound_interest",
+      "topic_label": "Simple & Compound Interest",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 1.0,
+        "type": 1.0,
+        "difficulty": 0.65
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 58,
+      "text": "If × varies as y and × = 8 when y = 15 then the values of × when y = 10 is",
+      "options": [
+        "5",
+        "15/8",
+        "8/15",
+        "16/3"
+      ],
+      "section": "reasoning",
+      "topic": "coding_decoding",
+      "topic_label": "Coding-Decoding",
+      "subtopic": null,
+      "question_type": "application",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.46153846153846156,
+        "type": 0.75,
+        "difficulty": 0.85
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 59,
+      "text": "In a mixture of 60 litres, the ratio of milk and water is 2: 1. What amount of water must be added to make the ratio of milk and water as 1: 2?",
+      "options": [
+        "42 Litres",
+        "56 Litres",
+        "60 Litres",
+        "77 Litres"
+      ],
+      "section": "reasoning",
+      "topic": "mixtures_alligation",
+      "topic_label": "Mixtures & Alligation",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.8181818181818182,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 60,
+      "text": "A sum of Rs. 10,000 is lent partly at 6% and the remaining at 10% p.a. If the yearly interest on the average is 9.2%, the money lent at 10% is",
+      "options": [
+        "Rs. 8000",
+        "Garo",
+        "Rs. 8500",
+        "Khasi",
+        "Rs. 5000",
+        "Kangra",
+        "Rs. 2000",
+        "Jayantia"
+      ],
+      "section": "reasoning",
+      "topic": "averages",
+      "topic_label": "Averages",
+      "subtopic": null,
+      "question_type": "application",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.5454545454545454,
+        "type": 1.0,
+        "difficulty": 0.65
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 61,
+      "text": "[REASONING - likely non-verbal figure/diagram]",
+      "options": [],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 62,
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "Virgo",
+        "Pisces",
+        "Cancer",
+        "Orion"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 63,
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "Shoulder",
+        "Foot",
+        "Finger",
+        "Elbow"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 64,
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "Canoe",
+        "Dingy",
+        "Yatch",
+        "Igloo"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 65,
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "Inn",
+        "Club",
+        "Motel",
+        "Hostel"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 66,
+      "text": "Liquor: Drink",
+      "options": [
+        "Bread: Butter",
+        "Mountain: Snow",
+        "Tea: Beverage",
+        "Book: Pages",
+        "Sniff: Inhale",
+        "Pressure: Atmosphere",
+        "Water: Sip",
+        "Tension: Breakdown"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 67,
+      "text": "[RESCUED REASONING Q67] (a) Bread: Butter \n(b) Tea: Beverage \n(c) Sniff: Inhale \n(d) Water: Sip \n\n--- PAGE 13 --Q.67. Evaporation: Cloud \n(a) Mountain: Snow \n(b) Book: Pages \n(c) Pressure: Atmosphere \n(d) Tension: Breakdown ",
+      "options": [
+        "Bread: Butter",
+        "Mountain: Snow",
+        "Tea: Beverage",
+        "Book: Pages",
+        "Sniff: Inhale",
+        "Pressure: Atmosphere",
+        "Water: Sip",
+        "Tension: Breakdown"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.35,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 68,
+      "text": "Barrel: Vial",
+      "options": [
+        "Book: Pamphlet",
+        "Book: Reader",
+        "Brochure: Complier",
+        "Length: Height"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 69,
+      "text": "Cream: Cosmetics",
+      "options": [
+        "Tiger: Forest",
+        "Mountain: Valley",
+        "Magazine: Editor",
+        "Teak: Wood"
+      ],
+      "section": "reasoning",
+      "topic": "inferred_reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.8,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 70,
+      "text": "Carnivore: Herbivore",
+      "options": [
+        "Flesh: Plant",
+        "Horse: Lion",
+        "Camel: Giraffe",
+        "Animal: Bird"
+      ],
+      "section": "reasoning",
+      "topic": "economy",
+      "topic_label": "Economy & Finance",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.10526315789473684,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.8,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 71,
+      "text": "Hamlet: Macbeth: Faustus",
+      "options": [
+        "They are princes",
+        "They are plays by Shakespeare",
+        "They are characters from various dramas",
+        "They were romantic heroes."
+      ],
+      "section": "reasoning",
+      "topic": "inferred_reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 72,
+      "text": "Vesuvius: Etna: Kilimanjaro",
+      "options": [
+        "These are sites of volcanoes",
+        "These are island countries.",
+        "These are hills of Italy.",
+        "These lie in polar region."
+      ],
+      "section": "reasoning",
+      "topic": "inferred_reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.8,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 73,
+      "text": "Knot: Watt: Fathom",
+      "options": [
+        "The terms are used by sailors",
+        "The terms are used for installing electricity",
+        "The terms are connected with rope",
+        "They are units of measurement."
+      ],
+      "section": "reasoning",
+      "topic": "inferred_reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.8,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 74,
+      "text": "Barauni: Digboi: Ankleshwar",
+      "options": [
+        "They are famous for oil fields.",
+        "They are famous for religious places.",
+        "They are tourist places of South India.",
+        "They are famous for handlooms."
+      ],
+      "section": "reasoning",
+      "topic": "organizations",
+      "topic_label": "Organizations",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.14285714285714285,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.8,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 75,
+      "text": "Knight: Rook: Bishop",
+      "options": [
+        "These are missionaries",
+        "They are churchmen.",
+        "These are chessmen.",
+        "These are ranks of military."
+      ],
+      "section": "reasoning",
+      "topic": "inferred_reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.8,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 76,
+      "text": "Abhi Bhattacharya: Utpal Dutt: Satyajit Ray",
+      "options": [
+        "They are character actors.",
+        "They are directors of Bengali movies.",
+        "They are famous poets and writers.",
+        "These personalities belong to Bengal."
+      ],
+      "section": "reasoning",
+      "topic": "inferred_reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 77,
+      "text": "Voodoo: Sorcery: Necromancy",
+      "options": [
+        "They are ancient arts found in sculptures.",
+        "They are terms connected with black magic.",
+        "They are ancient scripts.",
+        "They are means of communication of pre-historic age."
+      ],
+      "section": "reasoning",
+      "topic": "inferred_reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 78,
+      "text": "Rourkela: Bokaro: Durgapur",
+      "options": [
+        "They are steel plants.",
+        "They have coal mines.",
+        "They have atomic plants",
+        "They are on the sea coast."
+      ],
+      "section": "reasoning",
+      "topic": "inferred_reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.8,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 79,
+      "text": "Spinach: Fenugreek: Celery",
+      "options": [
+        "These are cactus plants",
+        "These are wild plants",
+        "These are wild flowers.",
+        "These are leafy vegetables."
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 80,
+      "text": "Yeats: Ghalib: Kabir",
+      "options": [
+        "They were social reformers.",
+        ",",
+        "They were famous poets.",
+        ",",
+        "They were saints.",
+        ",",
+        "They were yoga instructors",
+        ". You have to select one figure from the Answer figures which will continue the same series as given in the Problem figures."
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 81,
+      "text": "[RESCUED MATH Q81] (a) They were social reformers. \n(b) They were famous poets. \n(c) They were saints. \n(d) They were yoga instructors \n \nDIRECTIONS (Qs. 81 – 85): There are two sets of figures namely the Problem figure",
+      "options": [
+        "They were social reformers.",
+        ",",
+        "They were famous poets.",
+        ",",
+        "They were saints.",
+        ",",
+        "They were yoga instructors",
+        ". You have to select one figure from the Answer figures which will continue the same series as given in the Problem figures."
+      ],
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "topic_label": "Inferred Numerical Ability",
+      "subtopic": null,
+      "question_type": "math_inferred",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.35,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 82,
+      "text": "[RESCUED MATH Q82] (a) They were social reformers. \n(b) They were famous poets. \n(c) They were saints. \n(d) They were yoga instructors \n \nDIRECTIONS (Qs. 81 – 85): There are two sets of figures namely the Problem figure",
+      "options": [
+        "They were social reformers.",
+        ",",
+        "They were famous poets.",
+        ",",
+        "They were saints.",
+        ",",
+        "They were yoga instructors",
+        ". You have to select one figure from the Answer figures which will continue the same series as given in the Problem figures."
+      ],
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "topic_label": "Inferred Numerical Ability",
+      "subtopic": null,
+      "question_type": "math_inferred",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.35,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 83,
+      "text": "--- PAGE 16 --Q.84.",
+      "options": [],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 84,
+      "text": "[MATH - topic cannot be inferred from neighbors]",
+      "options": [],
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "topic_label": "Inferred Numerical Ability",
+      "subtopic": null,
+      "question_type": "math_inferred",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 85,
+      "text": "DIRECTIONS (Qs. 86-90) : The following situations involve a cluster of three or more geometrical figures, having one or more dots placed at any point inside the cluster. This cluster is followed by a set of four alternative figures each composed of a cluster of the same type of figures. Now, for each dot we have to observe the region in which it is enclosed i.e. in which of the geometrical figure this region is common.",
+      "options": [
+        ",",
+        ",",
+        "and"
+      ],
+      "section": "numerical_ability",
+      "topic": "embedded_figures",
+      "topic_label": "Embedded Figures",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.375,
+        "type": 0.6666666666666666,
+        "difficulty": 0.75
+      },
+      "has_formula": true,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 86,
+      "text": "--- PAGE 17 --8",
+      "options": [],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.6749999999999999,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 98,
+      "text": "--- PAGE 21 --8",
+      "options": [],
+      "section": "numerical_ability",
+      "topic": "inferred_numerical_ability",
+      "topic_label": "Inferred Numerical Ability",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.725,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 99,
+      "text": "[MATH - trailing placeholder]",
+      "options": [],
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "topic_label": "Inferred Numerical Ability",
+      "subtopic": null,
+      "question_type": "math_inferred",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.8,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    },
+    {
+      "question_number": 100,
+      "text": "[MATH - trailing placeholder]",
+      "options": [],
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "topic_label": "Inferred Numerical Ability",
+      "subtopic": null,
+      "question_type": "math_inferred",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2013_Official_Paper1.pdf",
+      "confidence": 0.1,
+      "page_number": 0,
+      "year": 2013,
+      "shift": null
+    }
+  ],
+  "section_breakdown": {
+    "verbal_ability": 23,
+    "reasoning": 33,
+    "general_awareness": 23,
+    "numerical_ability": 10
+  },
+  "topic_breakdown": {
+    "direct_indirect": 1,
+    "reading_comprehension": 2,
+    "analogy": 5,
+    "vocabulary": 1,
+    "Inferred Reasoning": 19,
+    "Inferred Verbal Ability": 2,
+    "organizations": 5,
+    "inferred_verbal_ability": 5,
+    "analogy_verbal": 3,
+    "ratio_proportion": 1,
+    "simplification": 2,
+    "sports": 1,
+    "awards": 1,
+    "geography_india": 1,
+    "Inferred General Awareness": 2,
+    "science_biology": 1,
+    "technology": 1,
+    "books_authors": 1,
+    "inferred_general_awareness": 3,
+    "science_chemistry": 1,
+    "averages": 4,
+    "mixtures_alligation": 2,
+    "percentages": 4,
+    "time_and_work": 1,
+    "simple_compound_interest": 2,
+    "inferred_reasoning": 9,
+    "coding_decoding": 1,
+    "economy": 1,
+    "Inferred Numerical Ability": 5,
+    "embedded_figures": 1,
+    "inferred_numerical_ability": 1
+  },
+  "difficulty_distribution": {
+    "easy": 48,
+    "medium": 33,
+    "hard": 8
+  },
+  "ocr_confidence": 0.5719616870463827,
+  "extraction_method": "pdf_ocr",
+  "page_images": {},
+  "warnings": [
+    "Low OCR confidence: 57.2%"
+  ]
+}

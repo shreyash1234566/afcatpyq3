@@ -1,0 +1,641 @@
+{
+  "year": 2016,
+  "shift": 1,
+  "total_questions": 100,
+  "topic_data": [
+    {
+      "year": 2016,
+      "section": "verbal_ability",
+      "topic": "Inferred Verbal Ability",
+      "count": 21,
+      "difficulties": {
+        "easy": 9,
+        "medium": 12,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Beats me [LIKELY FIGURE - incomplete text]",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Cloak and dagger",
+          "difficulty": "easy"
+        },
+        {
+          "text": "I Don't Buy it",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "verbal_ability",
+      "topic": "unknown",
+      "count": 4,
+      "difficulties": {
+        "easy": 3,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "To be at the end of one's tether",
+          "difficulty": "easy"
+        },
+        {
+          "text": "To play second fiddle",
+          "difficulty": "medium"
+        },
+        {
+          "text": "A wolf in sheep's clothing",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "verbal_ability",
+      "topic": "VA_COMP",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In the passage the term “urbanisation” has been used to refer to",
+          "difficulty": "medium"
+        },
+        {
+          "text": "According to the passage, the birds have made a comeback to the suburb because they",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "verbal_ability",
+      "topic": "RM_VR_ANA",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The phrase “absentee house sparrow” refers to",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "verbal_ability",
+      "topic": "GA_ORG",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "All and Sundry",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "verbal_ability",
+      "topic": "GA_ECON",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A blue stocking",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "VA_COMP",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The book, \"A China Passage' was written by",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "GA_AWARD",
+      "count": 3,
+      "difficulties": {
+        "easy": 2,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Global 500 awards are given for outstanding achievement in which of the following fields?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Pulitzer Prize is awarded for the outstanding work in the field of",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Who among the following is not a recipient of the 'Bharatiya Jnanpith' Award'?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "unknown",
+      "count": 3,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The national emblem. viz four lions standing back to back is an adaptation from which of the following:",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which one of the following is the petroleum wax?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which city will host the 2022 Common Wealth Games?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "GA_BOOK",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following books is written by Arnold Toynbee?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "RM_VR_ANA",
+      "count": 6,
+      "difficulties": {
+        "easy": 5,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who was the person behind conversion of East India Company from a trading company into a regional power?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Natural radioactivity was discovered by",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The Battle of Plassey was fought in",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "RM_VR_CAL",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following Asian countries celebrates its Independence Day on 4th February?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "GA_TECH",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The present chairman of ISRO is",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The Indian space program began in",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "Inferred General Awareness",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED GA Q43] (a) MYS Prasad \n(b) Shailesh Nayak \n(c) AS Kiran Kumar \n(d) K Radhakrishnan \n\n--- PAGE 9 --Q.43. Who was the Viceroy when the Simon Commission visited India? \n(a) Lord Chelmsford \n(b)...",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "RM_VR_DIR",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Mahatma Gandhi left South Africa to return to India in",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "GA_GEO_IND",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "'Ruhr of India\" known for its rich coal deposits is in the State of",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "NA_PL",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Anmol sold two items for Rs. 1000 each. On one, he gained 10% and on other, he lost 10%. How much did he gain or lose in the whole transaction?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "NA_PER",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The price of an item is decreased by 25%. What percent increase must be done in new price to get the original price?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "A's salary is 50% more than B's. How much percent is B's salary less than A's?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "RM_VR_SYL",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In Arun's opinion, his weight is greater than 65 kg but less than 72 kg. His brother does not agree with Arun and he thinks that Arun's weight is greater than 60 kg but less than 70 kg. His mother's v...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "general_awareness",
+      "topic": "NA_STD",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "A train 150 m long is running with a speed of 68 km/h. In what time will it pass a man who is running at 8 km/ h in the same direction in which the train is going?",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "reasoning",
+      "topic": "NA_TW",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "A and B can do a piece of work in 30 days, while B and C can do the same work in 24 days and C and",
+          "difficulty": "medium"
+        },
+        {
+          "text": "A does 1/2 as much work as B and C does 1/2 as much work as A and B together. If C alone can finish the work in 40 days, then together all will finish the work in",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "reasoning",
+      "topic": "NA_SI_CI",
+      "count": 3,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 2
+      },
+      "sample_questions": [
+        {
+          "text": "A sum was invested for 3 years at simple interest at a certain rate. Had it been invested at 4% higher rate of interest, it would have fetched Rs.600 more. The sum is",
+          "difficulty": "hard"
+        },
+        {
+          "text": "The difference between simple and compound interests compounded annually on a certain sum of money for 2 years at 4% per annum is Rs. 1. The sum (in Rs.) is:",
+          "difficulty": "medium"
+        },
+        {
+          "text": "A sum of money lent out at simple interest amounts to Rs. 720 after 2 years and to Rs. 1020 after a further period of 5 years.",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "reasoning",
+      "topic": "RM_VR_CLK",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A man rows to a place 48 km distant and come back in 14 hours. He finds that he can row 4 km with the stream in the same time as 3 km against the stream. The rate of the stream is:",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "count": 12,
+      "difficulties": {
+        "easy": 5,
+        "medium": 6,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED REASONING Q60] (a) 1 km/hr \n(b) 1.5 km/hr \n(c) 2 km/hr \n(d) 2.5 km/hr \n \n\n--- PAGE 12 --Q.60. If the incomes of Ram & Shyam are in the ratio of 3:4 and their expenditures in the ratio of 4:5,...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "Ignominy: Disloyalty ∷ ? :?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "reasoning",
+      "topic": "RM_NV_EMB",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A container contains 40 litres of milk. From this container 4 litres of milk was taken out and replaced by water. This process was repeated further two times. How much milk is now contained by the con...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "reasoning",
+      "topic": "NA_STD",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "A boat travels upstream from B to A and downstream from A to B in 3 hours. If the speed of the boat in still water is 9 km/h and the speed of the current is 3 km/h, the distance between A and B is",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "reasoning",
+      "topic": "NA_RAT",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Present age of × and Y are in the ratio 7:5 respectively. Four years hence, the ratio of their ages will become 11:9 respectively. What is the present age of Y?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "reasoning",
+      "topic": "GA_SCI_BIO",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Cerebrum: Brain ∷ ? :?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "reasoning",
+      "topic": "unknown",
+      "count": 3,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Wife: Marriage ∷ ? :?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Sadist: Injury ∷ ? :?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Lecherous: Carnal ∷ ? :?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "numerical_ability",
+      "topic": "RM_VR_SEAT",
+      "count": 5,
+      "difficulties": {
+        "easy": 5,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following diagrams indicates the best relation between Biology, Zoology and Physics?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the following diagrams indicates the best relation between Stamp, Pen and Chalk?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the following diagrams indicates the best relation between Doctors, Human Beings and",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "count": 15,
+      "difficulties": {
+        "easy": 15,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "[MATH - trailing placeholder]",
+          "difficulty": "easy"
+        },
+        {
+          "text": "[MATH - trailing placeholder]",
+          "difficulty": "easy"
+        },
+        {
+          "text": "[MATH - trailing placeholder]",
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "verbal_ability": 30,
+    "general_awareness": 25,
+    "reasoning": 25,
+    "numerical_ability": 20
+  },
+  "difficulty_distribution": {
+    "easy": 60,
+    "medium": 33,
+    "hard": 7
+  }
+}

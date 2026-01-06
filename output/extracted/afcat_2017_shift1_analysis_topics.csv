@@ -1,0 +1,33 @@
+Year,Section,Topic,Count,Easy,Medium,Hard
+2017,general_awareness,GA_AWARD,2,2,0,0
+2017,general_awareness,GA_ORG,1,1,0,0
+2017,general_awareness,Inferred General Awareness,3,0,1,2
+2017,general_awareness,RM_VR_ANA,7,4,3,0
+2017,general_awareness,RM_VR_CAL,1,1,0,0
+2017,general_awareness,current_affairs,2,2,0,0
+2017,general_awareness,geography,3,2,1,0
+2017,general_awareness,literature,1,1,0,0
+2017,general_awareness,polity,1,1,0,0
+2017,general_awareness,sports,3,3,0,0
+2017,numerical_ability,Inferred Numerical Ability,6,6,0,0
+2017,numerical_ability,NA_PER,2,0,1,1
+2017,numerical_ability,NA_PL,2,0,1,1
+2017,numerical_ability,NA_RAT,2,0,2,0
+2017,numerical_ability,NA_SI_CI,1,0,1,0
+2017,numerical_ability,NA_TRAIN,1,0,1,0
+2017,numerical_ability,NA_TW,1,0,1,0
+2017,numerical_ability,RM_VR_SEAT,5,5,0,0
+2017,numerical_ability,arithmetic,1,0,0,1
+2017,numerical_ability,speed-distance,1,0,1,0
+2017,reasoning,Inferred Reasoning,9,2,6,1
+2017,reasoning,NA_ALG,1,0,1,0
+2017,reasoning,RM_NV_FIG,7,7,0,0
+2017,reasoning,RM_VR_ANA,3,1,2,0
+2017,reasoning,RM_VR_ODD,5,5,0,0
+2017,reasoning,analogies,2,2,0,0
+2017,verbal_ability,GA_HIST_ANC,1,1,0,0
+2017,verbal_ability,Inferred Verbal Ability,18,13,5,0
+2017,verbal_ability,RM_VR_ANA,2,1,1,0
+2017,verbal_ability,RM_VR_DIR,1,1,0,0
+2017,verbal_ability,VA_COMP,2,2,0,0
+2017,verbal_ability,idioms_and_phrases,3,2,1,0

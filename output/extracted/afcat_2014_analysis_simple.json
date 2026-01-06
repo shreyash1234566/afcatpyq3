@@ -1,0 +1,686 @@
+{
+  "year": 2014,
+  "shift": null,
+  "total_questions": 89,
+  "topic_data": [
+    {
+      "year": 2014,
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "count": 29,
+      "difficulties": {
+        "easy": 10,
+        "medium": 16,
+        "hard": 3
+      },
+      "sample_questions": [
+        {
+          "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "verbal_ability",
+      "topic": "Inferred Verbal Ability",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "[VERBAL - likely passage/cloze question]",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "count": 11,
+      "difficulties": {
+        "easy": 11,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "'LIBERALISE'",
+          "difficulty": "easy"
+        },
+        {
+          "text": "'PRAGMATIC'",
+          "difficulty": "easy"
+        },
+        {
+          "text": "'PRISTINE'",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Building castles in the air",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "general_awareness",
+      "topic": "analogy",
+      "count": 7,
+      "difficulties": {
+        "easy": 4,
+        "medium": 3,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The Viceroy who divided Bengal by following the divide and rule policy was:",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The right to vote in the national elections in India is based on the principle of",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Who was the first woman to climb Mount Everest ?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "general_awareness",
+      "topic": "mirror_water_images",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Algae often float on surface of water during day but sink during night due to:",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "general_awareness",
+      "topic": "geography_india",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "On which river is Berlin city situated ?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "general_awareness",
+      "topic": "Inferred General Awareness",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED GA Q36] (a) Potomac \n(b) Irrawaddy \n(c) Rhine \n(d) Spree \n\n--- PAGE 8 --Q.36. The commonwealth Games Relay Baton has traditionally contained? \n(a) sand from the last host city \n(b) a message ...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "[RESCUED GA Q48] (a) Rs. 13,000/(b) Rs. 17,000/(c) Rs. 15,000/(d) Rs. 40,000/Q.48. 7 is added to a certain number, the sum is multiplied by 5; the product is divided by 9 and 3 is subtracted from the ...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "general_awareness",
+      "topic": "calendar",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "When is the World Poetry Day recognized by the UNESCO observed?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "general_awareness",
+      "topic": "geography_world",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The youngest mountain range in the world is:",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "general_awareness",
+      "topic": "defense",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who was the first Commander in chief of Indian Air Force in Independent India?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "general_awareness",
+      "topic": "science_biology",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which theory gave birth to the French Revolution and the Revolution in America?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "general_awareness",
+      "topic": "inferred_general_awareness",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "38th parallel is a boundary line between ______",
+          "difficulty": "easy"
+        },
+        {
+          "text": "'Satyameva Jayate' is borrowed from which of the following?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "general_awareness",
+      "topic": "profit_loss",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Two-third of a consignment was sold at a profit of 5% and the remainder at a loss of 2% if the total profit was Rs. 400, what was the value of the consignment?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "general_awareness",
+      "topic": "speed_time_distance",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A train covers a distance of 10 km in 12 minutes. If its speed is decreased by 5 kmph, what is the time taken by the train to cover the same distance?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "general_awareness",
+      "topic": "blood_relations",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In Arun's opinion his weight is greater than 65 kg but less than 72 kg. His brother does not agree with",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "general_awareness",
+      "topic": "analogy_verbal",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "In three annual examinations' of which the aggregate marks of each was 500, a student secured average marks 45% and 55% in the first and the second yearly examinations respectively. To secure 60% aver...",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "general_awareness",
+      "topic": "percentages",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A towel was 50 cm broad and 100 cm long. When bleached, it was found to have lost 20% of its length and 10% of its breadth. Find the percentage of decrease in area?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "general_awareness",
+      "topic": "decimal_fraction",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "How many digits will be there to the right of the decimal point in the product of 95.75 and 0.02554?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "general_awareness",
+      "topic": "time_and_work",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "'A' and 'B' can do a piece of work in 30 days while 'B' and 'C' can do the same work in 24 days and 'C' and 'A' in 20 days. They all work for 10 days and 'B' and 'C' leave. How many days more will 'A'...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "reasoning",
+      "topic": "ratio_proportion",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A factory employs skilled workers, unskilled workers and clerks in the proportion 8: 5: 1 and the wages of a skilled worker as unskilled worker and a clerk are in the ratio 5 : 2 : 3. When 20 unskille...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "reasoning",
+      "topic": "algebra",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A cat takes 5 leaps for every 4 leaps of a dog, but 3 leaps of the dog are equal to 4 leaps of the cat.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "reasoning",
+      "topic": "analogy",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Ram Shiv and Ganesh assemble for a contributory party. Ram brings 3 apples while Shiv brings 5.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "reasoning",
+      "topic": "speed_time_distance",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A train is moving at a speed of 132 kmph. If the length of the train is 110 meters, how long will it take to cross a railway platform 165 m long?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "reasoning",
+      "topic": "averages",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The sum of the number of boys and girls in a school is 150. If the number of boys is x, then the number of girls becomes x% of the total number of students. How many boys are there in the school?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "reasoning",
+      "topic": "percentages",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "'A' scored 30% marks and failed by 15 marks. 'B' scored 40% marks and obtained 35 marks more than those required to pass. What is the pass percentage?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "A banker lent Rs. 6000/- at 10% and Rs. 5000/- at 12% at the same time and for same period of time.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "reasoning",
+      "topic": "trains_boats",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Speed of a boat in still water is 9 Kmph and the speed of the stream is 1.5 Kmph. A man rows to a place at a distance of 105 Kms and comes back to the starting point. What will be the total time taken...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "reasoning",
+      "topic": "seating_arrangement",
+      "count": 4,
+      "difficulties": {
+        "easy": 4,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following diagrams indicates the best relation between Judge, Thieves and Criminals?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the following diagrams indicates the best relation between India, Haryana and World?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the following diagrams indicates the best relation between Pigeon, Bird and Dog?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "reasoning",
+      "topic": "inferred_reasoning",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Architect: Building: Sculptor: ......?.....",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Eye: Myopia: Teeth: .....?.......",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "reasoning",
+      "topic": "paper_folding",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Conference: Chairman: Newspaper: .....?......",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "numerical_ability",
+      "topic": "technology",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which one of the following is always with 'Bargain'?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "numerical_ability",
+      "topic": "inferred_numerical_ability",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which one of the following a 'Drama' must have?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "numerical_ability",
+      "topic": "science_physics",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A boy is sitting at the back seat of a car. When the driver suddenly start moving the car (in forward direction) the boy experiences a backward force?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "numerical_ability",
+      "topic": "organizations",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which one of the following is always found in 'Wonder'?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "reasoning",
+      "topic": "pattern_completion",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "DIRECTIONS (Qs. 98-100): In each of the following questions, select a figure from amongst the four alternatives which when placed in the blank space of figure (X) would complete the pattern:",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "count": 3,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "[MATH - trailing placeholder]",
+          "difficulty": "easy"
+        },
+        {
+          "text": "[MATH - trailing placeholder]",
+          "difficulty": "easy"
+        },
+        {
+          "text": "[MATH - trailing placeholder]",
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "reasoning": 45,
+    "verbal_ability": 13,
+    "general_awareness": 24,
+    "numerical_ability": 7
+  },
+  "difficulty_distribution": {
+    "easy": 48,
+    "medium": 36,
+    "hard": 5
+  }
+}

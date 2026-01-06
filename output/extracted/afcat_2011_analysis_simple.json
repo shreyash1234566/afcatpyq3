@@ -1,0 +1,913 @@
+{
+  "year": 2011,
+  "shift": null,
+  "total_questions": 101,
+  "topic_data": [
+    {
+      "year": 2011,
+      "section": "verbal_ability",
+      "topic": "reading_comprehension",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "What is the main thrust of the author?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "count": 8,
+      "difficulties": {
+        "easy": 8,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "What should be the major characteristic of the future educational system?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "His family members may arrive (d)",
+          "difficulty": "easy"
+        },
+        {
+          "text": "He went to office (d)",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "verbal_ability",
+      "topic": "puzzle",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "According to the author, what measures should open university adopt to meet modern conditions?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "verbal_ability",
+      "topic": "vocabulary",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In the context of the passage, what is the meaning of the sentence “The writing is already on the wall”?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "verbal_ability",
+      "topic": "calendar",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "It was a year since (d)",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "verbal_ability",
+      "topic": "blood_relations",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The two brothers amicably divided (d)",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "verbal_ability",
+      "topic": "technology",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "To attain a high academic standard",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "verbal_ability",
+      "topic": "direct_indirect",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Mohini is an independent and innovative thinker, it is best to grant her a good deal of __________ with regard to the direction of her research.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "verbal_ability",
+      "topic": "Inferred Verbal Ability",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "[VERBAL - likely passage/cloze question]",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "count": 14,
+      "difficulties": {
+        "easy": 9,
+        "medium": 4,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "VENERATE [LIKELY FIGURE - incomplete text]",
+          "difficulty": "easy"
+        },
+        {
+          "text": "VACILLATE [LIKELY FIGURE - incomplete text]",
+          "difficulty": "medium"
+        },
+        {
+          "text": "FELICITY [LIKELY FIGURE - incomplete text]",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "count": 6,
+      "difficulties": {
+        "easy": 5,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The famous Grand Trunk (GT) Road from Peshawar to Kolkata was built by",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The Ashoka Pillar whose Lion Capitol (Carving) was adopted by the Government of India as National",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The Preamble of the Constitution of India was prepared by",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "verbal_ability",
+      "topic": "awards",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Dronacharya award is given for outstanding contribution in the field of",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "verbal_ability",
+      "topic": "current_affairs",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The first Olympic Games were held in 1896 at",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "general_awareness",
+      "topic": "analogy",
+      "count": 5,
+      "difficulties": {
+        "easy": 3,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "What will be the colour of a red rose when it is seen through green glass?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Indigenously build supersonic cruise missile is known as",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The number of girls in a class in five times the number of boys. Which of the following cannot be the total number of children in the class?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "general_awareness",
+      "topic": "science_physics",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which one of the following is the exclusive power of the Lok Sabha?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "general_awareness",
+      "topic": "geography_india",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which one of the following crops enriches nitrogen content in the soil?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "general_awareness",
+      "topic": "Inferred General Awareness",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 2
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED GA Q35] (a) Pea \n(b) Sunflower \n(c) Potato \n(d) Wheat \n \n\n--- PAGE 7 --Q.35. Which of the following periodical winds blowing from sea to land cause summer monsoon in India? \n(a) East West \n(b...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "[RESCUED GA Q42] (a) 24 \n(b) 30 \n(c) 35 \n(d) 54 \n \n\n--- PAGE 8 --Q.42. Ram went to a shop to buy 50 kg of rice. He bought two varieties of rice which cost him Rs. 4.50 per kg and Rs. 5 per kg. He spen...",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "general_awareness",
+      "topic": "inferred_general_awareness",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "India’s permanent research station ‘Dakshin Gangotri” is situated in the",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "general_awareness",
+      "topic": "geography_world",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which one of the following is the busiest ocean route in the world?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "general_awareness",
+      "topic": "defense",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Defence Services Staff College is located at",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "general_awareness",
+      "topic": "calendar",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The United Nations Organisations responsible to maintain international peace & security, was established on 24 October in the year",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "general_awareness",
+      "topic": "reading_comprehension",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who authored the book “Freedom at Midnight”?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "general_awareness",
+      "topic": "ratio_proportion",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The number of workers are reduced in the ratio 4:3 & the salary of each worker is increased in the ratio 5:6. By doing so, company saves Rs 8000. Find the initial expenditure.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "general_awareness",
+      "topic": "odd_one_out",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The average of five consecutive odd number is 61. What is the difference between the highest and lowest number?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "general_awareness",
+      "topic": "series_completion",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A cricketer has an average of 30 runs in 14 innings. How many runs should he score in his next innings to achieve an average of 32 runs?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "general_awareness",
+      "topic": "profit_loss",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "What percentage of profit should be added in the cost price of an item so as to gain a profit of 33% after allowing 5% discount to the customer?",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "general_awareness",
+      "topic": "data_interpretation",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "If the manufacturer gains 10%, the wholesale dealer gains 15% and the retailer gains 25%, find the cost of production of a table. The retail price of table is Rs. 1265",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "general_awareness",
+      "topic": "percentages",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A loss of 19% on a shirt gets converted into a profit of 17% when the selling price is increased by Rs.",
+          "difficulty": "medium"
+        },
+        {
+          "text": "When the price of a product was increased by 15%, the number of items sold was decreased by 20%.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "general_awareness",
+      "topic": "mixtures_alligation",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "A mixture of 40 litres of milk and water contains 10% water. How much water should be added to this mixture so that the new mixture contains 20% water?",
+          "difficulty": "hard"
+        },
+        {
+          "text": "In a mixture of 60 litres, the ratio of milk and water is 2: 1. What amount of water must be added to make the ratio of milk and water as 1: 2?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "general_awareness",
+      "topic": "averages",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The ratio of three numbers is 3 : 4 : 5 and the sum of their squares is 1250. The sum of the three numbers is",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The average age of three boys is 25 years and their ages are in the proportion 3 : 5 : 7. What is the age of the youngest boy?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "reasoning",
+      "topic": "simple_compound_interest",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "A certain sum of money becomes three times of itself in 20 years at simple interest. In how many years will the initial sum become double at the same rate of simple interest?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Ram borrows Rs. 8000 at 12% p.a. simple interest and Mohan borrows Rs. 9100 at 10% p.a. simple interest. In how many years will their borrowed amounts (debt) be equal?",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "numerical_ability",
+      "topic": "simple_compound_interest",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Reena took a loan of Rs. 1200 with simple interest for a certain numbers of years. The number years are same as the interest rate. If she has paid Rs. 432 as interest at the end of the loan period, wh...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "reasoning",
+      "topic": "analogy",
+      "count": 3,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A student was asked to divide a number by 3. But, instead of dividing it he multiplied it by 3 and got",
+          "difficulty": "easy"
+        },
+        {
+          "text": "EAST : ORIENT",
+          "difficulty": "easy"
+        },
+        {
+          "text": "This test requires you to identify the relationship between two words. Shoe is to foot as sock is to",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "reasoning",
+      "topic": "decimal_fraction",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following fraction is the smallest?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "TEN : DECIMAL",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "reasoning",
+      "topic": "books_authors",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "STORY : NOVEL",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "reasoning",
+      "topic": "science_chemistry",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "GRAIN : SALT",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "reasoning",
+      "topic": "technology",
+      "count": 3,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "WAITER : TIP",
+          "difficulty": "easy"
+        },
+        {
+          "text": "PAIN : SEDATIVE",
+          "difficulty": "easy"
+        },
+        {
+          "text": "SADIEST : PAIN",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "reasoning",
+      "topic": "inferred_reasoning",
+      "count": 6,
+      "difficulties": {
+        "easy": 6,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "SILENCE : NOISE",
+          "difficulty": "easy"
+        },
+        {
+          "text": "WAN : COLOUR",
+          "difficulty": "easy"
+        },
+        {
+          "text": "PORK : PIG",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "reasoning",
+      "topic": "speed_time_distance",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "DISTANCE : MILE",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "reasoning",
+      "topic": "organizations",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "MUNDANE : SPIRITUAL",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "numerical_ability",
+      "topic": "vocabulary",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which word in each set of four is the odd one out?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "count": 8,
+      "difficulties": {
+        "easy": 7,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED MATH Q83] (a) wind \n(b) hand \n(c) foot \n(d) leg \n \n\n--- PAGE 14 --Q.83. Relaxed means the same as the opposite of \n(a) calm \n(b) angry \n(c) tense \n(d) sleep \n \nQ.84.",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[MATH - topic cannot be inferred from neighbors]",
+          "difficulty": "easy"
+        },
+        {
+          "text": "[MATH - topic cannot be inferred from neighbors]",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "numerical_ability",
+      "topic": "number_series",
+      "count": 4,
+      "difficulties": {
+        "easy": 0,
+        "medium": 4,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Look at the series 36, 34, 30, 28, 24, ..... what number should come next?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Look at the series 22, 21, 23, 22, 24, 23..... what number should come next?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Look at the series 53, 53, 40, 40, 27, 27..... what number should come next?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "numerical_ability",
+      "topic": "series_completion",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Look at the series 8, 22, 8, 28, 8..... what number should come next?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "numerical_ability",
+      "topic": "embedded_figures",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "DIRECTIONS (Q.96): There are certain common characteristics/properties between the two problem figures. Select the figure from amongst the Answer Figures which shows similar characteristics/ propertie...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "numerical_ability",
+      "topic": "analogy",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "DIRECTIONS (Qs. 97-99): Your task here is to look at the target figure and decide which of the rotated figures below is identical to it. If you do not think any of the figures is same as the target sh...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "section": "numerical_ability",
+      "topic": "pattern_completion",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+          "difficulty": "medium"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "verbal_ability": 24,
+    "reasoning": 34,
+    "general_awareness": 25,
+    "numerical_ability": 18
+  },
+  "difficulty_distribution": {
+    "easy": 64,
+    "medium": 30,
+    "hard": 7
+  }
+}

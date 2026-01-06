@@ -1,0 +1,773 @@
+{
+  "year": 2013,
+  "shift": null,
+  "total_questions": 89,
+  "topic_data": [
+    {
+      "year": 2013,
+      "section": "verbal_ability",
+      "topic": "direct_indirect",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "On the basis of the passage which of the following statements may be said to be correct?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "verbal_ability",
+      "topic": "reading_comprehension",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The speaker in the passage wants to go on fighting because",
+          "difficulty": "medium"
+        },
+        {
+          "text": "According to the weather __________ it is going to be cloudy today.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "count": 4,
+      "difficulties": {
+        "easy": 3,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following pair of the phrases helps best to bring out the intension of the speaker?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "During the Middle Ages education was confined only to",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Who among the following was responsible for the spread of Buddhism in Sri Lanka?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "verbal_ability",
+      "topic": "vocabulary",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The passage consists of repetitive patterns in syntax and vocabulary. The effect of this style is that it",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "count": 19,
+      "difficulties": {
+        "easy": 11,
+        "medium": 7,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "The tone of the speaker is",
+          "difficulty": "easy"
+        },
+        {
+          "text": "“MEDDLE” [LIKELY FIGURE - incomplete text]",
+          "difficulty": "easy"
+        },
+        {
+          "text": "“ABJURE” [LIKELY FIGURE - incomplete text]",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "verbal_ability",
+      "topic": "Inferred Verbal Ability",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "[VERBAL - likely passage/cloze question]",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[RESCUED VERBAL Q26] (a) oxidising agents \n(b) reducing agents \n(c) oxidising and reducing agents depending upon the reactants \n(d) none of these \n\n--- PAGE 6 --Q.26. Wayne Rooney, the famous football...",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "verbal_ability",
+      "topic": "organizations",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The man who (d)",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Who accorded the title ‘Mahatma” to MK Gandhi?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "count": 5,
+      "difficulties": {
+        "easy": 4,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "I told him on his face (d)",
+          "difficulty": "easy"
+        },
+        {
+          "text": "I may spend",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The villagers __________ the murder of their leader by burning the police van.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "verbal_ability",
+      "topic": "analogy_verbal",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "While on the routine fight, the aircraft was hit by a missile and __________ into flames.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Hari got the company car for a __________ price as he was the senior most employee in the company.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "verbal_ability",
+      "topic": "ratio_proportion",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The Non co-operation Movement started in which year?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "verbal_ability",
+      "topic": "simplification",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The elements which have low value of ionization potential are strong",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "verbal_ability",
+      "topic": "sports",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The official song ‘WakaWaka’ of FIFA World Cup held in the year 2010 at South Africa was sung by which popular singer?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "verbal_ability",
+      "topic": "awards",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In the year 2011, the ace badminton player Saina Nehwal was honored with which sports award?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "general_awareness",
+      "topic": "geography_india",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "River Sutlej originates from",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "general_awareness",
+      "topic": "Inferred General Awareness",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED GA Q32] (a) Northern slopes of the Kailash range \n(b) Spring at Verinarg \n(c) Rakas Lake \n(d) Amarkantak plateau \n \n\n--- PAGE 7 --Q.32. Limonitic ore is the ore of which metal? \n(a) Iron \n(b)...",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[RESCUED GA Q50] (a) 12 \n(b) 13.5 \n(c) 24 \n(d) cannot be determined due to insufficient data \n \n\n--- PAGE 10 --Q.50. Srinivasan invests two equal amounts in two banks giving 8% and 12% rate of interes...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "general_awareness",
+      "topic": "science_biology",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Black revolution relates to which of the following?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "general_awareness",
+      "topic": "technology",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Karrar is the unmanned bomber aircraft of",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "general_awareness",
+      "topic": "books_authors",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who is the author of book ‘Keeping the Faith: Members of a Parliamentarian’?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "general_awareness",
+      "topic": "inferred_general_awareness",
+      "count": 3,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "__________ is a thyroid hormone which controls the balance of calcium in the body",
+          "difficulty": "easy"
+        },
+        {
+          "text": "If a/ (a + b) = 15/21, what is (a + b)/(a – b) equal to?",
+          "difficulty": "hard"
+        },
+        {
+          "text": "(798+579)2−(798−579)2",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "general_awareness",
+      "topic": "analogy",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The cell wall in plants is interrupted by narrow pores carrying fine strands of cytoplasm which interlink the contents of the cells. These strands are called:",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "general_awareness",
+      "topic": "organizations",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who is the cricketer bestowed with an honorary commission in the Territorial Army?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The number whose square is equal to the difference of the squares of 37 and 23 is",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "general_awareness",
+      "topic": "analogy_verbal",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The transport phenomenon occurs only in __________ state of a gas and is __________.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "general_awareness",
+      "topic": "science_chemistry",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following compounds form nitrites with nitrous acid?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "general_awareness",
+      "topic": "averages",
+      "count": 3,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "The average age of 8 men is increased by 4 years when one of them whose age is 30 years is replaced by a new man.",
+          "difficulty": "medium"
+        },
+        {
+          "text": "The average age of students of a class is 15.8 years. The average age of boys in the class is 16.4 years and that of the girls is 15.4 years. The ratio of the number of boys to the number of girls in ...",
+          "difficulty": "medium"
+        },
+        {
+          "text": "A sum of Rs. 2600 is lent out into two parts, one at 9% and another at 7%. If the total annual income is Rs. 206, find the money lent at 7%.",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "general_awareness",
+      "topic": "mixtures_alligation",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A vessel, full of water, weighs 24 kg. When the vessel is 1/4 full, it weighs 9 kg. Find the weight of empty vessel.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "general_awareness",
+      "topic": "simplification",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "If a – b = 4 and ab = 45 find the value of a³ – b³.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "general_awareness",
+      "topic": "percentages",
+      "count": 3,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 2
+      },
+      "sample_questions": [
+        {
+          "text": "A man’s average monthly expenditure for the first four months of the year was Rs. 231.25. For the next five months, the average monthly expenditure was Rs. 22.75 more than what it was during the first...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "In an election between two candidates, 70% of the voters cast their votes, out of which 2% of the votes were declared invalid. A candidate got 7203 votes which was 60% of the total valid votes. Find t...",
+          "difficulty": "medium"
+        },
+        {
+          "text": "75 puπls from a school appeared for an examination and 80% of them passed. Another school entered 10 more puπls than the first school and five puπls less than the first school passed. The pass % of in...",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "general_awareness",
+      "topic": "time_and_work",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "18 buckets of water fill a tank when the capacity of each bucket is 8 litres. How many buckets will be needed to fill the same tank, if the capacity of the bucket is 12 litres?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "numerical_ability",
+      "topic": "simple_compound_interest",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The simple interest accrued on a sum of money at the end of four years is 1/5th of its principal. What is the rate of interest per annum?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Calculate the amount on Rs. 1875 for 2 years at 4% per annum, compounded yearly.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "numerical_ability",
+      "topic": "percentages",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The price of Kerosene was increased by 11%. What percent a house holder must reduce his consumption of kerosene so as not to increase his expenditure?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "reasoning",
+      "topic": "inferred_reasoning",
+      "count": 9,
+      "difficulties": {
+        "easy": 8,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Divide Rs. 80 in the production of 3 : 6 : 7.",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Cream: Cosmetics",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Hamlet: Macbeth: Faustus",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "reasoning",
+      "topic": "coding_decoding",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "If × varies as y and × = 8 when y = 15 then the values of × when y = 10 is",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "reasoning",
+      "topic": "mixtures_alligation",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In a mixture of 60 litres, the ratio of milk and water is 2: 1. What amount of water must be added to make the ratio of milk and water as 1: 2?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "reasoning",
+      "topic": "averages",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A sum of Rs. 10,000 is lent partly at 6% and the remaining at 10% p.a. If the yearly interest on the average is 9.2%, the money lent at 10% is",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "reasoning",
+      "topic": "economy",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Carnivore: Herbivore",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "reasoning",
+      "topic": "organizations",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Barauni: Digboi: Ankleshwar",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "count": 5,
+      "difficulties": {
+        "easy": 3,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED MATH Q81] (a) They were social reformers. \n(b) They were famous poets. \n(c) They were saints. \n(d) They were yoga instructors \n \nDIRECTIONS (Qs. 81 – 85): There are two sets of figures namely...",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[RESCUED MATH Q82] (a) They were social reformers. \n(b) They were famous poets. \n(c) They were saints. \n(d) They were yoga instructors \n \nDIRECTIONS (Qs. 81 – 85): There are two sets of figures namely...",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[MATH - topic cannot be inferred from neighbors]",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "numerical_ability",
+      "topic": "embedded_figures",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "DIRECTIONS (Qs. 86-90) : The following situations involve a cluster of three or more geometrical figures, having one or more dots placed at any point inside the cluster. This cluster is followed by a ...",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "section": "numerical_ability",
+      "topic": "inferred_numerical_ability",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "--- PAGE 21 --8",
+          "difficulty": "medium"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "verbal_ability": 23,
+    "reasoning": 33,
+    "general_awareness": 23,
+    "numerical_ability": 10
+  },
+  "difficulty_distribution": {
+    "easy": 48,
+    "medium": 33,
+    "hard": 8
+  }
+}

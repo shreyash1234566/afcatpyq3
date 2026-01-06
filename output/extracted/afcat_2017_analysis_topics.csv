@@ -1,0 +1,38 @@
+Year,Section,Topic,Count,Easy,Medium,Hard
+2017,general_awareness,Inferred General Awareness,3,0,1,2
+2017,general_awareness,analogy,7,5,2,0
+2017,general_awareness,awards,1,1,0,0
+2017,general_awareness,books_authors,1,1,0,0
+2017,general_awareness,calendar,1,1,0,0
+2017,general_awareness,geography_india,2,1,1,0
+2017,general_awareness,geography_world,2,1,1,0
+2017,general_awareness,inferred_general_awareness,2,2,0,0
+2017,general_awareness,organizations,1,1,0,0
+2017,general_awareness,percentages,1,0,1,0
+2017,general_awareness,polity,1,1,0,0
+2017,general_awareness,sports,1,1,0,0
+2017,general_awareness,time_and_work,1,0,1,0
+2017,general_awareness,trains_boats,1,0,1,0
+2017,numerical_ability,Inferred Numerical Ability,2,2,0,0
+2017,numerical_ability,embedded_figures,4,4,0,0
+2017,numerical_ability,odd_one_out,5,5,0,0
+2017,numerical_ability,seating_arrangement,5,5,0,0
+2017,reasoning,Inferred Reasoning,31,19,11,1
+2017,reasoning,algebra,1,0,0,1
+2017,reasoning,analogy,2,2,0,0
+2017,reasoning,averages,1,0,1,0
+2017,reasoning,coding_decoding,1,0,1,0
+2017,reasoning,embedded_figures,3,3,0,0
+2017,reasoning,inferred_reasoning,2,2,0,0
+2017,reasoning,profit_loss,2,0,1,1
+2017,reasoning,ratio_proportion,2,0,2,0
+2017,reasoning,simple_compound_interest,1,0,0,1
+2017,reasoning,time_and_work,1,0,0,1
+2017,verbal_ability,analogy,2,2,0,0
+2017,verbal_ability,art_culture,1,1,0,0
+2017,verbal_ability,awards,1,1,0,0
+2017,verbal_ability,defense,1,1,0,0
+2017,verbal_ability,direction_sense,1,1,0,0
+2017,verbal_ability,history_ancient,1,1,0,0
+2017,verbal_ability,inferred_verbal_ability,3,2,1,0
+2017,verbal_ability,reading_comprehension,2,1,1,0

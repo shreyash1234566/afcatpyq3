@@ -1,0 +1,690 @@
+{
+  "year": 2017,
+  "shift": 1,
+  "total_questions": 100,
+  "topic_data": [
+    {
+      "year": 2017,
+      "section": "verbal_ability",
+      "topic": "Inferred Verbal Ability",
+      "count": 18,
+      "difficulties": {
+        "easy": 13,
+        "medium": 5,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Ameliorate",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Haggle [LIKELY FIGURE - incomplete text]",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The smaller number is:",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "verbal_ability",
+      "topic": "idioms_and_phrases",
+      "count": 3,
+      "difficulties": {
+        "easy": 2,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "To catch a tartar",
+          "difficulty": "easy"
+        },
+        {
+          "text": "To have an axe to grind",
+          "difficulty": "easy"
+        },
+        {
+          "text": "To play second fiddle",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "verbal_ability",
+      "topic": "VA_COMP",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following statements is correct according to the passage?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The passage given above is",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "verbal_ability",
+      "topic": "RM_VR_DIR",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The West did not pay heed to:",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "verbal_ability",
+      "topic": "RM_VR_ANA",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "India's perception towards USSR was always",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the following places was chosen by Gandhiji to start his first Satyagrah?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "verbal_ability",
+      "topic": "GA_HIST_ANC",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Where is Lothal, a prominent city of the ancient Indus Valley Civilization, located in?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "general_awareness",
+      "topic": "current_affairs",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following films won Oscar in the best film category in 2017?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which navy ship was decommissioned in 2017?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "general_awareness",
+      "topic": "GA_AWARD",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who won the Nobel Prize for the novel \"Old Man and the Sea\"?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Who won the Nobel Peace Prize in 2016?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "general_awareness",
+      "topic": "RM_VR_ANA",
+      "count": 7,
+      "difficulties": {
+        "easy": 4,
+        "medium": 3,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "What was the old name of Myanmar?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Who was the first cricket player to be declared out in a test cricket match by third umpire?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Who was the first NSA of India?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "general_awareness",
+      "topic": "literature",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Aladdin is the character of which of the following books?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "general_awareness",
+      "topic": "geography",
+      "count": 3,
+      "difficulties": {
+        "easy": 2,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Where is the office of the International Court of Justice located?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which is the deepest trench in the world?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "On which river the Baglihar Dam is built?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "general_awareness",
+      "topic": "Inferred General Awareness",
+      "count": 3,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 2
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED GA Q34] (a) Hague \n(b) Washington \n(c) Moscow \n(d) Venice \n \n\n--- PAGE 8 --Q.34. What is sin bin in ice hockey game? \n(a) Penalty box \n(b) Hockey sticks \n(c) Dust bin \n(d) Rest room \n \nQ.35.",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[RESCUED GA Q47] (a) Birender Singh Dhanoa \n(b) Arup Raha \n(c) Anil Kumar Browne \n(d) Pradeep Vasant Naik \n \n\n--- PAGE 10 --Q.47. Keoladeo National Park is located in which state? \n(a) Punjab \n(b) Tam...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "[RESCUED GA Q53] (a) 80 \n(b) 72 \n(c) 58 \n(d) 76 \n \n\n--- PAGE 11 --Q.53. A is thrice as efficient as workman as B and therefore is able to finish a job in 40 days less than B to complete a work. Workin...",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "general_awareness",
+      "topic": "polity",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Mandal Commission was established by which of the following Prime Ministers of India?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "general_awareness",
+      "topic": "sports",
+      "count": 3,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which Cuban athlete is called 'horse'?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Michael Ferreira is related to which sports?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the following states won Vijay Hazare Trophy 2016-17?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "general_awareness",
+      "topic": "GA_ORG",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Where is headquarter of World Health Organization (WHO) located?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "general_awareness",
+      "topic": "RM_VR_CAL",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who was named ICC cricketer of the year 2016?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "numerical_ability",
+      "topic": "speed-distance",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A man whose speed is 4.5 kmph in still water rows to a certain upstream point and back to the starting point in a river which flows at 1.5 kmph, find his average speed for the total journey?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "numerical_ability",
+      "topic": "NA_PER",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "The ratio of the number of boys and girls in a school is 3:2. If 20% of the boys and 30% of the girls are scholarship holders, the percentage of the students who are not scholarship holders is:",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Average weight of 15 students increased by 1.5 kg when one person of 40 kg is replaced by a new man. Then weight of the new man is",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "numerical_ability",
+      "topic": "NA_TRAIN",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A train moving at a cover a rate of 90 kmph. Crosses a tunnel in 36 seconds. and other train which is",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "numerical_ability",
+      "topic": "NA_TW",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A and B together can complete a piece of work in 12 days, B and C can do it in 15 days and A and C can do it in 20 days. A, B and C together can complete it in",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "reasoning",
+      "topic": "NA_ALG",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "If a number exceeds 40% of itself by 56, then what is the number?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "reasoning",
+      "topic": "RM_VR_ANA",
+      "count": 3,
+      "difficulties": {
+        "easy": 1,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Average temperature of Tuesday to Thursday was 38 degree celsius and that Wednesday to Friday was 37 degree celsius. If the temperature on Friday was 39 degree celsius. The temperature on Tuesday was?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "A train passes a man standing on a platform in 10 sec. and passes the platform in 22 sec. completely.",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Taste : Tongue : : Walk : ?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "numerical_ability",
+      "topic": "NA_PL",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "A shopkeeper sell a watch for Rs. 575 and makes a profit of 15%, he sells a different watch at a loss of 10%. Over all, he neither gains nor loses. What is cost price of the second watch?",
+          "difficulty": "hard"
+        },
+        {
+          "text": "A cloth merchant says that due to slump in the market, he sells the cloth at 10% loss but he uses a false meter scale and actually gains 15%.Find the actual length of the scale.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "numerical_ability",
+      "topic": "arithmetic",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "A men spend 1/3 of his income on food,1/4 of the rest on rent and 1/5 of the rest on clothes. He still has Rs.1760 left with him. Find his income?",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "numerical_ability",
+      "topic": "NA_RAT",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Two number are in the ratio 12: 13. If 20 is subtracted from each, the new numbers are in the ratio 2:",
+          "difficulty": "medium"
+        },
+        {
+          "text": "A person distributes his pens among four friends A, B, C and D in the ratio 1/3 : 1 / 4 : 1/5 : 1/6. What is the minimum number of pens that the person should have?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "count": 9,
+      "difficulties": {
+        "easy": 2,
+        "medium": 6,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED REASONING Q64] If the platform is 150 meters long, how long is the train? \n(a) 125 m \n(b) 115 m \n(c) 135 m \n(d) 145 m \n\n--- PAGE 13 --Q.64. If 1/5th tank is full and if 22 litres fuel poured ...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "numerical_ability",
+      "topic": "NA_SI_CI",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A sum is lent at simple interest at a certain rate for 4 years. Had it been put at 3% more rate, it would have earned Rs. 78 more. Find the sum?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "reasoning",
+      "topic": "analogies",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Chimney : Smoke : : _____ : ____",
+          "difficulty": "easy"
+        },
+        {
+          "text": "DCGH : LKQP : : FEJI : ?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "reasoning",
+      "topic": "RM_NV_FIG",
+      "count": 7,
+      "difficulties": {
+        "easy": 7,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "count": 6,
+      "difficulties": {
+        "easy": 6,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Identify the figure that completes the pattern.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Identify the figure that completes the pattern.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Identify the figure that completes the pattern.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "reasoning",
+      "topic": "RM_VR_ODD",
+      "count": 5,
+      "difficulties": {
+        "easy": 5,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Choose the figure which is different from the rest.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Choose the figure which is different from the rest.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Choose the figure which is different from the rest.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "section": "numerical_ability",
+      "topic": "RM_VR_SEAT",
+      "count": 5,
+      "difficulties": {
+        "easy": 5,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following diagrams indicates the best relation between India, Haryana and World?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the following diagrams indicates the best relation between Pigeon, Bird and Dog?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the following diagrams indicates the best relation between Earth, Sea and Sun?",
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "verbal_ability": 27,
+    "general_awareness": 24,
+    "numerical_ability": 22,
+    "reasoning": 27
+  },
+  "difficulty_distribution": {
+    "easy": 65,
+    "medium": 29,
+    "hard": 6
+  }
+}

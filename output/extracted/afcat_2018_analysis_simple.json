@@ -1,0 +1,799 @@
+{
+  "year": 2018,
+  "shift": null,
+  "total_questions": 100,
+  "topic_data": [
+    {
+      "year": 2018,
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "count": 30,
+      "difficulties": {
+        "easy": 17,
+        "medium": 13,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+          "difficulty": "medium"
+        },
+        {
+          "text": "ROSTRUM [LIKELY FIGURE - incomplete text]",
+          "difficulty": "easy"
+        },
+        {
+          "text": "PROROGUE [LIKELY FIGURE - incomplete text]",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "verbal_ability",
+      "topic": "averages",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The average age at which (D)",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "count": 7,
+      "difficulties": {
+        "easy": 3,
+        "medium": 4,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Hardly had I stepped (D)",
+          "difficulty": "medium"
+        },
+        {
+          "text": "A healthy man should be concerned with:",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Our great concern with health is shown by?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The last Mughal emperor was",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "verbal_ability",
+      "topic": "history_modern",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Modern medicine is primarily concerned with:",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "verbal_ability",
+      "topic": "analogy_verbal",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Grandmother has a good memory; she can remember things which __________many years ago.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "I'm going to adopt her as_________ as Julie and I get married.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "verbal_ability",
+      "topic": "geography_world",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which Continent has the largest coastline?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "verbal_ability",
+      "topic": "Inferred Verbal Ability",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED VERBAL Q28] (a) Asia \n(b) North America \n(c) South America \n(d) Africa \n \n\n--- PAGE 7 --Q.28. Which game is Geet Sethi associated with? \n(a) Squash \n(b) Table Tennis \n(c) Billiards \n(d) Golf ...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "verbal_ability",
+      "topic": "art_culture",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In which state of India \"Than Ta Dance\" is related?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "verbal_ability",
+      "topic": "polity",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "When our Constitution was adopted?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "general_awareness",
+      "topic": "art_culture",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The Hardest substance on the Earth?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The visible part of the sun is called —",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "general_awareness",
+      "topic": "coding_decoding",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The language of Ashoka's Inscription?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "general_awareness",
+      "topic": "organizations",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who was awarded first Bharat Ratana?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Who is the chairman of the constitution drafting committee—",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "general_awareness",
+      "topic": "current_affairs",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The first Modern Olympic held where and which city?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "general_awareness",
+      "topic": "geography_india",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Oldest Mountain range in India?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "general_awareness",
+      "topic": "analogy",
+      "count": 6,
+      "difficulties": {
+        "easy": 6,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Number of Players in Basket Ball?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Shuddhi Movement was run by?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The founder of Stavahana Dynasty?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "general_awareness",
+      "topic": "technology",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "ISRO's Satish Dhawan Space Center is located at which place?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "general_awareness",
+      "topic": "reading_comprehension",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The Author of the book \"The Golden Threshold\"?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "general_awareness",
+      "topic": "Inferred General Awareness",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED GA Q41] (a) Satakarni \n(b) Simuka \n(c) Pulumavi \n(d) Kanha \n \n\n--- PAGE 9 --Q.41. Who is the Father of the Indian Space Program? \n(a) Vikram Ambalal Sarabhai \n(b) A. P. J. Abdul Kalam \n(c) Ho...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "general_awareness",
+      "topic": "sports",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Uber cup is related to which sport?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "general_awareness",
+      "topic": "geography_world",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "From which country India bought C-17 transport aircraft?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which country organized Asian games maximum number of times?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "general_awareness",
+      "topic": "environment",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Ozone layer located in which layer –",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "general_awareness",
+      "topic": "direction_sense",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Car A is travelling at 60 kmph towards northwest creating an angle 42° to north and Car B is travelling towards South West at 80 kmph creating an angle 48° degree to South. Both are started from same ...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "general_awareness",
+      "topic": "averages",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Average age of n students who promoted in class VIII is Y years. Three more students included in class whose ages are Y-1, Y-2 and Y+3 years. Find their average age when they promoted in class Xth.",
+          "difficulty": "medium"
+        },
+        {
+          "text": "The average monthly rainfall is 2. 7inch, the average of first 7 months rainfall is 1. 1 less than the average of yearly rainfall and rainfall of other four months is 20. 3 what is the average rainfal...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "general_awareness",
+      "topic": "speed_time_distance",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "Difference between two stations X and Y is 500 km one train starting from X move toward Y with 20 km/h and another train move toward X from Y with the speed 30km/h. What is the distance of the point w...",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "general_awareness",
+      "topic": "ratio_proportion",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "X, Y and Z have some monkey in the ratio 4:3:8. If 2 monkey run away from × and 4 monkey run away",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "reasoning",
+      "topic": "analogy",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A is 5 times efficient as of B. A completes a piece of work in 60 days less than B, how many time will they take individually?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "reasoning",
+      "topic": "profit_loss",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "A man bought watch and pen-drive at 1564 each. And one sold for 23% profit and other sold for 23% loss. What is overall profit or loss?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "60% of the cost price of an article is equal to 50% of its selling price. Then the percentage of profit or loss on the cost price is",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "reasoning",
+      "topic": "ratio_proportion",
+      "count": 3,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "A and B earn in the ratio 2:1. They spend in the ratio 5:3 and save in the ratio 4:1. If the total monthly savings of both A and B are Rs. 5000, the monthly income of B is",
+          "difficulty": "medium"
+        },
+        {
+          "text": "An alloy contains copper, zinc and nickel in the ratio of 5: 3: 2. The quantity of nickel in kg that must be added to 100 kg of this alloy to have the new ratio 5: 3: 3 is",
+          "difficulty": "medium"
+        },
+        {
+          "text": "The ratio of the ages of Ram and Rahim 10 years ago was 1: 3. The ratio of their ages five years hence will be 2: 3. Then the ratio of their present ages is",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "reasoning",
+      "topic": "time_and_work",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "240 men can finish a work in 20 days working 5 hours a day. To finish the work within 10 days working 8 hours a day, the minimum number of men required is",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "numerical_ability",
+      "topic": "profit_loss",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "While selling, a businessman allows 40% discount on the marked price and there is a loss of 30%. If it is sold at the marked price, profit per cent will be —",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "reasoning",
+      "topic": "averages",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The average salary of all the staff in an office of a corporate house is Rs. 5,000. The average salary of the officers is Rs. 14,000 and that of the rest is Rs. 4,000. If the total number of staff is ...",
+          "difficulty": "medium"
+        },
+        {
+          "text": "There are in all, 10 balls; some of them are red and the others white. The average cost of all balls is",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "reasoning",
+      "topic": "simple_compound_interest",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "The difference between simple and compound interest on a sum of money at 5% p. a. for 2 years. is",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "reasoning",
+      "topic": "simplification",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "If √2 = 1. 4142, find the value of",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "reasoning",
+      "topic": "science_physics",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Sound : Medium : : Light : ?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "reasoning",
+      "topic": "venn_diagrams",
+      "count": 4,
+      "difficulties": {
+        "easy": 4,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In the following figure, rectangle represents Opticians, circle represents Art critics, triangle represents Riders and square represents Boxes. Which set of letters represents Art critics who are not",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which one of the following diagram represents the correct relationship among",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which one of the following diagram represents the correct relationship among",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "reasoning",
+      "topic": "calendar",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A's birthday is on Friday 30th June. Find the day of the week on which B's birthday in the same year if B was born 15th November ?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "reasoning",
+      "topic": "paper_folding",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A piece of paper is folded and cut. From the figures given, indicate how it will appear when opened",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "reasoning",
+      "topic": "pattern_completion",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which answer figure will complete the pattern in the following question figure?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "count": 4,
+      "difficulties": {
+        "easy": 2,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED MATH Q86] Professor, Male and Female. \n(a) \n \n(b) \n \n(c) \n \n(d) \n \n \nQ.81. A's birthday is on Friday 30th June. Find the day of the week on which B's birthday in the same year if B was born 1...",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[RESCUED MATH Q87] Professor, Male and Female. \n(a) \n \n(b) \n \n(c) \n \n(d) \n \n \nQ.81. A's birthday is on Friday 30th June. Find the day of the week on which B's birthday in the same year if B was born 1...",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[MATH - topic cannot be inferred from neighbors]",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "section": "numerical_ability",
+      "topic": "embedded_figures",
+      "count": 5,
+      "difficulties": {
+        "easy": 5,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Replace '?' by the appropriate figure from the given options.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which answer figure will complete the question figure?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which answer figure will complete the question figure'?",
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "reasoning": 49,
+    "verbal_ability": 16,
+    "general_awareness": 25,
+    "numerical_ability": 10
+  },
+  "difficulty_distribution": {
+    "easy": 59,
+    "medium": 37,
+    "hard": 4
+  }
+}

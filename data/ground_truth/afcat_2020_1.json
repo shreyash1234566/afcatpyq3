@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "year": 2020,
+    "shift": 1,
+    "total_questions": 10,
+    "source": "data/sample/sample_questions.json"
+  },
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "A train 150m long passes a pole in 15 seconds. Find the speed of the train in km/hr.",
+      "section": "Numerical Ability",
+      "topic": "speed_time_distance",
+      "topic_code": "NA_TW",
+      "choices": [
+        "36 km/hr",
+        "40 km/hr",
+        "45 km/hr",
+        "50 km/hr"
+      ],
+      "correct_answer": "36 km/hr",
+      "difficulty": "Easy",
+      "explanation": "",
+      "year": 2020,
+      "shift": 1
+    },
+    {
+      "question_number": 2,
+      "question_text": "A can complete a work in 10 days and B in 15 days. In how many days can they complete the work together?",
+      "section": "Numerical Ability",
+      "topic": "time_and_work",
+      "topic_code": "NA_TW",
+      "choices": [
+        "5 days",
+        "6 days",
+        "7 days",
+        "8 days"
+      ],
+      "correct_answer": "6 days",
+      "difficulty": "Easy",
+      "explanation": "",
+      "year": 2020,
+      "shift": 1
+    },
+    {
+      "question_number": 3,
+      "question_text": "A shopkeeper marks his goods 40% above CP and allows 20% discount. Find profit percentage.",
+      "section": "Numerical Ability",
+      "topic": "profit_loss",
+      "topic_code": "NA_PL",
+      "choices": [
+        "10%",
+        "12%",
+        "15%",
+        "20%"
+      ],
+      "correct_answer": "12%",
+      "difficulty": "Medium",
+      "explanation": "",
+      "year": 2020,
+      "shift": 1
+    },
+    {
+      "question_number": 4,
+      "question_text": "Choose the word most similar in meaning to AUDACIOUS",
+      "section": "Verbal Ability",
+      "topic": "synonyms",
+      "topic_code": "VA_SYN",
+      "choices": [
+        "Timid",
+        "Bold",
+        "Cautious",
+        "Hesitant"
+      ],
+      "correct_answer": "Bold",
+      "difficulty": "Easy",
+      "explanation": "",
+      "year": 2020,
+      "shift": 1
+    },
+    {
+      "question_number": 5,
+      "question_text": "What is the meaning of 'Dark Horse'?",
+      "section": "Verbal Ability",
+      "topic": "idioms_phrases",
+      "topic_code": "VA_IDIOMS_PHR",
+      "choices": [
+        "A black colored horse",
+        "An unexpected winner",
+        "A slow runner",
+        "A famous person"
+      ],
+      "correct_answer": "An unexpected winner",
+      "difficulty": "Easy",
+      "explanation": "",
+      "year": 2020,
+      "shift": 1
+    },
+    {
+      "question_number": 6,
+      "question_text": "Which diagram represents the relationship between Doctors, Females, Mothers?",
+      "section": "Reasoning",
+      "topic": "venn_diagrams",
+      "topic_code": "RM_VENN_DIAGR",
+      "choices": [
+        "All separate circles",
+        "All intersecting",
+        "Two overlapping with one outside",
+        "Concentric circles"
+      ],
+      "correct_answer": "All intersecting",
+      "difficulty": "Medium",
+      "explanation": "",
+      "year": 2020,
+      "shift": 1
+    },
+    {
+      "question_number": 7,
+      "question_text": "Find the embedded figure in the given complex figure.",
+      "section": "Reasoning",
+      "topic": "spatial_ability",
+      "topic_code": "RM_SPATIAL_AB",
+      "choices": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_answer": "B",
+      "difficulty": "Medium",
+      "explanation": "",
+      "year": 2020,
+      "shift": 1
+    },
+    {
+      "question_number": 8,
+      "question_text": "Operation Vijay was conducted to recapture which territory?",
+      "section": "General Awareness",
+      "topic": "defense",
+      "topic_code": "GA_DEFENSE",
+      "choices": [
+        "Siachen",
+        "Kargil",
+        "Kashmir",
+        "Ladakh"
+      ],
+      "correct_answer": "Kargil",
+      "difficulty": "Easy",
+      "explanation": "",
+      "year": 2020,
+      "shift": 1
+    },
+    {
+      "question_number": 9,
+      "question_text": "The term 'Deuce' is associated with which sport?",
+      "section": "General Awareness",
+      "topic": "sports",
+      "topic_code": "GA_SPORTS",
+      "choices": [
+        "Cricket",
+        "Tennis",
+        "Football",
+        "Hockey"
+      ],
+      "correct_answer": "Tennis",
+      "difficulty": "Easy",
+      "explanation": "",
+      "year": 2020,
+      "shift": 1
+    },
+    {
+      "question_number": 10,
+      "question_text": "Who was the first Governor General of independent India?",
+      "section": "General Awareness",
+      "topic": "history",
+      "topic_code": "GA_HIST_MOD",
+      "choices": [
+        "Lord Mountbatten",
+        "C. Rajagopalachari",
+        "Jawaharlal Nehru",
+        "Sardar Patel"
+      ],
+      "correct_answer": "Lord Mountbatten",
+      "difficulty": "Easy",
+      "explanation": "",
+      "year": 2020,
+      "shift": 1
+    }
+  ]
+}

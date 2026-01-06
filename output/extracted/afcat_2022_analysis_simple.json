@@ -1,0 +1,298 @@
+{
+  "year": 2022,
+  "shift": null,
+  "total_questions": 25,
+  "topic_data": [
+    {
+      "year": 2022,
+      "section": "unknown",
+      "topic": "unknown",
+      "count": 6,
+      "difficulties": {
+        "easy": 4,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Harmanpreet Kaur",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Dipa Karmakar",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Deepika Kumari",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "section": "numerical_ability",
+      "topic": "time_and_work",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who among the following won ICC Women’s",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "section": "general_awareness",
+      "topic": "technology",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following gives black colour to human hair?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "section": "general_awareness",
+      "topic": "economy",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The rate at which the Reserve Bank of India lends money to commercial banks is called",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "section": "reasoning",
+      "topic": "calendar",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The Mid-Day Meal scheme comes under the purview of which ministry?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "section": "verbal_ability",
+      "topic": "vocabulary",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Consider the following words:",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "section": "reasoning",
+      "topic": "analogy",
+      "count": 4,
+      "difficulties": {
+        "easy": 4,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which company has developed the new income tax e-filing portal?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Name the famous warrior begum from the principality of Awadh, who fought the British as part of the 1857 mutiny?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Given below are two statements, one is labelled as Assertion",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "section": "reasoning",
+      "topic": "coding_decoding",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "What is the code name of the first Nuclear test of",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Match the List I with List II and select the correct answer using the code given below: List 1 List 2",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "section": "general_awareness",
+      "topic": "sports",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Match the following Sports personalities with their respective game: Players Sports",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "section": "general_awareness",
+      "topic": "geography_world",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following was not an axis country during the World War 2?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the following pairs (country-capital) is not correctly matched ?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "section": "verbal_ability",
+      "topic": "reading_comprehension",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which Operation was launched by Indian Navy for safe passage of Indian-flagged merchant vessels in the Strait of Hormuz?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "section": "numerical_ability",
+      "topic": "simple_compound_interest",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Consider the following statements:",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "section": "numerical_ability",
+      "topic": "algebra",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "How many new Sainik Schools are proposed to be set up in Union Budget 2021-22?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "section": "general_awareness",
+      "topic": "personalities",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The painting of Bodhisattva Padmapani is one of the most famous and oft-illustrated paintings at",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "section": "general_awareness",
+      "topic": "science_biology",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Where is the headquarter of Organisation for the",
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "unknown": 6,
+    "numerical_ability": 3,
+    "general_awareness": 7,
+    "reasoning": 7,
+    "verbal_ability": 2
+  },
+  "difficulty_distribution": {
+    "easy": 16,
+    "medium": 9,
+    "hard": 0
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "year": null,
+  "shift": null,
+  "total_questions": 5,
+  "topic_data": [
+    {
+      "year": null,
+      "section": "general_awareness",
+      "topic": "technology",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "It is a long-range, supersonic, air-to-ground",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "unknown",
+      "topic": "unknown",
+      "count": 3,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "It is developed by the Iranian Military.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Saprophytes play a significant role in both",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Sodium Chloride (NaCl): Sodium chloride,",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "general_awareness",
+      "topic": "geography",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The Asian Games is a continental multi-sports",
+          "difficulty": "medium"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "general_awareness": 2,
+    "unknown": 3
+  },
+  "difficulty_distribution": {
+    "easy": 3,
+    "medium": 2,
+    "hard": 0
+  }
+}

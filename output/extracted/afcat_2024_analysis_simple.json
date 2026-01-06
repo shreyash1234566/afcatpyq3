@@ -1,0 +1,316 @@
+{
+  "year": 2024,
+  "shift": null,
+  "total_questions": 26,
+  "topic_data": [
+    {
+      "year": 2024,
+      "section": "verbal_ability",
+      "topic": "technology",
+      "count": 4,
+      "difficulties": {
+        "easy": 3,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "It is a long-range, supersonic, air-to-ground missile.",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Saprophytes play a significant role in both grazing and detritus food chains.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the following is an air to air refueller aircraft?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "section": "verbal_ability",
+      "topic": "defense",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "It is developed by the Iranian Military.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "count": 5,
+      "difficulties": {
+        "easy": 5,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Sodium Chloride (NaCl): Sodium chloride, commonly known as table salt, is a chemical compound composed of sodium (Na) and chlorine (Cl) ions. It does not contain carbon and is therefore not a carbon c...",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The Mudrarakshasa, written by Vishakhadatta, is a drama in which of the following languages?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Maharashtra's Cultural Affairs Ministry has signed a memorandum of understanding (MoU) to bring back Chhatrapati Shivaji Maharaj's legendary",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "section": "verbal_ability",
+      "topic": "science_physics",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "‘Tamso Ma Jyotirgamaya’ or ‘Lead us from darkness to light’ is described in which of the following Upanishads?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "If the gravitational force of earth suddenly disappears, then which of the following is correct?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "section": "verbal_ability",
+      "topic": "analogy_verbal",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following pairs is not correctly matched?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "section": "verbal_ability",
+      "topic": "time_and_work",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following statements about Project",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "section": "verbal_ability",
+      "topic": "current_affairs",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Recently Rajnath Singh inaugurates country's first Indian Air Force Heritage Centre in which of the following city?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Which Indian state is the first to adopt a Road",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "section": "verbal_ability",
+      "topic": "geography_world",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which country has opened AeroSpace Services",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the following is Amnesty International's main objective?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "section": "verbal_ability",
+      "topic": "science_chemistry",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which among the following is not a compound of carbon?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "section": "verbal_ability",
+      "topic": "sports",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "How many players are in kho kho to play a match from each team?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following personalities became",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "section": "verbal_ability",
+      "topic": "economy",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which one of the following items is not covered under GST ?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "section": "verbal_ability",
+      "topic": "calendar",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In which year and location did India win the first gold medal in football at the Asian Games?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "section": "verbal_ability",
+      "topic": "simple_compound_interest",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "With reference to the Food chain, consider the following statements:",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "section": "verbal_ability",
+      "topic": "coding_decoding",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Match List I with List II and select the correct answer using the code given below: List I(Rivers) List II(Their tributaries)",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "section": "reasoning",
+      "topic": "syllogism",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The Asian Games is a continental multi-sports event held every four years among athletes from all across Asia.",
+          "difficulty": "medium"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "verbal_ability": 25,
+    "reasoning": 1
+  },
+  "difficulty_distribution": {
+    "easy": 17,
+    "medium": 9,
+    "hard": 0
+  }
+}

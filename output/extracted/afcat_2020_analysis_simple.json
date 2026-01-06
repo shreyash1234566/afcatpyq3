@@ -1,0 +1,1009 @@
+{
+  "year": 2020,
+  "shift": null,
+  "total_questions": 100,
+  "topic_data": [
+    {
+      "year": 2020,
+      "section": "verbal_ability",
+      "topic": "synonyms",
+      "count": 4,
+      "difficulties": {
+        "easy": 4,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Select the synonym of “Cajole”",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Select the synonym of “Baulk”",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Select the synonym of “Parochial”",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "verbal_ability",
+      "topic": "antonyms",
+      "count": 3,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Select the antonym of “Naive“",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Select the antonym of “Sporadic”",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Select the antonym of “Dodge“",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "verbal_ability",
+      "topic": "Inferred Verbal Ability",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED VERBAL Q8] (a) avoidance \n(b) clear \n(c) evade \n(d) confront \n\n--- PAGE 2 --Q.8. Select the antonym of “Enjoin” \n(a) direct \n(b) counsel \n(c) forbid \n(d) none of these \n \nQ.9.",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[RESCUED VERBAL Q24] (a) Chhattisgarh \n(b) Uttar Pradesh \n(c) Odisha \n(d) Bihar \n\n--- PAGE 5 --Q.24. Which among the following parameters is not used to rate the States that have poor infrastructure? ...",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "verbal_ability",
+      "topic": "spelling",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In the question, four words are given, out of which only one word is correctly spelt. Find the correctly spelt word.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "In the question, four words are given, out of which only one word is correctly spelt. Find the correctly spelt word.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "verbal_ability",
+      "topic": "art_culture",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "At close quarters",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "verbal_ability",
+      "topic": "books_authors",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Bring to book",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "verbal_ability",
+      "topic": "technology",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Blaze the trail",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "count": 4,
+      "difficulties": {
+        "easy": 4,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Hit below the belt",
+          "difficulty": "easy"
+        },
+        {
+          "text": "To delay or prevent someone or something by obstructing them",
+          "difficulty": "easy"
+        },
+        {
+          "text": "He gave me spectacles.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "verbal_ability",
+      "topic": "clocks",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A period of time during which a person that might have a disease is kept away from other people so that the disease cannot spread",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "verbal_ability",
+      "topic": "science_physics",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A heavy blow or the sound of such a blow.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "count": 6,
+      "difficulties": {
+        "easy": 2,
+        "medium": 2,
+        "hard": 2
+      },
+      "sample_questions": [
+        {
+          "text": "His sudden arrival surprised everyone.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+          "difficulty": "medium"
+        },
+        {
+          "text": "courts should not be influenced by ____21____",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "verbal_ability",
+      "topic": "analogy_verbal",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "While these observations are welcome, the attitude of the defence lawyer in this case was seriously ______22_________.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "verbal_ability",
+      "topic": "ratio_proportion",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which state’s primary health centres (PHCs) have the worst patient-doctor ratio?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "verbal_ability",
+      "topic": "geography_world",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Where is headquarter of International Civil Aviation Council is located?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "verbal_ability",
+      "topic": "sports",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "How many players are there in Kabaddi team?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "With which among the following sports the “C.K Nayudu Trophy” is associated?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which among the following city of India hosted first Asian games held in India?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Under which Delhi sultanate ruler, the territorial expansion was maximum in India?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "general_awareness",
+      "topic": "Inferred General Awareness",
+      "count": 4,
+      "difficulties": {
+        "easy": 0,
+        "medium": 3,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED GA Q31] (a) Alauddin Khilji \n(b) Balban \n(c) Muhammad bin Tughlaq \n(d) Ghiyasuddin Tughlaq \n\n--- PAGE 6 --Q.31. Which among the following is the 25th state of India? \n(a) Goa \n(b) Mizoram \n(c...",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[RESCUED GA Q39] (a) Mahatma Gandhi \n(b) Subhash Chandra Bose \n(c) Jawaharlal Nehru \n(d) Rajendra Prasad \n\n--- PAGE 7 --Q.39. Which among the following the launch date of “Apple Satellite”? \n(a) 19 Ma...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "[RESCUED GA Q47] (a) Kathak \n(b) Kathakali \n(c) Bharatnatyam \n(d) Odissi \n\n--- PAGE 8 --Q.47. Which Gupta ruler was also known for playing veena? \n(a) Chandragupta-II \n(b) Samudragupta \n(c) Kumaragupt...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "general_awareness",
+      "topic": "analogy",
+      "count": 10,
+      "difficulties": {
+        "easy": 8,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who was the first sultan of Delhi to issue coins in Delhi sultanate?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "With which among the following sports the term “half nelson” is associated?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which among the following gas is used in the soda?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "general_awareness",
+      "topic": "geography_india",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which among the following is the capital of Brunei?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which among the following rivers fall in the Arabian sea?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "general_awareness",
+      "topic": "reading_comprehension",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who among the following is the author of “One Indian Girl”?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "general_awareness",
+      "topic": "organizations",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who among the following presided Haripura session of Indian National Congress in 1938?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "general_awareness",
+      "topic": "direction_sense",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which among the following is the southernmost point of Indian territory?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "general_awareness",
+      "topic": "geography_world",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which among the following country is not the part of G-7 countries?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "general_awareness",
+      "topic": "art_culture",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "With which among the following dance the name “Sanjukta Panigrahi” is related?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "general_awareness",
+      "topic": "inferred_general_awareness",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Bombay High famous for ________",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "general_awareness",
+      "topic": "history_medieval",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who was the last ruler of Mughal dynasty?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "general_awareness",
+      "topic": "defense",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Where is Indian Military Academy is located?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "general_awareness",
+      "topic": "polity",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Fundamental Rights of constitution is taken from which country?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "reasoning",
+      "topic": "time_and_work",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A can do a work in 10 days. A work for 4 days and B finished the remaining work in 9 days.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "P & Q completes the work in 10 days, Q & R in 15 days and R & S in 20 days. Find individual time taken by them.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "reasoning",
+      "topic": "speed_time_distance",
+      "count": 4,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 4
+      },
+      "sample_questions": [
+        {
+          "text": "Two trains start from Pune to Goa towards each other at speed of 50 km/hr and 40 km/hr respectively at same time. Find at what distance they will meet from Pune if the total distance between Pune and ...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "Two man rows boat at speed of 5 km/hr and 10 km/hr toward each other and at a distance of 20 km. Find how far apart in km all they 1 minute before they collide.",
+          "difficulty": "hard"
+        },
+        {
+          "text": "A cyclist starts at a speed of 8km/hr and second cyclist start after 2 hours at speed of 12 km/hr.",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "reasoning",
+      "topic": "inferred_reasoning",
+      "count": 3,
+      "difficulties": {
+        "easy": 2,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The length of Head of a fish is 12 cm. The length of Tail is equal to Head’s length and",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Engineer: Machine:: Doctor: ?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Find the odd-one out from",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "reasoning",
+      "topic": "clocks",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "Two bikes ride in opposite directions around a circular track, starting at the same time from the same point. Biker A rides at a speed of 16 km/hr and the biker B rides at a speed of 14 km/hr. If the ...",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "reasoning",
+      "topic": "algebra",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "A Man buys 4 Pizza and 3 burger for Rs 4500 and 4 pizza and 6 burger for Rs 6000 find how much should he pay to buy 1 pizza and 2 burger?",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "reasoning",
+      "topic": "profit_loss",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A man buys two article of Rs 560. He sells one at 10% percent loss and other at 15 percent profit and had no profit no loss. Find cost price of each article",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "reasoning",
+      "topic": "simple_compound_interest",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "Divide Rs 6000 into two parts so that simple interest on first part for 2 year at 6% p.a. may be equal the simple interest on the second part for 3 year at 8% p.a.",
+          "difficulty": "hard"
+        },
+        {
+          "text": "A purchased a toy in Rs. 2400. He paid Rs. 1000 in cash and remaining in two equal installments of Rs. 840 each per month. Find out the rate of interest for each installment.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "numerical_ability",
+      "topic": "averages",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "There are total five numbers. The average of first four numbers is 26 and average of last four numbers is 25. Find the average of difference of first and last number.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "reasoning",
+      "topic": "averages",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The average of father and his twin son is 28. Find the age of father if the ratio of age of father and one son is 8:3.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "reasoning",
+      "topic": "percentages",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "There are × pens in the shop. If person A buys 20% and person B buys 15% from the remaining and C buys 10% of the remaining pens then he is left with 612 pens. Then how much pen was there initially?",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "reasoning",
+      "topic": "coding_decoding",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "If length of a rectangle is increased by 15% and breadth is decreased by 10%. What will be impact on perimeter?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "reasoning",
+      "topic": "science_physics",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Coal: Thermal Energy :: Water: ?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Energy: Joule:: Current: ?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "reasoning",
+      "topic": "organizations",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "One who collects coins: Numismatic :: One who collects postage stamps: ?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "reasoning",
+      "topic": "odd_one_out",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following does not belongs to North America?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "numerical_ability",
+      "topic": "inferred_numerical_ability",
+      "count": 6,
+      "difficulties": {
+        "easy": 5,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Mallet: Polo :: Break out: ?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "USA: Dollar :: Chile: ?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "France: Paris :: Ghana: ?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "count": 3,
+      "difficulties": {
+        "easy": 0,
+        "medium": 3,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED MATH Q82] (a) Football \n(b) Hockey \n(c) Cricket \n(d) Rugby \n\n--- PAGE 13 --Q.82. Vijay Hazare Trophy: Cricket :: Durand Cup: ? \n(a) Football \n(b) Hockey \n(c) Kho-Kho \n(d) Kabaddi \n \nQ.83.",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[RESCUED MATH Q91] (a) \n \n(b) \n \n(c) \n \n(d) \n \n\n--- PAGE 15 --Q.91. 6, 11, 21, 36, ? \n(a) 51 \n(b) 41 \n(c) 56 \n(d) 46 \n \nQ.92.",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[RESCUED MATH Q97] Question Figure \n \nAnswer Figures: \n \n(a) a \n(b) b \n(c) c \n(d) d \n\n--- PAGE 17 --Q.97. Which of the answer figure is exactly the mirror image of the given figure, when the mirror is...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "numerical_ability",
+      "topic": "art_culture",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following represents: Earth, Sun, Moon?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "numerical_ability",
+      "topic": "time_and_work",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following represents: Men, Indian, Black hair?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "numerical_ability",
+      "topic": "science_biology",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following represents: warm blooded animals, cold blooded animals, mammals?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "numerical_ability",
+      "topic": "embedded_figures",
+      "count": 4,
+      "difficulties": {
+        "easy": 4,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the option will complete the given figure?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the given option will complete the given figure?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the given option will complete the given figure?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "reasoning",
+      "topic": "embedded_figures",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following option is embedded in the given figure?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "reasoning",
+      "topic": "mirror_water_images",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the answer figures is exactly the mirror image of the question figure, when the mirror is held on the line AB?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "section": "numerical_ability",
+      "topic": "series_completion",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the option will complete the given series?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the option will complete the given series?",
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "verbal_ability": 27,
+    "reasoning": 29,
+    "general_awareness": 25,
+    "numerical_ability": 19
+  },
+  "difficulty_distribution": {
+    "easy": 69,
+    "medium": 19,
+    "hard": 12
+  }
+}

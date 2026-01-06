@@ -1,0 +1,733 @@
+{
+  "year": 2021,
+  "shift": null,
+  "total_questions": 100,
+  "topic_data": [
+    {
+      "year": 2021,
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "count": 5,
+      "difficulties": {
+        "easy": 4,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "5. Find the age of the teacher?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Find the 18thobservation?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "PRODIGIOUS",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "verbal_ability",
+      "topic": "sentence_completion",
+      "count": 4,
+      "difficulties": {
+        "easy": 4,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Select the most appropriate option for blank no. 1",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Select the most appropriate option for blank no. 3",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Select the most appropriate option for blank no. 4",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "verbal_ability",
+      "topic": "Inferred Verbal Ability",
+      "count": 6,
+      "difficulties": {
+        "easy": 0,
+        "medium": 5,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED VERBAL Q4] (a) regularize \n(b) appoint \n(c) regulation \n(d) regulate \n\n--- PAGE 2 --Q.4. Select the most appropriate option for blank no. 2 \n(a) convene \n(b) convince \n(c) conceive \n(d) conce...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "[VERBAL - likely passage/cloze question]",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[VERBAL - likely passage/cloze question]",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "count": 24,
+      "difficulties": {
+        "easy": 14,
+        "medium": 5,
+        "hard": 5
+      },
+      "sample_questions": [
+        {
+          "text": "EXONERATE [LIKELY FIGURE - incomplete text]",
+          "difficulty": "easy"
+        },
+        {
+          "text": "ADVOCATE [LIKELY FIGURE - incomplete text]",
+          "difficulty": "medium"
+        },
+        {
+          "text": "CALLOW [LIKELY FIGURE - incomplete text]",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "verbal_ability",
+      "topic": "algebra",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which among the following statements regarding PM-JAY is/are wrong?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "verbal_ability",
+      "topic": "mensuration",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "What should be the key area of focus for PM-JAY?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "verbal_ability",
+      "topic": "technology",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "What should be the short-term approach of the said scheme?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "verbal_ability",
+      "topic": "analogy_verbal",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "It is obvious that the new law has __________ some revolutionary changes in the current tax system but there are still some points to be revised.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "verbal_ability",
+      "topic": "art_culture",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Though he loved his fiancée very much, the boy acted in accordance with his parent's wishes and",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "verbal_ability",
+      "topic": "geography_world",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Longest freshwater lake in the world is ?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which river passes through the largest freshwater lake in India?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "general_awareness",
+      "topic": "analogy",
+      "count": 8,
+      "difficulties": {
+        "easy": 8,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "FIFA was established in .....?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "When was the construction of Red Fort completed?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "CASTLE term is related to which sport?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "general_awareness",
+      "topic": "geography_world",
+      "count": 5,
+      "difficulties": {
+        "easy": 5,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Where is the headquarter of International Renewable Energy Agency?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Reykjavik is the capital of which country?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Where is the headquarter of World Intellectual Property Organization?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "general_awareness",
+      "topic": "Inferred General Awareness",
+      "count": 3,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED GA Q36] (a) New York \n(b) Nairobi \n(c) Masdar City \n(d) Washington DC \n\n--- PAGE 7 --Q.36. Which among the following was Navratana of Akbar? \n(a) Faizi \n(b) Fakir Aziao-Din \n(c) Abul-Fazal \n(...",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[RESCUED GA Q44] (a) New York \n(b) Geneva \n(c) London \n(d) Nairobi \n\n--- PAGE 8 --Q.44. Who is also known as Deshbandhu ? \n(a) Chittaranjan Das \n(b) Rabindranath Tagore \n(c) Dadabhai Naoroji \n(d) Khan...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "[RESCUED GA Q52] (a) Paiso \n(b) Thai Baht \n(c) Dinar \n(d) Rupee \n\n--- PAGE 9 --Q.52. Pattachitra is a traditional painting of which state ? \n(a) Odisha \n(b) Rajasthan \n(c) Tamilnadu \n(d) Maharastra \n ...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "general_awareness",
+      "topic": "art_culture",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following party formed out of India?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "general_awareness",
+      "topic": "inferred_general_awareness",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The term fault is related to which sport?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which among the following is not the terrestrial planet?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "general_awareness",
+      "topic": "sports",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Clay courtts are used in which Grand Slam tournaments?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Silver revolution is related to",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "general_awareness",
+      "topic": "geography_india",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which river originates from Gangotri Glacier?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The Bhagirathi River originates from?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "general_awareness",
+      "topic": "technology",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "What is the Currency of thailand?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "numerical_ability",
+      "topic": "simple_compound_interest",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The difference between the compound interest and simple interest for two years compounded annually at 20% p.a is 1331. Find the Principal.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "reasoning",
+      "topic": "time_and_work",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A can complete a task in 10 days while B can finish it in 15 days, B left work after 3 days , find the time taken to complete the remaining work by A?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "A , B and C can complete a work in 20, 30 and 60 days respectively, Find the time taken to complete the work if B assists with half of its efficiency and C assist on every alternate days?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "reasoning",
+      "topic": "coding_decoding",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The average of 10 students is 32 while if the age of teacher is included the average increases by",
+          "difficulty": "easy"
+        },
+        {
+          "text": "If in a certain code, LUTE is written as MUTE and FATE is written as GATE, then how will BLUE be written in that code.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "numerical_ability",
+      "topic": "profit_loss",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "A shopkeeper gives a successive discount of 40% and 20%. Find the selling price if marked price of the article is Rs.1600?",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "numerical_ability",
+      "topic": "trains_boats",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The ratio of the speed of the boat upstream and downstream is 4:7. Find the speed of the boat if the speed of stream is 0.5m/sec?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "reasoning",
+      "topic": "profit_loss",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A sells two watches one at a gain of 23% while other at the loss of 23%. Find his overall profit/gain percentage ?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "A person A sells his horse at a discount of 25% to B while B sells the horse to C at a discount of",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "reasoning",
+      "topic": "simple_compound_interest",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In how many years the sum of of Rs. 3375 at 30% p.a compounded semi-annually will yield Rs",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "reasoning",
+      "topic": "percentages",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A’s salary is 25% lower than B’s salary, which is 30% lower than C’s salary. By how much percent is C’s salary greater than B’s salary?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "reasoning",
+      "topic": "algebra",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "A person walk from point X and Y at 8am same time B start from Y to X , they meet at O after crossing B takes 16 hrs while A takes 25 hrs. If the speed of A is 24km/hr, then the speed of B?",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "reasoning",
+      "topic": "venn_diagrams",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Select the Venn diagram that best represent the given classes.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Select the Venn diagram that best represents the given set of classes.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "count": 4,
+      "difficulties": {
+        "easy": 0,
+        "medium": 3,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED MATH Q82] (a) Sailor \n(b) Tailor \n(c) Goldsmith \n(d) Blacksmith \n \nQ.80. Choose odd one out \n(a) Albatross \n(b) Ostrich \n(c) Pelican \n(d) Penguin \n \nQ.81. Choose odd one out \n(a) Pharynx \n(b)...",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[RESCUED MATH Q88] --- PAGE 16 --Q.88. Choose the option in which the figure marked ‘X’ is is embedded. \n \n \n \nQ.89.",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[RESCUED MATH Q94] 25 + 5 × 7 – 12 ÷ 3 = 26 \n(a) + and ÷ \n(b) + and × \n(c) – and ÷ \n(d) + and – \n\n--- PAGE 17 --Q.94.",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "numerical_ability",
+      "topic": "coding_decoding",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In, in a code, MIND becomes KGLB and ARGUE becomes YPESC, then what will DIAGRAM be in that code?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "If MUSTARD is written as 132119201184, how is PROFUSE written in that code?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "numerical_ability",
+      "topic": "embedded_figures",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Choose the option in which the figure marked ‘X’ is embedded.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Choose the option in which the figure marked ‘×’ is embedded.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "numerical_ability",
+      "topic": "mirror_water_images",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Choose the option that most closely resembles the mirror of the given figure when mirror is right and when mirror is placed at right side.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "reasoning",
+      "topic": "mirror_water_images",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Choose the option that most closely resembles the water image of the given figure when mirror is placed at right side.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Identify the alternative which resembles the mirror image of the given word.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "numerical_ability",
+      "topic": "inferred_numerical_ability",
+      "count": 3,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Find out the two signs to be interchanged to make the following equation correct.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Select the option that will correctly replace the question mark (?) in the series.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Select the odd number from the given alternatives.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "section": "numerical_ability",
+      "topic": "venn_diagrams",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Study the diagram given below and identify the region representing girls who are employed but unmarried.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which figure represent the relationship among sun, moon, molecule.",
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "verbal_ability": 22,
+    "reasoning": 37,
+    "general_awareness": 24,
+    "numerical_ability": 17
+  },
+  "difficulty_distribution": {
+    "easy": 60,
+    "medium": 30,
+    "hard": 10
+  }
+}

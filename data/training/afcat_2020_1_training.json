@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "year": 2020,
+    "shift": 1,
+    "total_samples": 10
+  },
+  "samples": [
+    {
+      "id": "2020_1_Q1",
+      "text": "A train 150m long passes a pole in 15 seconds. Find the speed of the train in km/hr.",
+      "section": "Numerical Ability",
+      "topic_code": "NA_TW",
+      "difficulty": "Easy",
+      "choices_text": "1) 36 km/hr | 2) 40 km/hr | 3) 45 km/hr | 4) 50 km/hr",
+      "correct_answer": "36 km/hr",
+      "explanation": ""
+    },
+    {
+      "id": "2020_1_Q2",
+      "text": "A can complete a work in 10 days and B in 15 days. In how many days can they complete the work together?",
+      "section": "Numerical Ability",
+      "topic_code": "NA_TW",
+      "difficulty": "Easy",
+      "choices_text": "1) 5 days | 2) 6 days | 3) 7 days | 4) 8 days",
+      "correct_answer": "6 days",
+      "explanation": ""
+    },
+    {
+      "id": "2020_1_Q3",
+      "text": "A shopkeeper marks his goods 40% above CP and allows 20% discount. Find profit percentage.",
+      "section": "Numerical Ability",
+      "topic_code": "NA_PL",
+      "difficulty": "Medium",
+      "choices_text": "1) 10% | 2) 12% | 3) 15% | 4) 20%",
+      "correct_answer": "12%",
+      "explanation": ""
+    },
+    {
+      "id": "2020_1_Q4",
+      "text": "Choose the word most similar in meaning to AUDACIOUS",
+      "section": "Verbal Ability",
+      "topic_code": "VA_SYN",
+      "difficulty": "Easy",
+      "choices_text": "1) Timid | 2) Bold | 3) Cautious | 4) Hesitant",
+      "correct_answer": "Bold",
+      "explanation": ""
+    },
+    {
+      "id": "2020_1_Q5",
+      "text": "What is the meaning of 'Dark Horse'?",
+      "section": "Verbal Ability",
+      "topic_code": "VA_IDIOMS_PHR",
+      "difficulty": "Easy",
+      "choices_text": "1) A black colored horse | 2) An unexpected winner | 3) A slow runner | 4) A famous person",
+      "correct_answer": "An unexpected winner",
+      "explanation": ""
+    },
+    {
+      "id": "2020_1_Q6",
+      "text": "Which diagram represents the relationship between Doctors, Females, Mothers?",
+      "section": "Reasoning",
+      "topic_code": "RM_VENN_DIAGR",
+      "difficulty": "Medium",
+      "choices_text": "1) All separate circles | 2) All intersecting | 3) Two overlapping with one outside | 4) Concentric circles",
+      "correct_answer": "All intersecting",
+      "explanation": ""
+    },
+    {
+      "id": "2020_1_Q7",
+      "text": "Find the embedded figure in the given complex figure.",
+      "section": "Reasoning",
+      "topic_code": "RM_SPATIAL_AB",
+      "difficulty": "Medium",
+      "choices_text": "1) A | 2) B | 3) C | 4) D",
+      "correct_answer": "B",
+      "explanation": ""
+    },
+    {
+      "id": "2020_1_Q8",
+      "text": "Operation Vijay was conducted to recapture which territory?",
+      "section": "General Awareness",
+      "topic_code": "GA_DEFENSE",
+      "difficulty": "Easy",
+      "choices_text": "1) Siachen | 2) Kargil | 3) Kashmir | 4) Ladakh",
+      "correct_answer": "Kargil",
+      "explanation": ""
+    },
+    {
+      "id": "2020_1_Q9",
+      "text": "The term 'Deuce' is associated with which sport?",
+      "section": "General Awareness",
+      "topic_code": "GA_SPORTS",
+      "difficulty": "Easy",
+      "choices_text": "1) Cricket | 2) Tennis | 3) Football | 4) Hockey",
+      "correct_answer": "Tennis",
+      "explanation": ""
+    },
+    {
+      "id": "2020_1_Q10",
+      "text": "Who was the first Governor General of independent India?",
+      "section": "General Awareness",
+      "topic_code": "GA_HIST_MOD",
+      "difficulty": "Easy",
+      "choices_text": "1) Lord Mountbatten | 2) C. Rajagopalachari | 3) Jawaharlal Nehru | 4) Sardar Patel",
+      "correct_answer": "Lord Mountbatten",
+      "explanation": ""
+    }
+  ]
+}

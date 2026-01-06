@@ -1,0 +1,33 @@
+Year,Section,Topic,Count,Easy,Medium,Hard
+2015,general_awareness,GA_AWARD,1,0,1,0
+2015,general_awareness,GA_BOOK,2,2,0,0
+2015,general_awareness,GA_DEF,2,1,1,0
+2015,general_awareness,GA_SCI_BIO,1,1,0,0
+2015,general_awareness,Inferred General Awareness,1,1,0,0
+2015,general_awareness,NA_AVG,1,0,1,0
+2015,general_awareness,NA_PER,3,0,3,0
+2015,general_awareness,NA_PL,1,0,1,0
+2015,general_awareness,NA_SI_CI,1,0,1,0
+2015,general_awareness,NA_STD,2,0,2,0
+2015,general_awareness,NA_TRAIN,1,0,1,0
+2015,general_awareness,NA_TW,1,0,1,0
+2015,general_awareness,RM_VR_ANA,7,5,2,0
+2015,general_awareness,RM_VR_RANK,1,1,0,0
+2015,numerical_ability,Inferred Numerical Ability,15,9,6,0
+2015,numerical_ability,NA_SI_CI,1,0,1,0
+2015,reasoning,GA_HIST_MED,1,1,0,0
+2015,reasoning,GA_ORG,1,1,0,0
+2015,reasoning,GA_SPORTS,1,0,1,0
+2015,reasoning,Inferred Reasoning,5,2,1,2
+2015,reasoning,RM_VR_ANA,4,3,1,0
+2015,reasoning,RM_VR_CLK,1,1,0,0
+2015,reasoning,RM_VR_SEAT,3,3,0,0
+2015,reasoning,RM_VR_VENN,1,1,0,0
+2015,reasoning,personalities,1,1,0,0
+2015,reasoning,unknown,2,1,1,0
+2015,verbal_ability,GA_TECH,1,1,0,0
+2015,verbal_ability,Inferred Verbal Ability,21,11,9,1
+2015,verbal_ability,RM_VR_BLOOD,1,1,0,0
+2015,verbal_ability,RM_VR_CAL,1,0,1,0
+2015,verbal_ability,VA_COMP,1,1,0,0
+2015,verbal_ability,unknown,5,5,0,0

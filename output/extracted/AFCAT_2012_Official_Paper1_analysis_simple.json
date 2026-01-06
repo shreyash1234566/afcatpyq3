@@ -1,0 +1,716 @@
+{
+  "year": null,
+  "shift": null,
+  "total_questions": 100,
+  "topic_data": [
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "count": 8,
+      "difficulties": {
+        "easy": 7,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "As a boy Pablo Picasso was",
+          "difficulty": "easy"
+        },
+        {
+          "text": "He was spoilt mostly because he was",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Picasso went to school only when",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "cubes_dice",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "When his father painted in the college, Pablo",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "blood_relations",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Pablo’s father gave up painting because he",
+          "difficulty": "easy"
+        },
+        {
+          "text": "My brother sent",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "unknown",
+      "count": 5,
+      "difficulties": {
+        "easy": 4,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Each of the three (d)",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Indian press did not give ____________ to the British publicity.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Travelers ____________their reservations well in advance if they want to travel during the Diwali holidays.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "technology",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The young boy said",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "analogy_verbal",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Sanjay was______________ with divine vision to see the great battle.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The world is so constructed that if you wish to enjoy its pleasures, you must also______ its pains.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "reading_comprehension",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "There was so much__________ material in the essay that it was difficult to get the author’s message.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "count": 24,
+      "difficulties": {
+        "easy": 3,
+        "medium": 20,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "EMANCIPATE",
+          "difficulty": "easy"
+        },
+        {
+          "text": "DECEIT [LIKELY FIGURE - incomplete text]",
+          "difficulty": "medium"
+        },
+        {
+          "text": "ADMONITION",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "Inferred Verbal Ability",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED VERBAL Q20] (a) Laudable \n(b) Quiet \n(c) Dangerous \n(d) Powerful \n \n\n--- PAGE 5 --Q.20. IMPLICATE \n(a) Involve \n(b) Exonerate \n(c) Corrupt \n(d) Accuse \n \nDirections (21-40): Choose the correc...",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[RESCUED VERBAL Q26] (a) higher in elevation than Dwaraka and the earth rotates from West to East. \n(b) situated further North than Dwaraka and the earth rotates from West to East. \n(c) situated furth...",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "history_modern",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Gandhiji started Dandi March",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The first war of Indian Independence began on 10 May 1857 at",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "clocks",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The sun rises in Arunachal Pradesh two hours before it does in Dwaraka in Gujarat. This is because the former is",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "geography_india",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Jim Corbett National Park is situated in which state?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "time_and_work",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which one of the following statements regarding the sun is correct?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "general_awareness",
+      "topic": "analogy_verbal",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Supersonic speed is speed greater than the speed of sound (in air at sea level) that is to say around______ miles/hour.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "general_awareness",
+      "topic": "analogy",
+      "count": 3,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Yoga sutra was written by",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Protoplasm: Cell",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Nalanda: Takshashila",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "general_awareness",
+      "topic": "geography_world",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The National Institute of Oceanography is located at",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The first Indian to win the World Amateur Snooker Championship is",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "general_awareness",
+      "topic": "technology",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "An airplane rises because",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Hope: Despair",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "general_awareness",
+      "topic": "unknown",
+      "count": 5,
+      "difficulties": {
+        "easy": 5,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Rocks formed on the solidification of molten matter are called",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Bouquet: Flower",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Revenge: Vendetta",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "general_awareness",
+      "topic": "science_physics",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The pioneer of Atomic energy in India is",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "general_awareness",
+      "topic": "sports",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which one of the following statements regarding FIFA World Cup 2010 is not correct?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "general_awareness",
+      "topic": "awards",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The first person to win the Arjuna award for badminton is",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "general_awareness",
+      "topic": "Inferred General Awareness",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "[GA - topic cannot be inferred from neighbors]",
+          "difficulty": "easy"
+        },
+        {
+          "text": "[RESCUED GA Q51] (a) Retouch: Photograph \n(b) Paint: Wall \n(c) Compose: Song \n(d) Author: Book \n\n--- PAGE 10 --Q.51. Fear: Tremble \n(a) Hand: Shake \n(b) Heat: Perspire \n(c) Distance: Walk \n(d) Evening...",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "general_awareness",
+      "topic": "defense",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Army: Logistics",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "general_awareness",
+      "topic": "science_biology",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Plant: Flower",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "reasoning",
+      "topic": "analogy_verbal",
+      "count": 5,
+      "difficulties": {
+        "easy": 5,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Foot is to Man as Hoof is to _______.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Broad is to Narrow as ________ is to Lane.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Back is to Backbone as Belly is to _________.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "reasoning",
+      "topic": "percentages",
+      "count": 4,
+      "difficulties": {
+        "easy": 0,
+        "medium": 4,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Hari’s income is 20% more than Madhu’s income. Madhu’s income is less than Hari’s income by",
+          "difficulty": "medium"
+        },
+        {
+          "text": "? % of 932 + 30 = 309.6",
+          "difficulty": "medium"
+        },
+        {
+          "text": "The difference between a number and its two-fifth is 510. What is 10% of that number?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "reasoning",
+      "topic": "simple_compound_interest",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A sum of money lent out at simple interest doubled itself in",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "reasoning",
+      "topic": "unknown",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "337.62 + 8.591 + 34.4 =?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "reasoning",
+      "topic": "averages",
+      "count": 5,
+      "difficulties": {
+        "easy": 2,
+        "medium": 3,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Find the sum of:- 1/9+1/6+1/12+1/72",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Find the average of all the numbers between 6 and 34 which are divisible by 5.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The average of first 80 natural numbers is",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "reasoning",
+      "topic": "profit_loss",
+      "count": 3,
+      "difficulties": {
+        "easy": 1,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A shopkeeper professes to sell all things at a discount of 10% but increases the selling price of each article by 20%. His gain on each article is",
+          "difficulty": "medium"
+        },
+        {
+          "text": "If the selling price of an article is 4/3rd of its cost price, the profit in transaction is",
+          "difficulty": "medium"
+        },
+        {
+          "text": "If selling price is doubled, the profit triples. Find the profit percent.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "reasoning",
+      "topic": "simplification",
+      "count": 3,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 2
+      },
+      "sample_questions": [
+        {
+          "text": "If 4/5th of an estate is worth Rs.16,800, then the value of 3/7th of the estate is",
+          "difficulty": "hard"
+        },
+        {
+          "text": "If a/b = 3/4 and 8 a + 5 b=22, then the value of ‘a’ is",
+          "difficulty": "hard"
+        },
+        {
+          "text": "If (a – b) is 6 more than (c + d) and (a + b) is 3 less than (c – d), then the value of (a –",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "reasoning",
+      "topic": "ratio_proportion",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Two numbers are in the ratio 7: 8. If 3 is added to each of them their ratio becomes 8: 9. The numbers are",
+          "difficulty": "medium"
+        },
+        {
+          "text": "A certain amount was divided between Sita and Gita in the ratio 9: 8. If Sita’s share was Rs. 4500 then the amount is",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "count": 4,
+      "difficulties": {
+        "easy": 4,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "[MATH - topic cannot be inferred from neighbors]",
+          "difficulty": "easy"
+        },
+        {
+          "text": "[MATH - trailing placeholder]",
+          "difficulty": "easy"
+        },
+        {
+          "text": "[MATH - trailing placeholder]",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "numerical_ability",
+      "topic": "embedded_figures",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Find out how the key figure (X) will look like after rotation.",
+          "difficulty": "medium"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "verbal_ability": 27,
+    "reasoning": 48,
+    "general_awareness": 20,
+    "numerical_ability": 5
+  },
+  "difficulty_distribution": {
+    "easy": 52,
+    "medium": 44,
+    "hard": 4
+  }
+}

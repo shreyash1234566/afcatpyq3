@@ -1,0 +1,54 @@
+{
+  "year": 2025,
+  "shift": null,
+  "total_questions": 3,
+  "topic_data": [
+    {
+      "year": 2025,
+      "section": "numerical_ability",
+      "topic": "algebra",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 2
+      },
+      "sample_questions": [
+        {
+          "text": "€ 3 3 5' T' 8 5' 6 2 4 2 U1 41 _ 1 1[ 1 1 1 L[ 8 7 8 1 > 2 1 % 0 1 2 4 [ 0 1 < < 2 1 6\" 23 8 [ 1L L 8 5 5 0 3 6 [ 3 2 2 > 1 9 0 × 9 4 5' [ 2 2 F' 1 6 18 9 × Il 6 3 C 2 2 1 1 8 5 1 0 L L 2 1 9 8 : L 2 ...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "V 1 8 VH 1 1 5 [ 3 53 5' 3 2 4 I 1 9 1 H 3 3 8 1 } 7 5 0 5 3 4 8 2 1 2 2 f L 8 { 8 7 6 { = 2 Li 3 1 5\" H 2 L 0 0 1 5 1 L [ 8 2 7 1 2 8 5 5 --- PAGE 8 --2 3 3 3 1 7 2 1 w N U 5 2 N 2 N W N 2 U W 7 2 7 ...",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "section": "reasoning",
+      "topic": "venn_diagrams",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "[MISSING / FIGURE QUESTION - likely non verbal reasoning figure/diagram]",
+          "difficulty": "medium"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "numerical_ability": 2,
+    "reasoning": 1
+  },
+  "difficulty_distribution": {
+    "easy": 0,
+    "medium": 1,
+    "hard": 2
+  }
+}

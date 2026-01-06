@@ -1,0 +1,37 @@
+Year,Section,Topic,Count,Easy,Medium,Hard
+2015,general_awareness,Inferred General Awareness,1,0,0,1
+2015,general_awareness,active_passive,1,1,0,0
+2015,general_awareness,analogy,2,2,0,0
+2015,general_awareness,analogy_verbal,1,1,0,0
+2015,general_awareness,averages,1,0,1,0
+2015,general_awareness,awards,3,3,0,0
+2015,general_awareness,books_authors,2,1,1,0
+2015,general_awareness,calendar,1,1,0,0
+2015,general_awareness,clocks_calendars,1,1,0,0
+2015,general_awareness,current_affairs,1,0,1,0
+2015,general_awareness,direction_sense,1,0,1,0
+2015,general_awareness,economy,1,1,0,0
+2015,general_awareness,inferred_general_awareness,3,3,0,0
+2015,general_awareness,speed_time_distance,1,0,1,0
+2015,general_awareness,sports,1,1,0,0
+2015,general_awareness,technology,2,1,1,0
+2015,general_awareness,time_and_work,1,0,1,0
+2015,numerical_ability,Inferred Numerical Ability,13,13,0,0
+2015,numerical_ability,percentages,1,1,0,0
+2015,numerical_ability,seating_arrangement,5,4,1,0
+2015,numerical_ability,simple_compound_interest,3,0,0,3
+2015,numerical_ability,speed_time_distance,1,0,0,1
+2015,reasoning,Inferred Reasoning,32,11,20,1
+2015,reasoning,algebra,1,0,1,0
+2015,reasoning,geography_india,1,0,0,1
+2015,reasoning,inferred_reasoning,2,2,0,0
+2015,reasoning,mixtures_alligation,1,0,1,0
+2015,reasoning,pattern_completion,1,0,1,0
+2015,reasoning,percentages,1,0,1,0
+2015,reasoning,profit_loss,2,1,1,0
+2015,verbal_ability,Inferred Verbal Ability,2,0,2,0
+2015,verbal_ability,algebra,1,0,1,0
+2015,verbal_ability,analogy,2,1,1,0
+2015,verbal_ability,inferred_verbal_ability,5,5,0,0
+2015,verbal_ability,pattern_completion,1,0,1,0
+2015,verbal_ability,reading_comprehension,1,0,1,0

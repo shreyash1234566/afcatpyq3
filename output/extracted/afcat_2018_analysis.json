@@ -1,0 +1,3010 @@
+{
+  "source_file": "data\\papers\\AFCAT_2018_Memory.pdf",
+  "year": 2018,
+  "shift": null,
+  "extraction_date": "2026-01-02T22:21:46.869646",
+  "total_questions": 100,
+  "questions": [
+    {
+      "question_number": 1,
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "1. 4144",
+        "2. 8284",
+        "28284"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.525,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 2,
+      "text": "ROSTRUM [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Guardian",
+        "Podium",
+        "Device",
+        "Scheme"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 3,
+      "text": "PROROGUE [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Adjourn",
+        "Convene",
+        "Rally",
+        "Continue"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 4,
+      "text": "LUCRE [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Debt",
+        "Elegance",
+        "Outlaw",
+        "Sissy"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 5,
+      "text": "RABBLE [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Rag",
+        "Nobility",
+        "Scanty",
+        "Sanction"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 6,
+      "text": "COTERIE [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Loner",
+        "Socialize",
+        "Elite"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 7,
+      "text": "It was being hard to believe (C)",
+      "options": [
+        "/that my brother could be",
+        "A",
+        "/involved in anything so sinister.",
+        "C",
+        "/No error",
+        "C",
+        "",
+        "D"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 8,
+      "text": "The average age at which (D)",
+      "options": [
+        "/people die of heart diseases",
+        "A",
+        "/are decreasing.",
+        "B",
+        "/No error",
+        "C",
+        "",
+        "D"
+      ],
+      "section": "verbal_ability",
+      "topic": "averages",
+      "topic_label": "Averages",
+      "subtopic": null,
+      "question_type": "inferred_verbal",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.5454545454545454,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 9,
+      "text": "Hardly had I stepped (D)",
+      "options": [
+        "/out of my house when",
+        "A",
+        "/I saw them coming towards my house.",
+        "B",
+        "/No error",
+        "C",
+        "",
+        "D"
+      ],
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "inferred_verbal",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 10,
+      "text": "The last Mughal emperor was",
+      "options": [
+        "/send into exile",
+        "A",
+        "/by the British.",
+        "B",
+        "/ No error",
+        "C",
+        ".",
+        "D"
+      ],
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "inferred_verbal",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 11,
+      "text": "Modern medicine is primarily concerned with:",
+      "options": [
+        "promotion of good health",
+        "people suffering from imaginary illnesses",
+        "people suffering from real illnesses",
+        "increased efficiency in work"
+      ],
+      "section": "verbal_ability",
+      "topic": "history_modern",
+      "topic_label": "Modern History",
+      "subtopic": null,
+      "question_type": "inferred_verbal",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.1875,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 12,
+      "text": "A healthy man should be concerned with:",
+      "options": [
+        "his work which good health makes possible",
+        "looking after his health",
+        "his health which makes work possible",
+        "talking about health"
+      ],
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 13,
+      "text": "Our great concern with health is shown by?",
+      "options": [
+        "free medicine distribution in hospitals",
+        "free education to medical students",
+        "taking yoga classes",
+        "the health articles in popular magazines"
+      ],
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 14,
+      "text": "Brain sauce",
+      "options": [
+        "Foolish",
+        "Wisdom",
+        "Mentally ill",
+        "Head full of thoughts"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 15,
+      "text": "Lynch law [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Law imposed by the government",
+        "Law of the mob",
+        "A law that is supposed to be useless",
+        "A rule that no one follows"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.5,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 16,
+      "text": "Globetrotters",
+      "options": [
+        "Travelers around the world",
+        "Sick people in hospital",
+        "The people living in asylum",
+        "World champions"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 17,
+      "text": "Dole out [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Allocate",
+        "Be effective",
+        "Turn up",
+        "Mismanage"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 18,
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "reasonably",
+        "surely",
+        "apparently",
+        "perfectly"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 19,
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "great",
+        "invisible",
+        "static",
+        "ordinary"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 20,
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "at",
+        "for",
+        "by",
+        "to"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 21,
+      "text": "Grandmother has a good memory; she can remember things which __________many years ago.",
+      "options": [
+        "had happened",
+        "have happened",
+        "happened",
+        "happens to be"
+      ],
+      "section": "verbal_ability",
+      "topic": "analogy_verbal",
+      "topic_label": "Verbal Analogy",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 22,
+      "text": "I _________ her among the crowd just now.",
+      "options": [
+        "have glimpsed",
+        "had glimpsed",
+        "have been glimpsing",
+        "glimpsed"
+      ],
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 23,
+      "text": "Lost time is __________ again, and what we call time enough always proves little enough.",
+      "options": [
+        "found never",
+        "find never",
+        "never found",
+        "never been found"
+      ],
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 24,
+      "text": "To such a degree _________ that people rebuked him.",
+      "options": [
+        "he made a noise",
+        "did he make a noise",
+        "he had made a noise",
+        "did he make noise"
+      ],
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 25,
+      "text": "I'm going to adopt her as_________ as Julie and I get married.",
+      "options": [
+        "sooner",
+        "quickly",
+        "earlier",
+        "soon"
+      ],
+      "section": "verbal_ability",
+      "topic": "analogy_verbal",
+      "topic_label": "Verbal Analogy",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.3,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 26,
+      "text": "In 4 x 100 m race, which nation holds the record?",
+      "options": [
+        "Nigeria",
+        "USA",
+        "Kenya",
+        "Jamaica"
+      ],
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 27,
+      "text": "Which Continent has the largest coastline?",
+      "options": [
+        "Asia",
+        "Squash",
+        "North America",
+        "Table Tennis",
+        "South America",
+        "Billiards",
+        "Africa",
+        "Golf"
+      ],
+      "section": "verbal_ability",
+      "topic": "geography_world",
+      "topic_label": "World Geography",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.42857142857142855,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 28,
+      "text": "[RESCUED VERBAL Q28] (a) Asia \n(b) North America \n(c) South America \n(d) Africa \n \n\n--- PAGE 7 --Q.28. Which game is Geet Sethi associated with? \n(a) Squash \n(b) Table Tennis \n(c) Billiards \n(d) Golf \n \nQ.29.",
+      "options": [
+        "Asia",
+        "Squash",
+        "North America",
+        "Table Tennis",
+        "South America",
+        "Billiards",
+        "Africa",
+        "Golf"
+      ],
+      "section": "verbal_ability",
+      "topic": "Inferred Verbal Ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "verbal_inferred",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.35,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 29,
+      "text": "In which state of India \"Than Ta Dance\" is related?",
+      "options": [
+        "Meghalaya",
+        "Manipur",
+        "Assam",
+        "Sikkim"
+      ],
+      "section": "verbal_ability",
+      "topic": "art_culture",
+      "topic_label": "Art & Culture",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.21428571428571427,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 30,
+      "text": "When our Constitution was adopted?",
+      "options": [
+        "26 November 1949",
+        "26 January 1949",
+        "26 January 1950",
+        "26 November 1950"
+      ],
+      "section": "verbal_ability",
+      "topic": "polity",
+      "topic_label": "Polity & Constitution",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.16666666666666666,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 31,
+      "text": "The Hardest substance on the Earth?",
+      "options": [
+        "Iron",
+        "Silver",
+        "Diamond",
+        "Lead"
+      ],
+      "section": "general_awareness",
+      "topic": "art_culture",
+      "topic_label": "Art & Culture",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.14285714285714285,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 32,
+      "text": "The language of Ashoka's Inscription?",
+      "options": [
+        "Sanskrit",
+        "Tamil",
+        "Prakrit",
+        "Parthian"
+      ],
+      "section": "general_awareness",
+      "topic": "coding_decoding",
+      "topic_label": "Coding-Decoding",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.23076923076923078,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 33,
+      "text": "Who was awarded first Bharat Ratana?",
+      "options": [
+        "M. Visvesvaraya",
+        "Sarvepalli Radhakrishnan",
+        "Govind Ballabh Pant",
+        "Rajendra Prasad"
+      ],
+      "section": "general_awareness",
+      "topic": "organizations",
+      "topic_label": "Organizations",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.21428571428571427,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 34,
+      "text": "The first Modern Olympic held where and which city?",
+      "options": [
+        "France",
+        "Britain",
+        "Cuba",
+        "Greece"
+      ],
+      "section": "general_awareness",
+      "topic": "current_affairs",
+      "topic_label": "Current Affairs",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 1.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 35,
+      "text": "Oldest Mountain range in India?",
+      "options": [
+        "Himalaya",
+        "Aravali",
+        "Satpura",
+        "Nilgiri"
+      ],
+      "section": "general_awareness",
+      "topic": "geography_india",
+      "topic_label": "Indian Geography",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.17647058823529413,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 36,
+      "text": "Number of Players in Basket Ball?",
+      "options": [
+        "11",
+        "9",
+        "7",
+        "5"
+      ],
+      "section": "general_awareness",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 37,
+      "text": "Shuddhi Movement was run by?",
+      "options": [
+        "Arya Samaj",
+        "Brahmo Samaj",
+        "Prarthana Samaj",
+        "None of these"
+      ],
+      "section": "general_awareness",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.8,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 38,
+      "text": "ISRO's Satish Dhawan Space Center is located at which place?",
+      "options": [
+        "Andhra Pradesh",
+        "Telangana",
+        "Tamil Nadu",
+        "Odisha"
+      ],
+      "section": "general_awareness",
+      "topic": "technology",
+      "topic_label": "Technology",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.46153846153846156,
+        "type": 1.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 39,
+      "text": "The Author of the book \"The Golden Threshold\"?",
+      "options": [
+        "R. K Narayan",
+        "Sarojini Naidu",
+        "Jhumpa Lahiri",
+        "Arundhati Roy"
+      ],
+      "section": "general_awareness",
+      "topic": "reading_comprehension",
+      "topic_label": "Reading Comprehension",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 40,
+      "text": "The founder of Stavahana Dynasty?",
+      "options": [
+        "Satakarni",
+        "Vikram Ambalal Sarabhai",
+        "Simuka",
+        "A. P. J. Abdul Kalam",
+        "Pulumavi",
+        "Homi Jehangir Bhabha",
+        "Kanha",
+        "Satyendra Nath Bose"
+      ],
+      "section": "general_awareness",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 41,
+      "text": "[RESCUED GA Q41] (a) Satakarni \n(b) Simuka \n(c) Pulumavi \n(d) Kanha \n \n\n--- PAGE 9 --Q.41. Who is the Father of the Indian Space Program? \n(a) Vikram Ambalal Sarabhai \n(b) A. P. J. Abdul Kalam \n(c) Homi Jehangir Bhabh",
+      "options": [
+        "Satakarni",
+        "Vikram Ambalal Sarabhai",
+        "Simuka",
+        "A. P. J. Abdul Kalam",
+        "Pulumavi",
+        "Homi Jehangir Bhabha",
+        "Kanha",
+        "Satyendra Nath Bose"
+      ],
+      "section": "general_awareness",
+      "topic": "Inferred General Awareness",
+      "topic_label": "Inferred General Awareness",
+      "subtopic": null,
+      "question_type": "ga_inferred",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.35,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 42,
+      "text": "Uber cup is related to which sport?",
+      "options": [
+        "Cricket",
+        "Badminton",
+        "Football",
+        "Tennis"
+      ],
+      "section": "general_awareness",
+      "topic": "sports",
+      "topic_label": "Sports",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.15,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 43,
+      "text": "Who is the youngest grandmaster in India?",
+      "options": [
+        "Parimarjan Negi",
+        "D. Gukesh",
+        "Krishnan Sasikiran",
+        "Surya Shekhar"
+      ],
+      "section": "general_awareness",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 44,
+      "text": "From which country India bought C-17 transport aircraft?",
+      "options": [
+        "Iran",
+        "France",
+        "USA",
+        "Germany"
+      ],
+      "section": "general_awareness",
+      "topic": "geography_world",
+      "topic_label": "World Geography",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.21428571428571427,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 45,
+      "text": "Which country organized Asian games maximum number of times?",
+      "options": [
+        "Japan",
+        "China",
+        "Thailand",
+        "India"
+      ],
+      "section": "general_awareness",
+      "topic": "geography_world",
+      "topic_label": "World Geography",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.21428571428571427,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 46,
+      "text": "Agra city was founded by –",
+      "options": [
+        "Sikandar Lodhi",
+        "Babar",
+        "Akbar",
+        "Shah Jahan"
+      ],
+      "section": "general_awareness",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 47,
+      "text": "The visible part of the sun is called —",
+      "options": [
+        "Chromosphere",
+        "Photosphere",
+        "Corona",
+        "Core"
+      ],
+      "section": "general_awareness",
+      "topic": "art_culture",
+      "topic_label": "Art & Culture",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.14285714285714285,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 48,
+      "text": "Ozone layer located in which layer –",
+      "options": [
+        "Stratosphere",
+        "Troposphere",
+        "Mesosphere",
+        "Exosphere"
+      ],
+      "section": "general_awareness",
+      "topic": "environment",
+      "topic_label": "Environment",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2727272727272727,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 49,
+      "text": "Who is the chairman of the constitution drafting committee—",
+      "options": [
+        "Alladi Krishnaswami Ayyar",
+        "N. Gopalaswami",
+        "B. R. Ambedkar",
+        "K. M Munshi"
+      ],
+      "section": "general_awareness",
+      "topic": "organizations",
+      "topic_label": "Organizations",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.21428571428571427,
+        "type": 1.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 50,
+      "text": "UN was established on?",
+      "options": [
+        "1944",
+        "1945",
+        "1942",
+        "1946"
+      ],
+      "section": "general_awareness",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.8,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 51,
+      "text": "Car A is travelling at 60 kmph towards northwest creating an angle 42° to north and Car B is travelling towards South West at 80 kmph creating an angle 48° degree to South. Both are started from same point.",
+      "options": [
+        "1001cm",
+        "120km",
+        "150km",
+        "90km"
+      ],
+      "section": "general_awareness",
+      "topic": "direction_sense",
+      "topic_label": "Direction Sense",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.75,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 52,
+      "text": "Average age of n students who promoted in class VIII is Y years. Three more students included in class whose ages are Y-1, Y-2 and Y+3 years. Find their average age when they promoted in class Xth.",
+      "options": [
+        "Y",
+        "Y³",
+        "Y+2",
+        "Y+5"
+      ],
+      "section": "general_awareness",
+      "topic": "averages",
+      "topic_label": "Averages",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.5454545454545454,
+        "type": 0.6666666666666666,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 53,
+      "text": "Difference between two stations X and Y is 500 km one train starting from X move toward Y with 20 km/h and another train move toward X from Y with the speed 30km/h. What is the distance of the point where both train cross each other from point X.",
+      "options": [
+        "400km",
+        "200km",
+        "300km",
+        "100km"
+      ],
+      "section": "general_awareness",
+      "topic": "speed_time_distance",
+      "topic_label": "Speed, Time & Distance",
+      "subtopic": null,
+      "question_type": "conceptual",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.5714285714285714,
+        "type": 0.5714285714285714,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 54,
+      "text": "The average monthly rainfall is 2. 7inch, the average of first 7 months rainfall is 1. 1 less than the average of yearly rainfall and rainfall of other four months is 20. 3 what is the average rainfall of the last month?",
+      "options": [
+        "0. 9",
+        "10",
+        "2. 1",
+        "13"
+      ],
+      "section": "general_awareness",
+      "topic": "averages",
+      "topic_label": "Averages",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.5454545454545454,
+        "type": 0.5,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 55,
+      "text": "X, Y and Z have some monkey in the ratio 4:3:8. If 2 monkey run away from × and 4 monkey run away",
+      "options": [
+        "10",
+        "20",
+        "40",
+        "30"
+      ],
+      "section": "general_awareness",
+      "topic": "ratio_proportion",
+      "topic_label": "Ratio & Proportion",
+      "subtopic": null,
+      "question_type": "application",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.5,
+        "type": 1.0,
+        "difficulty": 0.65
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 56,
+      "text": "A is 5 times efficient as of B. A completes a piece of work in 60 days less than B, how many time will they take individually?",
+      "options": [
+        "15 days,75 days",
+        "13 days, 65 days",
+        "15 days, 60 days",
+        "17 days, 85 days"
+      ],
+      "section": "reasoning",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.3,
+        "type": 1.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 57,
+      "text": "A man bought watch and pen-drive at 1564 each. And one sold for 23% profit and other sold for 23% loss. What is overall profit or loss?",
+      "options": [
+        "0%",
+        "23%",
+        "46%",
+        "0%"
+      ],
+      "section": "reasoning",
+      "topic": "profit_loss",
+      "topic_label": "Profit & Loss",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.75,
+        "type": 0.5,
+        "difficulty": 0.65
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 58,
+      "text": "A and B earn in the ratio 2:1. They spend in the ratio 5:3 and save in the ratio 4:1. If the total monthly savings of both A and B are Rs. 5000, the monthly income of B is",
+      "options": [
+        "Rs. 7,000",
+        "Rs. 14,000",
+        "Rs. 5,000",
+        "Rs. 10,000"
+      ],
+      "section": "reasoning",
+      "topic": "ratio_proportion",
+      "topic_label": "Ratio & Proportion",
+      "subtopic": null,
+      "question_type": "application",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.5,
+        "type": 1.0,
+        "difficulty": 0.65
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 59,
+      "text": "240 men can finish a work in 20 days working 5 hours a day. To finish the work within 10 days working 8 hours a day, the minimum number of men required is",
+      "options": [
+        "310",
+        "300",
+        "315",
+        "312"
+      ],
+      "section": "reasoning",
+      "topic": "time_and_work",
+      "topic_label": "Time & Work",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.6,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 60,
+      "text": "While selling, a businessman allows 40% discount on the marked price and there is a loss of 30%. If it is sold at the marked price, profit per cent will be —",
+      "options": [
+        "10%",
+        "20%",
+        "16. 68%",
+        "16. 25%"
+      ],
+      "section": "numerical_ability",
+      "topic": "profit_loss",
+      "topic_label": "Profit & Loss",
+      "subtopic": null,
+      "question_type": "application",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.9375,
+        "type": 1.0,
+        "difficulty": 0.65
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 61,
+      "text": "The average salary of all the staff in an office of a corporate house is Rs. 5,000. The average salary of the officers is Rs. 14,000 and that of the rest is Rs. 4,000. If the total number of staff is 500, the number of officers is—",
+      "options": [
+        "10",
+        "15",
+        "25",
+        "50"
+      ],
+      "section": "reasoning",
+      "topic": "averages",
+      "topic_label": "Averages",
+      "subtopic": null,
+      "question_type": "application",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.5454545454545454,
+        "type": 1.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 62,
+      "text": "60% of the cost price of an article is equal to 50% of its selling price. Then the percentage of profit or loss on the cost price is",
+      "options": [
+        "20% loss",
+        "16",
+        "20% profit",
+        "10% loss"
+      ],
+      "section": "reasoning",
+      "topic": "profit_loss",
+      "topic_label": "Profit & Loss",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.75,
+        "type": 1.0,
+        "difficulty": 0.75
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 63,
+      "text": "There are in all, 10 balls; some of them are red and the others white. The average cost of all balls is",
+      "options": [
+        "3",
+        "44",
+        "",
+        "43",
+        "6",
+        "34",
+        "7",
+        "66"
+      ],
+      "section": "reasoning",
+      "topic": "averages",
+      "topic_label": "Averages",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2727272727272727,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 64,
+      "text": "[RESCUED REASONING Q64] Rs. 28. If the average cost of red balls is Rs. 25 and that of white balls is Rs. 30, the number of white balls is: \n(a) 3 \n(b) \n(c) 6 \n(d) 7 \n \n\n--- PAGE 13 --Q.64. Either 8 men or 17 women can paint",
+      "options": [
+        "3",
+        "44",
+        "",
+        "43",
+        "6",
+        "34",
+        "7",
+        "66"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.35,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 65,
+      "text": "The difference between simple and compound interest on a sum of money at 5% p. a. for 2 years. is",
+      "options": [
+        "Rs. 35, 000",
+        "Rs. 41, 000",
+        "Rs. 40, 000",
+        "Rs. 45, 000"
+      ],
+      "section": "reasoning",
+      "topic": "simple_compound_interest",
+      "topic_label": "Simple & Compound Interest",
+      "subtopic": null,
+      "question_type": "conceptual",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.6470588235294118,
+        "type": 0.75,
+        "difficulty": 0.75
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 66,
+      "text": "If √2 = 1. 4142, find the value of",
+      "options": [
+        "1. 4144",
+        "2. 8284",
+        "28284",
+        "2. 4142"
+      ],
+      "section": "reasoning",
+      "topic": "simplification",
+      "topic_label": "Simplification",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.6666666666666666,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 67,
+      "text": "An alloy contains copper, zinc and nickel in the ratio of 5: 3: 2. The quantity of nickel in kg that must be added to 100 kg of this alloy to have the new ratio 5: 3: 3 is",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "15"
+      ],
+      "section": "reasoning",
+      "topic": "ratio_proportion",
+      "topic_label": "Ratio & Proportion",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.5,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 68,
+      "text": "The ratio of the ages of Ram and Rahim 10 years ago was 1: 3. The ratio of their ages five years hence will be 2: 3. Then the ratio of their present ages is",
+      "options": [
+        "1: 2",
+        "3: 5",
+        "3: 4",
+        "2: 5"
+      ],
+      "section": "reasoning",
+      "topic": "ratio_proportion",
+      "topic_label": "Ratio & Proportion",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.25,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 69,
+      "text": "Microphone : Loud :: Microscope : ?",
+      "options": [
+        "Elongate",
+        "Investigate",
+        "Magnify",
+        "Examine"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 70,
+      "text": "Sound : Medium : : Light : ?",
+      "options": [
+        "Air",
+        "Vacuum",
+        "Water",
+        "Glass"
+      ],
+      "section": "reasoning",
+      "topic": "science_physics",
+      "topic_label": "Physics",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.4,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 71,
+      "text": "Democracy : India : : Communism : ?",
+      "options": [
+        "France",
+        "China",
+        "Britain",
+        "America"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 72,
+      "text": "In the following figure, rectangle represents Opticians, circle represents Art critics, triangle represents Riders and square represents Boxes. Which set of letters represents Art critics who are not",
+      "options": [
+        "BLFP",
+        "U",
+        "CHDG",
+        "EDGJ"
+      ],
+      "section": "reasoning",
+      "topic": "venn_diagrams",
+      "topic_label": "Venn Diagrams",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.375,
+        "type": 1.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 73,
+      "text": "School : Education ∷ ? : ?",
+      "options": [
+        "Scalpel : Teacher",
+        "Hospital : Treatment",
+        "Teacher : School",
+        "Class : College"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 74,
+      "text": "5:125::7:?",
+      "options": [
+        "343",
+        "512",
+        "243",
+        "729"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": true,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 75,
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "Daring : Timid",
+        "Beautiful : Pretty",
+        "Clear : Vague",
+        "Youth : Adult"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 76,
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "Fish : Shoal",
+        "Cow: Herd",
+        "Sheep : Flock",
+        "Man : Mob"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 77,
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "Rival",
+        "Opponent",
+        "Foe",
+        "AllY"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 78,
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "POCG",
+        "KLIZ",
+        "BUDX",
+        "FQMV"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 79,
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "Farmer",
+        "Blacksmith",
+        "Helper"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 80,
+      "text": "Which one of the following diagram represents the correct relationship among",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "section": "reasoning",
+      "topic": "venn_diagrams",
+      "topic_label": "Venn Diagrams",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 1.0,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 81,
+      "text": "A's birthday is on Friday 30th June. Find the day of the week on which B's birthday in the same year if B was born 15th November ?",
+      "options": [
+        "Tuesday",
+        "Wednesday",
+        "Monday",
+        "Sunday"
+      ],
+      "section": "reasoning",
+      "topic": "calendar",
+      "topic_label": "Calendar",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 1.0,
+        "type": 0.3333333333333333,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 82,
+      "text": "A piece of paper is folded and cut. From the figures given, indicate how it will appear when opened",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "section": "reasoning",
+      "topic": "paper_folding",
+      "topic_label": "Paper Folding",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 1.0,
+        "type": 1.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 83,
+      "text": "Which answer figure will complete the pattern in the following question figure?",
+      "options": [
+        "",
+        "--- PAGE 18 --",
+        "",
+        ""
+      ],
+      "section": "reasoning",
+      "topic": "pattern_completion",
+      "topic_label": "Pattern Completion",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 1.0,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 84,
+      "text": "Which one of the following diagram represents the correct relationship among",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "section": "reasoning",
+      "topic": "venn_diagrams",
+      "topic_label": "Venn Diagrams",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 1.0,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 85,
+      "text": "Which one of the following diagram represents the correct relationship among",
+      "options": [
+        "--- PAGE 19 --8",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "section": "reasoning",
+      "topic": "venn_diagrams",
+      "topic_label": "Venn Diagrams",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 1.0,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 86,
+      "text": "[RESCUED MATH Q86] Professor, Male and Female. \n(a) \n \n(b) \n \n(c) \n \n(d) \n \n \nQ.81. A's birthday is on Friday 30th June. Find the day of the week on which B's birthday in the same year if B was born 15th November ? \n(a)",
+      "options": [
+        "",
+        "Tuesday",
+        "",
+        "",
+        "",
+        "--- PAGE 19 --8",
+        "",
+        "",
+        "Wednesday",
+        "",
+        "--- PAGE 18 --",
+        "",
+        "",
+        "",
+        "Monday",
+        "",
+        "",
+        "",
+        "",
+        "Q.81. A's birthday is on Friday 30th June. Find the day of the week on which B's birthday in the same year if B was born 15th November ?",
+        "Sunday",
+        "Q.83. Which answer figure will complete the pattern in the following question figure?",
+        "Q.84. Which one of the following diagram represents the correct relationship among",
+        "Q.85. Which one of the following diagram represents the correct relationship among",
+        "Q.88."
+      ],
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "topic_label": "Inferred Numerical Ability",
+      "subtopic": null,
+      "question_type": "math_inferred",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.35,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 87,
+      "text": "[RESCUED MATH Q87] Professor, Male and Female. \n(a) \n \n(b) \n \n(c) \n \n(d) \n \n \nQ.81. A's birthday is on Friday 30th June. Find the day of the week on which B's birthday in the same year if B was born 15th November ? \n(a)",
+      "options": [
+        "",
+        "Tuesday",
+        "",
+        "",
+        "",
+        "--- PAGE 19 --8",
+        "",
+        "",
+        "Wednesday",
+        "",
+        "--- PAGE 18 --",
+        "",
+        "",
+        "",
+        "Monday",
+        "",
+        "",
+        "",
+        "",
+        "Q.81. A's birthday is on Friday 30th June. Find the day of the week on which B's birthday in the same year if B was born 15th November ?",
+        "Sunday",
+        "Q.83. Which answer figure will complete the pattern in the following question figure?",
+        "Q.84. Which one of the following diagram represents the correct relationship among",
+        "Q.85. Which one of the following diagram represents the correct relationship among",
+        "Q.88."
+      ],
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "topic_label": "Inferred Numerical Ability",
+      "subtopic": null,
+      "question_type": "math_inferred",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.35,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 88,
+      "text": "Replace '?' by the appropriate figure from the given options.",
+      "options": [
+        "--- PAGE 21 --",
+        "",
+        "",
+        ""
+      ],
+      "section": "numerical_ability",
+      "topic": "embedded_figures",
+      "topic_label": "Embedded Figures",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.375,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 89,
+      "text": "Which answer figure will complete the question figure?",
+      "options": [
+        "",
+        "",
+        "--- PAGE 22 --",
+        ""
+      ],
+      "section": "numerical_ability",
+      "topic": "embedded_figures",
+      "topic_label": "Embedded Figures",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.375,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 90,
+      "text": "Which answer figure will complete the question figure'?",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "section": "numerical_ability",
+      "topic": "embedded_figures",
+      "topic_label": "Embedded Figures",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.375,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 91,
+      "text": "Question Figures:",
+      "options": [],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 92,
+      "text": "[MATH - topic cannot be inferred from neighbors]",
+      "options": [],
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "topic_label": "Inferred Numerical Ability",
+      "subtopic": null,
+      "question_type": "math_inferred",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 93,
+      "text": "Question Figures:",
+      "options": [],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 94,
+      "text": "Question Figures:",
+      "options": [],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 95,
+      "text": "[MATH - topic cannot be inferred from neighbors]",
+      "options": [],
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "topic_label": "Inferred Numerical Ability",
+      "subtopic": null,
+      "question_type": "math_inferred",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 96,
+      "text": "Question Figures:",
+      "options": [
+        "If only conclusion I follows.",
+        "If only conclusion II follows.",
+        "If either conclusion I or II follows.",
+        "If neither conclusion I nor II follows."
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 97,
+      "text": "Statements:",
+      "options": [],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 98,
+      "text": "Statements:",
+      "options": [
+        ",",
+        ",",
+        "and"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 99,
+      "text": "Find out the alternative figure which contains figure (X) as its part.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "section": "numerical_ability",
+      "topic": "embedded_figures",
+      "topic_label": "Embedded Figures",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.75,
+        "type": 1.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    },
+    {
+      "question_number": 100,
+      "text": "Find out the alternative figure which contains figure (X) as its part.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "section": "numerical_ability",
+      "topic": "embedded_figures",
+      "topic_label": "Embedded Figures",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.75,
+        "type": 1.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2018_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2018,
+      "shift": null
+    }
+  ],
+  "section_breakdown": {
+    "reasoning": 49,
+    "verbal_ability": 16,
+    "general_awareness": 25,
+    "numerical_ability": 10
+  },
+  "topic_breakdown": {
+    "Inferred Reasoning": 30,
+    "averages": 5,
+    "inferred_verbal_ability": 7,
+    "analogy": 8,
+    "history_modern": 1,
+    "analogy_verbal": 2,
+    "geography_world": 3,
+    "Inferred Verbal Ability": 1,
+    "art_culture": 3,
+    "polity": 1,
+    "coding_decoding": 1,
+    "organizations": 2,
+    "current_affairs": 1,
+    "geography_india": 1,
+    "technology": 1,
+    "reading_comprehension": 1,
+    "Inferred General Awareness": 1,
+    "sports": 1,
+    "environment": 1,
+    "direction_sense": 1,
+    "speed_time_distance": 1,
+    "ratio_proportion": 4,
+    "profit_loss": 3,
+    "time_and_work": 1,
+    "simple_compound_interest": 1,
+    "simplification": 1,
+    "science_physics": 1,
+    "venn_diagrams": 4,
+    "calendar": 1,
+    "paper_folding": 1,
+    "pattern_completion": 1,
+    "Inferred Numerical Ability": 4,
+    "embedded_figures": 5
+  },
+  "difficulty_distribution": {
+    "easy": 59,
+    "medium": 37,
+    "hard": 4
+  },
+  "ocr_confidence": 0.6142814364139922,
+  "extraction_method": "pdf_ocr",
+  "page_images": {},
+  "warnings": [
+    "Low OCR confidence: 61.4%"
+  ]
+}

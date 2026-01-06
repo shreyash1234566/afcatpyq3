@@ -1,0 +1,45 @@
+{
+  "source_file": "data\\papers\\17 th Feb MBT.pdf",
+  "year": null,
+  "shift": null,
+  "extraction_date": "2026-01-02T16:52:10.015492",
+  "total_questions": 1,
+  "questions": [
+    {
+      "question_number": 2,
+      "text": "United States",
+      "options": [],
+      "section": "general_awareness",
+      "topic": "geography",
+      "topic_label": "Geography",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.14285714285714285,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "source_file": "17 th Feb MBT.pdf",
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    }
+  ],
+  "section_breakdown": {
+    "general_awareness": 1
+  },
+  "topic_breakdown": {
+    "geography": 1
+  },
+  "difficulty_distribution": {
+    "easy": 1,
+    "medium": 0,
+    "hard": 0
+  },
+  "ocr_confidence": 1.0,
+  "extraction_method": "pdf_ocr",
+  "warnings": []
+}

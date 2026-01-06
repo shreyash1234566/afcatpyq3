@@ -1,0 +1,2986 @@
+{
+  "source_file": "data\\papers\\AFCAT_2019_Memory.pdf",
+  "year": 2019,
+  "shift": null,
+  "extraction_date": "2026-01-02T22:21:56.916865",
+  "total_questions": 100,
+  "questions": [
+    {
+      "question_number": 1,
+      "text": "Ambiguous [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Vague",
+        "Clear",
+        "Transparent",
+        "Confusion"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.6749999999999999,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 2,
+      "text": "Adept [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Brave",
+        "Clever",
+        "Skilled",
+        "Bold"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 3,
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "Hopeless",
+        "Hopeful",
+        "Bold"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 4,
+      "text": "Bolster [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Weaken",
+        "Loosening",
+        "Fortify",
+        "Gaining"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 5,
+      "text": "Coarse [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "rough texture",
+        "sophisticated",
+        "inoffensive",
+        "refined"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 6,
+      "text": "Deference [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Honest",
+        "Respect",
+        "Faith",
+        "Loyal"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 7,
+      "text": "[VERBAL - likely passage/cloze question]",
+      "options": [],
+      "section": "verbal_ability",
+      "topic": "Inferred Verbal Ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "verbal_inferred",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 8,
+      "text": "Courteous [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Soft",
+        "Rude",
+        "Polite",
+        "Respect"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 9,
+      "text": "Dismal [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Sad",
+        "Cheerful",
+        "Happy",
+        "Sorrow"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 10,
+      "text": "Contradict",
+      "options": [
+        "Agree",
+        "Argue",
+        "Misunderstanding",
+        "Conversation"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 11,
+      "text": "Dreary [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Sad",
+        "Gloomy",
+        "Happy",
+        "Bright"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 12,
+      "text": "Dubious [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Doubtful",
+        "Uncertain",
+        "Certain",
+        "Confusion"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 13,
+      "text": "Emphatic [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Expressive",
+        "Reserved",
+        "Hesitant"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 14,
+      "text": "Hostile [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Harmful",
+        "Dangerous",
+        "Useful",
+        "Friendly"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 15,
+      "text": "Oust [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Remove",
+        "Force out",
+        "Retain",
+        "Expel"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 16,
+      "text": "You cannot have your cake and eat it too.",
+      "options": [
+        "Enjoy forever",
+        "Have it both ways",
+        "Run away from responsibility",
+        "Absolve yourself of guilt"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 17,
+      "text": "The rebels held out for about a month.",
+      "options": [
+        "waited",
+        "retreated",
+        "bargained",
+        "resisted"
+      ],
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 18,
+      "text": "The new economic policy is likely to run into rough weather.",
+      "options": [
+        "create problems",
+        "encounter difficulties",
+        "confuse matters",
+        "makes things difficult"
+      ],
+      "section": "verbal_ability",
+      "topic": "current_affairs",
+      "topic_label": "Current Affairs",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 19,
+      "text": "The old father brought home the moral of unity by asking each of his sons to break the bundle of sticks",
+      "options": [
+        "emphasised",
+        "voiced",
+        "declared",
+        "suggested"
+      ],
+      "section": "verbal_ability",
+      "topic": "blood_relations",
+      "topic_label": "Blood Relations",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2631578947368421,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 20,
+      "text": "Some people now wonder whether we just pay lip service or genuinely",
+      "options": [
+        "Subscribe to democracy.",
+        "pay oral tribute",
+        "attach no value",
+        "remain indifferent"
+      ],
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 21,
+      "text": "He visits the doctor off and on.",
+      "options": [
+        "everyday",
+        "regularly",
+        "never at all",
+        "occasionally"
+      ],
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 22,
+      "text": "The robber took to his heels when the police arrived.",
+      "options": [
+        "opened fire",
+        "hid himself",
+        "ran off",
+        "surrendered"
+      ],
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 1.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 23,
+      "text": "I hope it will not put you out if I am late.",
+      "options": [
+        "harm you",
+        "irritate you",
+        "please you",
+        "worry out"
+      ],
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 24,
+      "text": "Manoj was the real power behind the throne and all politicians were aware of this.",
+      "options": [
+        "The person who had the real control and power",
+        "The acknowledged leader",
+        "The person who controlled the monarch",
+        "The person who controlled the queen"
+      ],
+      "section": "verbal_ability",
+      "topic": "syllogism",
+      "topic_label": "Syllogism",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.38461538461538464,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 25,
+      "text": "His friends let him down.",
+      "options": [
+        "failed",
+        "comforted",
+        "succeeded",
+        "stood by"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 26,
+      "text": "I felt like a fish out of water among all those business tycoons.",
+      "options": [
+        "troubled",
+        "stupid",
+        "uncomfortable",
+        "inferior"
+      ],
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 27,
+      "text": "The accounts of the murder made her flesh creep.",
+      "options": [
+        "Made her sad",
+        "surprised her",
+        "Made her cry bitterly",
+        "Fill her with horror"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 28,
+      "text": "He is an interesting speaker but tends to go off at a tangent.",
+      "options": [
+        "change the subject immediately",
+        "forget things in between",
+        "go on at great length",
+        "become boisterous"
+      ],
+      "section": "verbal_ability",
+      "topic": "geometry",
+      "topic_label": "Geometry",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.15,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 29,
+      "text": "Women should be paid the same as men when they do the same job, for, surely what is sauce for the goose is sauce for the gander.",
+      "options": [
+        "What is thought suitable pay for a man should also be for a woman",
+        "Goose and the gender eat the same sauce",
+        "Both goose and gander should be equally treated",
+        "The principle of equal treatment should be implemented"
+      ],
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.3,
+        "type": 0.3333333333333333,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 30,
+      "text": "The party stalwarts have advised the President to take it lying down for a while.",
+      "options": [
+        "to be cautious",
+        "to be on the defensive",
+        "to take rest",
+        "to show no reaction"
+      ],
+      "section": "verbal_ability",
+      "topic": "polity",
+      "topic_label": "Polity & Constitution",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.16666666666666666,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 31,
+      "text": "Who won the golden boot of FIFA 2018?",
+      "options": [
+        "Harry Kane",
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Mohamed Salah"
+      ],
+      "section": "general_awareness",
+      "topic": "sports",
+      "topic_label": "Sports",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.25,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 32,
+      "text": "Who is the first women defence minister of India?",
+      "options": [
+        "Sakuntala Devi",
+        "Nirmala Sitharaman",
+        "Jansi Rani",
+        "Meenatchi Sundaram"
+      ],
+      "section": "general_awareness",
+      "topic": "organizations",
+      "topic_label": "Organizations",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.21428571428571427,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 33,
+      "text": "Which is the capital of Nigeria?",
+      "options": [
+        "Diko",
+        "Kakanya",
+        "Kuje",
+        "Abuja"
+      ],
+      "section": "general_awareness",
+      "topic": "geography_india",
+      "topic_label": "Indian Geography",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.17647058823529413,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 34,
+      "text": "Who was the founder of Satavahana dynasty?",
+      "options": [
+        "Pushyamitra Sunga",
+        "Simuka",
+        "Vasudeva",
+        "Danti Durga"
+      ],
+      "section": "general_awareness",
+      "topic": "organizations",
+      "topic_label": "Organizations",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.35714285714285715,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 35,
+      "text": "How many bouncers are allowed in an over in T20?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "0"
+      ],
+      "section": "general_awareness",
+      "topic": "organizations",
+      "topic_label": "Organizations",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.14285714285714285,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 36,
+      "text": "Who was the first Indian to win the All England badminton championship?",
+      "options": [
+        "Prakash Padukone",
+        "Saina Nehwal",
+        "Pullela Gopichand",
+        "Prakash Nath"
+      ],
+      "section": "general_awareness",
+      "topic": "organizations",
+      "topic_label": "Organizations",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.21428571428571427,
+        "type": 1.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 37,
+      "text": "Which state celebrates the Hornbill Festival?",
+      "options": [
+        "Assam",
+        "Sikkim",
+        "Manipur",
+        "Nagaland"
+      ],
+      "section": "general_awareness",
+      "topic": "art_culture",
+      "topic_label": "Art & Culture",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.21428571428571427,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 38,
+      "text": "Who was the First women speaker of Lok Sabha?",
+      "options": [
+        "Joyce Adeline Bamford-Addo",
+        "Rajendra Prasad",
+        "Violet Hari Alva",
+        "Gopal Krishna Gokhale",
+        "Meira Kumar",
+        "Lala Lajpat Rai",
+        "Sumitra Mahajan",
+        "Rajagopalachari"
+      ],
+      "section": "general_awareness",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 39,
+      "text": "[RESCUED GA Q39] (a) Joyce Adeline Bamford-Addo \n(b) Violet Hari Alva \n(c) Meira Kumar \n(d) Sumitra Mahajan \n \n\n--- PAGE 8 --Q.39. Who was the founder of Swatantra party? \n(a) Rajendra Prasad \n(b) Gopal Krishna Gokhal",
+      "options": [
+        "Joyce Adeline Bamford-Addo",
+        "Rajendra Prasad",
+        "Violet Hari Alva",
+        "Gopal Krishna Gokhale",
+        "Meira Kumar",
+        "Lala Lajpat Rai",
+        "Sumitra Mahajan",
+        "Rajagopalachari"
+      ],
+      "section": "general_awareness",
+      "topic": "Inferred General Awareness",
+      "topic_label": "Inferred General Awareness",
+      "subtopic": null,
+      "question_type": "ga_inferred",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.35,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 40,
+      "text": "Which is the capital of Myanmar?",
+      "options": [
+        "Kyetpyay",
+        "Nay Pyi taw",
+        "Pyinmana",
+        "Yangon"
+      ],
+      "section": "general_awareness",
+      "topic": "geography_india",
+      "topic_label": "Indian Geography",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.17647058823529413,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 41,
+      "text": "Who wrote Arthashastra?",
+      "options": [
+        "Aryabhata",
+        "Chanakya",
+        "Durdhara",
+        "Bindusara"
+      ],
+      "section": "general_awareness",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.8,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 42,
+      "text": "Which city is known as Cathedral city?",
+      "options": [
+        "Bhubaneswar",
+        "Jamshedpur",
+        "Konark",
+        "Tanjore"
+      ],
+      "section": "general_awareness",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.3,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 43,
+      "text": "Who was the first CM of Bengal state?",
+      "options": [
+        "Bidhan Chandra Roy",
+        "Prafulla Chandra Sen",
+        "Ajoy Kumar Mukherjee",
+        "Prafulla Chandra Ghosh"
+      ],
+      "section": "general_awareness",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 44,
+      "text": "Where is the Gobi desert located in the world?",
+      "options": [
+        "Northern China",
+        "and",
+        "Southern Mongolia",
+        "",
+        "China",
+        "Both"
+      ],
+      "section": "general_awareness",
+      "topic": "geography_world",
+      "topic_label": "World Geography",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.21428571428571427,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 45,
+      "text": "Which is the capital of Chile?",
+      "options": [
+        "Santiago",
+        "San Antonio",
+        "Melipilla",
+        "Las Condes"
+      ],
+      "section": "general_awareness",
+      "topic": "geography_india",
+      "topic_label": "Indian Geography",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.17647058823529413,
+        "type": 1.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 46,
+      "text": "What is the abbreviation of LCA?",
+      "options": [
+        "Labor Condition Application",
+        "Labor Condition Applicant",
+        "Labor Criteria Application",
+        "Labor Criteria Applicant"
+      ],
+      "section": "general_awareness",
+      "topic": "inferred_general_awareness",
+      "topic_label": "Inferred General Awareness",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 47,
+      "text": "Who was the founder of Agra?",
+      "options": [
+        "Sikandar Lodi",
+        "Ibrahim Lodi",
+        "Bahlul Lodi",
+        "Iltutmish"
+      ],
+      "section": "general_awareness",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.8,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 48,
+      "text": "Who wrote the book “Death of a City”?",
+      "options": [
+        "William Blake",
+        "Geoffrey Chaucer",
+        "Mike Walsh",
+        "John Milton"
+      ],
+      "section": "general_awareness",
+      "topic": "books_authors",
+      "topic_label": "Books & Authors",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.6666666666666666,
+        "type": 1.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 49,
+      "text": "To which sport does Geet Sethi is related?",
+      "options": [
+        "Carrom",
+        "Billiards",
+        "Table Tennis",
+        "Chess"
+      ],
+      "section": "general_awareness",
+      "topic": "inferred_general_awareness",
+      "topic_label": "Inferred General Awareness",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 50,
+      "text": "The Golden Threshold was written by whom?",
+      "options": [
+        "Gopal Krishna Gokhale",
+        "Sarojini Naidu",
+        "Vijaya Lakshmi Pandit",
+        "Bal Gangadhar Tilak"
+      ],
+      "section": "general_awareness",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 51,
+      "text": "The distance between two stations A and B is 220 km. A train leaves A toward B at an average speed of 80 km/hr. after half an hour another train leaves B toward A at an average speed at 100 km/hr. The distance of the point of two train meet, from A is",
+      "options": [
+        "120 km.",
+        "130 km.",
+        "140 km.",
+        "150 km."
+      ],
+      "section": "general_awareness",
+      "topic": "speed_time_distance",
+      "topic_label": "Speed, Time & Distance",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.7142857142857143,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 52,
+      "text": "X and Y are two stations 500 km apart. A train starts from X and moves toward Y at 20 km/hr another train starts from Y at the same times and moves toward X at 30 km/hr. How far from X will they cross each other?",
+      "options": [
+        "200 km.",
+        "30 km.",
+        "120 km.",
+        "40 km."
+      ],
+      "section": "general_awareness",
+      "topic": "speed_time_distance",
+      "topic_label": "Speed, Time & Distance",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.42857142857142855,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 53,
+      "text": "In what time will the simple interest on Rs 400 at 10% per annum be the same as the simple interest on Rs 1000 for 4 year at 4 % per annum?",
+      "options": [
+        "2 years",
+        "3 years",
+        "4 years",
+        "6 years"
+      ],
+      "section": "general_awareness",
+      "topic": "simple_compound_interest",
+      "topic_label": "Simple & Compound Interest",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.8235294117647058,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 54,
+      "text": "At what rate percent per annum will a sum of money double in 8 year?",
+      "options": [
+        "12%",
+        "12.5%",
+        "13%",
+        "13.5%"
+      ],
+      "section": "general_awareness",
+      "topic": "simple_compound_interest",
+      "topic_label": "Simple & Compound Interest",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.5294117647058824,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 55,
+      "text": "A and B are 20 km apart. A can walk at an average speed of 4 km/hr and B at 6 km/hr. If they start walking towards each other at 7:00 am, when they will meet?",
+      "options": [
+        "8:00 am",
+        "8:30 am",
+        "9:00 am",
+        "10:00 am"
+      ],
+      "section": "general_awareness",
+      "topic": "speed_time_distance",
+      "topic_label": "Speed, Time & Distance",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.5714285714285714,
+        "type": 0.5,
+        "difficulty": 0.85
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 56,
+      "text": "A plane flies along the four sides of a square field at a speed of 200, 400, 600 and 800 km/hr. Then find the average speed of plane around the square field.",
+      "options": [
+        "394",
+        "400",
+        "414",
+        "384"
+      ],
+      "section": "reasoning",
+      "topic": "averages",
+      "topic_label": "Averages",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.5454545454545454,
+        "type": 1.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 57,
+      "text": "The average age of 7 member of Patel's family is 25 year. The average age of the same family 3 year ago was",
+      "options": [
+        "21 year",
+        "22 year",
+        "25 year",
+        "none of these"
+      ],
+      "section": "reasoning",
+      "topic": "calendar",
+      "topic_label": "Calendar",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.25,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 58,
+      "text": "Rahim covers a certain distance in 14 hrs 40 min. He covers one half of the distance by train at 60 km/hr. and rest half by road at 50 km/hr. The distance travelled by him is",
+      "options": [
+        "960 km.",
+        "720 km.",
+        "1000 km.",
+        "800 km."
+      ],
+      "section": "reasoning",
+      "topic": "speed_time_distance",
+      "topic_label": "Speed, Time & Distance",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.5238095238095238,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 59,
+      "text": "6 men or 10 women can reap a field in 15 days, then the number of days that 12 men and 5 women will take to reap the same field is?",
+      "options": [
+        "5",
+        "6",
+        "8",
+        "12"
+      ],
+      "section": "reasoning",
+      "topic": "time_and_work",
+      "topic_label": "Time & Work",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.45,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 60,
+      "text": "314 weavers weave 6594 shawls in 1/6 hours. What is the number of shawls weaved per hour by an average weaver?",
+      "options": [
+        "42",
+        "21",
+        "102",
+        "126"
+      ],
+      "section": "reasoning",
+      "topic": "averages",
+      "topic_label": "Averages",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2727272727272727,
+        "type": 0.75,
+        "difficulty": 0.65
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 61,
+      "text": "If a person sells a wooden furniture at 8% profit against 8% loss, then he could had earned Rs12 more. What is the cost price of furniture?",
+      "options": [
+        "72",
+        "70",
+        "80",
+        "75"
+      ],
+      "section": "reasoning",
+      "topic": "profit_loss",
+      "topic_label": "Profit & Loss",
+      "subtopic": null,
+      "question_type": "application",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.6875,
+        "type": 0.6,
+        "difficulty": 0.85
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 62,
+      "text": "Calculate the amount of water which should be added to 80% solution of Sulphuric acid to make it a",
+      "options": [
+        "60cc",
+        "2: 5",
+        "80cc",
+        "3: 5",
+        "75cc",
+        "3: 8",
+        "70cc",
+        "7: 2"
+      ],
+      "section": "reasoning",
+      "topic": "mixtures_alligation",
+      "topic_label": "Mixtures & Alligation",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.5454545454545454,
+        "type": 1.0,
+        "difficulty": 0.65
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 63,
+      "text": "[RESCUED REASONING Q63] 50% solution? \n(a) 60cc \n(b) 80cc \n(c) 75cc \n(d) 70cc \n\n--- PAGE 12 --Q.63. Two trains A and B travel from points × to Y and the ratio of the speeds of A to that of B is 2: 7. Find the ratio of time t",
+      "options": [
+        "60cc",
+        "2: 5",
+        "80cc",
+        "3: 5",
+        "75cc",
+        "3: 8",
+        "70cc",
+        "7: 2"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": true,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.35,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 64,
+      "text": "Total number of students in a class is 95. If the total number of girls in the class is 45, then the ratio of total number of boys to total number of girls is",
+      "options": [
+        "9:10",
+        "11:9",
+        "10:9",
+        "9:11"
+      ],
+      "section": "reasoning",
+      "topic": "coding_decoding",
+      "topic_label": "Coding-Decoding",
+      "subtopic": null,
+      "question_type": "application",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.46153846153846156,
+        "type": 1.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 65,
+      "text": "The ratio of money with Ram and Gopal is 7: 17 and that with Gopal and Krishan is 7: 17. If Ram has",
+      "options": [
+        "Rs. 2890",
+        "Rs. 2330",
+        "Rs. 1190",
+        "Rs. 2680"
+      ],
+      "section": "reasoning",
+      "topic": "ratio_proportion",
+      "topic_label": "Ratio & Proportion",
+      "subtopic": null,
+      "question_type": "application",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.25,
+        "type": 1.0,
+        "difficulty": 0.65
+      },
+      "has_formula": true,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 66,
+      "text": "‘ZYXW’ as coded as ‘ABCD’ then ‘STUV’ is coded as",
+      "options": [
+        "HGFE",
+        "GFEH",
+        "HEFG",
+        "GEFH"
+      ],
+      "section": "reasoning",
+      "topic": "coding_decoding",
+      "topic_label": "Coding-Decoding",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.8461538461538461,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 67,
+      "text": "‘bcd’ is coded as ‘def’ then ‘true’ is coded as",
+      "options": [
+        "vtwg",
+        "tvwg",
+        "gtwv",
+        "gwtv"
+      ],
+      "section": "reasoning",
+      "topic": "coding_decoding",
+      "topic_label": "Coding-Decoding",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.8461538461538461,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 68,
+      "text": "‘Hyderabad’ is coded as ‘Ixedszcze’ then ‘Chennai’ is coded as",
+      "options": [
+        "dgfmojz",
+        "517563",
+        "dgfmozj",
+        "517536",
+        "gfdmozj",
+        "753651",
+        "gfdmojz",
+        "753615"
+      ],
+      "section": "reasoning",
+      "topic": "coding_decoding",
+      "topic_label": "Coding-Decoding",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.8461538461538461,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 69,
+      "text": "[RESCUED REASONING Q69] (a) dgfmojz \n(b) dgfmozj \n(c) gfdmozj \n(d) gfdmojz \n\n--- PAGE 13 --Q.69. Apple is coded as 25563, Rung is coded as 7148. Then purple is coded as \n(a) 517563 \n(b) 517536 \n(c) 753651 \n(d) 753615 \n \nQ.70",
+      "options": [
+        "dgfmojz",
+        "517563",
+        "dgfmozj",
+        "517536",
+        "gfdmozj",
+        "753651",
+        "gfdmojz",
+        "753615"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.35,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 70,
+      "text": "If TSEREVE and NOITACUDE stands for EVEREST and EDUCATION, how will you code REDFORT",
+      "options": [
+        "RECFORT",
+        "TEDFNRD",
+        "TROFDER",
+        "RECFNRT"
+      ],
+      "section": "reasoning",
+      "topic": "coding_decoding",
+      "topic_label": "Coding-Decoding",
+      "subtopic": null,
+      "question_type": "application",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.46153846153846156,
+        "type": 1.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 71,
+      "text": "Which code should be replaced in the question mark? MILD: NKOH: GATE:?",
+      "options": [
+        "IBVC",
+        "HCWI",
+        "KDXK",
+        "ICWA"
+      ],
+      "section": "reasoning",
+      "topic": "coding_decoding",
+      "topic_label": "Coding-Decoding",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.23076923076923078,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 72,
+      "text": "In a code language, SOLID is written as WPSLPIMFHA. What does the code-word ATEXXQIBVO refer to?",
+      "options": [
+        "WATER",
+        "WAGER",
+        "EAGER",
+        "WAFER"
+      ],
+      "section": "reasoning",
+      "topic": "coding_decoding",
+      "topic_label": "Coding-Decoding",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.6923076923076923,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 73,
+      "text": "If in a certain language, TRIANGLE is coded as SQHZMFKD, which word would be coded as DWZLOKD?",
+      "options": [
+        "EXAMPLE",
+        "FIGMENT",
+        "DISMENT",
+        "DISJOIN"
+      ],
+      "section": "reasoning",
+      "topic": "coding_decoding",
+      "topic_label": "Coding-Decoding",
+      "subtopic": null,
+      "question_type": "application",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 1.0,
+        "type": 1.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 74,
+      "text": "If in a certain code, COVET is written as FRYHW, which word would be written as",
+      "options": [
+        "QUAKE",
+        "FUDQH",
+        "REPAY",
+        "HWFSJ",
+        "STINK",
+        "GVERI",
+        "PEARL",
+        "GMVIZ"
+      ],
+      "section": "reasoning",
+      "topic": "coding_decoding",
+      "topic_label": "Coding-Decoding",
+      "subtopic": null,
+      "question_type": "application",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 1.0,
+        "type": 1.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 75,
+      "text": "[RESCUED REASONING Q75] SHDUO? \n(a) QUAKE \n(b) REPAY \n(c) STINK \n(d) PEARL \n \n\n--- PAGE 14 --Q.75. If in a certain language, GRASP is coded as BMVNK, which word would be coded as CRANE? \n(a) FUDQH \n(b)HWFSJ \n(c) GVERI \n(d)GM",
+      "options": [
+        "QUAKE",
+        "FUDQH",
+        "REPAY",
+        "HWFSJ",
+        "STINK",
+        "GVERI",
+        "PEARL",
+        "GMVIZ"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.35,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 76,
+      "text": "Four words have been given of which three are alike in some way and one is different.",
+      "options": [
+        "Dollar",
+        "Peso",
+        "Ounce",
+        "Euro"
+      ],
+      "section": "reasoning",
+      "topic": "vocabulary",
+      "topic_label": "Vocabulary",
+      "subtopic": null,
+      "question_type": "application",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.4,
+        "type": 1.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 77,
+      "text": "Find the odd number or letters from the given alternatives.",
+      "options": [
+        "Swimming",
+        "Sailing",
+        "Diving",
+        "Driving"
+      ],
+      "section": "reasoning",
+      "topic": "inferred_reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 1.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 78,
+      "text": "Find the odd number or letters or word from the given alternative.",
+      "options": [
+        "5720",
+        "6710",
+        "2640",
+        "4270"
+      ],
+      "section": "reasoning",
+      "topic": "vocabulary",
+      "topic_label": "Vocabulary",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.6,
+        "type": 1.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 79,
+      "text": "Find the odd number or letters from the given alternatives.",
+      "options": [
+        "PQXZ",
+        "CQBN",
+        "ABDF",
+        "PRMN"
+      ],
+      "section": "reasoning",
+      "topic": "inferred_reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 1.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 80,
+      "text": "Pick the odd man out: 154, 235, 352, 460, 324",
+      "options": [
+        "234",
+        "324",
+        "154",
+        "460"
+      ],
+      "section": "reasoning",
+      "topic": "number_system",
+      "topic_label": "Number System",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.21428571428571427,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 81,
+      "text": "Find the odd number or letters or word from the given alternatives.",
+      "options": [
+        "Corn",
+        "Wheat",
+        "Cotton",
+        "Jowar"
+      ],
+      "section": "numerical_ability",
+      "topic": "vocabulary",
+      "topic_label": "Vocabulary",
+      "subtopic": null,
+      "question_type": "calculation",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.6,
+        "type": 1.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 82,
+      "text": "Choose the number which is different from others in the group.",
+      "options": [
+        "72: 12",
+        "48: 24",
+        "120: 74",
+        "96: 84"
+      ],
+      "section": "numerical_ability",
+      "topic": "classification",
+      "topic_label": "Classification",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.8571428571428571,
+        "type": 0.6666666666666666,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 83,
+      "text": "Choose the number which is different from others.",
+      "options": [
+        "7: 343",
+        "9: 243",
+        "8: 512",
+        "6: 216"
+      ],
+      "section": "numerical_ability",
+      "topic": "permutation_combination",
+      "topic_label": "Permutation & Combination",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.25,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 84,
+      "text": "Choose the number which is different from others in the group",
+      "options": [
+        "263",
+        "383",
+        "242",
+        "551"
+      ],
+      "section": "numerical_ability",
+      "topic": "classification",
+      "topic_label": "Classification",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.8571428571428571,
+        "type": 0.6666666666666666,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 85,
+      "text": "Choose the number which is different from others in the group",
+      "options": [
+        "6788",
+        "6878",
+        "6482",
+        "9848"
+      ],
+      "section": "numerical_ability",
+      "topic": "classification",
+      "topic_label": "Classification",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.8571428571428571,
+        "type": 0.6666666666666666,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 86,
+      "text": "Choose the odd pair of words",
+      "options": [
+        "Aphid - Paper",
+        "Termite - Wood",
+        "Moth - Wool",
+        "Locust - Plant"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 87,
+      "text": "--- PAGE 16 --PROBLEM FIGURE",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 88,
+      "text": "PROBLEM FIGURE",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "1"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 89,
+      "text": "PROBLEM FIGURE",
+      "options": [
+        "4",
+        "1",
+        "3",
+        "2"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 90,
+      "text": "PROBLEM FIGURE",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 91,
+      "text": "PROBLEM FIGURE",
+      "options": [
+        "1",
+        "4",
+        "2",
+        "3"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 92,
+      "text": "PROBLEM FIGURE",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 93,
+      "text": "PROBLEM FIGURE",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 94,
+      "text": "PROBLEM FIGURE",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.9,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 95,
+      "text": "PROBLEM FIGURE",
+      "options": [
+        "1",
+        "3",
+        "2",
+        "4"
+      ],
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "topic_label": "Inferred Reasoning",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 96,
+      "text": "Author is related to Book as Choreographer is related to",
+      "options": [
+        "Drama",
+        "Ballet",
+        "Masque",
+        "Opera"
+      ],
+      "section": "reasoning",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.9,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 97,
+      "text": "Glutton is related to Eat as Garrulous is related to",
+      "options": [
+        "Walk",
+        "Talk",
+        "Laugh",
+        "Travel"
+      ],
+      "section": "reasoning",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.9,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 98,
+      "text": "Vitro is related to Glass as Ligno is related to",
+      "options": [
+        "Marble",
+        "Rock",
+        "Wood",
+        "Metal"
+      ],
+      "section": "reasoning",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.9,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 99,
+      "text": "Jade is related to Green as Garnet is related to",
+      "options": [
+        "red",
+        "blue",
+        "Orange",
+        "yellow"
+      ],
+      "section": "reasoning",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.9,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    },
+    {
+      "question_number": 100,
+      "text": "Estonia is related to Ruble as Chile is related to",
+      "options": [
+        "Peso",
+        "Rupee",
+        "Peseta",
+        "Dinar"
+      ],
+      "section": "reasoning",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.9,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "AFCAT_2019_Memory.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": 2019,
+      "shift": null
+    }
+  ],
+  "section_breakdown": {
+    "reasoning": 57,
+    "verbal_ability": 13,
+    "general_awareness": 25,
+    "numerical_ability": 5
+  },
+  "topic_breakdown": {
+    "Inferred Reasoning": 30,
+    "Inferred Verbal Ability": 1,
+    "inferred_verbal_ability": 6,
+    "current_affairs": 1,
+    "blood_relations": 1,
+    "syllogism": 1,
+    "geometry": 1,
+    "analogy": 12,
+    "polity": 1,
+    "sports": 1,
+    "organizations": 4,
+    "geography_india": 3,
+    "art_culture": 1,
+    "Inferred General Awareness": 1,
+    "geography_world": 1,
+    "inferred_general_awareness": 2,
+    "books_authors": 1,
+    "speed_time_distance": 4,
+    "simple_compound_interest": 2,
+    "averages": 2,
+    "calendar": 1,
+    "time_and_work": 1,
+    "profit_loss": 1,
+    "mixtures_alligation": 1,
+    "coding_decoding": 9,
+    "ratio_proportion": 1,
+    "vocabulary": 3,
+    "inferred_reasoning": 2,
+    "number_system": 1,
+    "classification": 3,
+    "permutation_combination": 1
+  },
+  "difficulty_distribution": {
+    "easy": 66,
+    "medium": 23,
+    "hard": 11
+  },
+  "ocr_confidence": 0.6617279532215271,
+  "extraction_method": "pdf_ocr",
+  "page_images": {},
+  "warnings": [
+    "Low OCR confidence: 66.2%"
+  ]
+}

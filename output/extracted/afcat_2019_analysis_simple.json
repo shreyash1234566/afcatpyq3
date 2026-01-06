@@ -1,0 +1,705 @@
+{
+  "year": 2019,
+  "shift": null,
+  "total_questions": 100,
+  "topic_data": [
+    {
+      "year": 2019,
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "count": 30,
+      "difficulties": {
+        "easy": 23,
+        "medium": 5,
+        "hard": 2
+      },
+      "sample_questions": [
+        {
+          "text": "Ambiguous [LIKELY FIGURE - incomplete text]",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Adept [LIKELY FIGURE - incomplete text]",
+          "difficulty": "easy"
+        },
+        {
+          "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "verbal_ability",
+      "topic": "Inferred Verbal Ability",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "[VERBAL - likely passage/cloze question]",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "count": 6,
+      "difficulties": {
+        "easy": 6,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The rebels held out for about a month.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Some people now wonder whether we just pay lip service or genuinely",
+          "difficulty": "easy"
+        },
+        {
+          "text": "He visits the doctor off and on.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "verbal_ability",
+      "topic": "current_affairs",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The new economic policy is likely to run into rough weather.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "verbal_ability",
+      "topic": "blood_relations",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The old father brought home the moral of unity by asking each of his sons to break the bundle of sticks",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "verbal_ability",
+      "topic": "syllogism",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Manoj was the real power behind the throne and all politicians were aware of this.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "verbal_ability",
+      "topic": "geometry",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "He is an interesting speaker but tends to go off at a tangent.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Women should be paid the same as men when they do the same job, for, surely what is sauce for the goose is sauce for the gander.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "verbal_ability",
+      "topic": "polity",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The party stalwarts have advised the President to take it lying down for a while.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "general_awareness",
+      "topic": "sports",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who won the golden boot of FIFA 2018?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "general_awareness",
+      "topic": "organizations",
+      "count": 4,
+      "difficulties": {
+        "easy": 2,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who is the first women defence minister of India?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Who was the founder of Satavahana dynasty?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "How many bouncers are allowed in an over in T20?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "general_awareness",
+      "topic": "geography_india",
+      "count": 3,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which is the capital of Nigeria?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which is the capital of Myanmar?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which is the capital of Chile?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "general_awareness",
+      "topic": "art_culture",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which state celebrates the Hornbill Festival?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "general_awareness",
+      "topic": "analogy",
+      "count": 6,
+      "difficulties": {
+        "easy": 4,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who was the First women speaker of Lok Sabha?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Who wrote Arthashastra?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which city is known as Cathedral city?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "general_awareness",
+      "topic": "Inferred General Awareness",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED GA Q39] (a) Joyce Adeline Bamford-Addo \n(b) Violet Hari Alva \n(c) Meira Kumar \n(d) Sumitra Mahajan \n \n\n--- PAGE 8 --Q.39. Who was the founder of Swatantra party? \n(a) Rajendra Prasad \n(b) Gop...",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "general_awareness",
+      "topic": "geography_world",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Where is the Gobi desert located in the world?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "general_awareness",
+      "topic": "inferred_general_awareness",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "What is the abbreviation of LCA?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "To which sport does Geet Sethi is related?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "general_awareness",
+      "topic": "books_authors",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who wrote the book “Death of a City”?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "general_awareness",
+      "topic": "speed_time_distance",
+      "count": 3,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 3
+      },
+      "sample_questions": [
+        {
+          "text": "The distance between two stations A and B is 220 km. A train leaves A toward B at an average speed of 80 km/hr. after half an hour another train leaves B toward A at an average speed at 100 km/hr. The...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "X and Y are two stations 500 km apart. A train starts from X and moves toward Y at 20 km/hr another train starts from Y at the same times and moves toward X at 30 km/hr. How far from X will they cross...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "A and B are 20 km apart. A can walk at an average speed of 4 km/hr and B at 6 km/hr. If they start walking towards each other at 7:00 am, when they will meet?",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "general_awareness",
+      "topic": "simple_compound_interest",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "In what time will the simple interest on Rs 400 at 10% per annum be the same as the simple interest on Rs 1000 for 4 year at 4 % per annum?",
+          "difficulty": "hard"
+        },
+        {
+          "text": "At what rate percent per annum will a sum of money double in 8 year?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "reasoning",
+      "topic": "averages",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "A plane flies along the four sides of a square field at a speed of 200, 400, 600 and 800 km/hr. Then find the average speed of plane around the square field.",
+          "difficulty": "hard"
+        },
+        {
+          "text": "314 weavers weave 6594 shawls in 1/6 hours. What is the number of shawls weaved per hour by an average weaver?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "reasoning",
+      "topic": "calendar",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The average age of 7 member of Patel's family is 25 year. The average age of the same family 3 year ago was",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "reasoning",
+      "topic": "speed_time_distance",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "Rahim covers a certain distance in 14 hrs 40 min. He covers one half of the distance by train at 60 km/hr. and rest half by road at 50 km/hr. The distance travelled by him is",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "reasoning",
+      "topic": "time_and_work",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "6 men or 10 women can reap a field in 15 days, then the number of days that 12 men and 5 women will take to reap the same field is?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "reasoning",
+      "topic": "profit_loss",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "If a person sells a wooden furniture at 8% profit against 8% loss, then he could had earned Rs12 more. What is the cost price of furniture?",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "reasoning",
+      "topic": "mixtures_alligation",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Calculate the amount of water which should be added to 80% solution of Sulphuric acid to make it a",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "reasoning",
+      "topic": "coding_decoding",
+      "count": 9,
+      "difficulties": {
+        "easy": 4,
+        "medium": 4,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "Total number of students in a class is 95. If the total number of girls in the class is 45, then the ratio of total number of boys to total number of girls is",
+          "difficulty": "hard"
+        },
+        {
+          "text": "‘ZYXW’ as coded as ‘ABCD’ then ‘STUV’ is coded as",
+          "difficulty": "medium"
+        },
+        {
+          "text": "‘bcd’ is coded as ‘def’ then ‘true’ is coded as",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "reasoning",
+      "topic": "ratio_proportion",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The ratio of money with Ram and Gopal is 7: 17 and that with Gopal and Krishan is 7: 17. If Ram has",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "reasoning",
+      "topic": "vocabulary",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Four words have been given of which three are alike in some way and one is different.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Find the odd number or letters or word from the given alternative.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "reasoning",
+      "topic": "inferred_reasoning",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Find the odd number or letters from the given alternatives.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Find the odd number or letters from the given alternatives.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "reasoning",
+      "topic": "number_system",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Pick the odd man out: 154, 235, 352, 460, 324",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "numerical_ability",
+      "topic": "vocabulary",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Find the odd number or letters or word from the given alternatives.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "numerical_ability",
+      "topic": "classification",
+      "count": 3,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Choose the number which is different from others in the group.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Choose the number which is different from others in the group",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Choose the number which is different from others in the group",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "numerical_ability",
+      "topic": "permutation_combination",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Choose the number which is different from others.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "section": "reasoning",
+      "topic": "analogy",
+      "count": 5,
+      "difficulties": {
+        "easy": 5,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Author is related to Book as Choreographer is related to",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Glutton is related to Eat as Garrulous is related to",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Vitro is related to Glass as Ligno is related to",
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "reasoning": 57,
+    "verbal_ability": 13,
+    "general_awareness": 25,
+    "numerical_ability": 5
+  },
+  "difficulty_distribution": {
+    "easy": 66,
+    "medium": 23,
+    "hard": 11
+  }
+}

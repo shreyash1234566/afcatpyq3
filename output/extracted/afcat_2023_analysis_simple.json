@@ -1,0 +1,949 @@
+{
+  "year": 2023,
+  "shift": null,
+  "total_questions": 101,
+  "topic_data": [
+    {
+      "year": 2023,
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Why was the old woman surprised to find the pot on the road?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "What did the old woman initially think she would do with the pot?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "count": 8,
+      "difficulties": {
+        "easy": 2,
+        "medium": 4,
+        "hard": 2
+      },
+      "sample_questions": [
+        {
+          "text": "How did the old woman earn her living?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "What did the old woman find inside the pot?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "[RESCUED REASONING Q61] (a) 12.5 kmph \n(b) 12 kmph \n(c) 13 kmph \n(d) 13.5 kmph \n\n--- PAGE 12 --Q.61. What is the area of a circle whose area is equal to that of a triangle with sides 7 cm, 24 cm and 2...",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "verbal_ability",
+      "topic": "Inferred Verbal Ability",
+      "count": 6,
+      "difficulties": {
+        "easy": 2,
+        "medium": 3,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED VERBAL Q5] (a) A hole. \n(b) A flower. \n(c) Water. \n(d) Gold pieces. \n\n--- PAGE 2 --Q.5. Identify the part of the sentence that contains a prepositional error: \n\"Despite of his hard work in pr...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "[RESCUED VERBAL Q11] \"He's good _______ playing the guitar, and he often performs at local events.\" \n(a) in \n(b) at \n(c) on \n(d) with \n \nQ.9. Fill in the blank with the most appropriate option. \n\"I sa...",
+          "difficulty": "easy"
+        },
+        {
+          "text": "[RESCUED VERBAL Q16] (a) Carefree \n(b) Thoughtless \n(c) Thoughtful \n(d) Mindless \n \nQ.13. In the following question, out of the given alternatives, choose the best one which expresses the meaning of t...",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "verbal_ability",
+      "topic": "error_detection",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Identify the part of the sentence that contains an article error:",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Identify the part of the sentence that contains an error:",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "verbal_ability",
+      "topic": "sentence_completion",
+      "count": 3,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Fill in the blank with the most appropriate option.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Fill in the blank with the most appropriate option.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Fill in the blank with the most appropriate option.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "verbal_ability",
+      "topic": "vocabulary",
+      "count": 8,
+      "difficulties": {
+        "easy": 6,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In the following question, out of the given alternatives, choose the best one which expresses the meaning of the given word.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "In the following question, out of the given alternatives, choose the best one which expresses the meaning of the given word.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "In the following question, out of the given alternatives, choose the best one which expresses opposite the meaning of the given word.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "reasoning",
+      "topic": "analogy",
+      "count": 5,
+      "difficulties": {
+        "easy": 1,
+        "medium": 4,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In the following question there is a related pair of words given. Each pair is followed by four other pairs of words. Choose the pair from the given option the pair of words that best expresses the re...",
+          "difficulty": "medium"
+        },
+        {
+          "text": "In the following question there is a related pair of words given. Each pair is followed by four other pairs of words. Choose the pair from the given option the pair of words that best expresses the re...",
+          "difficulty": "medium"
+        },
+        {
+          "text": "In the following question there is a related pair of words given. Each pair is followed by four other pairs of words. Choose the pair from the given option the pair of words that best expresses the re...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "verbal_ability",
+      "topic": "para_jumbles",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The following question, consists of an incomplete sentence or a sentence which is split into four parts. All four parts are jumbled up and are named as P, Q, R and S. These four parts are not given in...",
+          "difficulty": "medium"
+        },
+        {
+          "text": "The following question, consists of an incomplete sentence or a sentence which is split into four parts. All four parts are jumbled up and are named as P, Q, R and S. These four parts are not given in...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "verbal_ability",
+      "topic": "one_word_substitution",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In the following question a sentence or a phrase is given which can be substituted by one word.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "In the following question a sentence or a phrase is given which can be substituted by one word.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "general_awareness",
+      "topic": "geography_world",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which pair of country and capital, among the following is not correct?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "general_awareness",
+      "topic": "polity",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which article is related with Financial Emergency?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which one of the following comes into Union Executive of India?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "general_awareness",
+      "topic": "Inferred General Awareness",
+      "count": 4,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 3
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED GA Q34] (a) The President \n(b) The Vice-President \n(c) The Attorney General for India \n(d) All of the above \n\n--- PAGE 8 --Q.34. To which region is the Ghoomar folk dance related? \n(a) Gujara...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "[RESCUED GA Q41] (a) Writings \n(b) Sports \n(c) Science & Technology \n(d) Singing \n\n--- PAGE 9 --Q.41. Who among the following got Nobel Prize in Physics in 2022? \n(a) Alain Aspect \n(b) John F. Clauser...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "[RESCUED GA Q48] (a) Finland \n(b) Russia \n(c) Algeria \n(d) USA \n\n--- PAGE 10 --Q.48. Who wrote the book “Time Shelter” that won the International Booker Prize? A: \n(a) Georgi Gospodinov \n(b) R. Mendel...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "general_awareness",
+      "topic": "organizations",
+      "count": 4,
+      "difficulties": {
+        "easy": 4,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who was the President of INC during Surat Split?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Where is Memorial Human Rights Organization situated?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Who developed the airborne early warning and control (AEW&C) system?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "general_awareness",
+      "topic": "current_affairs",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Where did Gandhiji gave his first public appearance?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "New Zealand launched which medal to honour cricketers?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "general_awareness",
+      "topic": "awards",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which is the highest gallantry award which is awarded during peace time?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Booker prize is related with which of the following?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "general_awareness",
+      "topic": "defense",
+      "count": 3,
+      "difficulties": {
+        "easy": 2,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who was the first woman to receive a gallantry award in the IAF (Indian Air Force)?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Which of the following is a FIRE & FORGET missile?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Where is the High Altitude Warfare School located?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "general_awareness",
+      "topic": "ratio_proportion",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "What is Operation Karuna, an initiative taken by India?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "general_awareness",
+      "topic": "inferred_general_awareness",
+      "count": 4,
+      "difficulties": {
+        "easy": 2,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Green ring in Olympic logo represents?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Maximum density of water is at?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "What is Kavach?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "general_awareness",
+      "topic": "technology",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which Airline is a joint venture of Singapore airlines and Tata & Sons?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "general_awareness",
+      "topic": "analogy",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which sport made its debut in the Commonwealth Games at Gold Coast 2018?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "reasoning",
+      "topic": "simplification",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "If 272n−1 = 243 then what is value of n ?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "reasoning",
+      "topic": "coding_decoding",
+      "count": 5,
+      "difficulties": {
+        "easy": 1,
+        "medium": 3,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "In a hostel the rent per room is increased by 20%. If number of rooms in the hostel is also increased by 20% and the hostel is always full, then what is the percentage change in the total collection a...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "In a certain code language, ‘‘BIOLOGY’’ is written as ‘‘YRLOLTB’’. How is ‘‘PHYSICS’’ written in that code language?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "In a certain code language, “FUNGI” is written as “HYPKK”. How is “ALGAE’’ written in that code language?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "reasoning",
+      "topic": "probability",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A bag contains 5 red and 3 green balls. Another bag contains 4 red and 6 green balls. If one ball is drawn from each bag. Find the probability that one ball is red and one is green.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "numerical_ability",
+      "topic": "simple_compound_interest",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "The difference between the compound interest (compounded annually) and simple interest on a sum of money deposited for 2 years at 5% per annum is Rs. 15. What is the sum of money deposited?",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "reasoning",
+      "topic": "speed_time_distance",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A man cycles with a speed of 10 kmph and reaches his office at 1 p.m. However, when he cycles with a speed of 15 kmph, he reaches his office at 11 a.m. At what speed should he cycle so that he reaches...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "reasoning",
+      "topic": "geometry",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The sides of a right-angled triangle are equal to three consecutive numbers expressed in centimeters. What can be the area of such a triangle?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "reasoning",
+      "topic": "data_interpretation",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "Two chairs and one table cost Rs 700 and 1 chair and 2 tables cost Rs 800. If the cost of m tables and m chairs is Rs 30,000, then what is m equal to?",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "reasoning",
+      "topic": "mixtures_alligation",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "8L Cold drink was added to a 20L mixture of water and alcohol such that the ratio of alcohol to that of cold drink and water is 1 : 3. Find the amount of alcohol in the solution.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "reasoning",
+      "topic": "averages",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The average age of a group of persons going for a picnic is 17.75 years. 12 new persons with an average age of 14.25 years join them due to which the average age of group becomes 16 years. Find the nu...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "reasoning",
+      "topic": "trains_boats",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The ratio of speeds of a motor boat to that of current is 5:1. The motor boat goes along with the current in 6hr. Find the time to come back of motor boat.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "reasoning",
+      "topic": "profit_loss",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "Arun bought a scooter for a certain sum of money. He spends 20% of cost price on repair and sold it for a profit of 25% at Rs 30000. What is C.P. of scooter?",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "reasoning",
+      "topic": "percentages",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "Population of Delhi increases 12% every year. If the current population of Delhi is 15680, then what was its population 2 years ago.",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "reasoning",
+      "topic": "algebra",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "If x2 = 6 + √6 + √6 + √6 + ⋯∞ then what is one of the values of × equal to ?",
+          "difficulty": "hard"
+        },
+        {
+          "text": "A worker may claim Rs. 1.5 for each km which he travels by taxi and 50 paise for each km he drives his own car. If in one week he claimed Rs. 50 for travelling 80 km, how many kms did he travel by tax...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "reasoning",
+      "topic": "time_and_work",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "A can do a piece of work in 10 days. He works at it for 4 days and then B finishes it in 9 days, in how many days can A and B together finish the work?",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "reasoning",
+      "topic": "vocabulary",
+      "count": 3,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In each of the following questions, four words have been given out of which three are alike in same manner, while the fourth one is different. Choose the word which is different from the rest.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "In each of the following questions, four words have been given out of which three are alike in same manner, while the fourth one is different. Choose the word which is different from the rest.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "In the following questions, select the related word from the given alternatives.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "numerical_ability",
+      "topic": "ranking_ordering",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In a row of people, Manu is 7th from bottom end of row. Shrey is 10 ranks above Manu. If Shrey is 8th from top end, then how many. people are there in this row?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "reasoning",
+      "topic": "calendar",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Meetu’s birthday is on Wednesday 8th March. On what day of the week will be Ritu’s birthday in the same year if Ritu was born on 10th July ?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "numerical_ability",
+      "topic": "time_and_work",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Two women A and B are shopping in a mall. They start from the same point. A walks 150 m",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "count": 4,
+      "difficulties": {
+        "easy": 0,
+        "medium": 3,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED MATH Q85] West, then turns to her left and walks 160 m. B walks 140 m East, then turns South and walks 160 m. then turns to her left and walks 120 m. Where is B with respect to A now? \n(a) 41...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "[RESCUED MATH Q91] Mohini to Rajeev? \n(a) Daughter \n(b) Sister \n(c) Mother \n(d) None of these \n\n--- PAGE 17 --Q.91.",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[RESCUED MATH Q94] Question Figure \n \nAnswer Figures \n \n(a) A \n(b) B \n(c) C \n(d) D \n\n--- PAGE 18 --Q.94. Which answer figure will complete the pattern in the question figure? \nQuestion Figure \n \nAnswe...",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "reasoning",
+      "topic": "clocks",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "If you are getting 7:35, then what will be the measure of an angle between the hour and minute hands of a clock in this situation?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "numerical_ability",
+      "topic": "analogy",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A woman was going somewhere with a boy, on the way she met a man who asked that lady,",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "numerical_ability",
+      "topic": "blood_relations",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "If Mohini says that, ‘‘Rajeev’s father is the only son of my father’’. Then what is the relation of",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "numerical_ability",
+      "topic": "odd_one_out",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In each of the following questions, some figures are similar on the basis of one property and one is different. Select this different figure.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "reasoning",
+      "topic": "pattern_completion",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which answer figure will complete the pattern in the question figure?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which number will complete the pattern in the question figure?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "reasoning",
+      "topic": "embedded_figures",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "From the given answer figures, select the one in which the question figure is hidden/embedded.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "From the given answer figures, select the one in which the question figure is hidden/embedded.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "section": "numerical_ability",
+      "topic": "seating_arrangement",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following diagrams indicates the best relation between Jaisalmer, Jaipur and",
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "verbal_ability": 25,
+    "reasoning": 40,
+    "general_awareness": 25,
+    "numerical_ability": 11
+  },
+  "difficulty_distribution": {
+    "easy": 49,
+    "medium": 38,
+    "hard": 14
+  }
+}

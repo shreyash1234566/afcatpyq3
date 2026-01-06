@@ -1,0 +1,268 @@
+{
+  "year": null,
+  "shift": null,
+  "total_questions": 26,
+  "topic_data": [
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "technology",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "India and Thailand",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the following space probe sent to",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "coding_decoding",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Match List-I with List-II and select the correct answer using the code given below: List-I (Military Exercise) List-II (Countries)",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Match the List I with List II and select the correct answer using the code given below: List - I (Musicians) List - II (Instruments)",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "count": 3,
+      "difficulties": {
+        "easy": 2,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "India and Indonesia",
+          "difficulty": "easy"
+        },
+        {
+          "text": "India and France",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the following is a long-range, multi-role",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "algebra",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The Department of Ex-Servicemen Welfare",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Which of the following is a sedimentary rock?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "reading_comprehension",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who among the following is the author of Hindi play 'Andher Nagri Chaupat Raja'?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the following Iron and Steel Plants does not function under the Steel Authority of India",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "count": 5,
+      "difficulties": {
+        "easy": 5,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which instrument is used to measure humidity?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The only Session of the Indian National Congress which was presided by Mahatma Gandhi was held at?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Hydrogen bomb is based on the principle of _ .",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "simple_compound_interest",
+      "count": 3,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "Match List I with List II and select the correct answer using the code given below the Lists: | | General Awareness Android App iOS App PW Website 12/12/24, 11:00 AM Defence_AFCAT Memory Based Paper -...",
+          "difficulty": "hard"
+        },
+        {
+          "text": "Consider the following statements regarding",
+          "difficulty": "medium"
+        },
+        {
+          "text": "Consider the following statements:",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "art_culture",
+      "count": 3,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "India is divided into how many earthquake zones",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The headquarter of United News of India is located at which of the following places?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which among the following Part of the Indian",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "organizations",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which among the following is not under the",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "polity",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which district received the Prime Minister's",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "time_and_work",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following statement regarding cricket is correct?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "reasoning",
+      "topic": "analogy",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The Quit India Movement of August 1942 marked the culmination of the Indian freedom struggle It had the widest social base",
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "verbal_ability": 25,
+    "reasoning": 1
+  },
+  "difficulty_distribution": {
+    "easy": 17,
+    "medium": 8,
+    "hard": 1
+  }
+}

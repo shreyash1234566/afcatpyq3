@@ -1,0 +1,1597 @@
+{
+  "paper_type": "full",
+  "total_questions": 100,
+  "detected_section_order": [
+    "verbal_ability",
+    "general_awareness",
+    "numerical_ability",
+    "reasoning"
+  ],
+  "detected_boundaries": {
+    "verbal_ability": [
+      1,
+      10
+    ],
+    "reasoning": [
+      11,
+      100
+    ]
+  },
+  "section_breakdown": {
+    "verbal_ability": 10,
+    "reasoning": 90
+  },
+  "topic_breakdown": {
+    "Synonyms": 10,
+    "Comparison": 1,
+    "Idioms": 5,
+    "Visual Reasoning Pattern": 3,
+    "Spelling": 3,
+    "Modern History": 3,
+    "International Relations": 1,
+    "Passage Analysis": 1,
+    "Ancient History": 1,
+    "Entertainment": 1,
+    "Defence": 2,
+    "Literature": 2,
+    "Geography": 4,
+    "International Organisations": 1,
+    "Sports": 6,
+    "Polity and Governance": 1,
+    "Art and Culture": 2,
+    "Polity": 1,
+    "International Organizations": 1,
+    "Current Affairs": 1,
+    "History": 1,
+    "Speed": 2,
+    "Percentage": 6,
+    "Work and Efficiency": 1,
+    "Work and Time": 1,
+    "Algebra": 1,
+    "Ratios": 1,
+    "Speed and Distance": 1,
+    "Proportion and Variation": 1,
+    "Least Common Multiple": 1,
+    "Simple Interest": 1,
+    "Non-Verbal Reasoning Pattern": 4,
+    "Verbal Analogy": 23,
+    "Visual Reasoning Series": 4,
+    "General Numerical Ability": 2
+  },
+  "accuracy_estimate": 0.8740000000000001,
+  "questions": [
+    {
+      "question_number": 1,
+      "section": "verbal_ability",
+      "topic_code": "VA_SYN",
+      "topic_name": "Synonyms",
+      "confidence": 0.9,
+      "method": "api",
+      "original_section": "verbal_ability",
+      "text": "Ameliorate",
+      "options": [
+        "Improve",
+        "Disapprove",
+        "Appreciate",
+        "Discourage"
+      ]
+    },
+    {
+      "question_number": 2,
+      "section": "verbal_ability",
+      "topic_code": "VA_SYN",
+      "topic_name": "Synonyms",
+      "confidence": 0.9,
+      "method": "api",
+      "original_section": "verbal_ability",
+      "text": "Haggle [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Struggle",
+        "Bargain",
+        "Advise",
+        "Acknowledge"
+      ]
+    },
+    {
+      "question_number": 3,
+      "section": "verbal_ability",
+      "topic_code": "NA_COMP",
+      "topic_name": "Comparison",
+      "confidence": 0.8,
+      "method": "api+zone",
+      "original_section": "numerical_ability",
+      "text": "The smaller number is:",
+      "options": [
+        "26",
+        "125 m",
+        "40 litres",
+        "57"
+      ]
+    },
+    {
+      "question_number": 4,
+      "section": "verbal_ability",
+      "topic_code": "VA_SYN",
+      "topic_name": "Synonyms",
+      "confidence": 0.9,
+      "method": "api",
+      "original_section": "verbal_ability",
+      "text": "Taciturn [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Talkative",
+        "Uncommunicative",
+        "Clever",
+        "Bad-tampered"
+      ]
+    },
+    {
+      "question_number": 5,
+      "section": "verbal_ability",
+      "topic_code": "VA_SYN",
+      "topic_name": "Synonyms",
+      "confidence": 0.9,
+      "method": "api",
+      "original_section": "verbal_ability",
+      "text": "Cajole [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Deceive",
+        "Kind",
+        "Suspect",
+        "Humor"
+      ]
+    },
+    {
+      "question_number": 6,
+      "section": "verbal_ability",
+      "topic_code": "VA_IDIOM",
+      "topic_name": "Idioms",
+      "confidence": 0.9,
+      "method": "api",
+      "original_section": "verbal_ability",
+      "text": "A man of straw",
+      "options": [
+        "A man with no means",
+        "A generous man",
+        "A man of character",
+        "A man of no knowledge"
+      ]
+    },
+    {
+      "question_number": 7,
+      "section": "verbal_ability",
+      "topic_code": "VA_IDIOM",
+      "topic_name": "Idioms",
+      "confidence": 0.9,
+      "method": "api",
+      "original_section": "verbal_ability",
+      "text": "To catch a tartar",
+      "options": [
+        "To catch a dangerous person",
+        "To meet with disaster",
+        "To make a deal",
+        "To hurry up"
+      ]
+    },
+    {
+      "question_number": 8,
+      "section": "verbal_ability",
+      "topic_code": "VA_IDIOM",
+      "topic_name": "Idioms",
+      "confidence": 0.9,
+      "method": "api",
+      "original_section": "verbal_ability",
+      "text": "To have an axe to grind",
+      "options": [
+        "To have a strong personal opinion",
+        "To fail to arouse interest",
+        "To have no result",
+        "To work for both sides"
+      ]
+    },
+    {
+      "question_number": 9,
+      "section": "verbal_ability",
+      "topic_code": "VA_IDIOM",
+      "topic_name": "Idioms",
+      "confidence": 0.9,
+      "method": "api",
+      "original_section": "verbal_ability",
+      "text": "To play second fiddle",
+      "options": [
+        "To be happy, cheerful and healthy",
+        "To reduce importance of one's senior",
+        "To support the role and view of another person",
+        "To do back seat driving"
+      ]
+    },
+    {
+      "question_number": 10,
+      "section": "verbal_ability",
+      "topic_code": "VA_IDIOM",
+      "topic_name": "Idioms",
+      "confidence": 0.9,
+      "method": "api",
+      "original_section": "verbal_ability",
+      "text": "To go to the wall",
+      "options": [
+        "To be ruined",
+        "To be idle",
+        "To be in grave trouble",
+        "To go for a holiday"
+      ]
+    },
+    {
+      "question_number": 11,
+      "section": "reasoning",
+      "topic_code": "RM_VR_PATTERN",
+      "topic_name": "Visual Reasoning Pattern",
+      "confidence": 1.0,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "Varmillion",
+        "Vermillionn",
+        "Varmilion",
+        "Vermilion"
+      ]
+    },
+    {
+      "question_number": 12,
+      "section": "reasoning",
+      "topic_code": "RM_VR_PATTERN",
+      "topic_name": "Visual Reasoning Pattern",
+      "confidence": 1.0,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "Scraptorium",
+        "Scriptorium",
+        "Scriptoreum"
+      ]
+    },
+    {
+      "question_number": 13,
+      "section": "reasoning",
+      "topic_code": "VA_SPELL",
+      "topic_name": "Spelling",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "verbal_ability",
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "Thisaurus",
+        "Thaesaurus",
+        "Thesaurus",
+        "Thesaeurus"
+      ]
+    },
+    {
+      "question_number": 14,
+      "section": "reasoning",
+      "topic_code": "VA_SPELL",
+      "topic_name": "Spelling",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "verbal_ability",
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "Ultterior",
+        "Ultereor",
+        "Ultarior",
+        "Ulterior"
+      ]
+    },
+    {
+      "question_number": 15,
+      "section": "reasoning",
+      "topic_code": "VA_SPELL",
+      "topic_name": "Spelling",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "verbal_ability",
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "Reconnaissence",
+        "Reconnaisance",
+        "Reconnaissance",
+        "Reconaissance"
+      ]
+    },
+    {
+      "question_number": 16,
+      "section": "reasoning",
+      "topic_code": "GA_HIST_MOD",
+      "topic_name": "Modern History",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "Which of the following statements is correct according to the passage?",
+      "options": [
+        "India focused on the weak faults of Russian policies and system.",
+        "India seriously commended the achievement of Russia, i.e., 100% per cent literacy and rapid industrialization.",
+        "The process of industrialization had already started when Russian revolution took place in 1917.",
+        "The literature, art and music received a setback during the communist regime in Russia."
+      ]
+    },
+    {
+      "question_number": 17,
+      "section": "reasoning",
+      "topic_code": "GA_HIST_MOD",
+      "topic_name": "Modern History",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "The West did not pay heed to:",
+      "options": [
+        "Rapid growth of nuclear weapons in Russia",
+        "Massive human rights violation by the Soviet state on its people",
+        "Planned uprooting and mass migration of ethnic people in the name of industrialization.",
+        "Both b and c"
+      ]
+    },
+    {
+      "question_number": 18,
+      "section": "reasoning",
+      "topic_code": "GA_INT_REL",
+      "topic_name": "International Relations",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "India's perception towards USSR was always",
+      "options": [
+        "Negative",
+        "Counter-reactionary",
+        "Applauding",
+        "Neutral"
+      ]
+    },
+    {
+      "question_number": 19,
+      "section": "reasoning",
+      "topic_code": "VA_PASSAGE",
+      "topic_name": "Passage Analysis",
+      "confidence": 0.8,
+      "method": "api+sequential",
+      "original_section": "verbal_ability",
+      "text": "The passage given above is",
+      "options": [
+        "Descriptive",
+        "Paradoxical",
+        "Analytical",
+        "Thought provoking"
+      ]
+    },
+    {
+      "question_number": 20,
+      "section": "reasoning",
+      "topic_code": "VA_SYN",
+      "topic_name": "Synonyms",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "verbal_ability",
+      "text": "Relinquish",
+      "options": [
+        "Abdicate",
+        "Renounce",
+        "Deny",
+        "Possess"
+      ]
+    },
+    {
+      "question_number": 21,
+      "section": "reasoning",
+      "topic_code": "VA_SYN",
+      "topic_name": "Synonyms",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "verbal_ability",
+      "text": "Quiescent [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Active",
+        "Weak",
+        "Unconcerned"
+      ]
+    },
+    {
+      "question_number": 22,
+      "section": "reasoning",
+      "topic_code": "VA_SYN",
+      "topic_name": "Synonyms",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "verbal_ability",
+      "text": "Flagitious",
+      "options": [
+        "Innocent",
+        "Clever",
+        "Ignorant",
+        "Frivolous"
+      ]
+    },
+    {
+      "question_number": 23,
+      "section": "reasoning",
+      "topic_code": "VA_SYN",
+      "topic_name": "Synonyms",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "verbal_ability",
+      "text": "Gregarious",
+      "options": [
+        "Antisocial",
+        "Glorious",
+        "Horrendous",
+        "Similar"
+      ]
+    },
+    {
+      "question_number": 24,
+      "section": "reasoning",
+      "topic_code": "VA_SYN",
+      "topic_name": "Synonyms",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "verbal_ability",
+      "text": "Hirsute [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Scaly",
+        "Bald",
+        "Erudite",
+        "Quiet"
+      ]
+    },
+    {
+      "question_number": 25,
+      "section": "reasoning",
+      "topic_code": "VA_SYN",
+      "topic_name": "Synonyms",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "verbal_ability",
+      "text": "Urbane [LIKELY FIGURE - incomplete text]",
+      "options": [
+        "Illiterate",
+        "Backward",
+        "Discourteous",
+        "Orthodox"
+      ]
+    },
+    {
+      "question_number": 26,
+      "section": "reasoning",
+      "topic_code": "GA_HIST_ANC",
+      "topic_name": "Ancient History",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "Where is Lothal, a prominent city of the ancient Indus Valley Civilization, located in?",
+      "options": [
+        "Gujarat",
+        "Rajasthan",
+        "Punjab",
+        "Madhya Pradesh"
+      ]
+    },
+    {
+      "question_number": 27,
+      "section": "reasoning",
+      "topic_code": "GA_ENT",
+      "topic_name": "Entertainment",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "Which of the following films won Oscar in the best film category in 2017?",
+      "options": [
+        "Moonlight",
+        "Captain Fantastic",
+        "Loving",
+        "Nocturnal Animals"
+      ]
+    },
+    {
+      "question_number": 28,
+      "section": "reasoning",
+      "topic_code": "GA_DEF",
+      "topic_name": "Defence",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "Which navy ship was decommissioned in 2017?",
+      "options": [
+        "INS Tarangini",
+        "INSV Mhadei",
+        "INS Viraat",
+        "INS Tir"
+      ]
+    },
+    {
+      "question_number": 29,
+      "section": "reasoning",
+      "topic_code": "GA_HIST_MOD",
+      "topic_name": "Modern History",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "Which of the following places was chosen by Gandhiji to start his first Satyagrah?",
+      "options": [
+        "Ahmedabad",
+        "Champaran",
+        "Gaya",
+        "Porbandar"
+      ]
+    },
+    {
+      "question_number": 30,
+      "section": "reasoning",
+      "topic_code": "GA_LIT",
+      "topic_name": "Literature",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "Who won the Nobel Prize for the novel \"Old Man and the Sea\"?",
+      "options": [
+        "Alice Munro",
+        "Mo Yan",
+        "Bob Dylan",
+        "Ernest Hemingway"
+      ]
+    },
+    {
+      "question_number": 31,
+      "section": "reasoning",
+      "topic_code": "GA_GEO",
+      "topic_name": "Geography",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "What was the old name of Myanmar?",
+      "options": [
+        "Burma",
+        "Newar",
+        "Nippon",
+        "Sarawak"
+      ]
+    },
+    {
+      "question_number": 32,
+      "section": "reasoning",
+      "topic_code": "GA_LIT",
+      "topic_name": "Literature",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "Aladdin is the character of which of the following books?",
+      "options": [
+        "One Thousand and One Arabian Nights",
+        "Cinderella",
+        "Snow White",
+        "The Frog Prince"
+      ]
+    },
+    {
+      "question_number": 33,
+      "section": "reasoning",
+      "topic_code": "GA_INT_ORG",
+      "topic_name": "International Organisations",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "Where is the office of the International Court of Justice located?",
+      "options": [
+        "Hague",
+        "Penalty box",
+        "Washington",
+        "Hockey sticks"
+      ]
+    },
+    {
+      "question_number": 34,
+      "section": "reasoning",
+      "topic_code": "GA_SPORTS",
+      "topic_name": "Sports",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "[RESCUED GA Q34] (a) Hague \n(b) Washington \n(c) Moscow \n(d) Venice \n \n\n--- PAGE 8 --Q.34. What is sin bin in ice hockey game? \n(a) Penalty box \n(b) Hockey sticks \n(c) Dust bin \n(d) Rest room \n \nQ.35.",
+      "options": [
+        "Hague",
+        "Penalty box",
+        "Washington",
+        "Hockey sticks"
+      ]
+    },
+    {
+      "question_number": 35,
+      "section": "reasoning",
+      "topic_code": "GA_GEO",
+      "topic_name": "Geography",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "Which is the deepest trench in the world?",
+      "options": [
+        "Tonga Trench",
+        "Mariana Trench",
+        "Romanche Trench",
+        "Kermadec Trench"
+      ]
+    },
+    {
+      "question_number": 36,
+      "section": "reasoning",
+      "topic_code": "GA_SPO",
+      "topic_name": "Sports",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "Who was the first cricket player to be declared out in a test cricket match by third umpire?",
+      "options": [
+        "Rahul Dravid",
+        "Saurabh Ganguly",
+        "Sachin Tendulkar",
+        "VVS Laxman"
+      ]
+    },
+    {
+      "question_number": 37,
+      "section": "reasoning",
+      "topic_code": "GA_POLITY",
+      "topic_name": "Polity and Governance",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "Who was the first NSA of India?",
+      "options": [
+        "Brajesh Mishra",
+        "J N Dixit",
+        "M. K. Narayanan",
+        "Shivshankar Menon"
+      ]
+    },
+    {
+      "question_number": 38,
+      "section": "reasoning",
+      "topic_code": "GA_ART_CUL",
+      "topic_name": "Art and Culture",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "Satyajit Ray was a",
+      "options": [
+        "Politician",
+        "Dancer",
+        "Filmmaker",
+        "Tabla player"
+      ]
+    },
+    {
+      "question_number": 39,
+      "section": "reasoning",
+      "topic_code": "GA_POL",
+      "topic_name": "Polity",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "Mandal Commission was established by which of the following Prime Ministers of India?",
+      "options": [
+        "Jawahar Lal Nehru",
+        "Morarji Desai",
+        "Rajiv Gandhi",
+        "VP Singh"
+      ]
+    },
+    {
+      "question_number": 40,
+      "section": "reasoning",
+      "topic_code": "GA_SPORTS",
+      "topic_name": "Sports",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "Which Cuban athlete is called 'horse'?",
+      "options": [
+        "Dayron Robles",
+        "Ivan Garcia",
+        "Alberto Juantorena",
+        "Hector Herrera"
+      ]
+    },
+    {
+      "question_number": 41,
+      "section": "reasoning",
+      "topic_code": "GA_SPORTS",
+      "topic_name": "Sports",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "Michael Ferreira is related to which sports?",
+      "options": [
+        "Car racing",
+        "Badminton",
+        "Hockey",
+        "Billiards"
+      ]
+    },
+    {
+      "question_number": 42,
+      "section": "reasoning",
+      "topic_code": "GA_INT_ORG",
+      "topic_name": "International Organizations",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "Where is headquarter of World Health Organization (WHO) located?",
+      "options": [
+        "Hague",
+        "Washington",
+        "Geneva",
+        "Beijing"
+      ]
+    },
+    {
+      "question_number": 43,
+      "section": "reasoning",
+      "topic_code": "GA_SPO",
+      "topic_name": "Sports",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "Who was named ICC cricketer of the year 2016?",
+      "options": [
+        "Virat Kohli",
+        "Ravichandran Ashwin",
+        "Steve Smith",
+        "Mitchell Johnson"
+      ]
+    },
+    {
+      "question_number": 44,
+      "section": "reasoning",
+      "topic_code": "GA_SPO",
+      "topic_name": "Sports",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "Which of the following states won Vijay Hazare Trophy 2016-17?",
+      "options": [
+        "Tamil Nadu",
+        "West Bengal",
+        "Kerala",
+        "Delhi"
+      ]
+    },
+    {
+      "question_number": 45,
+      "section": "reasoning",
+      "topic_code": "GA_ART_CULT",
+      "topic_name": "Art and Culture",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "Bharatanatyam is the classical dance of which state?",
+      "options": [
+        "Kerala",
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Karnataka"
+      ]
+    },
+    {
+      "question_number": 46,
+      "section": "reasoning",
+      "topic_code": "GA_DEFENCE",
+      "topic_name": "Defence",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "Who was the Indian Air Chief in November 2016?",
+      "options": [
+        "Birender Singh Dhanoa",
+        "Punjab",
+        "Arup Raha",
+        "Tamil Nadu"
+      ]
+    },
+    {
+      "question_number": 47,
+      "section": "reasoning",
+      "topic_code": "GA_GEO",
+      "topic_name": "Geography",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "[RESCUED GA Q47] (a) Birender Singh Dhanoa \n(b) Arup Raha \n(c) Anil Kumar Browne \n(d) Pradeep Vasant Naik \n \n\n--- PAGE 10 --Q.47. Keoladeo National Park is located in which state? \n(a) Punjab \n(b) Tam",
+      "options": [
+        "Birender Singh Dhanoa",
+        "Punjab",
+        "Arup Raha",
+        "Tamil Nadu"
+      ]
+    },
+    {
+      "question_number": 48,
+      "section": "reasoning",
+      "topic_code": "GA_CUR_AFF",
+      "topic_name": "Current Affairs",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "Who won the Nobel Peace Prize in 2016?",
+      "options": [
+        "Juan Manuel Santos",
+        "International Campaign to Abolish Nuclear Weapons",
+        "Tunisian National Dialogue Quartet",
+        "Malala Yousafzai"
+      ]
+    },
+    {
+      "question_number": 49,
+      "section": "reasoning",
+      "topic_code": "GA_GEO",
+      "topic_name": "Geography",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "On which river the Baglihar Dam is built?",
+      "options": [
+        "Brahmaputra",
+        "Ganga",
+        "Chenab",
+        "Godavari"
+      ]
+    },
+    {
+      "question_number": 50,
+      "section": "reasoning",
+      "topic_code": "GA_HIST",
+      "topic_name": "History",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "general_awareness",
+      "text": "The first meeting of Indian National Congress was held at which place?",
+      "options": [
+        "Bombay",
+        "Delhi",
+        "Nagpur",
+        "Ahmedabad"
+      ]
+    },
+    {
+      "question_number": 51,
+      "section": "reasoning",
+      "topic_code": "NA_SPD",
+      "topic_name": "Speed",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "numerical_ability",
+      "text": "A man whose speed is 4.5 kmph in still water rows to a certain upstream point and back to the starting point in a river which flows at 1.5 kmph, find his average speed for the total journey?",
+      "options": [
+        "8 kmph",
+        "4 kmph",
+        "2 kmph",
+        "10 kmph"
+      ]
+    },
+    {
+      "question_number": 52,
+      "section": "reasoning",
+      "topic_code": "NA_PER",
+      "topic_name": "Percentage",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "numerical_ability",
+      "text": "The ratio of the number of boys and girls in a school is 3:2. If 20% of the boys and 30% of the girls are scholarship holders, the percentage of the students who are not scholarship holders is:",
+      "options": [
+        "80",
+        "15 days",
+        "72",
+        "18 days"
+      ]
+    },
+    {
+      "question_number": 53,
+      "section": "reasoning",
+      "topic_code": "NA_WRK",
+      "topic_name": "Work and Efficiency",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "numerical_ability",
+      "text": "[RESCUED GA Q53] (a) 80 \n(b) 72 \n(c) 58 \n(d) 76 \n \n\n--- PAGE 11 --Q.53. A is thrice as efficient as workman as B and therefore is able to finish a job in 40 days less than B to complete a work. Workin",
+      "options": [
+        "80",
+        "15 days",
+        "72",
+        "18 days"
+      ]
+    },
+    {
+      "question_number": 54,
+      "section": "reasoning",
+      "topic_code": "NA_SP",
+      "topic_name": "Speed",
+      "confidence": 0.8,
+      "method": "api+sequential",
+      "original_section": "numerical_ability",
+      "text": "A train moving at a cover a rate of 90 kmph. Crosses a tunnel in 36 seconds. and other train which is",
+      "options": [
+        "54 seconds",
+        "64 seconds",
+        "50 seconds",
+        "58 seconds"
+      ]
+    },
+    {
+      "question_number": 55,
+      "section": "reasoning",
+      "topic_code": "NA_WORK_TIME",
+      "topic_name": "Work and Time",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "numerical_ability",
+      "text": "A and B together can complete a piece of work in 12 days, B and C can do it in 15 days and A and C can do it in 20 days. A, B and C together can complete it in",
+      "options": [
+        "12 days",
+        "16 days",
+        "10 days",
+        "8 days"
+      ]
+    },
+    {
+      "question_number": 56,
+      "section": "reasoning",
+      "topic_code": "NA_PER",
+      "topic_name": "Percentage",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "numerical_ability",
+      "text": "If a number exceeds 40% of itself by 56, then what is the number?",
+      "options": [
+        "150",
+        "130",
+        "160",
+        "140"
+      ]
+    },
+    {
+      "question_number": 57,
+      "section": "reasoning",
+      "topic_code": "NA_PER",
+      "topic_name": "Percentage",
+      "confidence": 0.8,
+      "method": "api+sequential",
+      "original_section": "numerical_ability",
+      "text": "Average weight of 15 students increased by 1.5 kg when one person of 40 kg is replaced by a new man. Then weight of the new man is",
+      "options": [
+        "62.5 kg",
+        "58.5 kg",
+        "72.5 kg",
+        "54.5 kg"
+      ]
+    },
+    {
+      "question_number": 58,
+      "section": "reasoning",
+      "topic_code": "NA_ALG",
+      "topic_name": "Algebra",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "numerical_ability",
+      "text": "Average temperature of Tuesday to Thursday was 38 degree celsius and that Wednesday to Friday was 37 degree celsius. If the temperature on Friday was 39 degree celsius. The temperature on Tuesday was?",
+      "options": [
+        "38 degree celsius",
+        "36 degree celsius",
+        "42 degree Celsius",
+        "39 degree celsius"
+      ]
+    },
+    {
+      "question_number": 59,
+      "section": "reasoning",
+      "topic_code": "NA_PER",
+      "topic_name": "Percentage",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "numerical_ability",
+      "text": "A shopkeeper sell a watch for Rs. 575 and makes a profit of 15%, he sells a different watch at a loss of 10%. Over all, he neither gains nor loses. What is cost price of the second watch?",
+      "options": [
+        "750",
+        "625",
+        "650",
+        "675"
+      ]
+    },
+    {
+      "question_number": 60,
+      "section": "reasoning",
+      "topic_code": "NA_PER",
+      "topic_name": "Percentage",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "numerical_ability",
+      "text": "A men spend 1/3 of his income on food,1/4 of the rest on rent and 1/5 of the rest on clothes. He still has Rs.1760 left with him. Find his income?",
+      "options": [
+        "4400",
+        "4200",
+        "4800",
+        "5200"
+      ]
+    },
+    {
+      "question_number": 61,
+      "section": "reasoning",
+      "topic_code": "NA_PER",
+      "topic_name": "Percentage",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "numerical_ability",
+      "text": "A cloth merchant says that due to slump in the market, he sells the cloth at 10% loss but he uses a false meter scale and actually gains 15%.Find the actual length of the scale.",
+      "options": [
+        "78.25 cm",
+        "75cm",
+        "85cm",
+        "72.25cm"
+      ]
+    },
+    {
+      "question_number": 62,
+      "section": "reasoning",
+      "topic_code": "NA_RATIO",
+      "topic_name": "Ratios",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "numerical_ability",
+      "text": "Two number are in the ratio 12: 13. If 20 is subtracted from each, the new numbers are in the ratio 2:",
+      "options": [
+        "26",
+        "24",
+        "32",
+        "28"
+      ]
+    },
+    {
+      "question_number": 63,
+      "section": "reasoning",
+      "topic_code": "NA_SP",
+      "topic_name": "Speed and Distance",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "numerical_ability",
+      "text": "A train passes a man standing on a platform in 10 sec. and passes the platform in 22 sec. completely.",
+      "options": [
+        "125 m",
+        "40 litres",
+        "115 m",
+        "35 litres"
+      ]
+    },
+    {
+      "question_number": 64,
+      "section": "reasoning",
+      "topic_code": "NA_PROPORTION",
+      "topic_name": "Proportion and Variation",
+      "confidence": 0.8,
+      "method": "api+sequential",
+      "original_section": "numerical_ability",
+      "text": "[RESCUED REASONING Q64] If the platform is 150 meters long, how long is the train? \n(a) 125 m \n(b) 115 m \n(c) 135 m \n(d) 145 m \n\n--- PAGE 13 --Q.64. If 1/5th tank is full and if 22 litres fuel poured ",
+      "options": [
+        "125 m",
+        "40 litres",
+        "115 m",
+        "35 litres"
+      ]
+    },
+    {
+      "question_number": 65,
+      "section": "reasoning",
+      "topic_code": "NA_LCM",
+      "topic_name": "Least Common Multiple",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "numerical_ability",
+      "text": "A person distributes his pens among four friends A, B, C and D in the ratio 1/3 : 1 / 4 : 1/5 : 1/6. What is the minimum number of pens that the person should have?",
+      "options": [
+        "57",
+        "48",
+        "62",
+        "38"
+      ]
+    },
+    {
+      "question_number": 66,
+      "section": "reasoning",
+      "topic_code": "NA_SIM_INT",
+      "topic_name": "Simple Interest",
+      "confidence": 0.9,
+      "method": "api+sequential",
+      "original_section": "numerical_ability",
+      "text": "A sum is lent at simple interest at a certain rate for 4 years. Had it been put at 3% more rate, it would have earned Rs. 78 more. Find the sum?",
+      "options": [
+        "750",
+        "650",
+        "575",
+        "350"
+      ]
+    },
+    {
+      "question_number": 67,
+      "section": "reasoning",
+      "topic_code": "RM_VR_PATTERN",
+      "topic_name": "Non-Verbal Reasoning Pattern",
+      "confidence": 0.9,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "intimacy",
+        "attachment,",
+        "Friendship",
+        "Enmity"
+      ]
+    },
+    {
+      "question_number": 68,
+      "section": "reasoning",
+      "topic_code": "RM_VR_PATTERN",
+      "topic_name": "Non-Verbal Reasoning Pattern",
+      "confidence": 1.0,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "Parrot",
+        "Bat",
+        "Crow",
+        "Sparrow"
+      ]
+    },
+    {
+      "question_number": 69,
+      "section": "reasoning",
+      "topic_code": "RM_VR_PATTERN",
+      "topic_name": "Visual Reasoning Pattern",
+      "confidence": 0.9,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "Grapes",
+        "Pomegranate",
+        "Mango"
+      ]
+    },
+    {
+      "question_number": 70,
+      "section": "reasoning",
+      "topic_code": "RM_VR_PATTERN",
+      "topic_name": "Non-Verbal Reasoning Pattern",
+      "confidence": 0.9,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "water",
+        "pool",
+        "lake",
+        "pond"
+      ]
+    },
+    {
+      "question_number": 71,
+      "section": "reasoning",
+      "topic_code": "RM_VR_PATTERN",
+      "topic_name": "Non-Verbal Reasoning Pattern",
+      "confidence": 0.9,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+      "options": [
+        "Eye",
+        "Hand",
+        "Nose",
+        "Ear"
+      ]
+    },
+    {
+      "question_number": 72,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.9,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Editor : Magazine : ? : ?",
+      "options": [
+        "Novel : Writer",
+        "Poem : Poet",
+        "Chair : Carpenter",
+        "Director : Film"
+      ]
+    },
+    {
+      "question_number": 73,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.9,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Taste : Tongue : : Walk : ?",
+      "options": [
+        "Pavement",
+        "Crutch",
+        "Legs",
+        "Walking sticky"
+      ]
+    },
+    {
+      "question_number": 74,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.9,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Chimney : Smoke : : _____ : ____",
+      "options": [
+        "Gun : Bullet",
+        "House : Roof",
+        "Clay : Ceramic",
+        "Tea : Kettle"
+      ]
+    },
+    {
+      "question_number": 75,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.9,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "DCGH : LKQP : : FEJI : ?",
+      "options": [
+        "MLSR",
+        "NMRQ",
+        "ONTS",
+        "QPUT"
+      ]
+    },
+    {
+      "question_number": 76,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.9,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Paw : Cat :: Hoof : ?",
+      "options": [
+        "Lamb",
+        ",",
+        "Elephant",
+        ","
+      ]
+    },
+    {
+      "question_number": 77,
+      "section": "reasoning",
+      "topic_code": "RM_VR_SERIES",
+      "topic_name": "Visual Reasoning Series",
+      "confidence": 0.9,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures.",
+      "options": []
+    },
+    {
+      "question_number": 78,
+      "section": "reasoning",
+      "topic_code": "RM_VR_SERIES",
+      "topic_name": "Visual Reasoning Series",
+      "confidence": 0.9,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures.",
+      "options": []
+    },
+    {
+      "question_number": 79,
+      "section": "reasoning",
+      "topic_code": "RM_VR_SERIES",
+      "topic_name": "Visual Reasoning Series",
+      "confidence": 0.95,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures.",
+      "options": []
+    },
+    {
+      "question_number": 80,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.8,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "[REASONING - likely non-verbal figure/diagram]",
+      "options": []
+    },
+    {
+      "question_number": 81,
+      "section": "reasoning",
+      "topic_code": "RM_VR_SERIES",
+      "topic_name": "Visual Reasoning Series",
+      "confidence": 0.95,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Select a figure from amongst the Answer Figures which will continue the same series as established by the five Problem Figures.",
+      "options": []
+    },
+    {
+      "question_number": 82,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.8,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Identify the figure that completes the pattern.",
+      "options": []
+    },
+    {
+      "question_number": 83,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.8,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Identify the figure that completes the pattern.",
+      "options": []
+    },
+    {
+      "question_number": 84,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.8,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Identify the figure that completes the pattern.",
+      "options": []
+    },
+    {
+      "question_number": 85,
+      "section": "reasoning",
+      "topic_code": "NA_GEN",
+      "topic_name": "General Numerical Ability",
+      "confidence": 0.5,
+      "method": "api+sequential",
+      "original_section": "numerical_ability",
+      "text": "[MATH - topic cannot be inferred from neighbors]",
+      "options": []
+    },
+    {
+      "question_number": 86,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.8,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Identify the figure that completes the pattern.",
+      "options": [
+        ",",
+        ",",
+        "and",
+        ", three are similar in a certain manner. However, one figure is not like the other three. Choose the figure which is different from the rest."
+      ]
+    },
+    {
+      "question_number": 87,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.8,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Choose the figure which is different from the rest.",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "question_number": 88,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.8,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Choose the figure which is different from the rest.",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "question_number": 89,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.8,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Choose the figure which is different from the rest.",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "question_number": 90,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.8,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Choose the figure which is different from the rest.",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "question_number": 91,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.8,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Choose the figure which is different from the rest.",
+      "options": [
+        "",
+        ",",
+        "",
+        ","
+      ]
+    },
+    {
+      "question_number": 92,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.8,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Which of the following diagrams indicates the best relation between India, Haryana and World?",
+      "options": [
+        "",
+        "",
+        "--- PAGE 19 --",
+        ""
+      ]
+    },
+    {
+      "question_number": 93,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.9,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Which of the following diagrams indicates the best relation between Pigeon, Bird and Dog?",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "question_number": 94,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.8,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Which of the following diagrams indicates the best relation between Earth, Sea and Sun?",
+      "options": [
+        "",
+        "--- PAGE 20 --",
+        "",
+        ""
+      ]
+    },
+    {
+      "question_number": 95,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.8,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Which of the following diagrams indicates the best relation between Hockey, Football and Cricket?",
+      "options": [
+        "",
+        "",
+        "",
+        ""
+      ]
+    },
+    {
+      "question_number": 96,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.8,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Which of the following diagrams indicates the best relation between Iron, Lead and Nitrogen?",
+      "options": [
+        "--- PAGE 21 --",
+        ",",
+        "",
+        ","
+      ]
+    },
+    {
+      "question_number": 97,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.8,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Select a suitable figure from the Answer Figures that would replace the question mark (?).",
+      "options": []
+    },
+    {
+      "question_number": 98,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.8,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Select a suitable figure from the Answer Figures that would replace the question mark (?).",
+      "options": []
+    },
+    {
+      "question_number": 99,
+      "section": "reasoning",
+      "topic_code": "NA_GEN",
+      "topic_name": "General Numerical Ability",
+      "confidence": 0.5,
+      "method": "api+sequential",
+      "original_section": "numerical_ability",
+      "text": "[MATH - topic cannot be inferred from neighbors]",
+      "options": []
+    },
+    {
+      "question_number": 100,
+      "section": "reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "confidence": 0.8,
+      "method": "api",
+      "original_section": "reasoning",
+      "text": "Select a suitable figure from the Answer Figures that would replace the question mark (?).",
+      "options": []
+    }
+  ],
+  "warnings": []
+}

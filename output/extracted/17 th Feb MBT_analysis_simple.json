@@ -1,0 +1,32 @@
+{
+  "year": null,
+  "shift": null,
+  "total_questions": 1,
+  "topic_data": [
+    {
+      "year": null,
+      "section": "general_awareness",
+      "topic": "geography",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "United States",
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "general_awareness": 1
+  },
+  "difficulty_distribution": {
+    "easy": 1,
+    "medium": 0,
+    "hard": 0
+  }
+}

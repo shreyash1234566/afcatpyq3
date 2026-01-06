@@ -1,0 +1,714 @@
+{
+  "year": 2015,
+  "shift": null,
+  "total_questions": 100,
+  "topic_data": [
+    {
+      "year": 2015,
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "count": 5,
+      "difficulties": {
+        "easy": 5,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A fool's errand",
+          "difficulty": "easy"
+        },
+        {
+          "text": "To flog a dead horse",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The alpha and the omega",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "To hold something in leash",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The writer's remarks, \"They think every person's burden to be light and their own feathers to be as heavy as lead\" is very significant. It means",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "reasoning",
+      "topic": "Inferred Reasoning",
+      "count": 32,
+      "difficulties": {
+        "easy": 11,
+        "medium": 20,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "To throw up the sponge",
+          "difficulty": "easy"
+        },
+        {
+          "text": "To get into hot waters",
+          "difficulty": "easy"
+        },
+        {
+          "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "verbal_ability",
+      "topic": "Inferred Verbal Ability",
+      "count": 2,
+      "difficulties": {
+        "easy": 0,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "[VERBAL - likely passage/cloze question]",
+          "difficulty": "medium"
+        },
+        {
+          "text": "[VERBAL - likely passage/cloze question]",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "verbal_ability",
+      "topic": "reading_comprehension",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following is the most suitable explanation to the author's remark that \"anounce of patience is worth a pound of brains\"?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "verbal_ability",
+      "topic": "algebra",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which one is the most likely explanation, among the following, of the author's metaphorical statement that \"It is not every garden that grows the herbs to make it with\"?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "verbal_ability",
+      "topic": "pattern_completion",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "[FIGURE QUESTION - non verbal reasoning pattern/diagram]",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "analogy_verbal",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Todar Mal was associated with _______ in Akbar's durbar.",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "direction_sense",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Mahatma Gandhi left South Africa to return to India in",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "analogy",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Who was the Viceroy when the Simon Commission visited India?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Natural radioactivity was discovered by",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "time_and_work",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Think-tank of Government of India that replaced Planning Commission on 01 January 2015 is",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "economy",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "What is the name of 'Innovative Council' proposed in the Rail Budget 2015 to promote innovation?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "active_passive",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Animals active at night are called",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "sports",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which city will host the 2022 Commonwealth Games?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "inferred_general_awareness",
+      "count": 3,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Serena Williams defeated _______ to win the women's singles title of Australian Open 2015.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Lines joining places of equal temperature are called",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The Russian name of INS Vikramaditya is",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "awards",
+      "count": 3,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Sir C.V. Raman was awarded Noble Prize for his work connected with which of the following phenomenon of radiation?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Who has been awarded the Dada Saheb Phalke Award for the year 2014?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Indian-American music composer, Ricky Kej has won the Grammy Award for the album",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "current_affairs",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Recently tested Agni-V missile is capable of carrying nuclear payload of",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "clocks_calendars",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "How many days moon takes to revolve around the earth?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "technology",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In which atmospheric layer are the communication satellites located?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "The present chairman of ISRO is",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "books_authors",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Vinod Mehta an eminent Indian journalist and founder editor-in-chief of 'Outlook' published his autobiography by the name of",
+          "difficulty": "medium"
+        },
+        {
+          "text": "The book, 'Born Again on the Mountain' is authored by",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "calendar",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following Asian countries celebrates its Independence Day on 4th February?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "speed_time_distance",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A train covers a distance of 12 km in 10 min. If it takes 6 sec to pass a telegraph post, the length of the train is",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "averages",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The average weight of 50 boys in a class is 45 kg. When one boy leaves the class, the average reduces by 100g. Find the weight of the boy who left the class.",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "general_awareness",
+      "topic": "Inferred General Awareness",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "[RESCUED GA Q54] (a) 50 kg. \n(b) 50.8 kg \n(c) 49 kg \n(d) 49.9 kg \n\n--- PAGE 11 --Q.54. A train 150 m long is running with a speed of 68 km/h. In what time will it pass a man who is running at 8 km/h i...",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "numerical_ability",
+      "topic": "percentages",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The price of an item is decreased by 25%. What percent increase must be done in new price to get the original price?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "numerical_ability",
+      "topic": "simple_compound_interest",
+      "count": 3,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 3
+      },
+      "sample_questions": [
+        {
+          "text": "A sum was invested for 3 years at simple interest at a certain rate. Had it been invested at 4% higher rate of interest, it would have fetched Rs. 600 more. The sum is",
+          "difficulty": "hard"
+        },
+        {
+          "text": "A man lent a sum of money at the rate of simple interest of 4%. If the interest for 6 years is Rs. 340 less than the principal, the principal is",
+          "difficulty": "hard"
+        },
+        {
+          "text": "--- PAGE 21 --DIRECTIONS (Qs. 91-95): Each of the following questions consists of two sets of figures. Figures 1, 2, 3 and 4 constitute the Problem Set while figures (d) constitute the Answer Set. The...",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "reasoning",
+      "topic": "percentages",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "A's salary is 50% more than B's. How much percent is B's salary less than A's?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "reasoning",
+      "topic": "mixtures_alligation",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "In a mixture of 35 litres, the ratio of milk and water is 4:1. If 7 litres of water is added to the mixture, the ratio of milk and water of the new mixture will be",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "reasoning",
+      "topic": "profit_loss",
+      "count": 2,
+      "difficulties": {
+        "easy": 1,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Anmol sold two items for Rs. 1000 each. On one he gained 10% and on other, he lost 10%. How much did he gain or lose in the whole transaction?",
+          "difficulty": "medium"
+        },
+        {
+          "text": "If the selling price is doubled, the profit triples. The profit percent is",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "numerical_ability",
+      "topic": "speed_time_distance",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "A boat travels upstream from B to A and downstream from A to B in 3 hours. If the speed of the boat in still water is 9 km/h and the speed of the current is 3 km/h, the distance between A and B is",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "reasoning",
+      "topic": "geography_india",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 0,
+        "hard": 1
+      },
+      "sample_questions": [
+        {
+          "text": "A steamer moves with a speed of 4.5 km/h in still water to a certain upstream point and comes back to the starting point in a river which flows at 1.5 km/h. The average speed of steamer for the total ...",
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "reasoning",
+      "topic": "inferred_reasoning",
+      "count": 2,
+      "difficulties": {
+        "easy": 2,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Graceful: Clumsy ∷ ?:?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Blizzard: Freeze ∷ ?:?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "reasoning",
+      "topic": "algebra",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "DIRECTIONS (Qs. 81-85): Each of these questions given below contains three elements. These elements may or may not have some inter-linkage. Each group of elements may fit into one of these diagrams",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "numerical_ability",
+      "topic": "seating_arrangement",
+      "count": 5,
+      "difficulties": {
+        "easy": 4,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following diagrams indicates the best relation between Females, Doctors, and Patients?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the following diagrams indicates the best relation between Doctors, Teachers and Engineers?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the following diagrams indicates the best relation between Steel, Wood and Building Material?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "numerical_ability",
+      "topic": "Inferred Numerical Ability",
+      "count": 13,
+      "difficulties": {
+        "easy": 13,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "[MATH - topic cannot be inferred from neighbors]",
+          "difficulty": "easy"
+        },
+        {
+          "text": "[MATH - topic cannot be inferred from neighbors]",
+          "difficulty": "easy"
+        },
+        {
+          "text": "[MATH - topic cannot be inferred from neighbors]",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "section": "reasoning",
+      "topic": "pattern_completion",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "DIRECTIONS (Qs. 96-100): In each of the following questions, select a figure from amongst the four alternatives, which when placed in the blank space of figure (X) would complete the pattern.",
+          "difficulty": "medium"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "verbal_ability": 12,
+    "reasoning": 41,
+    "general_awareness": 24,
+    "numerical_ability": 23
+  },
+  "difficulty_distribution": {
+    "easy": 54,
+    "medium": 39,
+    "hard": 7
+  }
+}

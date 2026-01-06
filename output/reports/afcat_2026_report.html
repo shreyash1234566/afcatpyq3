@@ -1,0 +1,733 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AFCAT 2026 Prediction Report</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 1200px; margin: 0 auto; padding: 20px; background: #f0f4f8; }
+        h1 { color: #1a365d; text-align: center; }
+        .section { background: white; padding: 20px; margin: 20px 0; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        .section h2 { color: #2d3748; border-bottom: 2px solid #4299e1; padding-bottom: 10px; }
+        table { width: 100%; border-collapse: collapse; margin: 10px 0; }
+        th, td { padding: 12px; text-align: left; border-bottom: 1px solid #e2e8f0; }
+        th { background: #4299e1; color: white; }
+        tr:hover { background: #edf2f7; }
+        .confidence-high { color: #38a169; font-weight: bold; }
+        .confidence-medium { color: #d69e2e; }
+        .confidence-low { color: #e53e3e; }
+        .trend-rising { color: #38a169; }
+        .trend-declining { color: #e53e3e; }
+        .trend-stable { color: #718096; }
+        .summary-box { background: #ebf8ff; padding: 15px; border-radius: 8px; margin: 10px 0; }
+        
+        /* Dropdown styles */
+        .topic-dropdown { 
+            margin: 10px 0; 
+            border: 1px solid #e2e8f0; 
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        .topic-dropdown summary { 
+            padding: 12px 15px; 
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            cursor: pointer; 
+            font-weight: bold;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            list-style: none;
+        }
+        .topic-dropdown summary::-webkit-details-marker { display: none; }
+        .topic-dropdown summary::after { 
+            content: '▼'; 
+            font-size: 12px;
+            transition: transform 0.3s;
+        }
+        .topic-dropdown[open] summary::after { transform: rotate(180deg); }
+        .topic-dropdown[open] summary { background: linear-gradient(135deg, #5a67d8 0%, #6b46c1 100%); }
+        
+        .topic-meta {
+            display: flex;
+            gap: 15px;
+            font-size: 0.9em;
+            font-weight: normal;
+        }
+        .topic-meta span { 
+            background: rgba(255,255,255,0.2); 
+            padding: 2px 8px; 
+            border-radius: 4px; 
+        }
+        
+        .questions-list { 
+            padding: 15px; 
+            background: #f7fafc;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+        .prev-question { 
+            background: white; 
+            padding: 12px 15px; 
+            margin: 8px 0; 
+            border-radius: 6px;
+            border-left: 4px solid #4299e1;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .prev-question .q-text { margin-bottom: 8px; font-weight: 500; }
+        .prev-question .options { 
+            margin-left: 15px; 
+            font-size: 0.95em; 
+            color: #4a5568;
+        }
+        .prev-question .q-meta { 
+            font-size: 0.85em; 
+            color: #718096; 
+            margin-top: 8px;
+            display: flex;
+            gap: 15px;
+        }
+        .prev-question .q-meta .year { color: #4299e1; font-weight: 500; }
+        .prev-question .q-meta .difficulty-easy { color: #38a169; }
+        .prev-question .q-meta .difficulty-medium { color: #d69e2e; }
+        .prev-question .q-meta .difficulty-hard { color: #e53e3e; }
+        
+        .no-questions { 
+            color: #718096; 
+            font-style: italic; 
+            padding: 20px;
+            text-align: center;
+        }
+        
+        .generated-section {
+            background: linear-gradient(135deg, #f6e05e 0%, #f6ad55 100%);
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+        }
+        .generated-section h2 { color: #744210; border-color: #d69e2e; }
+        
+        .btn-generate {
+            background: linear-gradient(135deg, #48bb78 0%, #38a169 100%);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: bold;
+            margin: 10px 0;
+        }
+        .btn-generate:hover { opacity: 0.9; }
+    </style>
+</head>
+<body>
+    <h1>🎯 AFCAT 2026 Prediction Report</h1>
+    
+    <div class="summary-box">
+        <strong>Generated:</strong> 2026-01-02 15:17<br>
+        <strong>Overall Confidence:</strong> 94.8%<br>
+        <strong>Predicted Cutoff:</strong> 155 - 165<br>
+        <strong>Question Bank:</strong> 1 questions loaded
+    </div>
+    
+    
+        <div class="section">
+            <h2>📚 Verbal Ability</h2>
+            <p><strong>Questions:</strong> 30 | 
+               <strong>Difficulty:</strong> Moderate |
+               <strong>Good Attempts:</strong> 17</p>
+            
+            <details class="topic-dropdown" data-topic="cloze_test">
+                <summary>
+                    <span>Cloze Test</span>
+                    <div class="topic-meta">
+                        <span>📊 6.0 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="synonyms">
+                <summary>
+                    <span>Synonyms</span>
+                    <div class="topic-meta">
+                        <span>📊 5.0 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="reading_comprehension">
+                <summary>
+                    <span>Reading Comprehension</span>
+                    <div class="topic-meta">
+                        <span>📊 4.0 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="idioms_phrases">
+                <summary>
+                    <span>Idioms Phrases</span>
+                    <div class="topic-meta">
+                        <span>📊 4.0 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="antonyms">
+                <summary>
+                    <span>Antonyms</span>
+                    <div class="topic-meta">
+                        <span>📊 3.4 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="error_spotting">
+                <summary>
+                    <span>Error Spotting</span>
+                    <div class="topic-meta">
+                        <span>📊 3.3 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="sentence_completion">
+                <summary>
+                    <span>Sentence Completion</span>
+                    <div class="topic-meta">
+                        <span>📊 2.9 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="one_word_substitution">
+                <summary>
+                    <span>One Word Substitution</span>
+                    <div class="topic-meta">
+                        <span>📊 1.8 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+        </div>
+        
+        <div class="section">
+            <h2>📚 General Awareness</h2>
+            <p><strong>Questions:</strong> 25 | 
+               <strong>Difficulty:</strong> Easy |
+               <strong>Good Attempts:</strong> 20</p>
+            
+            <details class="topic-dropdown" data-topic="current_affairs">
+                <summary>
+                    <span>Current Affairs</span>
+                    <div class="topic-meta">
+                        <span>📊 7.0 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="defense">
+                <summary>
+                    <span>Defense</span>
+                    <div class="topic-meta">
+                        <span>📊 5.0 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="history">
+                <summary>
+                    <span>History</span>
+                    <div class="topic-meta">
+                        <span>📊 4.0 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="sports">
+                <summary>
+                    <span>Sports</span>
+                    <div class="topic-meta">
+                        <span>📊 3.3 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="geography">
+                <summary>
+                    <span>Geography</span>
+                    <div class="topic-meta">
+                        <span>📊 3.3 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="science">
+                <summary>
+                    <span>Science</span>
+                    <div class="topic-meta">
+                        <span>📊 2.7 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="polity">
+                <summary>
+                    <span>Polity</span>
+                    <div class="topic-meta">
+                        <span>📊 1.8 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="static_gk">
+                <summary>
+                    <span>Static Gk</span>
+                    <div class="topic-meta">
+                        <span>📊 1.8 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+        </div>
+        
+        <div class="section">
+            <h2>📚 Reasoning</h2>
+            <p><strong>Questions:</strong> 25 | 
+               <strong>Difficulty:</strong> Moderate |
+               <strong>Good Attempts:</strong> 14</p>
+            
+            <details class="topic-dropdown" data-topic="spatial_ability">
+                <summary>
+                    <span>Spatial Ability</span>
+                    <div class="topic-meta">
+                        <span>📊 6.0 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="analogy">
+                <summary>
+                    <span>Analogy</span>
+                    <div class="topic-meta">
+                        <span>📊 5.0 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="series">
+                <summary>
+                    <span>Series</span>
+                    <div class="topic-meta">
+                        <span>📊 3.0 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="venn_diagrams">
+                <summary>
+                    <span>Venn Diagrams</span>
+                    <div class="topic-meta">
+                        <span>📊 2.9 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="blood_relations">
+                <summary>
+                    <span>Blood Relations</span>
+                    <div class="topic-meta">
+                        <span>📊 2.3 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="dot_situation">
+                <summary>
+                    <span>Dot Situation</span>
+                    <div class="topic-meta">
+                        <span>📊 2.1 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="odd_one_out">
+                <summary>
+                    <span>Odd One Out</span>
+                    <div class="topic-meta">
+                        <span>📊 1.9 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="coding_decoding">
+                <summary>
+                    <span>Coding Decoding</span>
+                    <div class="topic-meta">
+                        <span>📊 1.8 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+        </div>
+        
+        <div class="section">
+            <h2>📚 Numerical Ability</h2>
+            <p><strong>Questions:</strong> 20 | 
+               <strong>Difficulty:</strong> Moderate |
+               <strong>Good Attempts:</strong> 10</p>
+            
+            <details class="topic-dropdown" data-topic="speed_time_distance">
+                <summary>
+                    <span>Speed Time Distance</span>
+                    <div class="topic-meta">
+                        <span>📊 4.0 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 1 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (1 found)</h4>
+                    
+                    <div class="prev-question">
+                        <div class="q-text">A train travels at 60 km/hr for 3 hours. What is the distance covered?</div>
+                        <div class="options"><div>(A) 180 km</div><div>(B) 160 km</div><div>(C) 200 km</div><div>(D) 150 km</div></div>
+                        <div class="q-meta">
+                            <span class="year">AFCAT 2023 </span>
+                            <span class="difficulty-easy">Easy</span>
+                            <span>unknown</span>
+                        </div>
+                    </div>
+                    
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="time_and_work">
+                <summary>
+                    <span>Time And Work</span>
+                    <div class="topic-meta">
+                        <span>📊 2.7 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-rising">↑</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="profit_loss">
+                <summary>
+                    <span>Profit Loss</span>
+                    <div class="topic-meta">
+                        <span>📊 2.1 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="percentage">
+                <summary>
+                    <span>Percentage</span>
+                    <div class="topic-meta">
+                        <span>📊 2.1 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="decimal_fractions">
+                <summary>
+                    <span>Decimal Fractions</span>
+                    <div class="topic-meta">
+                        <span>📊 2.0 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="average">
+                <summary>
+                    <span>Average</span>
+                    <div class="topic-meta">
+                        <span>📊 1.9 Qs</span>
+                        <span class="confidence-high">91%</span>
+                        <span class="trend-declining">↓</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="ratio_proportion">
+                <summary>
+                    <span>Ratio Proportion</span>
+                    <div class="topic-meta">
+                        <span>📊 1.5 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+            <details class="topic-dropdown" data-topic="simple_compound_interest">
+                <summary>
+                    <span>Simple Compound Interest</span>
+                    <div class="topic-meta">
+                        <span>📊 1.2 Qs</span>
+                        <span class="confidence-high">95%</span>
+                        <span class="trend-stable">→</span>
+                        <span>📚 0 prev</span>
+                    </div>
+                </summary>
+                <div class="questions-list">
+                    <h4>Previous Year Questions (0 found)</h4>
+                    <div class="no-questions">No previous questions found for this topic. Run --build-bank to populate.</div>
+                </div>
+            </details>
+            
+        </div>
+        
+    
+    
+    <div class="section generated-section">
+        <h2>🤖 AI-Generated Predicted Questions</h2>
+        <p>Generate predicted questions based on pattern analysis of previous years.</p>
+        <p><em>Run with <code>--generate-questions</code> to create predicted questions using AI.</em></p>
+    </div>
+    
+    
+    <div class="section">
+        <h2>📊 High-Yield Study Clusters</h2>
+        <ol>
+            <li>Current Affairs</li>
+<li>Defense</li>
+<li>Cloze Test</li>
+<li>Spatial Ability</li>
+<li>Synonyms</li>
+<li>History</li>
+<li>Geography</li>
+<li>Sports</li>
+<li>Analogy</li>
+<li>Reading Comprehension</li>
+
+        </ol>
+    </div>
+    
+    <footer style="text-align: center; margin-top: 40px; color: #718096;">
+        <p>⚠️ This prediction is based on historical pattern analysis. Actual exam may vary.</p>
+        <p>Use as preparation guide, not guaranteed predictions.</p>
+        <p>💡 Click on any topic to see previous year questions from that topic.</p>
+    </footer>
+    
+    <script>
+        // Lazy load question data if needed
+        document.querySelectorAll('.topic-dropdown').forEach(dropdown => {
+            dropdown.addEventListener('toggle', function() {
+                if (this.open && this.dataset.loaded !== 'true') {
+                    // Could fetch from JSON file here for large datasets
+                    this.dataset.loaded = 'true';
+                }
+            });
+        });
+    </script>
+</body>
+</html>

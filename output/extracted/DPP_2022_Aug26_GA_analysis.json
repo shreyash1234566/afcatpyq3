@@ -1,0 +1,791 @@
+{
+  "source_file": "data\\papers\\DPP_2022_Aug26_GA.pdf",
+  "year": null,
+  "shift": null,
+  "extraction_date": "2026-01-02T20:40:05.792067",
+  "total_questions": 26,
+  "questions": [
+    {
+      "question_number": 1,
+      "text": "India and Thailand",
+      "options": [],
+      "section": "verbal_ability",
+      "topic": "technology",
+      "topic_label": "Technology",
+      "subtopic": null,
+      "question_type": "inferred_verbal",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.15384615384615385,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 0.575,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 2,
+      "text": "Match List-I with List-II and select the correct answer using the code given below: List-I (Military Exercise) List-II (Countries)",
+      "options": [],
+      "section": "verbal_ability",
+      "topic": "coding_decoding",
+      "topic_label": "Coding-Decoding",
+      "subtopic": null,
+      "question_type": "match_following",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.23076923076923078,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 0.55,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 3,
+      "text": "India and Indonesia",
+      "options": [],
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "inferred_verbal",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 0.65,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 4,
+      "text": "India and France",
+      "options": [
+        "A - 4, B - 2, C - 1, D - 3",
+        "Black, Green, Red, Yellow, Green",
+        "Lithosphere",
+        "Stromboli",
+        "Surdas",
+        "Cassini",
+        "Pyrometer",
+        "A - 1, B - 2, C - 3, D - 4",
+        "Yellow, Black, Blue, Red, Green",
+        "Biome",
+        "Vesuvius",
+        "Munshi Premchand",
+        "New Horizon",
+        "Hydrometer",
+        "A - 1, B - 2, C - 4, D - 3",
+        "Blue, Yellow, Black, Green, Red",
+        "Hydrosphere",
+        "Etna",
+        "Bhartendu Harishchandra",
+        "Voyager",
+        "Lactometer",
+        "A - 3, B - 2, C - 4, D - 1",
+        "Green, Black, Blue, Yellow, Red",
+        "Biosphere",
+        "Mauna Loa",
+        "Kalidasa",
+        "Sputnik",
+        "Hygrometer"
+      ],
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 5,
+      "text": "The Department of Ex-Servicemen Welfare",
+      "options": [
+        ".",
+        ".",
+        ".",
+        ".",
+        ".",
+        ".",
+        ".",
+        "."
+      ],
+      "section": "verbal_ability",
+      "topic": "algebra",
+      "topic_label": "Algebra",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.14285714285714285,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 6,
+      "text": "Who among the following is the author of Hindi play 'Andher Nagri Chaupat Raja'?",
+      "options": [
+        "Surdas",
+        "Munshi Premchand",
+        "Bhartendu Harishchandra",
+        "Kalidasa"
+      ],
+      "section": "verbal_ability",
+      "topic": "reading_comprehension",
+      "topic_label": "Reading Comprehension",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 1.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 7,
+      "text": "Which of the following space probe sent to",
+      "options": [
+        "Cassini",
+        "New Horizon",
+        "Voyager",
+        "Sputnik"
+      ],
+      "section": "verbal_ability",
+      "topic": "technology",
+      "topic_label": "Technology",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.23076923076923078,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 8,
+      "text": "Which instrument is used to measure humidity?",
+      "options": [
+        "Pyrometer",
+        "Hydrometer",
+        "Lactometer",
+        "Hygrometer"
+      ],
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 9,
+      "text": "Match the List I with List II and select the correct answer using the code given below: List - I (Musicians) List - II (Instruments)",
+      "options": [
+        "Pandith Ravi Shanker  1. Sarod",
+        "Bismillah Khan"
+      ],
+      "section": "verbal_ability",
+      "topic": "coding_decoding",
+      "topic_label": "Coding-Decoding",
+      "subtopic": null,
+      "question_type": "match_following",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.23076923076923078,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 0.55,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 10,
+      "text": "Match List I with List II and select the correct answer using the code given below the Lists: | | General Awareness Android App iOS App PW Website 12/12/24, 11:00 AM Defence_AFCAT Memory Based Paper - 26 Aug 2022_DPP https://qbg-admin.penpencil.co/finalize-question-paper/print-preview 1/13 --- PAGE 2 --Defence List I (Amendment to the Constitution of India) List II (Subject) Act, 1985",
+      "options": [],
+      "section": "verbal_ability",
+      "topic": "simple_compound_interest",
+      "topic_label": "Simple & Compound Interest",
+      "subtopic": null,
+      "question_type": "match_following",
+      "difficulty": "hard",
+      "confidence_scores": {
+        "topic": 0.23529411764705882,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": true,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 0.55,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 11,
+      "text": "The only Session of the Indian National Congress which was presided by Mahatma Gandhi was held at?",
+      "options": [
+        "Nagpur",
+        "Hyderabad",
+        "Karachi",
+        "Belgaum"
+      ],
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 1.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 12,
+      "text": "Hydrogen bomb is based on the principle of _ .",
+      "options": [
+        "Nuclear Explosion",
+        "Nuclear Fission",
+        "Nuclear Fusion",
+        "Chain Reaction"
+      ],
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "conceptual",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 1.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 13,
+      "text": "India is divided into how many earthquake zones",
+      "options": [
+        "Two",
+        "Six",
+        "Four",
+        "Five"
+      ],
+      "section": "verbal_ability",
+      "topic": "art_culture",
+      "topic_label": "Art & Culture",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.14285714285714285,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 14,
+      "text": "Consider the following statements regarding",
+      "options": [
+        "1 only",
+        "2 and 3 only",
+        "3 only",
+        "1 and 2 only"
+      ],
+      "section": "verbal_ability",
+      "topic": "simple_compound_interest",
+      "topic_label": "Simple & Compound Interest",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.11764705882352941,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 15,
+      "text": "With reference to Pradhan Mantri Kaushal Vikas",
+      "options": [
+        "I and III",
+        "III and IV only",
+        "II only",
+        "I, II and III only"
+      ],
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "non_verbal_figure",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": true,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 16,
+      "text": "The headquarter of United News of India is located at which of the following places?",
+      "options": [
+        "Manila",
+        "New Delhi",
+        "Mumbai",
+        "Singapore"
+      ],
+      "section": "verbal_ability",
+      "topic": "art_culture",
+      "topic_label": "Art & Culture",
+      "subtopic": null,
+      "question_type": "factual",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.14285714285714285,
+        "type": 1.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 17,
+      "text": "Consider the following statements:",
+      "options": [
+        ": The Quit India Movement was launched in 1942.",
+        "A is correct but R is incorrect.",
+        "A is incorrect but R is correct.",
+        "Both A and R are correct, but R is not the correct explanation for A.",
+        "|"
+      ],
+      "section": "verbal_ability",
+      "topic": "simple_compound_interest",
+      "topic_label": "Simple & Compound Interest",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.11764705882352941,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 18,
+      "text": "Which among the following is not under the",
+      "options": [
+        "Department of Ex-servicemen Welfare",
+        "Department of Defence Intelligence",
+        "Defence Research and Development",
+        "Department of Defence Production"
+      ],
+      "section": "verbal_ability",
+      "topic": "organizations",
+      "topic_label": "Organizations",
+      "subtopic": null,
+      "question_type": "inferred_verbal",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.14285714285714285,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 19,
+      "text": "Which of the following is a long-range, multi-role",
+      "options": [
+        "Jaguar",
+        "Sukhoi 30 MKI",
+        "Mirage 2000",
+        "Tejas"
+      ],
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "topic_label": "Inferred Verbal Ability",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.0,
+        "type": 0.9,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 20,
+      "text": "Which district received the Prime Minister's",
+      "options": [
+        "Datia",
+        "Alirajpur",
+        "Dhar",
+        "Bhind"
+      ],
+      "section": "verbal_ability",
+      "topic": "polity",
+      "topic_label": "Polity & Constitution",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.16666666666666666,
+        "type": 0.9,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 21,
+      "text": "Which of the following Iron and Steel Plants does not function under the Steel Authority of India",
+      "options": [
+        "Bhillai",
+        "Rourkela",
+        "Jamshedpur",
+        "Durgapur"
+      ],
+      "section": "verbal_ability",
+      "topic": "reading_comprehension",
+      "topic_label": "Reading Comprehension",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.13333333333333333,
+        "type": 0.0,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 22,
+      "text": "Which of the following statement regarding cricket is correct?",
+      "options": [
+        "I and III only",
+        "I and II only",
+        "II and III only",
+        "I, II and III"
+      ],
+      "section": "verbal_ability",
+      "topic": "time_and_work",
+      "topic_label": "Time & Work",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "medium",
+      "confidence_scores": {
+        "topic": 0.1,
+        "type": 0.0,
+        "difficulty": 0.65
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 23,
+      "text": "Which of the following is a sedimentary rock?",
+      "options": [
+        "Quartzite",
+        "Gypsum",
+        "Granite",
+        "Pumice"
+      ],
+      "section": "verbal_ability",
+      "topic": "algebra",
+      "topic_label": "Algebra",
+      "subtopic": null,
+      "question_type": "inferred_verbal",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.14285714285714285,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 24,
+      "text": "Which among the following Part of the Indian",
+      "options": [
+        "IV",
+        "V",
+        "III",
+        "VI"
+      ],
+      "section": "verbal_ability",
+      "topic": "art_culture",
+      "topic_label": "Art & Culture",
+      "subtopic": null,
+      "question_type": "inferred_numerical",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.14285714285714285,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 25,
+      "text": "In India, inflation is measured by",
+      "options": [
+        "Consumer price index for agricultural workers",
+        "Consumer price index",
+        "Wholesale price index number",
+        "National income deflation"
+      ],
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "inferred_general_awareness",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.9,
+        "difficulty": 0.75
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 1.0,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    },
+    {
+      "question_number": 1942,
+      "text": "The Quit India Movement of August 1942 marked the culmination of the Indian freedom struggle It had the widest social base",
+      "options": [],
+      "section": "reasoning",
+      "topic": "analogy",
+      "topic_label": "Analogy",
+      "subtopic": null,
+      "question_type": "unknown",
+      "difficulty": "easy",
+      "confidence_scores": {
+        "topic": 0.2,
+        "type": 0.0,
+        "difficulty": 0.85
+      },
+      "has_formula": false,
+      "has_diagram_reference": false,
+      "image_refs": [],
+      "source_file": "DPP_2022_Aug26_GA.pdf",
+      "confidence": 0.75,
+      "page_number": 0,
+      "year": null,
+      "shift": null
+    }
+  ],
+  "section_breakdown": {
+    "verbal_ability": 25,
+    "reasoning": 1
+  },
+  "topic_breakdown": {
+    "technology": 2,
+    "coding_decoding": 2,
+    "inferred_verbal_ability": 3,
+    "algebra": 2,
+    "reading_comprehension": 2,
+    "analogy": 6,
+    "simple_compound_interest": 3,
+    "art_culture": 3,
+    "organizations": 1,
+    "polity": 1,
+    "time_and_work": 1
+  },
+  "difficulty_distribution": {
+    "easy": 17,
+    "medium": 8,
+    "hard": 1
+  },
+  "ocr_confidence": 1.0,
+  "extraction_method": "pdf_ocr",
+  "page_images": {},
+  "warnings": []
+}

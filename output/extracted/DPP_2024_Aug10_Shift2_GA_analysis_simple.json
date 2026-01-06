@@ -1,0 +1,294 @@
+{
+  "year": null,
+  "shift": null,
+  "total_questions": 26,
+  "topic_data": [
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "inferred_verbal_ability",
+      "count": 3,
+      "difficulties": {
+        "easy": 3,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "As per the report, India was the world's top arms importer between 2019-2023.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Which of the following is a type of athletics?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "The shape of a liquid droplet is spherical due to which one of the following given below?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "analogy",
+      "count": 8,
+      "difficulties": {
+        "easy": 6,
+        "medium": 2,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "China was the largest exporter of of arms with primary arms supplier to Pakistan.",
+          "difficulty": "easy"
+        },
+        {
+          "text": "In which of the following cities has the Weapon",
+          "difficulty": "easy"
+        },
+        {
+          "text": "What was the name of the first atomic bomb used in warfare?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "algebra",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Consider the following statements with reference to International Arms Transfers Report by The",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "polity",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The 9th Schedule is related to which article of the Indian Constitution?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "syllogism",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which of the following is not a naturally occurring greenhouse gas?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "art_culture",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Dogri folk dance form belongs to which state/UTs?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "current_affairs",
+      "count": 3,
+      "difficulties": {
+        "easy": 2,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Recently seen in news, Sela tunnel is located in which among the following state?",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Recently seen in the news, Khalubar War",
+          "difficulty": "easy"
+        },
+        {
+          "text": "Whichof the following is the name of the first indigenous loiter munition received by the Indian",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "defense",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which fighter jet of the Indian Air Force successfully test-fired the BrahMos supersonic cruise missile?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "time_and_work",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which Indian brand sponsored the Netherlands men's cricket team for the ICC Men's T20 World",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "awards",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The first foreigner to receive Bharat Ratna Award was?",
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "science_physics",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Which one of the following is a renewable source of energy?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "economy",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Land revenue comes under which list in the",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "science_biology",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "When a lake freezes, how do aquatic animals manage to survive?",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "geography_world",
+      "count": 1,
+      "difficulties": {
+        "easy": 1,
+        "medium": 0,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "Where is the headquarters of International",
+          "difficulty": "easy"
+        }
+      ]
+    },
+    {
+      "year": null,
+      "section": "verbal_ability",
+      "topic": "error_detection",
+      "count": 1,
+      "difficulties": {
+        "easy": 0,
+        "medium": 1,
+        "hard": 0
+      },
+      "sample_questions": [
+        {
+          "text": "The removal was based on a procedural error concerning his age, which many considered an act of racial discrimination.",
+          "difficulty": "medium"
+        }
+      ]
+    }
+  ],
+  "section_breakdown": {
+    "verbal_ability": 26
+  },
+  "difficulty_distribution": {
+    "easy": 19,
+    "medium": 7,
+    "hard": 0
+  }
+}

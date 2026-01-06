@@ -1,0 +1,35 @@
+Year,Section,Topic,Count,Easy,Medium,Hard
+Unknown,general_awareness,Inferred General Awareness,2,1,0,1
+Unknown,general_awareness,analogy,3,3,0,0
+Unknown,general_awareness,analogy_verbal,1,0,1,0
+Unknown,general_awareness,awards,1,0,1,0
+Unknown,general_awareness,defense,1,1,0,0
+Unknown,general_awareness,geography_world,2,1,1,0
+Unknown,general_awareness,science_biology,1,1,0,0
+Unknown,general_awareness,science_physics,1,1,0,0
+Unknown,general_awareness,sports,1,1,0,0
+Unknown,general_awareness,technology,2,2,0,0
+Unknown,general_awareness,unknown,5,5,0,0
+Unknown,numerical_ability,Inferred Numerical Ability,4,4,0,0
+Unknown,numerical_ability,embedded_figures,1,0,1,0
+Unknown,reasoning,Inferred Reasoning,24,3,20,1
+Unknown,reasoning,analogy_verbal,5,5,0,0
+Unknown,reasoning,averages,5,2,3,0
+Unknown,reasoning,percentages,4,0,4,0
+Unknown,reasoning,profit_loss,3,1,2,0
+Unknown,reasoning,ratio_proportion,2,0,2,0
+Unknown,reasoning,simple_compound_interest,1,0,1,0
+Unknown,reasoning,simplification,3,0,1,2
+Unknown,reasoning,unknown,1,0,1,0
+Unknown,verbal_ability,Inferred Verbal Ability,2,1,1,0
+Unknown,verbal_ability,analogy,8,7,1,0
+Unknown,verbal_ability,analogy_verbal,2,2,0,0
+Unknown,verbal_ability,blood_relations,2,2,0,0
+Unknown,verbal_ability,clocks,1,1,0,0
+Unknown,verbal_ability,cubes_dice,1,0,1,0
+Unknown,verbal_ability,geography_india,1,1,0,0
+Unknown,verbal_ability,history_modern,2,1,1,0
+Unknown,verbal_ability,reading_comprehension,1,0,1,0
+Unknown,verbal_ability,technology,1,1,0,0
+Unknown,verbal_ability,time_and_work,1,1,0,0
+Unknown,verbal_ability,unknown,5,4,1,0

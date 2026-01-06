@@ -1,0 +1,48 @@
+Year,Section,Topic,Count,Easy,Medium,Hard
+2023,general_awareness,Inferred General Awareness,4,0,1,3
+2023,general_awareness,analogy,1,1,0,0
+2023,general_awareness,awards,2,2,0,0
+2023,general_awareness,current_affairs,2,1,1,0
+2023,general_awareness,defense,3,2,1,0
+2023,general_awareness,geography_world,1,1,0,0
+2023,general_awareness,inferred_general_awareness,4,2,2,0
+2023,general_awareness,organizations,4,4,0,0
+2023,general_awareness,polity,2,2,0,0
+2023,general_awareness,ratio_proportion,1,1,0,0
+2023,general_awareness,technology,1,1,0,0
+2023,numerical_ability,Inferred Numerical Ability,4,0,3,1
+2023,numerical_ability,analogy,1,1,0,0
+2023,numerical_ability,blood_relations,1,0,1,0
+2023,numerical_ability,odd_one_out,1,1,0,0
+2023,numerical_ability,ranking_ordering,1,0,1,0
+2023,numerical_ability,seating_arrangement,1,1,0,0
+2023,numerical_ability,simple_compound_interest,1,0,0,1
+2023,numerical_ability,time_and_work,1,0,1,0
+2023,reasoning,Inferred Reasoning,8,2,4,2
+2023,reasoning,algebra,2,0,1,1
+2023,reasoning,analogy,5,1,4,0
+2023,reasoning,averages,1,0,1,0
+2023,reasoning,calendar,1,1,0,0
+2023,reasoning,clocks,1,0,1,0
+2023,reasoning,coding_decoding,5,1,3,1
+2023,reasoning,data_interpretation,1,0,0,1
+2023,reasoning,embedded_figures,2,2,0,0
+2023,reasoning,geometry,1,0,1,0
+2023,reasoning,mixtures_alligation,1,0,1,0
+2023,reasoning,pattern_completion,2,2,0,0
+2023,reasoning,percentages,1,0,0,1
+2023,reasoning,probability,1,0,1,0
+2023,reasoning,profit_loss,1,0,0,1
+2023,reasoning,simplification,1,0,1,0
+2023,reasoning,speed_time_distance,1,0,1,0
+2023,reasoning,time_and_work,1,0,0,1
+2023,reasoning,trains_boats,1,0,1,0
+2023,reasoning,vocabulary,3,3,0,0
+2023,verbal_ability,Inferred Verbal Ability,6,2,3,1
+2023,verbal_ability,analogy,1,1,0,0
+2023,verbal_ability,error_detection,2,2,0,0
+2023,verbal_ability,inferred_verbal_ability,1,1,0,0
+2023,verbal_ability,one_word_substitution,2,2,0,0
+2023,verbal_ability,para_jumbles,2,0,2,0
+2023,verbal_ability,sentence_completion,3,3,0,0
+2023,verbal_ability,vocabulary,8,6,2,0

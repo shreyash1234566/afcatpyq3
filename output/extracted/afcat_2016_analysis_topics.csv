@@ -1,0 +1,34 @@
+Year,Section,Topic,Count,Easy,Medium,Hard
+2016,general_awareness,Inferred General Awareness,2,0,1,1
+2016,general_awareness,algebra,1,0,1,0
+2016,general_awareness,analogy,6,6,0,0
+2016,general_awareness,awards,3,3,0,0
+2016,general_awareness,calendar,2,2,0,0
+2016,general_awareness,geography_india,1,1,0,0
+2016,general_awareness,geography_world,2,2,0,0
+2016,general_awareness,inferred_general_awareness,1,1,0,0
+2016,general_awareness,polity,1,0,1,0
+2016,general_awareness,ranking_ordering,1,1,0,0
+2016,general_awareness,sports,1,1,0,0
+2016,general_awareness,technology,2,1,1,0
+2016,numerical_ability,Inferred Numerical Ability,3,3,0,0
+2016,numerical_ability,economy,1,1,0,0
+2016,numerical_ability,embedded_figures,1,0,1,0
+2016,numerical_ability,inferred_numerical_ability,4,3,1,0
+2016,numerical_ability,ratio_proportion,1,0,1,0
+2016,numerical_ability,trains_boats,1,1,0,0
+2016,reasoning,Inferred Reasoning,32,12,19,1
+2016,reasoning,analogy,1,0,1,0
+2016,reasoning,averages,1,0,1,0
+2016,reasoning,profit_loss,3,0,1,2
+2016,reasoning,seating_arrangement,4,3,0,1
+2016,reasoning,simple_compound_interest,1,0,1,0
+2016,reasoning,speed_time_distance,1,0,0,1
+2016,reasoning,technology,1,0,1,0
+2016,reasoning,time_and_work,2,0,2,0
+2016,reasoning,trains_boats,1,0,1,0
+2016,verbal_ability,Inferred Verbal Ability,3,0,2,1
+2016,verbal_ability,analogy,2,2,0,0
+2016,verbal_ability,awards,1,1,0,0
+2016,verbal_ability,inferred_verbal_ability,2,2,0,0
+2016,verbal_ability,technology,1,1,0,0
