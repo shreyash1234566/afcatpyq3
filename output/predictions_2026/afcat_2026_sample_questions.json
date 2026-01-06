@@ -1,0 +1,782 @@
+[
+  {
+    "question_number": 1,
+    "section": "Verbal Ability",
+    "topic": "Reading Comprehension",
+    "question_text": "What is the main thrust of the author?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Traditional systems should be strengthened."
+      },
+      {
+        "key": "B",
+        "text": "Formal education is more important than non-formal."
+      },
+      {
+        "key": "C",
+        "text": "One should never cease to learn."
+      },
+      {
+        "key": "D",
+        "text": "It is impossible to meet the needs of everyone."
+      }
+    ],
+    "difficulty": "Medium",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 2,
+    "section": "Verbal Ability",
+    "topic": "Reading Comprehension",
+    "question_text": "What should be the major characteristic of the future educational system?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Different modules with same function."
+      },
+      {
+        "key": "B",
+        "text": "Same module for different groups."
+      },
+      {
+        "key": "C",
+        "text": "No modules but standard compulsory programme for all."
+      },
+      {
+        "key": "D",
+        "text": "None of the above"
+      }
+    ],
+    "difficulty": "Medium",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 3,
+    "section": "Verbal Ability",
+    "topic": "Reading Comprehension",
+    "question_text": "According to the author, what measures should open university adopt to meet modern conditions?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Develop various programmes for adult learners."
+      },
+      {
+        "key": "B",
+        "text": "Open more colleges in traditional lines."
+      },
+      {
+        "key": "C",
+        "text": "Cater to the needs of those who represent ‘cone’."
+      },
+      {
+        "key": "D",
+        "text": "Primary education should be under the control of open universities."
+      }
+    ],
+    "difficulty": "Medium",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 4,
+    "section": "Verbal Ability",
+    "topic": "Reading Comprehension",
+    "question_text": "In the context of the passage, what is the meaning of the sentence “The writing is already on the wall”?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Everything is uncertain now-a-days."
+      },
+      {
+        "key": "B",
+        "text": "Changes have already taken place."
+      },
+      {
+        "key": "C",
+        "text": "The signs of change are already visible."
+      },
+      {
+        "key": "D",
+        "text": "You cannot change the future."
+      }
+    ],
+    "difficulty": "Hard",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 5,
+    "section": "Verbal Ability",
+    "topic": "Error Detection",
+    "question_text": "Find out which part of the sentence has an error: It was a year since (a) / I received any letter (b) / from my sister. (c) / No error. (d)",
+    "choices": [
+      {
+        "key": "A",
+        "text": "It was a year since"
+      },
+      {
+        "key": "B",
+        "text": "I received any letter"
+      },
+      {
+        "key": "C",
+        "text": "from my sister."
+      },
+      {
+        "key": "D",
+        "text": "No error."
+      }
+    ],
+    "difficulty": "Medium",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 6,
+    "section": "Verbal Ability",
+    "topic": "Error Detection",
+    "question_text": "Find out which part of the sentence has an error: His family members may arrive (a) / any moment (b) / by car. (c)/ No error. (d)",
+    "choices": [
+      {
+        "key": "A",
+        "text": "His family members may arrive"
+      },
+      {
+        "key": "B",
+        "text": "any moment"
+      },
+      {
+        "key": "C",
+        "text": "by car."
+      },
+      {
+        "key": "D",
+        "text": "No error."
+      }
+    ],
+    "difficulty": "Easy",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 7,
+    "section": "Verbal Ability",
+    "topic": "Error Detection",
+    "question_text": "Find out which part of the sentence has an error: He went to office (a) / but returned back (b) / home immediately (c) / No error. (d)",
+    "choices": [
+      {
+        "key": "A",
+        "text": "He went to office"
+      },
+      {
+        "key": "B",
+        "text": "but returned back"
+      },
+      {
+        "key": "C",
+        "text": "home immediately"
+      },
+      {
+        "key": "D",
+        "text": "No error."
+      }
+    ],
+    "difficulty": "Easy",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 8,
+    "section": "Verbal Ability",
+    "topic": "Error Detection",
+    "question_text": "Find out which part of the sentence has an error: The two brothers amicably divided (a) / their parent’s property (b) /among them. (c) / No error. (d)",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The two brothers amicably divided"
+      },
+      {
+        "key": "B",
+        "text": "their parent’s property"
+      },
+      {
+        "key": "C",
+        "text": "among them."
+      },
+      {
+        "key": "D",
+        "text": "No error."
+      }
+    ],
+    "difficulty": "Medium",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 9,
+    "section": "Verbal Ability",
+    "topic": "Error Detection",
+    "question_text": "Find out which part of the sentence has an error: To attain a high academic standard (a) / in his college Sunil worked hard (b) / since morning till night (c) / No error.",
+    "choices": [
+      {
+        "key": "A",
+        "text": "To attain a high academic standard"
+      },
+      {
+        "key": "B",
+        "text": "in his college Sunil worked hard"
+      },
+      {
+        "key": "C",
+        "text": "since morning till night"
+      },
+      {
+        "key": "D",
+        "text": "No error."
+      }
+    ],
+    "difficulty": "Medium",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 10,
+    "section": "General Awareness",
+    "topic": "Defence",
+    "question_text": "Indigenously build supersonic cruise missile is known as",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Brahmos"
+      },
+      {
+        "key": "B",
+        "text": "Prithvi"
+      },
+      {
+        "key": "C",
+        "text": "Nag"
+      },
+      {
+        "key": "D",
+        "text": "Astra"
+      }
+    ],
+    "difficulty": "Easy",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 11,
+    "section": "General Awareness",
+    "topic": "Defence",
+    "question_text": "Defence Services Staff College is located at",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Khadakvasala"
+      },
+      {
+        "key": "B",
+        "text": "Secunderabad"
+      },
+      {
+        "key": "C",
+        "text": "Dehradun"
+      },
+      {
+        "key": "D",
+        "text": "Wellington"
+      }
+    ],
+    "difficulty": "Easy",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 12,
+    "section": "Numerical Ability",
+    "topic": "Profit and Loss",
+    "question_text": "What percentage of profit should be added in the cost price of an item so as to gain a profit of 33% after allowing 5% discount to the customer?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "45"
+      },
+      {
+        "key": "B",
+        "text": "40"
+      },
+      {
+        "key": "C",
+        "text": "52"
+      },
+      {
+        "key": "D",
+        "text": "48"
+      }
+    ],
+    "difficulty": "Hard",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 13,
+    "section": "Numerical Ability",
+    "topic": "Profit and Loss",
+    "question_text": "If the manufacturer gains 10%, the wholesale dealer gains 15% and the retailer gains 25%, find the cost of production of a table. The retail price of table is Rs. 1265",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Rs. 800"
+      },
+      {
+        "key": "B",
+        "text": "Rs. 1000"
+      },
+      {
+        "key": "C",
+        "text": "Rs. 950"
+      },
+      {
+        "key": "D",
+        "text": "Rs. 1180"
+      }
+    ],
+    "difficulty": "Hard",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 14,
+    "section": "Numerical Ability",
+    "topic": "Profit and Loss",
+    "question_text": "A loss of 19% on a shirt gets converted into a profit of 17% when the selling price is increased by Rs. 162. What is the cost price of the shirt?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Rs. 540"
+      },
+      {
+        "key": "B",
+        "text": "Rs. 450"
+      },
+      {
+        "key": "C",
+        "text": "Rs. 600"
+      },
+      {
+        "key": "D",
+        "text": "Rs. 360"
+      }
+    ],
+    "difficulty": "Medium",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 15,
+    "section": "Reasoning",
+    "topic": "Verbal Classification",
+    "question_text": "Which word in each set of four is the odd one out?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Look"
+      },
+      {
+        "key": "B",
+        "text": "See"
+      },
+      {
+        "key": "C",
+        "text": "Watch"
+      },
+      {
+        "key": "D",
+        "text": "Face"
+      }
+    ],
+    "difficulty": "Easy",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 16,
+    "section": "Reasoning",
+    "topic": "Verbal Logic",
+    "question_text": "Relaxed means the same as the opposite of",
+    "choices": [
+      {
+        "key": "A",
+        "text": "calm"
+      },
+      {
+        "key": "B",
+        "text": "angry"
+      },
+      {
+        "key": "C",
+        "text": "tense"
+      },
+      {
+        "key": "D",
+        "text": "sleep"
+      }
+    ],
+    "difficulty": "Easy",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 17,
+    "section": "Verbal Ability",
+    "topic": "Reading Comprehension",
+    "question_text": "As a boy Pablo Picasso was",
+    "choices": [
+      {
+        "key": "A",
+        "text": "ordinary looking but talented."
+      },
+      {
+        "key": "B",
+        "text": "handsome and talented."
+      },
+      {
+        "key": "C",
+        "text": "handsome and studious."
+      },
+      {
+        "key": "D",
+        "text": "handsome and hardworking."
+      }
+    ],
+    "difficulty": "Easy",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 18,
+    "section": "Verbal Ability",
+    "topic": "Reading Comprehension",
+    "question_text": "He was spoilt mostly because he was",
+    "choices": [
+      {
+        "key": "A",
+        "text": "a smart boy."
+      },
+      {
+        "key": "B",
+        "text": "loved by one and all."
+      },
+      {
+        "key": "C",
+        "text": "the only son in the family."
+      },
+      {
+        "key": "D",
+        "text": "always surrounded by notorious boys."
+      }
+    ],
+    "difficulty": "Easy",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 19,
+    "section": "Verbal Ability",
+    "topic": "Reading Comprehension",
+    "question_text": "Picasso went to school only when",
+    "choices": [
+      {
+        "key": "A",
+        "text": "his friends accompanied him."
+      },
+      {
+        "key": "B",
+        "text": "his father went with him."
+      },
+      {
+        "key": "C",
+        "text": "he was allowed to paint at school."
+      },
+      {
+        "key": "D",
+        "text": "he was allowed to carry a pet with him."
+      }
+    ],
+    "difficulty": "Easy",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 20,
+    "section": "Verbal Ability",
+    "topic": "Reading Comprehension",
+    "question_text": "When his father painted in the college, Pablo",
+    "choices": [
+      {
+        "key": "A",
+        "text": "occasionally helped him."
+      },
+      {
+        "key": "B",
+        "text": "rarely helped him."
+      },
+      {
+        "key": "C",
+        "text": "always helped him."
+      },
+      {
+        "key": "D",
+        "text": "invariably helped him."
+      }
+    ],
+    "difficulty": "Easy",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 21,
+    "section": "Verbal Ability",
+    "topic": "Reading Comprehension",
+    "question_text": "Pablo’s father gave up painting because he",
+    "choices": [
+      {
+        "key": "A",
+        "text": "did not like the job."
+      },
+      {
+        "key": "B",
+        "text": "retired from the college."
+      },
+      {
+        "key": "C",
+        "text": "was impressed by his son’s talent."
+      },
+      {
+        "key": "D",
+        "text": "lost interest in painting."
+      }
+    ],
+    "difficulty": "Easy",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 22,
+    "section": "Verbal Ability",
+    "topic": "Error Detection",
+    "question_text": "Find out which part of the sentence has an error: The boss was irritated (a) / by him neglecting(b) / the duties and (c) / not listening to his advice(d)",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The boss was irritated"
+      },
+      {
+        "key": "B",
+        "text": "by him neglecting"
+      },
+      {
+        "key": "C",
+        "text": "the duties and"
+      },
+      {
+        "key": "D",
+        "text": "not listening to his advice"
+      }
+    ],
+    "difficulty": "Medium",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 23,
+    "section": "Verbal Ability",
+    "topic": "Error Detection",
+    "question_text": "Find out which part of the sentence has an error: Each of the three (a) / beggars were(b) / asking for more (c) / food to eat(d)",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Each of the three"
+      },
+      {
+        "key": "B",
+        "text": "beggars were"
+      },
+      {
+        "key": "C",
+        "text": "asking for more"
+      },
+      {
+        "key": "D",
+        "text": "food to eat"
+      }
+    ],
+    "difficulty": "Easy",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 24,
+    "section": "Verbal Ability",
+    "topic": "Error Detection",
+    "question_text": "Find out which part of the sentence has an error: My brother sent (a) / two pairs(b) / of shoe (c) / from America(d).",
+    "choices": [
+      {
+        "key": "A",
+        "text": "My brother sent"
+      },
+      {
+        "key": "B",
+        "text": "two pairs"
+      },
+      {
+        "key": "C",
+        "text": "of shoe"
+      },
+      {
+        "key": "D",
+        "text": "from America"
+      }
+    ],
+    "difficulty": "Easy",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 25,
+    "section": "Verbal Ability",
+    "topic": "Error Detection",
+    "question_text": "Find out which part of the sentence has an error: The young boy said (a) / that he(b) / neither liked me (c) / nor my wife(d).",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The young boy said"
+      },
+      {
+        "key": "B",
+        "text": "that he"
+      },
+      {
+        "key": "C",
+        "text": "neither liked me"
+      },
+      {
+        "key": "D",
+        "text": "nor my wife"
+      }
+    ],
+    "difficulty": "Medium",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 26,
+    "section": "Verbal Ability",
+    "topic": "Error Detection",
+    "question_text": "Find out which part of the sentence has an error: He was (a) / congratulated for(b) / his success in (c) / the 100 m race(d)",
+    "choices": [
+      {
+        "key": "A",
+        "text": "He was"
+      },
+      {
+        "key": "B",
+        "text": "congratulated for"
+      },
+      {
+        "key": "C",
+        "text": "his success in"
+      },
+      {
+        "key": "D",
+        "text": "the 100 m race"
+      }
+    ],
+    "difficulty": "Easy",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 27,
+    "section": "General Awareness",
+    "topic": "Environment",
+    "question_text": "Jim Corbett National Park is situated in which state?",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Arunachal Pradesh"
+      },
+      {
+        "key": "B",
+        "text": "Himachal Pradesh"
+      },
+      {
+        "key": "C",
+        "text": "Andhra Pradesh"
+      },
+      {
+        "key": "D",
+        "text": "Uttaranchal"
+      }
+    ],
+    "difficulty": "Easy",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 28,
+    "section": "Reasoning",
+    "topic": "Verbal Classification",
+    "question_text": "Find the odd one out: (a) Advice (b) Counsel (c) Direct (d) Suggest",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Advice"
+      },
+      {
+        "key": "B",
+        "text": "Counsel"
+      },
+      {
+        "key": "C",
+        "text": "Direct"
+      },
+      {
+        "key": "D",
+        "text": "Suggest"
+      }
+    ],
+    "difficulty": "Easy",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 29,
+    "section": "Reasoning",
+    "topic": "Verbal Classification",
+    "question_text": "Find the odd one out: (a) Tumble (b) Topple (c) Crumble (d) Sprain",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Tumble"
+      },
+      {
+        "key": "B",
+        "text": "Topple"
+      },
+      {
+        "key": "C",
+        "text": "Crumble"
+      },
+      {
+        "key": "D",
+        "text": "Sprain"
+      }
+    ],
+    "difficulty": "Medium",
+    "source": "PYQ Bank"
+  },
+  {
+    "question_number": 30,
+    "section": "Reasoning",
+    "topic": "Verbal Classification",
+    "question_text": "Find the odd one out: (a) Sobriquet (b) Alias (c) Pseudonym (d) Anonymous",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Sobriquet"
+      },
+      {
+        "key": "B",
+        "text": "Alias"
+      },
+      {
+        "key": "C",
+        "text": "Pseudonym"
+      },
+      {
+        "key": "D",
+        "text": "Anonymous"
+      }
+    ],
+    "difficulty": "Medium",
+    "source": "PYQ Bank"
+  }
+]

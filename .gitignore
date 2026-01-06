@@ -15,5 +15,5 @@ dist/
 .DS_Store
 .vscode/
 .idea/
-output/predictions_2026/
+
 /.github/workflows/*.log

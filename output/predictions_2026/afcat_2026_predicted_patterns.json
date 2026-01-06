@@ -1,0 +1,2072 @@
+[
+  {
+    "topic_code": "RM_VR_LOG",
+    "topic_name": "Logical Reasoning",
+    "section": "Reasoning",
+    "predicted_count": 16.56,
+    "confidence": 0.95,
+    "trend": 2075.0,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2024,
+        "question": "Kaliya is 13th from the left side and Gabbar is 20th from the right side in a row. They decided to interchange their positions, now Kaliya becomes 18th from the left side. What will Gabbar's position ",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2025,
+        "question": "A is the mother of B. B is the sister of C. C is the father of D. D is the brother of E. E is the husband of F. F is the sister of G. How is C related to F?",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2024,
+        "question": "Arrange the following words in the order in which they appear in an English dictionary. 1.Meticulous 2.Metric 3.Method 4.Mettle 5.Meter",
+        "type": "Arrangement"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "point",
+        "count": 37
+      },
+      {
+        "word": "father",
+        "count": 27
+      },
+      {
+        "word": "left",
+        "count": 27
+      },
+      {
+        "word": "right",
+        "count": 24
+      },
+      {
+        "word": "means",
+        "count": 23
+      },
+      {
+        "word": "related",
+        "count": 23
+      },
+      {
+        "word": "daughter",
+        "count": 22
+      },
+      {
+        "word": "mother",
+        "count": 20
+      },
+      {
+        "word": "sitting",
+        "count": 16
+      },
+      {
+        "word": "direction",
+        "count": 16
+      }
+    ],
+    "recommendation": "🔥 HIGH PRIORITY - Increasing trend, expect 3+ questions"
+  },
+  {
+    "topic_code": "GA_DEF",
+    "topic_name": "Defence & Military",
+    "section": "General Awareness",
+    "predicted_count": 10.53,
+    "confidence": 0.95,
+    "trend": 725.0,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2025,
+        "question": "Operation Dudhi, a counter-insurgency operation, was led by which Indian armed force?",
+        "type": "Ratio Problem"
+      },
+      {
+        "year": 2024,
+        "question": "Which country does the C295 Airbus Company belong to?",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2025,
+        "question": "Who is the 28th Chief of the Air Staff of India?",
+        "type": "Standard MCQ"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "air",
+        "count": 31
+      },
+      {
+        "word": "indian",
+        "count": 25
+      },
+      {
+        "word": "following",
+        "count": 21
+      },
+      {
+        "word": "missile",
+        "count": 19
+      },
+      {
+        "word": "india",
+        "count": 19
+      },
+      {
+        "word": "force",
+        "count": 19
+      },
+      {
+        "word": "range",
+        "count": 10
+      },
+      {
+        "word": "operation",
+        "count": 10
+      },
+      {
+        "word": "exercise",
+        "count": 10
+      },
+      {
+        "word": "aircraft",
+        "count": 9
+      }
+    ],
+    "recommendation": "🔥 HIGH PRIORITY - Increasing trend, expect 3+ questions"
+  },
+  {
+    "topic_code": "VA_ERR",
+    "topic_name": "Error Detection",
+    "section": "Verbal Ability",
+    "predicted_count": 6.15,
+    "confidence": 0.95,
+    "trend": 400.0,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2025,
+        "question": "Identify the segment that contains a grammatical error: My brother-in-laws / have been staying / with us this past week / and they are driving me crazy.",
+        "type": "Error Detection"
+      },
+      {
+        "year": 2024,
+        "question": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\nThough she is my friend, (a) /but I cannot help (b)/c",
+        "type": "Error Detection"
+      },
+      {
+        "year": 2025,
+        "question": "Find the part of the given sentence that has an error in it. If there is no error, choose 'No error'. The government has failed (1) / to clear the misconceptions (2) / between the people (3) /. No err",
+        "type": "Error Detection"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "error",
+        "count": 126
+      },
+      {
+        "word": "sentence",
+        "count": 52
+      },
+      {
+        "word": "part",
+        "count": 42
+      },
+      {
+        "word": "find",
+        "count": 37
+      },
+      {
+        "word": "contains",
+        "count": 29
+      },
+      {
+        "word": "choose",
+        "count": 23
+      },
+      {
+        "word": "spelt",
+        "count": 22
+      },
+      {
+        "word": "word",
+        "count": 22
+      },
+      {
+        "word": "any",
+        "count": 21
+      },
+      {
+        "word": "given",
+        "count": 21
+      }
+    ],
+    "recommendation": "🔥 HIGH PRIORITY - Increasing trend, expect 3+ questions"
+  },
+  {
+    "topic_code": "VA_COMP",
+    "topic_name": "Reading Comprehension",
+    "section": "Verbal Ability",
+    "predicted_count": 3.85,
+    "confidence": 0.95,
+    "trend": 247.7,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2023,
+        "question": "How did the old woman earn her living?",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2023,
+        "question": "Read the passage: There was once a woman who was very, very cheerful, though she had little to make her so... Why was the old woman surprised to find the pot on the road?",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2023,
+        "question": "Which of the following statements is the most appropriate description of the mask ?",
+        "type": "Standard MCQ"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "passage",
+        "count": 38
+      },
+      {
+        "word": "following",
+        "count": 28
+      },
+      {
+        "word": "author",
+        "count": 13
+      },
+      {
+        "word": "statements",
+        "count": 13
+      },
+      {
+        "word": "read",
+        "count": 11
+      },
+      {
+        "word": "answer",
+        "count": 10
+      },
+      {
+        "word": "according",
+        "count": 7
+      },
+      {
+        "word": "based",
+        "count": 7
+      },
+      {
+        "word": "international",
+        "count": 7
+      },
+      {
+        "word": "trade",
+        "count": 7
+      }
+    ],
+    "recommendation": "🔥 HIGH PRIORITY - Increasing trend, expect 3+ questions"
+  },
+  {
+    "topic_code": "VA_SENT",
+    "topic_name": "Sentence Completion",
+    "section": "Verbal Ability",
+    "predicted_count": 3.44,
+    "confidence": 0.95,
+    "trend": 675.0,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2024,
+        "question": "The football match has to be ____ because of the weather.",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2023,
+        "question": "Fill in the blank with the most appropriate option: He's good _______ playing the guitar, and he often performs at local events.",
+        "type": "Fill in Blank"
+      },
+      {
+        "year": 2025,
+        "question": "The ancient Greeks and Romans used to worship natural __________ as Gods and Goddesses.",
+        "type": "Classification"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "blank",
+        "count": 18
+      },
+      {
+        "word": "appropriate",
+        "count": 14
+      },
+      {
+        "word": "fill",
+        "count": 11
+      },
+      {
+        "word": "you",
+        "count": 9
+      },
+      {
+        "word": "word",
+        "count": 9
+      },
+      {
+        "word": "his",
+        "count": 8
+      },
+      {
+        "word": "space",
+        "count": 8
+      },
+      {
+        "word": "select",
+        "count": 7
+      },
+      {
+        "word": "words",
+        "count": 6
+      },
+      {
+        "word": "her",
+        "count": 5
+      }
+    ],
+    "recommendation": "🔥 HIGH PRIORITY - Increasing trend, expect 3+ questions"
+  },
+  {
+    "topic_code": "VA_CLOZE",
+    "topic_name": "Cloze Test",
+    "section": "Verbal Ability",
+    "predicted_count": 3.33,
+    "confidence": 0.95,
+    "trend": 227.3,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2024,
+        "question": "Based on the passage in Q18, select the most appropriate word from the options against Y.\n\nAt first, scientists suspected birds were simply _______Y______by the loud noise.",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2025,
+        "question": "Select the most appropriate option to fill in blank number 3: (Context: Animal behavior and predictions of natural calamities)",
+        "type": "Fill in Blank"
+      },
+      {
+        "year": 2025,
+        "question": "Direction: Select the most appropriate option to fill in the blank. Slightly ___ bitter oranges to remove the red color which covers their skins.",
+        "type": "Fill in Blank"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "appropriate",
+        "count": 48
+      },
+      {
+        "word": "select",
+        "count": 47
+      },
+      {
+        "word": "word",
+        "count": 34
+      },
+      {
+        "word": "blank",
+        "count": 30
+      },
+      {
+        "word": "options",
+        "count": 22
+      },
+      {
+        "word": "against",
+        "count": 21
+      },
+      {
+        "word": "fill",
+        "count": 19
+      },
+      {
+        "word": "option",
+        "count": 17
+      },
+      {
+        "word": "human",
+        "count": 16
+      },
+      {
+        "word": "passage",
+        "count": 15
+      }
+    ],
+    "recommendation": "🔥 HIGH PRIORITY - Increasing trend, expect 3+ questions"
+  },
+  {
+    "topic_code": "VA_REARR",
+    "topic_name": "Sentence Rearrangement",
+    "section": "Verbal Ability",
+    "predicted_count": 3.0,
+    "confidence": 0.8,
+    "trend": 100,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2024,
+        "question": "Climate change is the increase in greenhouse gases P: causing significant changes in Q: a major environmental issue R: that is S: global temperatures and weather patterns.",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2024,
+        "question": "Rearrange the jumbled parts: Teaching a child... P: since there are few... Q: is becoming difficult... R: and expensive open ponds around... S: how to swim",
+        "type": "Arrangement"
+      },
+      {
+        "year": 2025,
+        "question": "Rearrange the parts of the sentence in correct order. The absence of P. data on the migrant workers was Q. formulating effective policy decisions and R. preventing the governments from S. strategies f",
+        "type": "Arrangement"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "parts",
+        "count": 30
+      },
+      {
+        "word": "jumbled",
+        "count": 20
+      },
+      {
+        "word": "sentence",
+        "count": 19
+      },
+      {
+        "word": "arrange",
+        "count": 14
+      },
+      {
+        "word": "correct",
+        "count": 14
+      },
+      {
+        "word": "rearrange",
+        "count": 11
+      },
+      {
+        "word": "order",
+        "count": 9
+      },
+      {
+        "word": "been",
+        "count": 7
+      },
+      {
+        "word": "mark",
+        "count": 7
+      },
+      {
+        "word": "option",
+        "count": 7
+      }
+    ],
+    "recommendation": "🔥 HIGH PRIORITY - Increasing trend, expect 3+ questions"
+  },
+  {
+    "topic_code": "NA_PL",
+    "topic_name": "Profit & Loss",
+    "section": "Numerical Ability",
+    "predicted_count": 2.87,
+    "confidence": 0.95,
+    "trend": 325.0,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2024,
+        "question": "Arun purchased 20 kg of sugar and sold it for a profit to the extent of what he would have paid for 80 kg what is his profit?",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2025,
+        "question": "A retail fruit vendor buys a score of apples for ₹400 and retails them for ₹264 at a dozen. What was his loss/gain per cent? (a score = 20 no's)",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2023,
+        "question": "A grinder was marked at Rs 3600. After given a discount of 10% the dealer made a profit of 8%. Calculate the cost price.",
+        "type": "Percentage"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "price",
+        "count": 59
+      },
+      {
+        "word": "profit",
+        "count": 54
+      },
+      {
+        "word": "cost",
+        "count": 33
+      },
+      {
+        "word": "sold",
+        "count": 27
+      },
+      {
+        "word": "loss",
+        "count": 25
+      },
+      {
+        "word": "article",
+        "count": 23
+      },
+      {
+        "word": "selling",
+        "count": 22
+      },
+      {
+        "word": "find",
+        "count": 20
+      },
+      {
+        "word": "sells",
+        "count": 18
+      },
+      {
+        "word": "gain",
+        "count": 16
+      }
+    ],
+    "recommendation": "⭐ IMPORTANT - Consistent topic, prepare thoroughly"
+  },
+  {
+    "topic_code": "NA_NUM",
+    "topic_name": "Number System",
+    "section": "Numerical Ability",
+    "predicted_count": 2.45,
+    "confidence": 0.95,
+    "trend": 425.0,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2024,
+        "question": "2/3 of a number and 25/216 of its reciprocal are equal the number is?",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2025,
+        "question": "A candidate was asked to multiply a number by 25. He mistakenly multiplied it by 52. His answer was 324 more than the expected answer. So which number was the candidate asked to multiply?",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2024,
+        "question": "Two dice are thrown simultaneously. What is the probability of getting two numbers whose product is even?",
+        "type": "Standard MCQ"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "number",
+        "count": 20
+      },
+      {
+        "word": "two",
+        "count": 9
+      },
+      {
+        "word": "find",
+        "count": 8
+      },
+      {
+        "word": "length",
+        "count": 8
+      },
+      {
+        "word": "numbers",
+        "count": 7
+      },
+      {
+        "word": "equal",
+        "count": 6
+      },
+      {
+        "word": "sum",
+        "count": 6
+      },
+      {
+        "word": "her",
+        "count": 6
+      },
+      {
+        "word": "age",
+        "count": 6
+      },
+      {
+        "word": "difference",
+        "count": 5
+      }
+    ],
+    "recommendation": "⭐ IMPORTANT - Consistent topic, prepare thoroughly"
+  },
+  {
+    "topic_code": "GA_SCI",
+    "topic_name": "Science & Technology",
+    "section": "General Awareness",
+    "predicted_count": 2.42,
+    "confidence": 0.95,
+    "trend": 191.7,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2025,
+        "question": "Who was the first person to conduct a systematic study of chromosomes during division and called this process mitosis?",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2025,
+        "question": "Which disease is also known as Hansen's disease?",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2025,
+        "question": "Which disease is also known as Hansen's disease?",
+        "type": "Standard MCQ"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "following",
+        "count": 30
+      },
+      {
+        "word": "called",
+        "count": 8
+      },
+      {
+        "word": "among",
+        "count": 7
+      },
+      {
+        "word": "used",
+        "count": 7
+      },
+      {
+        "word": "known",
+        "count": 6
+      },
+      {
+        "word": "disease",
+        "count": 6
+      },
+      {
+        "word": "one",
+        "count": 5
+      },
+      {
+        "word": "during",
+        "count": 5
+      },
+      {
+        "word": "because",
+        "count": 4
+      },
+      {
+        "word": "ore",
+        "count": 4
+      }
+    ],
+    "recommendation": "⭐ IMPORTANT - Consistent topic, prepare thoroughly"
+  },
+  {
+    "topic_code": "NA_TW",
+    "topic_name": "Time & Work",
+    "section": "Numerical Ability",
+    "predicted_count": 2.35,
+    "confidence": 0.95,
+    "trend": 277.8,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2025,
+        "question": "A is 50% more efficient than B. Working together, they can complete a job in 20 days. How long would B alone take to complete the same job?",
+        "type": "Percentage"
+      },
+      {
+        "year": 2024,
+        "question": "A is 50% as efficient as B. C does half the work done by A and B together. If C alone does the work together in 20 days, then A, B and C together Will Do The Work In?",
+        "type": "Percentage"
+      },
+      {
+        "year": 2023,
+        "question": "The speed of a pipe is thrice the speed of the other pipe. If both working together can fill a tank in 36 minutes, then how much time will slower pipe take to fill it?",
+        "type": "Speed/Distance"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "days",
+        "count": 116
+      },
+      {
+        "word": "work",
+        "count": 96
+      },
+      {
+        "word": "together",
+        "count": 31
+      },
+      {
+        "word": "many",
+        "count": 27
+      },
+      {
+        "word": "tank",
+        "count": 27
+      },
+      {
+        "word": "hours",
+        "count": 26
+      },
+      {
+        "word": "complete",
+        "count": 25
+      },
+      {
+        "word": "alone",
+        "count": 20
+      },
+      {
+        "word": "finish",
+        "count": 19
+      },
+      {
+        "word": "after",
+        "count": 15
+      }
+    ],
+    "recommendation": "⭐ IMPORTANT - Consistent topic, prepare thoroughly"
+  },
+  {
+    "topic_code": "GA_ENV",
+    "topic_name": "Environment",
+    "section": "General Awareness",
+    "predicted_count": 2.28,
+    "confidence": 0.95,
+    "trend": 400.0,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2025,
+        "question": "What name has been given to the tiger corridor area connecting the Kawal Tiger Reserve in Telangana with the Tadoba-Andhari Tiger Reserve in Maharashtra?",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2025,
+        "question": "Which Indian state plans to establish its first tiger safari in the Barwadih Western Forest Range, aimed at housing rescued and orphaned tigers to boost tourism and conservation?",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2025,
+        "question": "Which types of pollution is responsible for Acid rains?",
+        "type": "Standard MCQ"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "following",
+        "count": 8
+      },
+      {
+        "word": "tiger",
+        "count": 5
+      },
+      {
+        "word": "among",
+        "count": 5
+      },
+      {
+        "word": "national",
+        "count": 4
+      },
+      {
+        "word": "statements",
+        "count": 4
+      },
+      {
+        "word": "state",
+        "count": 3
+      },
+      {
+        "word": "earth",
+        "count": 3
+      },
+      {
+        "word": "given",
+        "count": 3
+      },
+      {
+        "word": "yak",
+        "count": 3
+      },
+      {
+        "word": "its",
+        "count": 3
+      }
+    ],
+    "recommendation": "⭐ IMPORTANT - Consistent topic, prepare thoroughly"
+  },
+  {
+    "topic_code": "VA_SYN",
+    "topic_name": "Synonyms",
+    "section": "Verbal Ability",
+    "predicted_count": 2.22,
+    "confidence": 0.95,
+    "trend": 131.6,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2025,
+        "question": "Select the most appropriate synonym for the given word: NULLIFY",
+        "type": "Synonym"
+      },
+      {
+        "year": 2024,
+        "question": "Select the option that is nearest in the meaning to the underlined word. Asunder",
+        "type": "Meaning/Definition"
+      },
+      {
+        "year": 2024,
+        "question": "Select the option that is nearest in the meaning to the underlined word Fret",
+        "type": "Meaning/Definition"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "word",
+        "count": 55
+      },
+      {
+        "word": "meaning",
+        "count": 36
+      },
+      {
+        "word": "choose",
+        "count": 33
+      },
+      {
+        "word": "nearest",
+        "count": 28
+      },
+      {
+        "word": "given",
+        "count": 28
+      },
+      {
+        "word": "select",
+        "count": 22
+      },
+      {
+        "word": "synonym",
+        "count": 19
+      },
+      {
+        "word": "one",
+        "count": 12
+      },
+      {
+        "word": "underlined",
+        "count": 12
+      },
+      {
+        "word": "best",
+        "count": 11
+      }
+    ],
+    "recommendation": "⭐ IMPORTANT - Consistent topic, prepare thoroughly"
+  },
+  {
+    "topic_code": "RM_VR_SERIES",
+    "topic_name": "Series",
+    "section": "Reasoning",
+    "predicted_count": 2.15,
+    "confidence": 0.95,
+    "trend": 416.7,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2025,
+        "question": "Find the missing number- 30, 24, 29, 34 ... ?",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2025,
+        "question": "Study the given pattern carefully and select the number that can replace the question mark (?) in it. First row 12, 7, 32 Second row 17, 13, 33 Third row 14, 8, ?",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2024,
+        "question": "Which number would replace the question mark (?) in the following number series? 131, 132, 141, 166, 215, ?, 417",
+        "type": "Series/Pattern"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "series",
+        "count": 40
+      },
+      {
+        "word": "number",
+        "count": 27
+      },
+      {
+        "word": "given",
+        "count": 20
+      },
+      {
+        "word": "following",
+        "count": 18
+      },
+      {
+        "word": "question",
+        "count": 15
+      },
+      {
+        "word": "select",
+        "count": 14
+      },
+      {
+        "word": "replace",
+        "count": 13
+      },
+      {
+        "word": "mark",
+        "count": 13
+      },
+      {
+        "word": "next",
+        "count": 12
+      },
+      {
+        "word": "find",
+        "count": 11
+      }
+    ],
+    "recommendation": "⭐ IMPORTANT - Consistent topic, prepare thoroughly"
+  },
+  {
+    "topic_code": "VA_IDIOM",
+    "topic_name": "Idioms & Phrases",
+    "section": "Verbal Ability",
+    "predicted_count": 2.01,
+    "confidence": 0.95,
+    "trend": 67.9,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2024,
+        "question": "Scholars are often caught on the horns of ________ dilemma.",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2023,
+        "question": "Ball is in your court.",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2024,
+        "question": "Choose the one which is nearest to the meaning of: Will-o'-the-wisp",
+        "type": "Meaning/Definition"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "meaning",
+        "count": 41
+      },
+      {
+        "word": "given",
+        "count": 38
+      },
+      {
+        "word": "idiom",
+        "count": 35
+      },
+      {
+        "word": "select",
+        "count": 26
+      },
+      {
+        "word": "choose",
+        "count": 23
+      },
+      {
+        "word": "appropriate",
+        "count": 23
+      },
+      {
+        "word": "one",
+        "count": 20
+      },
+      {
+        "word": "best",
+        "count": 18
+      },
+      {
+        "word": "phrase",
+        "count": 15
+      },
+      {
+        "word": "word",
+        "count": 12
+      }
+    ],
+    "recommendation": "⭐ IMPORTANT - Consistent topic, prepare thoroughly"
+  },
+  {
+    "topic_code": "NA_RAT",
+    "topic_name": "Ratio & Proportion",
+    "section": "Numerical Ability",
+    "predicted_count": 1.93,
+    "confidence": 0.95,
+    "trend": 210.7,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2024,
+        "question": "Rs 3900 are distributed A, B, C and D. the ratio of A:B=B:C=C:D=2:3, what is the share of A?",
+        "type": "Ratio Problem"
+      },
+      {
+        "year": 2025,
+        "question": "The ratio of the ages of the father and son is 7 : 3. If we multiply his age by the answer, we get 756. What will be the ratio of the ages of the father and the son after 6 years?",
+        "type": "Ratio Problem"
+      },
+      {
+        "year": 2024,
+        "question": "2 numbers are in ratio of 1: 2, if 7 is added to both their ratio changes to 3: 5 the greatest number is?",
+        "type": "Ratio Problem"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "ratio",
+        "count": 54
+      },
+      {
+        "word": "number",
+        "count": 20
+      },
+      {
+        "word": "age",
+        "count": 16
+      },
+      {
+        "word": "numbers",
+        "count": 14
+      },
+      {
+        "word": "find",
+        "count": 11
+      },
+      {
+        "word": "their",
+        "count": 11
+      },
+      {
+        "word": "total",
+        "count": 10
+      },
+      {
+        "word": "share",
+        "count": 10
+      },
+      {
+        "word": "present",
+        "count": 10
+      },
+      {
+        "word": "second",
+        "count": 9
+      }
+    ],
+    "recommendation": "📈 WATCH - Growing importance, allocate study time"
+  },
+  {
+    "topic_code": "VA_ANT",
+    "topic_name": "Antonyms",
+    "section": "Verbal Ability",
+    "predicted_count": 1.85,
+    "confidence": 0.95,
+    "trend": 100.0,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2025,
+        "question": "Select the most appropriate ANTONYM of the given word: RECKLESS",
+        "type": "Antonym"
+      },
+      {
+        "year": 2024,
+        "question": "Select the antonym of: Scuffle",
+        "type": "Antonym"
+      },
+      {
+        "year": 2024,
+        "question": "Select the option that is antonym to the meaning of the given word:\nVeracity",
+        "type": "Antonym"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "word",
+        "count": 54
+      },
+      {
+        "word": "meaning",
+        "count": 33
+      },
+      {
+        "word": "choose",
+        "count": 31
+      },
+      {
+        "word": "opposite",
+        "count": 31
+      },
+      {
+        "word": "given",
+        "count": 27
+      },
+      {
+        "word": "antonym",
+        "count": 24
+      },
+      {
+        "word": "select",
+        "count": 19
+      },
+      {
+        "word": "nearly",
+        "count": 16
+      },
+      {
+        "word": "best",
+        "count": 7
+      },
+      {
+        "word": "appropriate",
+        "count": 6
+      }
+    ],
+    "recommendation": "📈 WATCH - Growing importance, allocate study time"
+  },
+  {
+    "topic_code": "GA_ORG",
+    "topic_name": "Organizations",
+    "section": "General Awareness",
+    "predicted_count": 1.62,
+    "confidence": 0.95,
+    "trend": 185.0,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2025,
+        "question": "Which of the following is not a member of the United Nations (UNO)?",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2024,
+        "question": "Which of the following country is not a member of SAARC?",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2023,
+        "question": "What is OPEC Stands for?",
+        "type": "Standard MCQ"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "following",
+        "count": 12
+      },
+      {
+        "word": "international",
+        "count": 9
+      },
+      {
+        "word": "located",
+        "count": 8
+      },
+      {
+        "word": "countries",
+        "count": 8
+      },
+      {
+        "word": "united",
+        "count": 7
+      },
+      {
+        "word": "headquarter",
+        "count": 7
+      },
+      {
+        "word": "organization",
+        "count": 7
+      },
+      {
+        "word": "member",
+        "count": 7
+      },
+      {
+        "word": "nations",
+        "count": 6
+      },
+      {
+        "word": "opec",
+        "count": 4
+      }
+    ],
+    "recommendation": "📈 WATCH - Growing importance, allocate study time"
+  },
+  {
+    "topic_code": "VA_OWS",
+    "topic_name": "One Word Substitution",
+    "section": "Verbal Ability",
+    "predicted_count": 1.6,
+    "confidence": 0.95,
+    "trend": 158.3,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2023,
+        "question": "Choose the option which best substitutes the given group of words: Squirrels nest is called",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2023,
+        "question": "A word that is spelled the same way forwards and backwards",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2024,
+        "question": "choose the one which can be substituted for the given words That which cannot be corrected",
+        "type": "Standard MCQ"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "word",
+        "count": 21
+      },
+      {
+        "word": "one",
+        "count": 14
+      },
+      {
+        "word": "given",
+        "count": 14
+      },
+      {
+        "word": "choose",
+        "count": 14
+      },
+      {
+        "word": "substitute",
+        "count": 12
+      },
+      {
+        "word": "phrase",
+        "count": 9
+      },
+      {
+        "word": "words",
+        "count": 9
+      },
+      {
+        "word": "best",
+        "count": 7
+      },
+      {
+        "word": "group",
+        "count": 7
+      },
+      {
+        "word": "appropriate",
+        "count": 6
+      }
+    ],
+    "recommendation": "📈 WATCH - Growing importance, allocate study time"
+  },
+  {
+    "topic_code": "NA_PER",
+    "topic_name": "Percentage",
+    "section": "Numerical Ability",
+    "predicted_count": 1.54,
+    "confidence": 0.95,
+    "trend": 200.0,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2024,
+        "question": "If the price of the cooking gas rises by 15%, by what percent should a family reduce its consumption so as not to exceed the budget on cooking gas?",
+        "type": "Percentage"
+      },
+      {
+        "year": 2025,
+        "question": "Anu spends 90% of her income. If her expenditure increase by 25% and saving increase by 30%, then by what percent does her salary increase?",
+        "type": "Percentage"
+      },
+      {
+        "year": 2025,
+        "question": "Two numbers are respectively 61% and 35% less than a third number. The first number is what percentage of the second number?",
+        "type": "Percentage"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "number",
+        "count": 24
+      },
+      {
+        "word": "total",
+        "count": 16
+      },
+      {
+        "word": "votes",
+        "count": 16
+      },
+      {
+        "word": "his",
+        "count": 16
+      },
+      {
+        "word": "salary",
+        "count": 15
+      },
+      {
+        "word": "income",
+        "count": 14
+      },
+      {
+        "word": "marks",
+        "count": 13
+      },
+      {
+        "word": "increase",
+        "count": 12
+      },
+      {
+        "word": "school",
+        "count": 12
+      },
+      {
+        "word": "find",
+        "count": 11
+      }
+    ],
+    "recommendation": "📈 WATCH - Growing importance, allocate study time"
+  },
+  {
+    "topic_code": "GA_HIST_MOD",
+    "topic_name": "Modern History",
+    "section": "General Awareness",
+    "predicted_count": 1.41,
+    "confidence": 0.95,
+    "trend": 280.0,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2023,
+        "question": "In which Year Sepoy Mutiny at Barrackpore happened? – 1824.",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2025,
+        "question": "Who built 'Jantar Mantar', the famous observatory, in Delhi?",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2023,
+        "question": "Where did Gandhiji gave his first public appearance?",
+        "type": "Standard MCQ"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "following",
+        "count": 15
+      },
+      {
+        "word": "india",
+        "count": 10
+      },
+      {
+        "word": "indian",
+        "count": 8
+      },
+      {
+        "word": "first",
+        "count": 6
+      },
+      {
+        "word": "among",
+        "count": 5
+      },
+      {
+        "word": "congress",
+        "count": 5
+      },
+      {
+        "word": "started",
+        "count": 4
+      },
+      {
+        "word": "session",
+        "count": 4
+      },
+      {
+        "word": "gandhiji",
+        "count": 3
+      },
+      {
+        "word": "founded",
+        "count": 3
+      }
+    ],
+    "recommendation": "📈 WATCH - Growing importance, allocate study time"
+  },
+  {
+    "topic_code": "NA_MIX",
+    "topic_name": "Mixture & Alligation",
+    "section": "Numerical Ability",
+    "predicted_count": 1.32,
+    "confidence": 0.95,
+    "trend": 300.0,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2024,
+        "question": "5L of honey contains 80% sugar. 3L of water is added to this honey. Percentage of sugar in the new mixture?",
+        "type": "Percentage"
+      },
+      {
+        "year": 2023,
+        "question": "8L Cold drink was added to a 20L mixture of water and alcohol such that the ratio of alcohol to that of cold drink and water is 1:3. Find the amount of alcohol in the solution.",
+        "type": "Ratio Problem"
+      },
+      {
+        "year": 2025,
+        "question": "In an alloy proportion of Zinc, Copper and Lead is 2 : 3 : 1. In another alloy the proportion of Zinc, Copper and Lead is 5 : 4 : 3. A third alloy is prepared by mixing both alloys in same quantity. T",
+        "type": "Ratio Problem"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "water",
+        "count": 35
+      },
+      {
+        "word": "milk",
+        "count": 30
+      },
+      {
+        "word": "mixture",
+        "count": 27
+      },
+      {
+        "word": "ratio",
+        "count": 25
+      },
+      {
+        "word": "litres",
+        "count": 13
+      },
+      {
+        "word": "added",
+        "count": 12
+      },
+      {
+        "word": "alloy",
+        "count": 10
+      },
+      {
+        "word": "per",
+        "count": 9
+      },
+      {
+        "word": "amount",
+        "count": 9
+      },
+      {
+        "word": "contains",
+        "count": 7
+      }
+    ],
+    "recommendation": "📈 WATCH - Growing importance, allocate study time"
+  },
+  {
+    "topic_code": "VA_ANALOGY",
+    "topic_name": "Verbal Analogy",
+    "section": "Verbal Ability",
+    "predicted_count": 1.28,
+    "confidence": 0.8,
+    "trend": 100,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2024,
+        "question": "Each question consists of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.\nNative : Aboriginal :: Nai",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2025,
+        "question": "Select the pair that best expresses the relationship similar to that expressed in the pair given below: Doctor: Hospital",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2024,
+        "question": "Choose the pair that best expresses the relationship like the original pair:\nQuintessence: Exemplar",
+        "type": "Standard MCQ"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "pair",
+        "count": 31
+      },
+      {
+        "word": "relationship",
+        "count": 22
+      },
+      {
+        "word": "words",
+        "count": 14
+      },
+      {
+        "word": "best",
+        "count": 14
+      },
+      {
+        "word": "expresses",
+        "count": 14
+      },
+      {
+        "word": "choose",
+        "count": 10
+      },
+      {
+        "word": "like",
+        "count": 9
+      },
+      {
+        "word": "original",
+        "count": 9
+      },
+      {
+        "word": "select",
+        "count": 8
+      },
+      {
+        "word": "question",
+        "count": 4
+      }
+    ],
+    "recommendation": "📈 WATCH - Growing importance, allocate study time"
+  },
+  {
+    "topic_code": "GA_POLITY",
+    "topic_name": "Polity & Governance",
+    "section": "General Awareness",
+    "predicted_count": 1.26,
+    "confidence": 0.95,
+    "trend": 185.7,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2024,
+        "question": "Which article is BR Ambedkar called \"Heart and soul of the Constitution\"?",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2025,
+        "question": "Article 368 of the Indian Constitution provides for how many types of amendments to the Constitution?",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2024,
+        "question": "Who has the power to advise the president of India under Article 143?",
+        "type": "Standard MCQ"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "india",
+        "count": 17
+      },
+      {
+        "word": "constitution",
+        "count": 16
+      },
+      {
+        "word": "following",
+        "count": 15
+      },
+      {
+        "word": "article",
+        "count": 8
+      },
+      {
+        "word": "statements",
+        "count": 6
+      },
+      {
+        "word": "president",
+        "count": 5
+      },
+      {
+        "word": "right",
+        "count": 5
+      },
+      {
+        "word": "state",
+        "count": 5
+      },
+      {
+        "word": "amendment",
+        "count": 5
+      },
+      {
+        "word": "fundamental",
+        "count": 4
+      }
+    ],
+    "recommendation": "📈 WATCH - Growing importance, allocate study time"
+  },
+  {
+    "topic_code": "NA_AVG",
+    "topic_name": "Average",
+    "section": "Numerical Ability",
+    "predicted_count": 1.23,
+    "confidence": 0.95,
+    "trend": 150.0,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2023,
+        "question": "The average of 50 numbers is 40. The average of these 50 numbers and 5 others new number is 45. The average of the five new numbers is.",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2024,
+        "question": "A Library has an average of 510 visitors on Sundays and 240 on other days. The average number of visitors per day in a month of 30 days beginning with a Sunday is",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2025,
+        "question": "A public library has an average attendance of 410 on Sundays and 230 for the remaining days. The average attendance per day of a month of 30 days beginning with Sunday would be:",
+        "type": "Standard MCQ"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "average",
+        "count": 92
+      },
+      {
+        "word": "age",
+        "count": 30
+      },
+      {
+        "word": "students",
+        "count": 25
+      },
+      {
+        "word": "years",
+        "count": 21
+      },
+      {
+        "word": "number",
+        "count": 20
+      },
+      {
+        "word": "class",
+        "count": 20
+      },
+      {
+        "word": "find",
+        "count": 16
+      },
+      {
+        "word": "weight",
+        "count": 16
+      },
+      {
+        "word": "first",
+        "count": 13
+      },
+      {
+        "word": "new",
+        "count": 12
+      }
+    ],
+    "recommendation": "📈 WATCH - Growing importance, allocate study time"
+  },
+  {
+    "topic_code": "RM_VR_CLASS",
+    "topic_name": "Classification",
+    "section": "Reasoning",
+    "predicted_count": 1.16,
+    "confidence": 0.95,
+    "trend": 104.0,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2025,
+        "question": "Rearrange the jumbled letters to make a meaningful word and then select the one which is different: NADINI, SUSRAIN, FRIANCA, NYUPODT",
+        "type": "Meaning/Definition"
+      },
+      {
+        "year": 2025,
+        "question": "Identify the term that does not fit into the group - 1. Kalahari 2. Sahara 3. Gobi 4. Sunderban",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2025,
+        "question": "Rearrange the jumbled-up letters in their natural sequence and find the odd one out.",
+        "type": "Classification"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "word",
+        "count": 68
+      },
+      {
+        "word": "one",
+        "count": 61
+      },
+      {
+        "word": "odd",
+        "count": 60
+      },
+      {
+        "word": "different",
+        "count": 50
+      },
+      {
+        "word": "choose",
+        "count": 47
+      },
+      {
+        "word": "given",
+        "count": 41
+      },
+      {
+        "word": "find",
+        "count": 35
+      },
+      {
+        "word": "words",
+        "count": 27
+      },
+      {
+        "word": "group",
+        "count": 27
+      },
+      {
+        "word": "select",
+        "count": 27
+      }
+    ],
+    "recommendation": "📈 WATCH - Growing importance, allocate study time"
+  },
+  {
+    "topic_code": "NA_CI",
+    "topic_name": "Compound Interest",
+    "section": "Numerical Ability",
+    "predicted_count": 1.05,
+    "confidence": 0.95,
+    "trend": 200.0,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2023,
+        "question": "The difference between the compound interest and the simple interest on a certain sum at 5% pe annum for 2 yrs is Rs 4.5. The sum is",
+        "type": "Percentage"
+      },
+      {
+        "year": 2024,
+        "question": "The compound Interest on Rs 8000 in 1 year at 4% per annum the interest being compounded half yearly is-",
+        "type": "Percentage"
+      },
+      {
+        "year": 2025,
+        "question": "A sum of money becomes 3 times of itself in 5 year at compound interest, then find in how many years this sum becomes 9 times at the same rate of interest?",
+        "type": "Standard MCQ"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "interest",
+        "count": 29
+      },
+      {
+        "word": "sum",
+        "count": 26
+      },
+      {
+        "word": "years",
+        "count": 22
+      },
+      {
+        "word": "compound",
+        "count": 18
+      },
+      {
+        "word": "annum",
+        "count": 13
+      },
+      {
+        "word": "per",
+        "count": 12
+      },
+      {
+        "word": "compounded",
+        "count": 12
+      },
+      {
+        "word": "rate",
+        "count": 9
+      },
+      {
+        "word": "becomes",
+        "count": 9
+      },
+      {
+        "word": "money",
+        "count": 8
+      }
+    ],
+    "recommendation": "📈 WATCH - Growing importance, allocate study time"
+  },
+  {
+    "topic_code": "GA_SPORTS",
+    "topic_name": "Sports",
+    "section": "General Awareness",
+    "predicted_count": 1.02,
+    "confidence": 0.95,
+    "trend": 8.0,
+    "status": "stable",
+    "sample_patterns": [
+      {
+        "year": 2023,
+        "question": "New Zealand launched which medal to honour cricketers?",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2023,
+        "question": "Green ring in Olympic logo represents?",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2024,
+        "question": "Sports terminology Chinaman is related to which of the following sport?",
+        "type": "Standard MCQ"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "following",
+        "count": 18
+      },
+      {
+        "word": "games",
+        "count": 14
+      },
+      {
+        "word": "first",
+        "count": 13
+      },
+      {
+        "word": "sport",
+        "count": 12
+      },
+      {
+        "word": "asian",
+        "count": 11
+      },
+      {
+        "word": "among",
+        "count": 10
+      },
+      {
+        "word": "indian",
+        "count": 9
+      },
+      {
+        "word": "associated",
+        "count": 9
+      },
+      {
+        "word": "women",
+        "count": 9
+      },
+      {
+        "word": "win",
+        "count": 8
+      }
+    ],
+    "recommendation": "📚 STANDARD - Maintain regular practice"
+  },
+  {
+    "topic_code": "RM_VR_VENN",
+    "topic_name": "RM_VR_VENN",
+    "section": "Reasoning",
+    "predicted_count": 1.02,
+    "confidence": 0.95,
+    "trend": 250.0,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2024,
+        "question": "Identify the diagram that best represents the relationship among the given classes. Player, Cricketer, Female",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2024,
+        "question": "Select the Venn diagram that best illustrates the relationship between the three given classes: Advocate, Males, Husband",
+        "type": "Standard MCQ"
+      },
+      {
+        "year": 2025,
+        "question": "Identify the diagram that best represents the relationship among the classes given below : Liquid, Milk, River's Water",
+        "type": "Standard MCQ"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "following",
+        "count": 48
+      },
+      {
+        "word": "best",
+        "count": 43
+      },
+      {
+        "word": "between",
+        "count": 39
+      },
+      {
+        "word": "represents",
+        "count": 31
+      },
+      {
+        "word": "diagrams",
+        "count": 27
+      },
+      {
+        "word": "indicates",
+        "count": 27
+      },
+      {
+        "word": "relation",
+        "count": 27
+      },
+      {
+        "word": "diagram",
+        "count": 23
+      },
+      {
+        "word": "relationship",
+        "count": 16
+      },
+      {
+        "word": "venn",
+        "count": 15
+      }
+    ],
+    "recommendation": "📈 WATCH - Growing importance, allocate study time"
+  },
+  {
+    "topic_code": "RM_VR_CODING",
+    "topic_name": "Coding-Decoding",
+    "section": "Reasoning",
+    "predicted_count": 0.99,
+    "confidence": 0.95,
+    "trend": 105.0,
+    "status": "rising",
+    "sample_patterns": [
+      {
+        "year": 2023,
+        "question": "In a certain code language, “NIGHT” is written as “ODDGM” and “DARK” is written as “GOYC”. How is “GREEN” written in that code language?",
+        "type": "Coding-Decoding"
+      },
+      {
+        "year": 2024,
+        "question": "In a certain code language \"MANGO\" is written as \"PHOBN\" and \"ORANGE\" is written as \"FHOBSP\". How will \"GRAPES\" be written in that code language?",
+        "type": "Coding-Decoding"
+      },
+      {
+        "year": 2024,
+        "question": "In a certain code language, 'TALCUM' is written as 'LSZHVN' and 'GRAINS' is written as 'RLFWMA'. How will 'LOWER' be written in that language?",
+        "type": "Coding-Decoding"
+      }
+    ],
+    "high_freq_keywords": [
+      {
+        "word": "written",
+        "count": 62
+      },
+      {
+        "word": "language",
+        "count": 55
+      },
+      {
+        "word": "code",
+        "count": 53
+      },
+      {
+        "word": "coded",
+        "count": 35
+      },
+      {
+        "word": "certain",
+        "count": 31
+      },
+      {
+        "word": "word",
+        "count": 9
+      },
+      {
+        "word": "related",
+        "count": 9
+      },
+      {
+        "word": "letter",
+        "count": 9
+      },
+      {
+        "word": "cluster",
+        "count": 9
+      },
+      {
+        "word": "means",
+        "count": 8
+      }
+    ],
+    "recommendation": "📈 WATCH - Growing importance, allocate study time"
+  }
+]

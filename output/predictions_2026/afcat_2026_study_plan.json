@@ -1,0 +1,386 @@
+{
+  "metadata": {
+    "generated_at": "2026-01-06T17:32:20.464483",
+    "total_study_days": 60,
+    "total_study_hours": 197,
+    "hours_per_day": 3.3
+  },
+  "section_allocation": {
+    "Verbal Ability": {
+      "hours": 52,
+      "percentage": 26.4,
+      "days": 15.8
+    },
+    "General Awareness": {
+      "hours": 53,
+      "percentage": 26.9,
+      "days": 16.1
+    },
+    "Numerical Ability": {
+      "hours": 40,
+      "percentage": 20.3,
+      "days": 12.2
+    },
+    "Reasoning": {
+      "hours": 52,
+      "percentage": 26.4,
+      "days": 15.8
+    }
+  },
+  "topic_wise_plan": [
+    {
+      "section": "Reasoning",
+      "topic_code": "RM_VR_LOG",
+      "topic_name": "Logical Reasoning",
+      "expected_questions": 5.400000095367432,
+      "study_hours": 8,
+      "priority": "HIGH"
+    },
+    {
+      "section": "Reasoning",
+      "topic_code": "RM_VR_CODING",
+      "topic_name": "Coding-Decoding",
+      "expected_questions": 5.0,
+      "study_hours": 8,
+      "priority": "HIGH"
+    },
+    {
+      "section": "Verbal Ability",
+      "topic_code": "VA_REARR",
+      "topic_name": "Sentence Rearrangement",
+      "expected_questions": 4.699999809265137,
+      "study_hours": 8,
+      "priority": "HIGH"
+    },
+    {
+      "section": "General Awareness",
+      "topic_code": "GA_DEF",
+      "topic_name": "Defence & Military",
+      "expected_questions": 4.0,
+      "study_hours": 8,
+      "priority": "HIGH"
+    },
+    {
+      "section": "Verbal Ability",
+      "topic_code": "VA_CLOZE",
+      "topic_name": "Cloze Test",
+      "expected_questions": 4.0,
+      "study_hours": 8,
+      "priority": "HIGH"
+    },
+    {
+      "section": "General Awareness",
+      "topic_code": "GA_ENV",
+      "topic_name": "Environment",
+      "expected_questions": 3.799999952316284,
+      "study_hours": 5,
+      "priority": "MEDIUM"
+    },
+    {
+      "section": "Reasoning",
+      "topic_code": "RM_VR_CLASS",
+      "topic_name": "Classification",
+      "expected_questions": 3.799999952316284,
+      "study_hours": 5,
+      "priority": "MEDIUM"
+    },
+    {
+      "section": "Numerical Ability",
+      "topic_code": "NA_PL",
+      "topic_name": "Profit & Loss",
+      "expected_questions": 3.5,
+      "study_hours": 5,
+      "priority": "MEDIUM"
+    },
+    {
+      "section": "Verbal Ability",
+      "topic_code": "VA_COMP",
+      "topic_name": "Reading Comprehension",
+      "expected_questions": 3.200000047683716,
+      "study_hours": 5,
+      "priority": "MEDIUM"
+    },
+    {
+      "section": "Verbal Ability",
+      "topic_code": "VA_ERR",
+      "topic_name": "Error Detection",
+      "expected_questions": 3.0999999046325684,
+      "study_hours": 5,
+      "priority": "MEDIUM"
+    },
+    {
+      "section": "Verbal Ability",
+      "topic_code": "VA_IDIOM",
+      "topic_name": "Idioms & Phrases",
+      "expected_questions": 3.0999999046325684,
+      "study_hours": 5,
+      "priority": "MEDIUM"
+    },
+    {
+      "section": "Numerical Ability",
+      "topic_code": "NA_TW",
+      "topic_name": "Time & Work",
+      "expected_questions": 3.0,
+      "study_hours": 5,
+      "priority": "MEDIUM"
+    },
+    {
+      "section": "Reasoning",
+      "topic_code": "RM_VR_SERIES",
+      "topic_name": "Series",
+      "expected_questions": 3.0,
+      "study_hours": 5,
+      "priority": "MEDIUM"
+    },
+    {
+      "section": "General Awareness",
+      "topic_code": "GA_SCI",
+      "topic_name": "Science & Technology",
+      "expected_questions": 2.9000000953674316,
+      "study_hours": 5,
+      "priority": "MEDIUM"
+    },
+    {
+      "section": "Verbal Ability",
+      "topic_code": "VA_SYN",
+      "topic_name": "Synonyms",
+      "expected_questions": 2.9000000953674316,
+      "study_hours": 5,
+      "priority": "MEDIUM"
+    },
+    {
+      "section": "Verbal Ability",
+      "topic_code": "VA_ANT",
+      "topic_name": "Antonyms",
+      "expected_questions": 2.799999952316284,
+      "study_hours": 5,
+      "priority": "MEDIUM"
+    },
+    {
+      "section": "Verbal Ability",
+      "topic_code": "VA_OWS",
+      "topic_name": "One Word Substitution",
+      "expected_questions": 2.4000000953674316,
+      "study_hours": 5,
+      "priority": "MEDIUM"
+    },
+    {
+      "section": "General Awareness",
+      "topic_code": "GA_ORG",
+      "topic_name": "Organizations",
+      "expected_questions": 2.200000047683716,
+      "study_hours": 5,
+      "priority": "MEDIUM"
+    },
+    {
+      "section": "Reasoning",
+      "topic_code": "RM_VR_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "expected_questions": 2.200000047683716,
+      "study_hours": 5,
+      "priority": "MEDIUM"
+    },
+    {
+      "section": "General Awareness",
+      "topic_code": "GA_SPORTS",
+      "topic_name": "Sports",
+      "expected_questions": 2.0999999046325684,
+      "study_hours": 5,
+      "priority": "MEDIUM"
+    },
+    {
+      "section": "General Awareness",
+      "topic_code": "GA_AWARDS",
+      "topic_name": "Awards & Honours",
+      "expected_questions": 2.0999999046325684,
+      "study_hours": 5,
+      "priority": "MEDIUM"
+    },
+    {
+      "section": "Reasoning",
+      "topic_code": "RM_NV_PATTERN",
+      "topic_name": "Pattern/Figure Series",
+      "expected_questions": 2.0,
+      "study_hours": 5,
+      "priority": "MEDIUM"
+    },
+    {
+      "section": "Numerical Ability",
+      "topic_code": "NA_NUM",
+      "topic_name": "Number System",
+      "expected_questions": 1.899999976158142,
+      "study_hours": 2,
+      "priority": "LOW"
+    },
+    {
+      "section": "Numerical Ability",
+      "topic_code": "NA_RAT",
+      "topic_name": "Ratio & Proportion",
+      "expected_questions": 1.7999999523162842,
+      "study_hours": 2,
+      "priority": "LOW"
+    },
+    {
+      "section": "Numerical Ability",
+      "topic_code": "NA_AVG",
+      "topic_name": "Average",
+      "expected_questions": 1.7000000476837158,
+      "study_hours": 2,
+      "priority": "LOW"
+    },
+    {
+      "section": "Verbal Ability",
+      "topic_code": "VA_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "expected_questions": 1.600000023841858,
+      "study_hours": 2,
+      "priority": "LOW"
+    },
+    {
+      "section": "Reasoning",
+      "topic_code": "RM_NV_SPATIAL",
+      "topic_name": "Spatial Ability",
+      "expected_questions": 1.5,
+      "study_hours": 2,
+      "priority": "LOW"
+    },
+    {
+      "section": "Numerical Ability",
+      "topic_code": "NA_MIX",
+      "topic_name": "Mixture & Alligation",
+      "expected_questions": 1.399999976158142,
+      "study_hours": 2,
+      "priority": "LOW"
+    },
+    {
+      "section": "General Awareness",
+      "topic_code": "GA_POLITY",
+      "topic_name": "Polity & Governance",
+      "expected_questions": 1.2999999523162842,
+      "study_hours": 2,
+      "priority": "LOW"
+    },
+    {
+      "section": "General Awareness",
+      "topic_code": "GA_CURR",
+      "topic_name": "Current Affairs",
+      "expected_questions": 1.2999999523162842,
+      "study_hours": 2,
+      "priority": "LOW"
+    }
+  ],
+  "weekly_schedule": [
+    {
+      "week": 1,
+      "topics": [
+        "RM_VR_LOG",
+        "RM_VR_CODING",
+        "VA_REARR"
+      ],
+      "hours": 24
+    },
+    {
+      "week": 2,
+      "topics": [
+        "GA_DEF",
+        "VA_CLOZE",
+        "GA_ENV",
+        "RM_VR_CLASS"
+      ],
+      "hours": 26
+    },
+    {
+      "week": 3,
+      "topics": [
+        "NA_PL",
+        "VA_COMP",
+        "VA_ERR",
+        "VA_IDIOM",
+        "NA_TW"
+      ],
+      "hours": 25
+    },
+    {
+      "week": 4,
+      "topics": [
+        "RM_VR_SERIES",
+        "GA_SCI",
+        "VA_SYN",
+        "VA_ANT",
+        "VA_OWS"
+      ],
+      "hours": 25
+    },
+    {
+      "week": 5,
+      "topics": [
+        "GA_ORG",
+        "RM_VR_ANALOGY",
+        "GA_SPORTS",
+        "GA_AWARDS",
+        "RM_NV_PATTERN"
+      ],
+      "hours": 25
+    },
+    {
+      "week": 6,
+      "topics": [
+        "NA_NUM",
+        "NA_RAT",
+        "NA_AVG",
+        "VA_ANALOGY",
+        "RM_NV_SPATIAL",
+        "NA_MIX",
+        "GA_POLITY",
+        "GA_CURR",
+        "GA_GEO_IND",
+        "NA_PER",
+        "NA_MENSA",
+        "GA_HIST_MOD"
+      ],
+      "hours": 24
+    },
+    {
+      "week": 7,
+      "topics": [
+        "VA_SENT",
+        "VA_GRAM",
+        "GA_GEO_WORLD",
+        "NA_CI",
+        "GA_ECON",
+        "RM_NV_VENN",
+        "RM_VR_SYLL",
+        "NA_SIM",
+        "NA_SI",
+        "NA_SPD",
+        "NA_AREA",
+        "NA_ALG"
+      ],
+      "hours": 24
+    },
+    {
+      "week": 8,
+      "topics": [
+        "RM_NV_ORIENT",
+        "GA_HIST_ANC",
+        "GA_HIST_MED",
+        "GA_CULTURE",
+        "NA_STAT",
+        "GA_BOOKS",
+        "NA_HCF",
+        "NA_DEC",
+        "RM_NV_MIRROR",
+        "RM_NV_CUBES",
+        "RM_VR_BLOOD",
+        "RM_VR_ORDER"
+      ],
+      "hours": 24
+    }
+  ],
+  "revision_days": 7,
+  "mock_test_days": [
+    46,
+    53,
+    59
+  ]
+}
