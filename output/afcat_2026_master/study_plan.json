@@ -1,0 +1,1196 @@
+{
+  "metadata": {
+    "generated_at": "2026-01-15T19:54:12.752981",
+    "total_days": 20,
+    "total_hours": 120,
+    "model": "Shift-Normalized ML Ensemble",
+    "phases": [
+      {
+        "name": "Foundation",
+        "days": "1-8",
+        "focus": "Basics + High-Frequency"
+      },
+      {
+        "name": "Advanced Practice",
+        "days": "9-14",
+        "focus": "Speed + Accuracy"
+      },
+      {
+        "name": "Mock Tests",
+        "days": "15-17",
+        "focus": "Simulation + Analysis"
+      },
+      {
+        "name": "Final Revision",
+        "days": "18-20",
+        "focus": "Confidence + Strategy"
+      }
+    ]
+  },
+  "section_allocation": {
+    "Verbal Ability": 29,
+    "General Awareness": 24,
+    "Numerical Ability": 19,
+    "Reasoning": 24
+  },
+  "top_priority_topics": [
+    {
+      "rank": 1,
+      "topic": "Awards",
+      "section": "General Awareness",
+      "predicted_count": 4.8,
+      "priority_score": 5.47,
+      "confidence": 0.95
+    },
+    {
+      "rank": 2,
+      "topic": "Verbal Classification",
+      "section": "Reasoning",
+      "predicted_count": 4.3,
+      "priority_score": 4.9,
+      "confidence": 0.95
+    },
+    {
+      "rank": 3,
+      "topic": "Logical Reasoning (Verbal)",
+      "section": "Reasoning",
+      "predicted_count": 4.3,
+      "priority_score": 4.85,
+      "confidence": 0.94
+    },
+    {
+      "rank": 4,
+      "topic": "Verbal Analogy",
+      "section": "Reasoning",
+      "predicted_count": 4.3,
+      "priority_score": 4.64,
+      "confidence": 0.9
+    },
+    {
+      "rank": 5,
+      "topic": "Static GK",
+      "section": "General Awareness",
+      "predicted_count": 4.0,
+      "priority_score": 4.56,
+      "confidence": 0.95
+    },
+    {
+      "rank": 6,
+      "topic": "Para Jumbles",
+      "section": "Verbal Ability",
+      "predicted_count": 3.1,
+      "priority_score": 4.37,
+      "confidence": 0.84
+    },
+    {
+      "rank": 7,
+      "topic": "Cloze Test",
+      "section": "Verbal Ability",
+      "predicted_count": 3.8,
+      "priority_score": 4.29,
+      "confidence": 0.94
+    },
+    {
+      "rank": 8,
+      "topic": "General Science",
+      "section": "General Awareness",
+      "predicted_count": 3.6,
+      "priority_score": 4.1,
+      "confidence": 0.95
+    },
+    {
+      "rank": 9,
+      "topic": "Spotting Errors",
+      "section": "Verbal Ability",
+      "predicted_count": 3.5,
+      "priority_score": 3.99,
+      "confidence": 0.95
+    },
+    {
+      "rank": 10,
+      "topic": "Synonyms",
+      "section": "Verbal Ability",
+      "predicted_count": 3.5,
+      "priority_score": 3.99,
+      "confidence": 0.95
+    },
+    {
+      "rank": 11,
+      "topic": "Idioms & Phrases",
+      "section": "Verbal Ability",
+      "predicted_count": 3.5,
+      "priority_score": 3.99,
+      "confidence": 0.95
+    },
+    {
+      "rank": 12,
+      "topic": "Reading Comprehension",
+      "section": "Verbal Ability",
+      "predicted_count": 3.4,
+      "priority_score": 3.88,
+      "confidence": 0.95
+    },
+    {
+      "rank": 13,
+      "topic": "Venn Diagrams",
+      "section": "Reasoning",
+      "predicted_count": 3.4,
+      "priority_score": 3.88,
+      "confidence": 0.95
+    },
+    {
+      "rank": 14,
+      "topic": "Mixtures and Alligations",
+      "section": "Numerical Ability",
+      "predicted_count": 3.3,
+      "priority_score": 3.76,
+      "confidence": 0.95
+    },
+    {
+      "rank": 15,
+      "topic": "Non-Verbal Series",
+      "section": "Reasoning",
+      "predicted_count": 3.3,
+      "priority_score": 3.76,
+      "confidence": 0.95
+    },
+    {
+      "rank": 16,
+      "topic": "Coding-Decoding",
+      "section": "Reasoning",
+      "predicted_count": 3.2,
+      "priority_score": 3.65,
+      "confidence": 0.95
+    },
+    {
+      "rank": 17,
+      "topic": "Fill in the Blanks",
+      "section": "Verbal Ability",
+      "predicted_count": 3.0,
+      "priority_score": 3.42,
+      "confidence": 0.95
+    },
+    {
+      "rank": 18,
+      "topic": "Defence & Military",
+      "section": "General Awareness",
+      "predicted_count": 2.9,
+      "priority_score": 3.31,
+      "confidence": 0.95
+    },
+    {
+      "rank": 19,
+      "topic": "Grammar",
+      "section": "Verbal Ability",
+      "predicted_count": 2.7,
+      "priority_score": 3.05,
+      "confidence": 0.94
+    },
+    {
+      "rank": 20,
+      "topic": "Ratio & Proportion",
+      "section": "Numerical Ability",
+      "predicted_count": 2.6,
+      "priority_score": 2.96,
+      "confidence": 0.95
+    }
+  ],
+  "daily_schedule": [
+    {
+      "day": 1,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00-8:30",
+          "duration": "2.5h",
+          "section": "Verbal Ability",
+          "topics": [
+            "Para Jumbles",
+            "Cloze Test"
+          ],
+          "activity": "Theory + Basic Practice",
+          "target": "Complete theory, solve 25 basic questions"
+        },
+        {
+          "time": "10:00-12:00",
+          "duration": "2h",
+          "section": "General Awareness",
+          "topics": [
+            "Awards",
+            "Static GK"
+          ],
+          "activity": "Theory + PYQ Practice",
+          "target": "Complete theory, solve 20 PYQ"
+        },
+        {
+          "time": "16:00-17:30",
+          "duration": "1.5h",
+          "section": "Revision",
+          "topics": [
+            "Previous Day Topics",
+            "Weak Areas"
+          ],
+          "activity": "Revision + Error Analysis",
+          "target": "Revise formulas, solve 15 weak area questions"
+        }
+      ],
+      "pyq_practice": [],
+      "targets": {
+        "questions_to_solve": 60,
+        "accuracy_target": "75%",
+        "focus_areas": [
+          "Para Jumbles",
+          "Cloze Test",
+          "Awards",
+          "Static GK"
+        ]
+      },
+      "phase": "FOUNDATION",
+      "phase_desc": "Master fundamentals & high-frequency topics"
+    },
+    {
+      "day": 2,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00-8:30",
+          "duration": "2.5h",
+          "section": "General Awareness",
+          "topics": [
+            "Awards",
+            "Static GK"
+          ],
+          "activity": "Theory + Basic Practice",
+          "target": "Complete theory, solve 25 basic questions"
+        },
+        {
+          "time": "10:00-12:00",
+          "duration": "2h",
+          "section": "Numerical Ability",
+          "topics": [
+            "Mixtures and Alligations",
+            "Ratio & Proportion"
+          ],
+          "activity": "Theory + PYQ Practice",
+          "target": "Complete theory, solve 20 PYQ"
+        },
+        {
+          "time": "16:00-17:30",
+          "duration": "1.5h",
+          "section": "Revision",
+          "topics": [
+            "Previous Day Topics",
+            "Weak Areas"
+          ],
+          "activity": "Revision + Error Analysis",
+          "target": "Revise formulas, solve 15 weak area questions"
+        }
+      ],
+      "pyq_practice": [],
+      "targets": {
+        "questions_to_solve": 60,
+        "accuracy_target": "75%",
+        "focus_areas": [
+          "Awards",
+          "Static GK",
+          "Mixtures and Alligations",
+          "Ratio & Proportion"
+        ]
+      },
+      "phase": "FOUNDATION",
+      "phase_desc": "Master fundamentals & high-frequency topics"
+    },
+    {
+      "day": 3,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00-8:30",
+          "duration": "2.5h",
+          "section": "Numerical Ability",
+          "topics": [
+            "Mixtures and Alligations",
+            "Ratio & Proportion"
+          ],
+          "activity": "Theory + Basic Practice",
+          "target": "Complete theory, solve 25 basic questions"
+        },
+        {
+          "time": "10:00-12:00",
+          "duration": "2h",
+          "section": "Reasoning",
+          "topics": [
+            "Verbal Classification",
+            "Logical Reasoning (Verbal)"
+          ],
+          "activity": "Theory + PYQ Practice",
+          "target": "Complete theory, solve 20 PYQ"
+        },
+        {
+          "time": "16:00-17:30",
+          "duration": "1.5h",
+          "section": "Revision",
+          "topics": [
+            "Previous Day Topics",
+            "Weak Areas"
+          ],
+          "activity": "Revision + Error Analysis",
+          "target": "Revise formulas, solve 15 weak area questions"
+        }
+      ],
+      "pyq_practice": [],
+      "targets": {
+        "questions_to_solve": 60,
+        "accuracy_target": "75%",
+        "focus_areas": [
+          "Mixtures and Alligations",
+          "Ratio & Proportion",
+          "Verbal Classification",
+          "Logical Reasoning (Verbal)"
+        ]
+      },
+      "phase": "FOUNDATION",
+      "phase_desc": "Master fundamentals & high-frequency topics"
+    },
+    {
+      "day": 4,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00-8:30",
+          "duration": "2.5h",
+          "section": "Reasoning",
+          "topics": [
+            "Verbal Classification",
+            "Logical Reasoning (Verbal)"
+          ],
+          "activity": "Theory + Basic Practice",
+          "target": "Complete theory, solve 25 basic questions"
+        },
+        {
+          "time": "10:00-12:00",
+          "duration": "2h",
+          "section": "Verbal Ability",
+          "topics": [
+            "Para Jumbles",
+            "Cloze Test"
+          ],
+          "activity": "Theory + PYQ Practice",
+          "target": "Complete theory, solve 20 PYQ"
+        },
+        {
+          "time": "16:00-17:30",
+          "duration": "1.5h",
+          "section": "Revision",
+          "topics": [
+            "Previous Day Topics",
+            "Weak Areas"
+          ],
+          "activity": "Revision + Error Analysis",
+          "target": "Revise formulas, solve 15 weak area questions"
+        }
+      ],
+      "pyq_practice": [],
+      "targets": {
+        "questions_to_solve": 60,
+        "accuracy_target": "75%",
+        "focus_areas": [
+          "Verbal Classification",
+          "Logical Reasoning (Verbal)",
+          "Para Jumbles",
+          "Cloze Test"
+        ]
+      },
+      "phase": "FOUNDATION",
+      "phase_desc": "Master fundamentals & high-frequency topics"
+    },
+    {
+      "day": 5,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00-8:30",
+          "duration": "2.5h",
+          "section": "Verbal Ability",
+          "topics": [
+            "Para Jumbles",
+            "Cloze Test"
+          ],
+          "activity": "Theory + Basic Practice",
+          "target": "Complete theory, solve 25 basic questions"
+        },
+        {
+          "time": "10:00-12:00",
+          "duration": "2h",
+          "section": "General Awareness",
+          "topics": [
+            "Awards",
+            "Static GK"
+          ],
+          "activity": "Theory + PYQ Practice",
+          "target": "Complete theory, solve 20 PYQ"
+        },
+        {
+          "time": "16:00-17:30",
+          "duration": "1.5h",
+          "section": "Revision",
+          "topics": [
+            "Previous Day Topics",
+            "Weak Areas"
+          ],
+          "activity": "Revision + Error Analysis",
+          "target": "Revise formulas, solve 15 weak area questions"
+        }
+      ],
+      "pyq_practice": [],
+      "targets": {
+        "questions_to_solve": 60,
+        "accuracy_target": "75%",
+        "focus_areas": [
+          "Para Jumbles",
+          "Cloze Test",
+          "Awards",
+          "Static GK"
+        ]
+      },
+      "phase": "FOUNDATION",
+      "phase_desc": "Master fundamentals & high-frequency topics"
+    },
+    {
+      "day": 6,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00-8:30",
+          "duration": "2.5h",
+          "section": "General Awareness",
+          "topics": [
+            "Awards",
+            "Static GK"
+          ],
+          "activity": "Theory + Basic Practice",
+          "target": "Complete theory, solve 25 basic questions"
+        },
+        {
+          "time": "10:00-12:00",
+          "duration": "2h",
+          "section": "Numerical Ability",
+          "topics": [
+            "Mixtures and Alligations",
+            "Ratio & Proportion"
+          ],
+          "activity": "Theory + PYQ Practice",
+          "target": "Complete theory, solve 20 PYQ"
+        },
+        {
+          "time": "16:00-17:30",
+          "duration": "1.5h",
+          "section": "Revision",
+          "topics": [
+            "Previous Day Topics",
+            "Weak Areas"
+          ],
+          "activity": "Revision + Error Analysis",
+          "target": "Revise formulas, solve 15 weak area questions"
+        }
+      ],
+      "pyq_practice": [],
+      "targets": {
+        "questions_to_solve": 60,
+        "accuracy_target": "75%",
+        "focus_areas": [
+          "Awards",
+          "Static GK",
+          "Mixtures and Alligations",
+          "Ratio & Proportion"
+        ]
+      },
+      "phase": "FOUNDATION",
+      "phase_desc": "Master fundamentals & high-frequency topics"
+    },
+    {
+      "day": 7,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00-8:30",
+          "duration": "2.5h",
+          "section": "Numerical Ability",
+          "topics": [
+            "Mixtures and Alligations",
+            "Ratio & Proportion"
+          ],
+          "activity": "Theory + Basic Practice",
+          "target": "Complete theory, solve 25 basic questions"
+        },
+        {
+          "time": "10:00-12:00",
+          "duration": "2h",
+          "section": "Reasoning",
+          "topics": [
+            "Verbal Classification",
+            "Logical Reasoning (Verbal)"
+          ],
+          "activity": "Theory + PYQ Practice",
+          "target": "Complete theory, solve 20 PYQ"
+        },
+        {
+          "time": "16:00-17:30",
+          "duration": "1.5h",
+          "section": "Revision",
+          "topics": [
+            "Previous Day Topics",
+            "Weak Areas"
+          ],
+          "activity": "Revision + Error Analysis",
+          "target": "Revise formulas, solve 15 weak area questions"
+        }
+      ],
+      "pyq_practice": [],
+      "targets": {
+        "questions_to_solve": 60,
+        "accuracy_target": "75%",
+        "focus_areas": [
+          "Mixtures and Alligations",
+          "Ratio & Proportion",
+          "Verbal Classification",
+          "Logical Reasoning (Verbal)"
+        ]
+      },
+      "phase": "FOUNDATION",
+      "phase_desc": "Master fundamentals & high-frequency topics"
+    },
+    {
+      "day": 8,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00-8:30",
+          "duration": "2.5h",
+          "section": "Reasoning",
+          "topics": [
+            "Verbal Classification",
+            "Logical Reasoning (Verbal)"
+          ],
+          "activity": "Theory + Basic Practice",
+          "target": "Complete theory, solve 25 basic questions"
+        },
+        {
+          "time": "10:00-12:00",
+          "duration": "2h",
+          "section": "Verbal Ability",
+          "topics": [
+            "Para Jumbles",
+            "Cloze Test"
+          ],
+          "activity": "Theory + PYQ Practice",
+          "target": "Complete theory, solve 20 PYQ"
+        },
+        {
+          "time": "16:00-17:30",
+          "duration": "1.5h",
+          "section": "Revision",
+          "topics": [
+            "Previous Day Topics",
+            "Weak Areas"
+          ],
+          "activity": "Revision + Error Analysis",
+          "target": "Revise formulas, solve 15 weak area questions"
+        }
+      ],
+      "pyq_practice": [],
+      "targets": {
+        "questions_to_solve": 60,
+        "accuracy_target": "75%",
+        "focus_areas": [
+          "Verbal Classification",
+          "Logical Reasoning (Verbal)",
+          "Para Jumbles",
+          "Cloze Test"
+        ]
+      },
+      "phase": "FOUNDATION",
+      "phase_desc": "Master fundamentals & high-frequency topics"
+    },
+    {
+      "day": 9,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00-8:30",
+          "duration": "2.5h",
+          "section": "Numerical Ability",
+          "topics": [
+            "Speed, Distance, Time",
+            "Percentage",
+            "Time & Work"
+          ],
+          "activity": "Advanced Problems + Time Trials",
+          "target": "Solve 30 medium-hard in 45 mins"
+        },
+        {
+          "time": "10:00-12:00",
+          "duration": "2h",
+          "section": "Reasoning",
+          "topics": [
+            "Verbal Analogy",
+            "Venn Diagrams",
+            "Non-Verbal Series"
+          ],
+          "activity": "Speed Practice + Shortcuts",
+          "target": "Timed sets: 40 questions in 50 mins"
+        },
+        {
+          "time": "16:00-17:30",
+          "duration": "1.5h",
+          "section": "Mixed Practice",
+          "topics": [
+            "All High-Yield Topics"
+          ],
+          "activity": "Mixed Bag + Accuracy Focus",
+          "target": "Solve 50 mixed questions with >80% accuracy"
+        }
+      ],
+      "pyq_practice": [],
+      "targets": {
+        "questions_to_solve": 120,
+        "accuracy_target": "80%",
+        "speed_target": "60 sec/question"
+      },
+      "phase": "ADVANCED PRACTICE",
+      "phase_desc": "Speed building & advanced problems"
+    },
+    {
+      "day": 10,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00-8:30",
+          "duration": "2.5h",
+          "section": "Reasoning",
+          "topics": [
+            "Verbal Analogy",
+            "Venn Diagrams",
+            "Non-Verbal Series"
+          ],
+          "activity": "Advanced Problems + Time Trials",
+          "target": "Solve 30 medium-hard in 45 mins"
+        },
+        {
+          "time": "10:00-12:00",
+          "duration": "2h",
+          "section": "Verbal Ability",
+          "topics": [
+            "Spotting Errors",
+            "Synonyms",
+            "Idioms & Phrases"
+          ],
+          "activity": "Speed Practice + Shortcuts",
+          "target": "Timed sets: 40 questions in 50 mins"
+        },
+        {
+          "time": "16:00-17:30",
+          "duration": "1.5h",
+          "section": "Mixed Practice",
+          "topics": [
+            "All High-Yield Topics"
+          ],
+          "activity": "Mixed Bag + Accuracy Focus",
+          "target": "Solve 50 mixed questions with >80% accuracy"
+        }
+      ],
+      "pyq_practice": [],
+      "targets": {
+        "questions_to_solve": 120,
+        "accuracy_target": "80%",
+        "speed_target": "60 sec/question"
+      },
+      "phase": "ADVANCED PRACTICE",
+      "phase_desc": "Speed building & advanced problems"
+    },
+    {
+      "day": 11,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00-8:30",
+          "duration": "2.5h",
+          "section": "Verbal Ability",
+          "topics": [
+            "Spotting Errors",
+            "Synonyms",
+            "Idioms & Phrases"
+          ],
+          "activity": "Advanced Problems + Time Trials",
+          "target": "Solve 30 medium-hard in 45 mins"
+        },
+        {
+          "time": "10:00-12:00",
+          "duration": "2h",
+          "section": "General Awareness",
+          "topics": [
+            "General Science",
+            "Defence & Military",
+            "Geography (World)"
+          ],
+          "activity": "Speed Practice + Shortcuts",
+          "target": "Timed sets: 40 questions in 50 mins"
+        },
+        {
+          "time": "16:00-17:30",
+          "duration": "1.5h",
+          "section": "Mixed Practice",
+          "topics": [
+            "All High-Yield Topics"
+          ],
+          "activity": "Mixed Bag + Accuracy Focus",
+          "target": "Solve 50 mixed questions with >80% accuracy"
+        }
+      ],
+      "pyq_practice": [],
+      "targets": {
+        "questions_to_solve": 120,
+        "accuracy_target": "80%",
+        "speed_target": "60 sec/question"
+      },
+      "phase": "ADVANCED PRACTICE",
+      "phase_desc": "Speed building & advanced problems"
+    },
+    {
+      "day": 12,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00-8:30",
+          "duration": "2.5h",
+          "section": "General Awareness",
+          "topics": [
+            "General Science",
+            "Defence & Military",
+            "Geography (World)"
+          ],
+          "activity": "Advanced Problems + Time Trials",
+          "target": "Solve 30 medium-hard in 45 mins"
+        },
+        {
+          "time": "10:00-12:00",
+          "duration": "2h",
+          "section": "Numerical Ability",
+          "topics": [
+            "Speed, Distance, Time",
+            "Percentage",
+            "Time & Work"
+          ],
+          "activity": "Speed Practice + Shortcuts",
+          "target": "Timed sets: 40 questions in 50 mins"
+        },
+        {
+          "time": "16:00-17:30",
+          "duration": "1.5h",
+          "section": "Mixed Practice",
+          "topics": [
+            "All High-Yield Topics"
+          ],
+          "activity": "Mixed Bag + Accuracy Focus",
+          "target": "Solve 50 mixed questions with >80% accuracy"
+        }
+      ],
+      "pyq_practice": [],
+      "targets": {
+        "questions_to_solve": 120,
+        "accuracy_target": "80%",
+        "speed_target": "60 sec/question"
+      },
+      "phase": "ADVANCED PRACTICE",
+      "phase_desc": "Speed building & advanced problems"
+    },
+    {
+      "day": 13,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00-8:30",
+          "duration": "2.5h",
+          "section": "Numerical Ability",
+          "topics": [
+            "Speed, Distance, Time",
+            "Percentage",
+            "Time & Work"
+          ],
+          "activity": "Advanced Problems + Time Trials",
+          "target": "Solve 30 medium-hard in 45 mins"
+        },
+        {
+          "time": "10:00-12:00",
+          "duration": "2h",
+          "section": "Reasoning",
+          "topics": [
+            "Verbal Analogy",
+            "Venn Diagrams",
+            "Non-Verbal Series"
+          ],
+          "activity": "Speed Practice + Shortcuts",
+          "target": "Timed sets: 40 questions in 50 mins"
+        },
+        {
+          "time": "16:00-17:30",
+          "duration": "1.5h",
+          "section": "Mixed Practice",
+          "topics": [
+            "All High-Yield Topics"
+          ],
+          "activity": "Mixed Bag + Accuracy Focus",
+          "target": "Solve 50 mixed questions with >80% accuracy"
+        }
+      ],
+      "pyq_practice": [],
+      "targets": {
+        "questions_to_solve": 120,
+        "accuracy_target": "80%",
+        "speed_target": "60 sec/question"
+      },
+      "phase": "ADVANCED PRACTICE",
+      "phase_desc": "Speed building & advanced problems"
+    },
+    {
+      "day": 14,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00-8:30",
+          "duration": "2.5h",
+          "section": "Reasoning",
+          "topics": [
+            "Verbal Analogy",
+            "Venn Diagrams",
+            "Non-Verbal Series"
+          ],
+          "activity": "Advanced Problems + Time Trials",
+          "target": "Solve 30 medium-hard in 45 mins"
+        },
+        {
+          "time": "10:00-12:00",
+          "duration": "2h",
+          "section": "Verbal Ability",
+          "topics": [
+            "Spotting Errors",
+            "Synonyms",
+            "Idioms & Phrases"
+          ],
+          "activity": "Speed Practice + Shortcuts",
+          "target": "Timed sets: 40 questions in 50 mins"
+        },
+        {
+          "time": "16:00-17:30",
+          "duration": "1.5h",
+          "section": "Mixed Practice",
+          "topics": [
+            "All High-Yield Topics"
+          ],
+          "activity": "Mixed Bag + Accuracy Focus",
+          "target": "Solve 50 mixed questions with >80% accuracy"
+        }
+      ],
+      "pyq_practice": [],
+      "targets": {
+        "questions_to_solve": 120,
+        "accuracy_target": "80%",
+        "speed_target": "60 sec/question"
+      },
+      "phase": "ADVANCED PRACTICE",
+      "phase_desc": "Speed building & advanced problems"
+    },
+    {
+      "day": 15,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00-8:00",
+          "duration": "2h",
+          "section": "MOCK TEST 1",
+          "topics": [
+            "100 Questions",
+            "Full Syllabus"
+          ],
+          "activity": "Simulated Exam",
+          "target": "Complete in 2h, attempt 90+ with accuracy"
+        },
+        {
+          "time": "10:00-13:00",
+          "duration": "3h",
+          "section": "DETAILED ANALYSIS",
+          "topics": [
+            "Error Analysis",
+            "Pattern Identification"
+          ],
+          "activity": "Question-by-Question Review",
+          "target": "Analyze every mistake, create error log"
+        },
+        {
+          "time": "16:00-17:30",
+          "duration": "1.5h",
+          "section": "WEAK AREA FOCUS",
+          "topics": [
+            "Topics with <70% accuracy"
+          ],
+          "activity": "Targeted Improvement",
+          "target": "Solve 40 questions from weak areas"
+        }
+      ],
+      "pyq_practice": [],
+      "targets": {
+        "mock_test_score": "Aim for 180+",
+        "analysis_depth": "Complete error log",
+        "improvement_focus": "Weak topics identified"
+      },
+      "phase": "MOCK TEST PHASE",
+      "phase_desc": "Full-length tests & detailed analysis"
+    },
+    {
+      "day": 16,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00-8:00",
+          "duration": "2h",
+          "section": "MOCK TEST 2",
+          "topics": [
+            "100 Questions",
+            "Full Syllabus"
+          ],
+          "activity": "Simulated Exam",
+          "target": "Complete in 2h, attempt 90+ with accuracy"
+        },
+        {
+          "time": "10:00-13:00",
+          "duration": "3h",
+          "section": "DETAILED ANALYSIS",
+          "topics": [
+            "Error Analysis",
+            "Pattern Identification"
+          ],
+          "activity": "Question-by-Question Review",
+          "target": "Analyze every mistake, create error log"
+        },
+        {
+          "time": "16:00-17:30",
+          "duration": "1.5h",
+          "section": "WEAK AREA FOCUS",
+          "topics": [
+            "Topics with <70% accuracy"
+          ],
+          "activity": "Targeted Improvement",
+          "target": "Solve 40 questions from weak areas"
+        }
+      ],
+      "pyq_practice": [],
+      "targets": {
+        "mock_test_score": "Aim for 180+",
+        "analysis_depth": "Complete error log",
+        "improvement_focus": "Weak topics identified"
+      },
+      "phase": "MOCK TEST PHASE",
+      "phase_desc": "Full-length tests & detailed analysis"
+    },
+    {
+      "day": 17,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00-8:00",
+          "duration": "2h",
+          "section": "MOCK TEST 3",
+          "topics": [
+            "100 Questions",
+            "Full Syllabus"
+          ],
+          "activity": "Simulated Exam",
+          "target": "Complete in 2h, attempt 90+ with accuracy"
+        },
+        {
+          "time": "10:00-13:00",
+          "duration": "3h",
+          "section": "DETAILED ANALYSIS",
+          "topics": [
+            "Error Analysis",
+            "Pattern Identification"
+          ],
+          "activity": "Question-by-Question Review",
+          "target": "Analyze every mistake, create error log"
+        },
+        {
+          "time": "16:00-17:30",
+          "duration": "1.5h",
+          "section": "WEAK AREA FOCUS",
+          "topics": [
+            "Topics with <70% accuracy"
+          ],
+          "activity": "Targeted Improvement",
+          "target": "Solve 40 questions from weak areas"
+        }
+      ],
+      "pyq_practice": [],
+      "targets": {
+        "mock_test_score": "Aim for 180+",
+        "analysis_depth": "Complete error log",
+        "improvement_focus": "Weak topics identified"
+      },
+      "phase": "MOCK TEST PHASE",
+      "phase_desc": "Full-length tests & detailed analysis"
+    },
+    {
+      "day": 18,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00-8:30",
+          "duration": "2.5h",
+          "section": "Quick Revision",
+          "topics": [
+            "Awards",
+            "Static GK",
+            "Para Jumbles",
+            "Cloze Test"
+          ],
+          "activity": "Flashcards + Formula Review",
+          "target": "Review all key points, no new learning"
+        },
+        {
+          "time": "10:00-12:00",
+          "duration": "2h",
+          "section": "Confidence Building",
+          "topics": [
+            "Easy Questions",
+            "PYQ"
+          ],
+          "activity": "Light Practice",
+          "target": "Solve 60 easy questions for confidence"
+        },
+        {
+          "time": "16:00-17:00",
+          "duration": "1h",
+          "section": "Mental Prep",
+          "topics": [
+            "Relaxation",
+            "Strategy Review"
+          ],
+          "activity": "Final Preparation",
+          "target": "Stay calm, sleep early, trust preparation"
+        }
+      ],
+      "pyq_practice": [],
+      "targets": {
+        "mental_state": "Calm & Confident",
+        "revision_complete": "All topics reviewed",
+        "exam_strategy": "Finalized"
+      },
+      "phase": "FINAL REVISION",
+      "phase_desc": "Quick revision & confidence building"
+    },
+    {
+      "day": 19,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00-8:30",
+          "duration": "2.5h",
+          "section": "Quick Revision",
+          "topics": [
+            "Verbal Classification",
+            "Logical Reasoning (Verbal)",
+            "Verbal Analogy",
+            "Venn Diagrams"
+          ],
+          "activity": "Flashcards + Formula Review",
+          "target": "Review all key points, no new learning"
+        },
+        {
+          "time": "10:00-12:00",
+          "duration": "2h",
+          "section": "Confidence Building",
+          "topics": [
+            "Easy Questions",
+            "PYQ"
+          ],
+          "activity": "Light Practice",
+          "target": "Solve 60 easy questions for confidence"
+        },
+        {
+          "time": "16:00-17:00",
+          "duration": "1h",
+          "section": "Mental Prep",
+          "topics": [
+            "Relaxation",
+            "Strategy Review"
+          ],
+          "activity": "Final Preparation",
+          "target": "Stay calm, sleep early, trust preparation"
+        }
+      ],
+      "pyq_practice": [],
+      "targets": {
+        "mental_state": "Calm & Confident",
+        "revision_complete": "All topics reviewed",
+        "exam_strategy": "Finalized"
+      },
+      "phase": "FINAL REVISION",
+      "phase_desc": "Quick revision & confidence building"
+    },
+    {
+      "day": 20,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00-8:30",
+          "duration": "2.5h",
+          "section": "Quick Revision",
+          "topics": [
+            "Formulas",
+            "Shortcuts",
+            "Key Facts",
+            "High-Yield Topics"
+          ],
+          "activity": "Flashcards + Formula Review",
+          "target": "Review all key points, no new learning"
+        },
+        {
+          "time": "10:00-12:00",
+          "duration": "2h",
+          "section": "Confidence Building",
+          "topics": [
+            "Easy Questions",
+            "PYQ"
+          ],
+          "activity": "Light Practice",
+          "target": "Solve 60 easy questions for confidence"
+        },
+        {
+          "time": "16:00-17:00",
+          "duration": "1h",
+          "section": "Mental Prep",
+          "topics": [
+            "Relaxation",
+            "Strategy Review"
+          ],
+          "activity": "Final Preparation",
+          "target": "Stay calm, sleep early, trust preparation"
+        }
+      ],
+      "pyq_practice": [],
+      "targets": {
+        "mental_state": "Calm & Confident",
+        "revision_complete": "All topics reviewed",
+        "exam_strategy": "Finalized"
+      },
+      "phase": "FINAL REVISION",
+      "phase_desc": "Quick revision & confidence building"
+    }
+  ],
+  "key_strategies": [
+    "Focus on high-yield topics (ML-predicted)",
+    "Practice with time limits from Day 1",
+    "Analyze every mock test thoroughly",
+    "Revise weak areas immediately",
+    "Build accuracy before speed"
+  ]
+}

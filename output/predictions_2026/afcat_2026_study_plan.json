@@ -1,386 +1,1503 @@
 {
   "metadata": {
-    "generated_at": "2026-01-06T17:32:20.464483",
-    "total_study_days": 60,
-    "total_study_hours": 197,
-    "hours_per_day": 3.3
+    "total_days": 30,
+    "hours_per_day": 6,
+    "total_hours": 180,
+    "generated_at": "2026-01-15T19:49:12.293148",
+    "prediction_model": "Ensemble ML (XGBoost+LightGBM+RF) on Shift-Normalized Data",
+    "phases": [
+      {
+        "name": "Concept Building",
+        "days": "1-12",
+        "focus": "Fundamentals"
+      },
+      {
+        "name": "Advanced Practice",
+        "days": "13-22",
+        "focus": "Speed & Accuracy"
+      },
+      {
+        "name": "Mock Tests",
+        "days": "23-27",
+        "focus": "Full Practice"
+      },
+      {
+        "name": "Final Revision",
+        "days": "28-30",
+        "focus": "Quick Recap"
+      }
+    ]
   },
   "section_allocation": {
     "Verbal Ability": {
-      "hours": 52,
-      "percentage": 26.4,
-      "days": 15.8
+      "hours": 54,
+      "percentage": 30
     },
     "General Awareness": {
-      "hours": 53,
-      "percentage": 26.9,
-      "days": 16.1
+      "hours": 45,
+      "percentage": 25
     },
     "Numerical Ability": {
-      "hours": 40,
-      "percentage": 20.3,
-      "days": 12.2
+      "hours": 36,
+      "percentage": 20
     },
     "Reasoning": {
-      "hours": 52,
-      "percentage": 26.4,
-      "days": 15.8
+      "hours": 45,
+      "percentage": 25
     }
   },
-  "topic_wise_plan": [
+  "daily_schedule": [
     {
-      "section": "Reasoning",
-      "topic_code": "RM_VR_LOG",
-      "topic_name": "Logical Reasoning",
-      "expected_questions": 5.400000095367432,
-      "study_hours": 8,
-      "priority": "HIGH"
+      "day": 1,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "Verbal Ability",
+          "topics": [
+            "Synonyms",
+            "Idioms & Phrases"
+          ],
+          "activity": "Theory + Concept Building",
+          "target": "Complete theory, solve 20 basic questions"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "General Awareness",
+          "topics": [
+            "Awards",
+            "Static GK"
+          ],
+          "activity": "Theory + Practice",
+          "target": "Complete theory, solve 15 questions"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Revision",
+          "topics": [
+            "Previous Day Topics",
+            "PYQ Practice"
+          ],
+          "activity": "Revision + PYQ Solving",
+          "target": "Solve 25 PYQ questions"
+        }
+      ],
+      "pyq_practice": [
+        "Choose the word which is nearest in meaning to: TRANSGRESSOR...",
+        "Choose the word which is nearest in meaning to: EGREGIOUS...",
+        "Choose the word that best defines the given phrase: Tickled pink...",
+        "Choose the word that best defines the given phrase: Split one's side...",
+        "Dronacharya award is given for outstanding contribution in the field of...",
+        "Who was the first Indian woman to climb Mount Everest?...",
+        "‘Duckworth Lewis Rule’ is used in the game of...",
+        "The first Olympic Games were held in 1896 at..."
+      ],
+      "phase": "Concept Building",
+      "phase_description": "Master fundamentals & high-frequency topics"
     },
     {
-      "section": "Reasoning",
-      "topic_code": "RM_VR_CODING",
-      "topic_name": "Coding-Decoding",
-      "expected_questions": 5.0,
-      "study_hours": 8,
-      "priority": "HIGH"
+      "day": 2,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "General Awareness",
+          "topics": [
+            "Awards",
+            "Static GK"
+          ],
+          "activity": "Theory + Concept Building",
+          "target": "Complete theory, solve 20 basic questions"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "Numerical Ability",
+          "topics": [
+            "Mixtures and Alligations",
+            "Simple Interest"
+          ],
+          "activity": "Theory + Practice",
+          "target": "Complete theory, solve 15 questions"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Revision",
+          "topics": [
+            "Previous Day Topics",
+            "PYQ Practice"
+          ],
+          "activity": "Revision + PYQ Solving",
+          "target": "Solve 25 PYQ questions"
+        }
+      ],
+      "pyq_practice": [
+        "Dronacharya award is given for outstanding contribution in the field of...",
+        "Who was the first Indian woman to climb Mount Everest?...",
+        "‘Duckworth Lewis Rule’ is used in the game of...",
+        "The first Olympic Games were held in 1896 at...",
+        "Ram went to a shop to buy 50 kg of rice. He bought two varieties of rice which c...",
+        "A mixture of 40 litres of milk and water contains 10% water. How much water shou...",
+        "A certain sum of money becomes three times of itself in 20 years at simple inter...",
+        "Ram borrows Rs. 8000 at 12% p.a. simple interest and Mohan borrows Rs. 9100 at 1..."
+      ],
+      "phase": "Concept Building",
+      "phase_description": "Master fundamentals & high-frequency topics"
     },
     {
-      "section": "Verbal Ability",
-      "topic_code": "VA_REARR",
-      "topic_name": "Sentence Rearrangement",
-      "expected_questions": 4.699999809265137,
-      "study_hours": 8,
-      "priority": "HIGH"
+      "day": 3,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "Numerical Ability",
+          "topics": [
+            "Mixtures and Alligations",
+            "Simple Interest"
+          ],
+          "activity": "Theory + Concept Building",
+          "target": "Complete theory, solve 20 basic questions"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "Reasoning",
+          "topics": [
+            "Logical Reasoning (Verbal)",
+            "Verbal Analogy"
+          ],
+          "activity": "Theory + Practice",
+          "target": "Complete theory, solve 15 questions"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Revision",
+          "topics": [
+            "Previous Day Topics",
+            "PYQ Practice"
+          ],
+          "activity": "Revision + PYQ Solving",
+          "target": "Solve 25 PYQ questions"
+        }
+      ],
+      "pyq_practice": [
+        "Ram went to a shop to buy 50 kg of rice. He bought two varieties of rice which c...",
+        "A mixture of 40 litres of milk and water contains 10% water. How much water shou...",
+        "A certain sum of money becomes three times of itself in 20 years at simple inter...",
+        "Ram borrows Rs. 8000 at 12% p.a. simple interest and Mohan borrows Rs. 9100 at 1...",
+        "Relaxed means the same as the opposite of...",
+        "Which number comes next in this series? 1 4 7 10 13 16...",
+        "STORY : NOVEL...",
+        "GRAIN : SALT..."
+      ],
+      "phase": "Concept Building",
+      "phase_description": "Master fundamentals & high-frequency topics"
     },
     {
-      "section": "General Awareness",
-      "topic_code": "GA_DEF",
-      "topic_name": "Defence & Military",
-      "expected_questions": 4.0,
-      "study_hours": 8,
-      "priority": "HIGH"
+      "day": 4,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "Reasoning",
+          "topics": [
+            "Logical Reasoning (Verbal)",
+            "Verbal Analogy"
+          ],
+          "activity": "Theory + Concept Building",
+          "target": "Complete theory, solve 20 basic questions"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "Verbal Ability",
+          "topics": [
+            "Synonyms",
+            "Idioms & Phrases"
+          ],
+          "activity": "Theory + Practice",
+          "target": "Complete theory, solve 15 questions"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Revision",
+          "topics": [
+            "Previous Day Topics",
+            "PYQ Practice"
+          ],
+          "activity": "Revision + PYQ Solving",
+          "target": "Solve 25 PYQ questions"
+        }
+      ],
+      "pyq_practice": [
+        "Relaxed means the same as the opposite of...",
+        "Which number comes next in this series? 1 4 7 10 13 16...",
+        "STORY : NOVEL...",
+        "GRAIN : SALT...",
+        "Choose the word which is nearest in meaning to: TRANSGRESSOR...",
+        "Choose the word which is nearest in meaning to: EGREGIOUS...",
+        "Choose the word that best defines the given phrase: Tickled pink...",
+        "Choose the word that best defines the given phrase: Split one's side..."
+      ],
+      "phase": "Concept Building",
+      "phase_description": "Master fundamentals & high-frequency topics"
     },
     {
-      "section": "Verbal Ability",
-      "topic_code": "VA_CLOZE",
-      "topic_name": "Cloze Test",
-      "expected_questions": 4.0,
-      "study_hours": 8,
-      "priority": "HIGH"
+      "day": 5,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "Verbal Ability",
+          "topics": [
+            "Synonyms",
+            "Idioms & Phrases"
+          ],
+          "activity": "Theory + Concept Building",
+          "target": "Complete theory, solve 20 basic questions"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "General Awareness",
+          "topics": [
+            "Awards",
+            "Static GK"
+          ],
+          "activity": "Theory + Practice",
+          "target": "Complete theory, solve 15 questions"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Revision",
+          "topics": [
+            "Previous Day Topics",
+            "PYQ Practice"
+          ],
+          "activity": "Revision + PYQ Solving",
+          "target": "Solve 25 PYQ questions"
+        }
+      ],
+      "pyq_practice": [
+        "Choose the word which is nearest in meaning to: TRANSGRESSOR...",
+        "Choose the word which is nearest in meaning to: EGREGIOUS...",
+        "Choose the word that best defines the given phrase: Tickled pink...",
+        "Choose the word that best defines the given phrase: Split one's side...",
+        "Dronacharya award is given for outstanding contribution in the field of...",
+        "Who was the first Indian woman to climb Mount Everest?...",
+        "‘Duckworth Lewis Rule’ is used in the game of...",
+        "The first Olympic Games were held in 1896 at..."
+      ],
+      "phase": "Concept Building",
+      "phase_description": "Master fundamentals & high-frequency topics"
     },
     {
-      "section": "General Awareness",
-      "topic_code": "GA_ENV",
-      "topic_name": "Environment",
-      "expected_questions": 3.799999952316284,
-      "study_hours": 5,
-      "priority": "MEDIUM"
+      "day": 6,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "General Awareness",
+          "topics": [
+            "Awards",
+            "Static GK"
+          ],
+          "activity": "Theory + Concept Building",
+          "target": "Complete theory, solve 20 basic questions"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "Numerical Ability",
+          "topics": [
+            "Mixtures and Alligations",
+            "Simple Interest"
+          ],
+          "activity": "Theory + Practice",
+          "target": "Complete theory, solve 15 questions"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Revision",
+          "topics": [
+            "Previous Day Topics",
+            "PYQ Practice"
+          ],
+          "activity": "Revision + PYQ Solving",
+          "target": "Solve 25 PYQ questions"
+        }
+      ],
+      "pyq_practice": [
+        "Dronacharya award is given for outstanding contribution in the field of...",
+        "Who was the first Indian woman to climb Mount Everest?...",
+        "‘Duckworth Lewis Rule’ is used in the game of...",
+        "The first Olympic Games were held in 1896 at...",
+        "Ram went to a shop to buy 50 kg of rice. He bought two varieties of rice which c...",
+        "A mixture of 40 litres of milk and water contains 10% water. How much water shou...",
+        "A certain sum of money becomes three times of itself in 20 years at simple inter...",
+        "Ram borrows Rs. 8000 at 12% p.a. simple interest and Mohan borrows Rs. 9100 at 1..."
+      ],
+      "phase": "Concept Building",
+      "phase_description": "Master fundamentals & high-frequency topics"
     },
     {
-      "section": "Reasoning",
-      "topic_code": "RM_VR_CLASS",
-      "topic_name": "Classification",
-      "expected_questions": 3.799999952316284,
-      "study_hours": 5,
-      "priority": "MEDIUM"
+      "day": 7,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "Numerical Ability",
+          "topics": [
+            "Mixtures and Alligations",
+            "Simple Interest"
+          ],
+          "activity": "Theory + Concept Building",
+          "target": "Complete theory, solve 20 basic questions"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "Reasoning",
+          "topics": [
+            "Logical Reasoning (Verbal)",
+            "Verbal Analogy"
+          ],
+          "activity": "Theory + Practice",
+          "target": "Complete theory, solve 15 questions"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Revision",
+          "topics": [
+            "Previous Day Topics",
+            "PYQ Practice"
+          ],
+          "activity": "Revision + PYQ Solving",
+          "target": "Solve 25 PYQ questions"
+        }
+      ],
+      "pyq_practice": [
+        "Ram went to a shop to buy 50 kg of rice. He bought two varieties of rice which c...",
+        "A mixture of 40 litres of milk and water contains 10% water. How much water shou...",
+        "A certain sum of money becomes three times of itself in 20 years at simple inter...",
+        "Ram borrows Rs. 8000 at 12% p.a. simple interest and Mohan borrows Rs. 9100 at 1...",
+        "Relaxed means the same as the opposite of...",
+        "Which number comes next in this series? 1 4 7 10 13 16...",
+        "STORY : NOVEL...",
+        "GRAIN : SALT..."
+      ],
+      "phase": "Concept Building",
+      "phase_description": "Master fundamentals & high-frequency topics"
     },
     {
-      "section": "Numerical Ability",
-      "topic_code": "NA_PL",
-      "topic_name": "Profit & Loss",
-      "expected_questions": 3.5,
-      "study_hours": 5,
-      "priority": "MEDIUM"
+      "day": 8,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "Reasoning",
+          "topics": [
+            "Logical Reasoning (Verbal)",
+            "Verbal Analogy"
+          ],
+          "activity": "Theory + Concept Building",
+          "target": "Complete theory, solve 20 basic questions"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "Verbal Ability",
+          "topics": [
+            "Synonyms",
+            "Idioms & Phrases"
+          ],
+          "activity": "Theory + Practice",
+          "target": "Complete theory, solve 15 questions"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Revision",
+          "topics": [
+            "Previous Day Topics",
+            "PYQ Practice"
+          ],
+          "activity": "Revision + PYQ Solving",
+          "target": "Solve 25 PYQ questions"
+        }
+      ],
+      "pyq_practice": [
+        "Relaxed means the same as the opposite of...",
+        "Which number comes next in this series? 1 4 7 10 13 16...",
+        "STORY : NOVEL...",
+        "GRAIN : SALT...",
+        "Choose the word which is nearest in meaning to: TRANSGRESSOR...",
+        "Choose the word which is nearest in meaning to: EGREGIOUS...",
+        "Choose the word that best defines the given phrase: Tickled pink...",
+        "Choose the word that best defines the given phrase: Split one's side..."
+      ],
+      "phase": "Concept Building",
+      "phase_description": "Master fundamentals & high-frequency topics"
     },
     {
-      "section": "Verbal Ability",
-      "topic_code": "VA_COMP",
-      "topic_name": "Reading Comprehension",
-      "expected_questions": 3.200000047683716,
-      "study_hours": 5,
-      "priority": "MEDIUM"
+      "day": 9,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "Verbal Ability",
+          "topics": [
+            "Synonyms",
+            "Idioms & Phrases"
+          ],
+          "activity": "Theory + Concept Building",
+          "target": "Complete theory, solve 20 basic questions"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "General Awareness",
+          "topics": [
+            "Awards",
+            "Static GK"
+          ],
+          "activity": "Theory + Practice",
+          "target": "Complete theory, solve 15 questions"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Revision",
+          "topics": [
+            "Previous Day Topics",
+            "PYQ Practice"
+          ],
+          "activity": "Revision + PYQ Solving",
+          "target": "Solve 25 PYQ questions"
+        }
+      ],
+      "pyq_practice": [
+        "Choose the word which is nearest in meaning to: TRANSGRESSOR...",
+        "Choose the word which is nearest in meaning to: EGREGIOUS...",
+        "Choose the word that best defines the given phrase: Tickled pink...",
+        "Choose the word that best defines the given phrase: Split one's side...",
+        "Dronacharya award is given for outstanding contribution in the field of...",
+        "Who was the first Indian woman to climb Mount Everest?...",
+        "‘Duckworth Lewis Rule’ is used in the game of...",
+        "The first Olympic Games were held in 1896 at..."
+      ],
+      "phase": "Concept Building",
+      "phase_description": "Master fundamentals & high-frequency topics"
     },
     {
-      "section": "Verbal Ability",
-      "topic_code": "VA_ERR",
-      "topic_name": "Error Detection",
-      "expected_questions": 3.0999999046325684,
-      "study_hours": 5,
-      "priority": "MEDIUM"
+      "day": 10,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "General Awareness",
+          "topics": [
+            "Awards",
+            "Static GK"
+          ],
+          "activity": "Theory + Concept Building",
+          "target": "Complete theory, solve 20 basic questions"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "Numerical Ability",
+          "topics": [
+            "Mixtures and Alligations",
+            "Simple Interest"
+          ],
+          "activity": "Theory + Practice",
+          "target": "Complete theory, solve 15 questions"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Revision",
+          "topics": [
+            "Previous Day Topics",
+            "PYQ Practice"
+          ],
+          "activity": "Revision + PYQ Solving",
+          "target": "Solve 25 PYQ questions"
+        }
+      ],
+      "pyq_practice": [
+        "Dronacharya award is given for outstanding contribution in the field of...",
+        "Who was the first Indian woman to climb Mount Everest?...",
+        "‘Duckworth Lewis Rule’ is used in the game of...",
+        "The first Olympic Games were held in 1896 at...",
+        "Ram went to a shop to buy 50 kg of rice. He bought two varieties of rice which c...",
+        "A mixture of 40 litres of milk and water contains 10% water. How much water shou...",
+        "A certain sum of money becomes three times of itself in 20 years at simple inter...",
+        "Ram borrows Rs. 8000 at 12% p.a. simple interest and Mohan borrows Rs. 9100 at 1..."
+      ],
+      "phase": "Concept Building",
+      "phase_description": "Master fundamentals & high-frequency topics"
     },
     {
-      "section": "Verbal Ability",
-      "topic_code": "VA_IDIOM",
-      "topic_name": "Idioms & Phrases",
-      "expected_questions": 3.0999999046325684,
-      "study_hours": 5,
-      "priority": "MEDIUM"
+      "day": 11,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "Numerical Ability",
+          "topics": [
+            "Mixtures and Alligations",
+            "Simple Interest"
+          ],
+          "activity": "Theory + Concept Building",
+          "target": "Complete theory, solve 20 basic questions"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "Reasoning",
+          "topics": [
+            "Logical Reasoning (Verbal)",
+            "Verbal Analogy"
+          ],
+          "activity": "Theory + Practice",
+          "target": "Complete theory, solve 15 questions"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Revision",
+          "topics": [
+            "Previous Day Topics",
+            "PYQ Practice"
+          ],
+          "activity": "Revision + PYQ Solving",
+          "target": "Solve 25 PYQ questions"
+        }
+      ],
+      "pyq_practice": [
+        "Ram went to a shop to buy 50 kg of rice. He bought two varieties of rice which c...",
+        "A mixture of 40 litres of milk and water contains 10% water. How much water shou...",
+        "A certain sum of money becomes three times of itself in 20 years at simple inter...",
+        "Ram borrows Rs. 8000 at 12% p.a. simple interest and Mohan borrows Rs. 9100 at 1...",
+        "Relaxed means the same as the opposite of...",
+        "Which number comes next in this series? 1 4 7 10 13 16...",
+        "STORY : NOVEL...",
+        "GRAIN : SALT..."
+      ],
+      "phase": "Concept Building",
+      "phase_description": "Master fundamentals & high-frequency topics"
     },
     {
-      "section": "Numerical Ability",
-      "topic_code": "NA_TW",
-      "topic_name": "Time & Work",
-      "expected_questions": 3.0,
-      "study_hours": 5,
-      "priority": "MEDIUM"
+      "day": 12,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "Reasoning",
+          "topics": [
+            "Logical Reasoning (Verbal)",
+            "Verbal Analogy"
+          ],
+          "activity": "Theory + Concept Building",
+          "target": "Complete theory, solve 20 basic questions"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "Verbal Ability",
+          "topics": [
+            "Synonyms",
+            "Idioms & Phrases"
+          ],
+          "activity": "Theory + Practice",
+          "target": "Complete theory, solve 15 questions"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Revision",
+          "topics": [
+            "Previous Day Topics",
+            "PYQ Practice"
+          ],
+          "activity": "Revision + PYQ Solving",
+          "target": "Solve 25 PYQ questions"
+        }
+      ],
+      "pyq_practice": [
+        "Relaxed means the same as the opposite of...",
+        "Which number comes next in this series? 1 4 7 10 13 16...",
+        "STORY : NOVEL...",
+        "GRAIN : SALT...",
+        "Choose the word which is nearest in meaning to: TRANSGRESSOR...",
+        "Choose the word which is nearest in meaning to: EGREGIOUS...",
+        "Choose the word that best defines the given phrase: Tickled pink...",
+        "Choose the word that best defines the given phrase: Split one's side..."
+      ],
+      "phase": "Concept Building",
+      "phase_description": "Master fundamentals & high-frequency topics"
     },
     {
-      "section": "Reasoning",
-      "topic_code": "RM_VR_SERIES",
-      "topic_name": "Series",
-      "expected_questions": 3.0,
-      "study_hours": 5,
-      "priority": "MEDIUM"
+      "day": 13,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "Numerical Ability",
+          "topics": [
+            "Speed, Distance, Time",
+            "Ratio & Proportion"
+          ],
+          "activity": "Advanced Problems",
+          "target": "Solve 30 medium-hard questions"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "Reasoning",
+          "topics": [
+            "Verbal Classification",
+            "Non-Verbal Series"
+          ],
+          "activity": "Speed Practice",
+          "target": "Timed practice - 25 questions in 30 min"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Mixed Practice",
+          "topics": [
+            "Weak Areas",
+            "Error Analysis"
+          ],
+          "activity": "Targeted Improvement",
+          "target": "Solve 20 PYQ from weak areas"
+        }
+      ],
+      "pyq_practice": [],
+      "phase": "Advanced Practice",
+      "phase_description": "Speed building & advanced problems"
     },
     {
-      "section": "General Awareness",
-      "topic_code": "GA_SCI",
-      "topic_name": "Science & Technology",
-      "expected_questions": 2.9000000953674316,
-      "study_hours": 5,
-      "priority": "MEDIUM"
+      "day": 14,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "Reasoning",
+          "topics": [
+            "Verbal Classification",
+            "Non-Verbal Series"
+          ],
+          "activity": "Advanced Problems",
+          "target": "Solve 30 medium-hard questions"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "Verbal Ability",
+          "topics": [
+            "Para Jumbles",
+            "Spotting Errors"
+          ],
+          "activity": "Speed Practice",
+          "target": "Timed practice - 25 questions in 30 min"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Mixed Practice",
+          "topics": [
+            "Weak Areas",
+            "Error Analysis"
+          ],
+          "activity": "Targeted Improvement",
+          "target": "Solve 20 PYQ from weak areas"
+        }
+      ],
+      "pyq_practice": [],
+      "phase": "Advanced Practice",
+      "phase_description": "Speed building & advanced problems"
     },
     {
-      "section": "Verbal Ability",
-      "topic_code": "VA_SYN",
-      "topic_name": "Synonyms",
-      "expected_questions": 2.9000000953674316,
-      "study_hours": 5,
-      "priority": "MEDIUM"
+      "day": 15,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "Verbal Ability",
+          "topics": [
+            "Para Jumbles",
+            "Spotting Errors"
+          ],
+          "activity": "Advanced Problems",
+          "target": "Solve 30 medium-hard questions"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "General Awareness",
+          "topics": [
+            "General Science",
+            "Geography (World)"
+          ],
+          "activity": "Speed Practice",
+          "target": "Timed practice - 25 questions in 30 min"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Mixed Practice",
+          "topics": [
+            "Weak Areas",
+            "Error Analysis"
+          ],
+          "activity": "Targeted Improvement",
+          "target": "Solve 20 PYQ from weak areas"
+        }
+      ],
+      "pyq_practice": [],
+      "phase": "Advanced Practice",
+      "phase_description": "Speed building & advanced problems"
     },
     {
-      "section": "Verbal Ability",
-      "topic_code": "VA_ANT",
-      "topic_name": "Antonyms",
-      "expected_questions": 2.799999952316284,
-      "study_hours": 5,
-      "priority": "MEDIUM"
+      "day": 16,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "General Awareness",
+          "topics": [
+            "General Science",
+            "Geography (World)"
+          ],
+          "activity": "Advanced Problems",
+          "target": "Solve 30 medium-hard questions"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "Numerical Ability",
+          "topics": [
+            "Speed, Distance, Time",
+            "Ratio & Proportion"
+          ],
+          "activity": "Speed Practice",
+          "target": "Timed practice - 25 questions in 30 min"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Mixed Practice",
+          "topics": [
+            "Weak Areas",
+            "Error Analysis"
+          ],
+          "activity": "Targeted Improvement",
+          "target": "Solve 20 PYQ from weak areas"
+        }
+      ],
+      "pyq_practice": [],
+      "phase": "Advanced Practice",
+      "phase_description": "Speed building & advanced problems"
     },
     {
-      "section": "Verbal Ability",
-      "topic_code": "VA_OWS",
-      "topic_name": "One Word Substitution",
-      "expected_questions": 2.4000000953674316,
-      "study_hours": 5,
-      "priority": "MEDIUM"
+      "day": 17,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "Numerical Ability",
+          "topics": [
+            "Speed, Distance, Time",
+            "Ratio & Proportion"
+          ],
+          "activity": "Advanced Problems",
+          "target": "Solve 30 medium-hard questions"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "Reasoning",
+          "topics": [
+            "Verbal Classification",
+            "Non-Verbal Series"
+          ],
+          "activity": "Speed Practice",
+          "target": "Timed practice - 25 questions in 30 min"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Mixed Practice",
+          "topics": [
+            "Weak Areas",
+            "Error Analysis"
+          ],
+          "activity": "Targeted Improvement",
+          "target": "Solve 20 PYQ from weak areas"
+        }
+      ],
+      "pyq_practice": [],
+      "phase": "Advanced Practice",
+      "phase_description": "Speed building & advanced problems"
     },
     {
-      "section": "General Awareness",
-      "topic_code": "GA_ORG",
-      "topic_name": "Organizations",
-      "expected_questions": 2.200000047683716,
-      "study_hours": 5,
-      "priority": "MEDIUM"
+      "day": 18,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "Reasoning",
+          "topics": [
+            "Verbal Classification",
+            "Non-Verbal Series"
+          ],
+          "activity": "Advanced Problems",
+          "target": "Solve 30 medium-hard questions"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "Verbal Ability",
+          "topics": [
+            "Para Jumbles",
+            "Spotting Errors"
+          ],
+          "activity": "Speed Practice",
+          "target": "Timed practice - 25 questions in 30 min"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Mixed Practice",
+          "topics": [
+            "Weak Areas",
+            "Error Analysis"
+          ],
+          "activity": "Targeted Improvement",
+          "target": "Solve 20 PYQ from weak areas"
+        }
+      ],
+      "pyq_practice": [],
+      "phase": "Advanced Practice",
+      "phase_description": "Speed building & advanced problems"
     },
     {
-      "section": "Reasoning",
-      "topic_code": "RM_VR_ANALOGY",
-      "topic_name": "Verbal Analogy",
-      "expected_questions": 2.200000047683716,
-      "study_hours": 5,
-      "priority": "MEDIUM"
+      "day": 19,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "Verbal Ability",
+          "topics": [
+            "Para Jumbles",
+            "Spotting Errors"
+          ],
+          "activity": "Advanced Problems",
+          "target": "Solve 30 medium-hard questions"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "General Awareness",
+          "topics": [
+            "General Science",
+            "Geography (World)"
+          ],
+          "activity": "Speed Practice",
+          "target": "Timed practice - 25 questions in 30 min"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Mixed Practice",
+          "topics": [
+            "Weak Areas",
+            "Error Analysis"
+          ],
+          "activity": "Targeted Improvement",
+          "target": "Solve 20 PYQ from weak areas"
+        }
+      ],
+      "pyq_practice": [],
+      "phase": "Advanced Practice",
+      "phase_description": "Speed building & advanced problems"
     },
     {
-      "section": "General Awareness",
-      "topic_code": "GA_SPORTS",
-      "topic_name": "Sports",
-      "expected_questions": 2.0999999046325684,
-      "study_hours": 5,
-      "priority": "MEDIUM"
+      "day": 20,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "General Awareness",
+          "topics": [
+            "General Science",
+            "Geography (World)"
+          ],
+          "activity": "Advanced Problems",
+          "target": "Solve 30 medium-hard questions"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "Numerical Ability",
+          "topics": [
+            "Speed, Distance, Time",
+            "Ratio & Proportion"
+          ],
+          "activity": "Speed Practice",
+          "target": "Timed practice - 25 questions in 30 min"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Mixed Practice",
+          "topics": [
+            "Weak Areas",
+            "Error Analysis"
+          ],
+          "activity": "Targeted Improvement",
+          "target": "Solve 20 PYQ from weak areas"
+        }
+      ],
+      "pyq_practice": [],
+      "phase": "Advanced Practice",
+      "phase_description": "Speed building & advanced problems"
     },
     {
-      "section": "General Awareness",
-      "topic_code": "GA_AWARDS",
-      "topic_name": "Awards & Honours",
-      "expected_questions": 2.0999999046325684,
-      "study_hours": 5,
-      "priority": "MEDIUM"
+      "day": 21,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "Numerical Ability",
+          "topics": [
+            "Speed, Distance, Time",
+            "Ratio & Proportion"
+          ],
+          "activity": "Advanced Problems",
+          "target": "Solve 30 medium-hard questions"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "Reasoning",
+          "topics": [
+            "Verbal Classification",
+            "Non-Verbal Series"
+          ],
+          "activity": "Speed Practice",
+          "target": "Timed practice - 25 questions in 30 min"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Mixed Practice",
+          "topics": [
+            "Weak Areas",
+            "Error Analysis"
+          ],
+          "activity": "Targeted Improvement",
+          "target": "Solve 20 PYQ from weak areas"
+        }
+      ],
+      "pyq_practice": [],
+      "phase": "Advanced Practice",
+      "phase_description": "Speed building & advanced problems"
     },
     {
-      "section": "Reasoning",
-      "topic_code": "RM_NV_PATTERN",
-      "topic_name": "Pattern/Figure Series",
-      "expected_questions": 2.0,
-      "study_hours": 5,
-      "priority": "MEDIUM"
+      "day": 22,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "Reasoning",
+          "topics": [
+            "Verbal Classification",
+            "Non-Verbal Series"
+          ],
+          "activity": "Advanced Problems",
+          "target": "Solve 30 medium-hard questions"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "Verbal Ability",
+          "topics": [
+            "Para Jumbles",
+            "Spotting Errors"
+          ],
+          "activity": "Speed Practice",
+          "target": "Timed practice - 25 questions in 30 min"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Mixed Practice",
+          "topics": [
+            "Weak Areas",
+            "Error Analysis"
+          ],
+          "activity": "Targeted Improvement",
+          "target": "Solve 20 PYQ from weak areas"
+        }
+      ],
+      "pyq_practice": [],
+      "phase": "Advanced Practice",
+      "phase_description": "Speed building & advanced problems"
     },
     {
-      "section": "Numerical Ability",
-      "topic_code": "NA_NUM",
-      "topic_name": "Number System",
-      "expected_questions": 1.899999976158142,
-      "study_hours": 2,
-      "priority": "LOW"
+      "day": 23,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:00 AM",
+          "duration": "2 hours",
+          "section": "Mock Test 1",
+          "topics": [
+            "100 Questions",
+            "Full Syllabus"
+          ],
+          "activity": "Full Mock Test",
+          "target": "Complete in 2 hours, attempt 90+ questions"
+        },
+        {
+          "time": "10:00 AM - 12:30 PM",
+          "duration": "2.5 hours",
+          "section": "Analysis",
+          "topics": [
+            "Error Analysis",
+            "Solution Review"
+          ],
+          "activity": "Detailed Analysis",
+          "target": "Analyze every wrong answer, identify patterns"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Weak Topics",
+          "topics": [
+            "Topics with <60% accuracy"
+          ],
+          "activity": "Targeted Practice",
+          "target": "Solve 30 questions from weak areas"
+        }
+      ],
+      "pyq_practice": [],
+      "phase": "Mock Test Phase",
+      "phase_description": "Full-length tests & detailed analysis"
     },
     {
-      "section": "Numerical Ability",
-      "topic_code": "NA_RAT",
-      "topic_name": "Ratio & Proportion",
-      "expected_questions": 1.7999999523162842,
-      "study_hours": 2,
-      "priority": "LOW"
+      "day": 24,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:00 AM",
+          "duration": "2 hours",
+          "section": "Mock Test 2",
+          "topics": [
+            "100 Questions",
+            "Full Syllabus"
+          ],
+          "activity": "Full Mock Test",
+          "target": "Complete in 2 hours, attempt 90+ questions"
+        },
+        {
+          "time": "10:00 AM - 12:30 PM",
+          "duration": "2.5 hours",
+          "section": "Analysis",
+          "topics": [
+            "Error Analysis",
+            "Solution Review"
+          ],
+          "activity": "Detailed Analysis",
+          "target": "Analyze every wrong answer, identify patterns"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Weak Topics",
+          "topics": [
+            "Topics with <60% accuracy"
+          ],
+          "activity": "Targeted Practice",
+          "target": "Solve 30 questions from weak areas"
+        }
+      ],
+      "pyq_practice": [],
+      "phase": "Mock Test Phase",
+      "phase_description": "Full-length tests & detailed analysis"
     },
     {
-      "section": "Numerical Ability",
-      "topic_code": "NA_AVG",
-      "topic_name": "Average",
-      "expected_questions": 1.7000000476837158,
-      "study_hours": 2,
-      "priority": "LOW"
+      "day": 25,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:00 AM",
+          "duration": "2 hours",
+          "section": "Mock Test 3",
+          "topics": [
+            "100 Questions",
+            "Full Syllabus"
+          ],
+          "activity": "Full Mock Test",
+          "target": "Complete in 2 hours, attempt 90+ questions"
+        },
+        {
+          "time": "10:00 AM - 12:30 PM",
+          "duration": "2.5 hours",
+          "section": "Analysis",
+          "topics": [
+            "Error Analysis",
+            "Solution Review"
+          ],
+          "activity": "Detailed Analysis",
+          "target": "Analyze every wrong answer, identify patterns"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Weak Topics",
+          "topics": [
+            "Topics with <60% accuracy"
+          ],
+          "activity": "Targeted Practice",
+          "target": "Solve 30 questions from weak areas"
+        }
+      ],
+      "pyq_practice": [],
+      "phase": "Mock Test Phase",
+      "phase_description": "Full-length tests & detailed analysis"
     },
     {
-      "section": "Verbal Ability",
-      "topic_code": "VA_ANALOGY",
-      "topic_name": "Verbal Analogy",
-      "expected_questions": 1.600000023841858,
-      "study_hours": 2,
-      "priority": "LOW"
+      "day": 26,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:00 AM",
+          "duration": "2 hours",
+          "section": "Mock Test 4",
+          "topics": [
+            "100 Questions",
+            "Full Syllabus"
+          ],
+          "activity": "Full Mock Test",
+          "target": "Complete in 2 hours, attempt 90+ questions"
+        },
+        {
+          "time": "10:00 AM - 12:30 PM",
+          "duration": "2.5 hours",
+          "section": "Analysis",
+          "topics": [
+            "Error Analysis",
+            "Solution Review"
+          ],
+          "activity": "Detailed Analysis",
+          "target": "Analyze every wrong answer, identify patterns"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Weak Topics",
+          "topics": [
+            "Topics with <60% accuracy"
+          ],
+          "activity": "Targeted Practice",
+          "target": "Solve 30 questions from weak areas"
+        }
+      ],
+      "pyq_practice": [],
+      "phase": "Mock Test Phase",
+      "phase_description": "Full-length tests & detailed analysis"
     },
     {
-      "section": "Reasoning",
-      "topic_code": "RM_NV_SPATIAL",
-      "topic_name": "Spatial Ability",
-      "expected_questions": 1.5,
-      "study_hours": 2,
-      "priority": "LOW"
+      "day": 27,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:00 AM",
+          "duration": "2 hours",
+          "section": "Mock Test 5",
+          "topics": [
+            "100 Questions",
+            "Full Syllabus"
+          ],
+          "activity": "Full Mock Test",
+          "target": "Complete in 2 hours, attempt 90+ questions"
+        },
+        {
+          "time": "10:00 AM - 12:30 PM",
+          "duration": "2.5 hours",
+          "section": "Analysis",
+          "topics": [
+            "Error Analysis",
+            "Solution Review"
+          ],
+          "activity": "Detailed Analysis",
+          "target": "Analyze every wrong answer, identify patterns"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Weak Topics",
+          "topics": [
+            "Topics with <60% accuracy"
+          ],
+          "activity": "Targeted Practice",
+          "target": "Solve 30 questions from weak areas"
+        }
+      ],
+      "pyq_practice": [],
+      "phase": "Mock Test Phase",
+      "phase_description": "Full-length tests & detailed analysis"
     },
     {
-      "section": "Numerical Ability",
-      "topic_code": "NA_MIX",
-      "topic_name": "Mixture & Alligation",
-      "expected_questions": 1.399999976158142,
-      "study_hours": 2,
-      "priority": "LOW"
+      "day": 28,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "Verbal Ability",
+          "topics": [
+            "All High Priority Topics"
+          ],
+          "activity": "Rapid Revision",
+          "target": "Review notes, formulas, key facts"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "General Awareness",
+          "topics": [
+            "Key Concepts",
+            "Shortcuts"
+          ],
+          "activity": "Quick Practice",
+          "target": "Solve 50 quick questions"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Relaxation",
+          "topics": [
+            "Light Reading",
+            "Confidence Building"
+          ],
+          "activity": "Mental Preparation",
+          "target": "Stay calm, sleep early"
+        }
+      ],
+      "pyq_practice": [],
+      "phase": "Final Revision",
+      "phase_description": "Quick revision & confidence building"
     },
     {
-      "section": "General Awareness",
-      "topic_code": "GA_POLITY",
-      "topic_name": "Polity & Governance",
-      "expected_questions": 1.2999999523162842,
-      "study_hours": 2,
-      "priority": "LOW"
+      "day": 29,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "Numerical Ability",
+          "topics": [
+            "All High Priority Topics"
+          ],
+          "activity": "Rapid Revision",
+          "target": "Review notes, formulas, key facts"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "Reasoning",
+          "topics": [
+            "Key Concepts",
+            "Shortcuts"
+          ],
+          "activity": "Quick Practice",
+          "target": "Solve 50 quick questions"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Relaxation",
+          "topics": [
+            "Light Reading",
+            "Confidence Building"
+          ],
+          "activity": "Mental Preparation",
+          "target": "Stay calm, sleep early"
+        }
+      ],
+      "pyq_practice": [],
+      "phase": "Final Revision",
+      "phase_description": "Quick revision & confidence building"
     },
     {
-      "section": "General Awareness",
-      "topic_code": "GA_CURR",
-      "topic_name": "Current Affairs",
-      "expected_questions": 1.2999999523162842,
-      "study_hours": 2,
-      "priority": "LOW"
+      "day": 30,
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "6:00 AM - 8:30 AM",
+          "duration": "2.5 hours",
+          "section": "All Sections",
+          "topics": [
+            "All High Priority Topics"
+          ],
+          "activity": "Rapid Revision",
+          "target": "Review notes, formulas, key facts"
+        },
+        {
+          "time": "10:00 AM - 12:00 PM",
+          "duration": "2 hours",
+          "section": "All Sections",
+          "topics": [
+            "Key Concepts",
+            "Shortcuts"
+          ],
+          "activity": "Quick Practice",
+          "target": "Solve 50 quick questions"
+        },
+        {
+          "time": "4:00 PM - 5:30 PM",
+          "duration": "1.5 hours",
+          "section": "Relaxation",
+          "topics": [
+            "Light Reading",
+            "Confidence Building"
+          ],
+          "activity": "Mental Preparation",
+          "target": "Stay calm, sleep early"
+        }
+      ],
+      "pyq_practice": [],
+      "phase": "Final Revision",
+      "phase_description": "Quick revision & confidence building"
     }
   ],
-  "weekly_schedule": [
+  "top_priority_topics": [
     {
-      "week": 1,
-      "topics": [
-        "RM_VR_LOG",
-        "RM_VR_CODING",
-        "VA_REARR"
-      ],
-      "hours": 24
+      "topic": "Awards",
+      "section": "General Awareness",
+      "predicted_count": 6.3,
+      "priority_score": 8.79
     },
     {
-      "week": 2,
-      "topics": [
-        "GA_DEF",
-        "VA_CLOZE",
-        "GA_ENV",
-        "RM_VR_CLASS"
-      ],
-      "hours": 26
+      "topic": "Logical Reasoning (Verbal)",
+      "section": "Reasoning",
+      "predicted_count": 4.9,
+      "priority_score": 6.98
     },
     {
-      "week": 3,
-      "topics": [
-        "NA_PL",
-        "VA_COMP",
-        "VA_ERR",
-        "VA_IDIOM",
-        "NA_TW"
-      ],
-      "hours": 25
+      "topic": "Synonyms",
+      "section": "Verbal Ability",
+      "predicted_count": 5.1,
+      "priority_score": 4.84
     },
     {
-      "week": 4,
-      "topics": [
-        "RM_VR_SERIES",
-        "GA_SCI",
-        "VA_SYN",
-        "VA_ANT",
-        "VA_OWS"
-      ],
-      "hours": 25
+      "topic": "Static GK",
+      "section": "General Awareness",
+      "predicted_count": 4.2,
+      "priority_score": 3.99
     },
     {
-      "week": 5,
-      "topics": [
-        "GA_ORG",
-        "RM_VR_ANALOGY",
-        "GA_SPORTS",
-        "GA_AWARDS",
-        "RM_NV_PATTERN"
-      ],
-      "hours": 25
+      "topic": "Verbal Analogy",
+      "section": "Reasoning",
+      "predicted_count": 4.3,
+      "priority_score": 3.87
     },
     {
-      "week": 6,
-      "topics": [
-        "NA_NUM",
-        "NA_RAT",
-        "NA_AVG",
-        "VA_ANALOGY",
-        "RM_NV_SPATIAL",
-        "NA_MIX",
-        "GA_POLITY",
-        "GA_CURR",
-        "GA_GEO_IND",
-        "NA_PER",
-        "NA_MENSA",
-        "GA_HIST_MOD"
-      ],
-      "hours": 24
+      "topic": "Idioms & Phrases",
+      "section": "Verbal Ability",
+      "predicted_count": 4.0,
+      "priority_score": 3.8
     },
     {
-      "week": 7,
-      "topics": [
-        "VA_SENT",
-        "VA_GRAM",
-        "GA_GEO_WORLD",
-        "NA_CI",
-        "GA_ECON",
-        "RM_NV_VENN",
-        "RM_VR_SYLL",
-        "NA_SIM",
-        "NA_SI",
-        "NA_SPD",
-        "NA_AREA",
-        "NA_ALG"
-      ],
-      "hours": 24
+      "topic": "General Science",
+      "section": "General Awareness",
+      "predicted_count": 3.7,
+      "priority_score": 3.52
     },
     {
-      "week": 8,
-      "topics": [
-        "RM_NV_ORIENT",
-        "GA_HIST_ANC",
-        "GA_HIST_MED",
-        "GA_CULTURE",
-        "NA_STAT",
-        "GA_BOOKS",
-        "NA_HCF",
-        "NA_DEC",
-        "RM_NV_MIRROR",
-        "RM_NV_CUBES",
-        "RM_VR_BLOOD",
-        "RM_VR_ORDER"
-      ],
-      "hours": 24
+      "topic": "Para Jumbles",
+      "section": "Verbal Ability",
+      "predicted_count": 2.8,
+      "priority_score": 3.36
+    },
+    {
+      "topic": "Verbal Classification",
+      "section": "Reasoning",
+      "predicted_count": 3.5,
+      "priority_score": 3.32
+    },
+    {
+      "topic": "Spotting Errors",
+      "section": "Verbal Ability",
+      "predicted_count": 3.3,
+      "priority_score": 3.14
+    },
+    {
+      "topic": "Reading Comprehension",
+      "section": "Verbal Ability",
+      "predicted_count": 3.1,
+      "priority_score": 2.94
+    },
+    {
+      "topic": "Mixtures and Alligations",
+      "section": "Numerical Ability",
+      "predicted_count": 2.0,
+      "priority_score": 2.85
+    },
+    {
+      "topic": "Cloze Test",
+      "section": "Verbal Ability",
+      "predicted_count": 3.0,
+      "priority_score": 2.79
+    },
+    {
+      "topic": "Non-Verbal Series",
+      "section": "Reasoning",
+      "predicted_count": 2.8,
+      "priority_score": 2.66
+    },
+    {
+      "topic": "Venn Diagrams",
+      "section": "Reasoning",
+      "predicted_count": 2.8,
+      "priority_score": 2.66
     }
-  ],
-  "revision_days": 7,
-  "mock_test_days": [
-    46,
-    53,
-    59
   ]
 }

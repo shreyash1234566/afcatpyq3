@@ -1,0 +1,143 @@
+{
+  "target_score": 170,
+  "required_topics": 17,
+  "potential_marks": 186.29999999999998,
+  "topics": [
+    {
+      "topic": "Awards",
+      "section": "General Awareness",
+      "predicted_qs": 4.8,
+      "potential_marks": 14.399999999999999,
+      "roi": 13.68,
+      "confidence": 0.95
+    },
+    {
+      "topic": "Verbal Classification",
+      "section": "Reasoning",
+      "predicted_qs": 4.3,
+      "potential_marks": 12.899999999999999,
+      "roi": 12.254999999999999,
+      "confidence": 0.95
+    },
+    {
+      "topic": "Logical Reasoning (Verbal)",
+      "section": "Reasoning",
+      "predicted_qs": 4.3,
+      "potential_marks": 12.899999999999999,
+      "roi": 12.126,
+      "confidence": 0.94
+    },
+    {
+      "topic": "Verbal Analogy",
+      "section": "Reasoning",
+      "predicted_qs": 4.3,
+      "potential_marks": 12.899999999999999,
+      "roi": 11.61,
+      "confidence": 0.9
+    },
+    {
+      "topic": "Static GK",
+      "section": "General Awareness",
+      "predicted_qs": 4.0,
+      "potential_marks": 12.0,
+      "roi": 11.399999999999999,
+      "confidence": 0.95
+    },
+    {
+      "topic": "Cloze Test",
+      "section": "Verbal Ability",
+      "predicted_qs": 3.8,
+      "potential_marks": 11.399999999999999,
+      "roi": 10.716,
+      "confidence": 0.94
+    },
+    {
+      "topic": "General Science",
+      "section": "General Awareness",
+      "predicted_qs": 3.6,
+      "potential_marks": 10.8,
+      "roi": 10.26,
+      "confidence": 0.95
+    },
+    {
+      "topic": "Spotting Errors",
+      "section": "Verbal Ability",
+      "predicted_qs": 3.5,
+      "potential_marks": 10.5,
+      "roi": 9.975,
+      "confidence": 0.95
+    },
+    {
+      "topic": "Synonyms",
+      "section": "Verbal Ability",
+      "predicted_qs": 3.5,
+      "potential_marks": 10.5,
+      "roi": 9.975,
+      "confidence": 0.95
+    },
+    {
+      "topic": "Idioms & Phrases",
+      "section": "Verbal Ability",
+      "predicted_qs": 3.5,
+      "potential_marks": 10.5,
+      "roi": 9.975,
+      "confidence": 0.95
+    },
+    {
+      "topic": "Reading Comprehension",
+      "section": "Verbal Ability",
+      "predicted_qs": 3.4,
+      "potential_marks": 10.2,
+      "roi": 9.69,
+      "confidence": 0.95
+    },
+    {
+      "topic": "Venn Diagrams",
+      "section": "Reasoning",
+      "predicted_qs": 3.4,
+      "potential_marks": 10.2,
+      "roi": 9.69,
+      "confidence": 0.95
+    },
+    {
+      "topic": "Mixtures and Alligations",
+      "section": "Numerical Ability",
+      "predicted_qs": 3.3,
+      "potential_marks": 9.899999999999999,
+      "roi": 9.405,
+      "confidence": 0.95
+    },
+    {
+      "topic": "Non-Verbal Series",
+      "section": "Reasoning",
+      "predicted_qs": 3.3,
+      "potential_marks": 9.899999999999999,
+      "roi": 9.405,
+      "confidence": 0.95
+    },
+    {
+      "topic": "Coding-Decoding",
+      "section": "Reasoning",
+      "predicted_qs": 3.2,
+      "potential_marks": 9.600000000000001,
+      "roi": 9.120000000000001,
+      "confidence": 0.95
+    },
+    {
+      "topic": "Fill in the Blanks",
+      "section": "Verbal Ability",
+      "predicted_qs": 3.0,
+      "potential_marks": 9.0,
+      "roi": 8.549999999999999,
+      "confidence": 0.95
+    },
+    {
+      "topic": "Defence & Military",
+      "section": "General Awareness",
+      "predicted_qs": 2.9,
+      "potential_marks": 8.7,
+      "roi": 8.265,
+      "confidence": 0.95
+    }
+  ]
+}

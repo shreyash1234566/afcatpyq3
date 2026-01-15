@@ -1,0 +1,3116 @@
+QuestionID | Topic Name | Subject/Section
+--------------------------------------------------
+    1 | Reading Comprehension | Verbal Ability
+    2 | Reading Comprehension | Verbal Ability
+    3 | Reading Comprehension | Verbal Ability
+    4 | Reading Comprehension | Verbal Ability
+    5 | Error Detection | Verbal Ability
+    6 | Error Detection | Verbal Ability
+    7 | Error Detection | Verbal Ability
+    8 | Error Detection | Verbal Ability
+    9 | Error Detection | Verbal Ability
+   10 | Sentence Completion | Verbal Ability
+   11 | Sentence Completion | Verbal Ability
+   12 | Sentence Completion | Verbal Ability
+   13 | Sentence Completion | Verbal Ability
+   14 | Sentence Completion | Verbal Ability
+   15 | Synonyms | Verbal Ability
+   16 | Synonyms | Verbal Ability
+   17 | Synonyms | Verbal Ability
+   18 | Antonyms | Verbal Ability
+   19 | Antonyms | Verbal Ability
+   20 | Antonyms | Verbal Ability
+   21 | Medieval History | General Awareness
+   22 | Ancient History | General Awareness
+   23 | Polity | General Awareness
+   24 | Modern History | General Awareness
+   25 | Sports | General Awareness
+   26 | Awards | General Awareness
+   27 | Personalities | General Awareness
+   28 | Sports | General Awareness
+   29 | Indian Geography | General Awareness
+   30 | Science | General Awareness
+   31 | Science | General Awareness
+   32 | Polity | General Awareness
+   33 | Defence | General Awareness
+   34 | Science | General Awareness
+   35 | Indian Geography | General Awareness
+   36 | World Geography | General Awareness
+   37 | World Geography | General Awareness
+   38 | Defence | General Awareness
+   39 | Organizations | General Awareness
+   40 | Books and Authors | General Awareness
+   41 | Ratio and Proportion | Numerical Ability
+   42 | Mixtures and Alligations | Numerical Ability
+   43 | Ratio and Proportion | Numerical Ability
+   44 | Average | Numerical Ability
+   45 | Ratio and Proportion | Numerical Ability
+   46 | Average | Numerical Ability
+   47 | Profit and Loss | Numerical Ability
+   48 | Profit and Loss | Numerical Ability
+   49 | Profit and Loss | Numerical Ability
+   50 | Percentage | Numerical Ability
+   51 | Percentage | Numerical Ability
+   52 | Mixtures and Alligations | Numerical Ability
+   53 | Ratio and Proportion | Numerical Ability
+   54 | Average | Numerical Ability
+   55 | Mixtures and Alligations | Numerical Ability
+   56 | Simple Interest | Numerical Ability
+   57 | Simple Interest | Numerical Ability
+   58 | Simple Interest | Numerical Ability
+   59 | Simplification | Numerical Ability
+   60 | Decimals and Fractions | Numerical Ability
+   61 | Verbal Analogy | Reasoning
+   62 | Verbal Analogy | Reasoning
+   63 | Verbal Analogy | Reasoning
+   64 | Verbal Analogy | Reasoning
+   65 | Verbal Analogy | Reasoning
+   66 | Verbal Analogy | Reasoning
+   67 | Verbal Analogy | Reasoning
+   68 | Verbal Analogy | Reasoning
+   69 | Verbal Analogy | Reasoning
+   70 | Verbal Analogy | Reasoning
+   71 | Verbal Analogy | Reasoning
+   72 | Verbal Analogy | Reasoning
+   73 | Verbal Analogy | Reasoning
+   74 | Verbal Analogy | Reasoning
+   75 | Verbal Analogy | Reasoning
+   76 | Verbal Analogy | Reasoning
+   77 | Verbal Analogy | Reasoning
+   78 | Verbal Analogy | Reasoning
+   79 | Verbal Analogy | Reasoning
+   80 | Verbal Analogy | Reasoning
+   81 | Verbal Classification | Reasoning
+   82 | Verbal Analogy | Reasoning
+   83 | Verbal Logic | Reasoning
+   84 | Verbal Series | Reasoning
+   85 | Verbal Series | Reasoning
+   86 | Verbal Series | Reasoning
+   87 | Verbal Series | Reasoning
+   88 | Verbal Series | Reasoning
+   89 | Verbal Series | Reasoning
+   90 | Verbal Series | Reasoning
+   91 | Non-Verbal Series | Reasoning
+   92 | Non-Verbal Series | Reasoning
+   93 | Non-Verbal Series | Reasoning
+   94 | Non-Verbal Series | Reasoning
+   95 | Non-Verbal Series | Reasoning
+   96 | Non-Verbal Classification | Reasoning
+   97 | Non-Verbal Orientation | Reasoning
+   98 | Non-Verbal Orientation | Reasoning
+   99 | Non-Verbal Analogy | Reasoning
+  100 | Non-Verbal Classification | Reasoning
+  101 | Reading Comprehension | Verbal Ability
+  102 | Reading Comprehension | Verbal Ability
+  103 | Reading Comprehension | Verbal Ability
+  104 | Reading Comprehension | Verbal Ability
+  105 | Reading Comprehension | Verbal Ability
+  106 | Error Detection | Verbal Ability
+  107 | Error Detection | Verbal Ability
+  108 | Error Detection | Verbal Ability
+  109 | Error Detection | Verbal Ability
+  110 | Error Detection | Verbal Ability
+  111 | Sentence Completion | Verbal Ability
+  112 | Sentence Completion | Verbal Ability
+  113 | Sentence Completion | Verbal Ability
+  114 | Sentence Completion | Verbal Ability
+  115 | Sentence Completion | Verbal Ability
+  116 | Synonyms | Verbal Ability
+  117 | Synonyms | Verbal Ability
+  118 | Synonyms | Verbal Ability
+  119 | Antonyms | Verbal Ability
+  120 | Antonyms | Verbal Ability
+  121 | Ancient History | General Awareness
+  122 | Ancient History | General Awareness
+  123 | Modern History | General Awareness
+  124 | Modern History | General Awareness
+  125 | Indian Geography | General Awareness
+  126 | Indian Geography | General Awareness
+  127 | Indian Geography | General Awareness
+  128 | World Geography | General Awareness
+  129 | Environment | General Awareness
+  130 | Science | General Awareness
+  131 | Science | General Awareness
+  132 | Books and Authors | General Awareness
+  133 | Organizations | General Awareness
+  134 | Science | General Awareness
+  135 | World Geography | General Awareness
+  136 | Personalities | General Awareness
+  137 | Sports | General Awareness
+  138 | Sports | General Awareness
+  139 | Awards | General Awareness
+  140 | Sports | General Awareness
+  141 | Verbal Classification | Reasoning
+  142 | Verbal Classification | Reasoning
+  143 | Verbal Classification | Reasoning
+  144 | Verbal Classification | Reasoning
+  145 | Verbal Classification | Reasoning
+  146 | Verbal Analogy | Reasoning
+  147 | Verbal Analogy | Reasoning
+  148 | Verbal Analogy | Reasoning
+  149 | Verbal Analogy | Reasoning
+  150 | Verbal Analogy | Reasoning
+  151 | Verbal Analogy | Reasoning
+  152 | Verbal Analogy | Reasoning
+  153 | Verbal Analogy | Reasoning
+  154 | Verbal Analogy | Reasoning
+  155 | Verbal Analogy | Reasoning
+  156 | Verbal Analogy | Reasoning
+  157 | Verbal Analogy | Reasoning
+  158 | Verbal Analogy | Reasoning
+  159 | Verbal Analogy | Reasoning
+  160 | Verbal Analogy | Reasoning
+  161 | Percentage | Numerical Ability
+  162 | Simple Interest | Numerical Ability
+  163 | Decimals and Fractions | Numerical Ability
+  164 | Simplification | Numerical Ability
+  165 | Simplification | Numerical Ability
+  166 | Average | Numerical Ability
+  167 | Average | Numerical Ability
+  168 | Average | Numerical Ability
+  169 | Percentage | Numerical Ability
+  170 | Percentage | Numerical Ability
+  171 | Percentage | Numerical Ability
+  172 | Profit and Loss | Numerical Ability
+  173 | Profit and Loss | Numerical Ability
+  174 | Profit and Loss | Numerical Ability
+  175 | Ratio and Proportion | Numerical Ability
+  176 | Algebra | Numerical Ability
+  177 | Algebra | Numerical Ability
+  178 | Ratio and Proportion | Numerical Ability
+  179 | Ratio and Proportion | Numerical Ability
+  180 | Ratio and Proportion | Numerical Ability
+  181 | Non-Verbal Spatial | Reasoning
+  182 | Non-Verbal Spatial | Reasoning
+  183 | Non-Verbal Spatial | Reasoning
+  184 | Non-Verbal Spatial | Reasoning
+  185 | Non-Verbal Orientation | Reasoning
+  186 | Non-Verbal Pattern | Reasoning
+  187 | Non-Verbal Pattern | Reasoning
+  188 | Non-Verbal Pattern | Reasoning
+  189 | Non-Verbal Pattern | Reasoning
+  190 | Non-Verbal Pattern | Reasoning
+  191 | Non-Verbal Spatial | Reasoning
+  192 | Non-Verbal Spatial | Reasoning
+  193 | Non-Verbal Spatial | Reasoning
+  194 | Non-Verbal Spatial | Reasoning
+  195 | Non-Verbal Spatial | Reasoning
+  196 | Non-Verbal Puzzle | Reasoning
+  197 | Non-Verbal Puzzle | Reasoning
+  198 | Non-Verbal Puzzle | Reasoning
+  199 | Non-Verbal Puzzle | Reasoning
+  200 | Non-Verbal Puzzle | Reasoning
+  201 | Reading Comprehension | Verbal Ability
+  202 | Reading Comprehension | Verbal Ability
+  203 | Reading Comprehension | Verbal Ability
+  204 | Synonyms | Verbal Ability
+  205 | Synonyms | Verbal Ability
+  206 | Synonyms | Verbal Ability
+  207 | Antonyms | Verbal Ability
+  208 | Antonyms | Verbal Ability
+  209 | Antonyms | Verbal Ability
+  210 | Antonyms | Verbal Ability
+  211 | Error Spotting | Verbal Ability
+  212 | Error Spotting | Verbal Ability
+  213 | Error Spotting | Verbal Ability
+  214 | Error Spotting | Verbal Ability
+  215 | Error Spotting | Verbal Ability
+  216 | Sentence Completion | Verbal Ability
+  217 | Sentence Completion | Verbal Ability
+  218 | Sentence Completion | Verbal Ability
+  219 | Sentence Completion | Verbal Ability
+  220 | Sentence Completion | Verbal Ability
+  221 | Modern History | General Awareness
+  222 | Medieval History | General Awareness
+  223 | Modern History | General Awareness
+  224 | Indian Polity | General Awareness
+  225 | Sports | General Awareness
+  226 | Sports | General Awareness
+  227 | Sports | General Awareness
+  228 | Sports | General Awareness
+  229 | Science | General Awareness
+  230 | Economics | General Awareness
+  231 | Indian Geography | General Awareness
+  232 | Science | General Awareness
+  233 | Science | General Awareness
+  234 | Defence | General Awareness
+  235 | Defence | General Awareness
+  236 | Science | General Awareness
+  237 | Science | General Awareness
+  238 | Science | General Awareness
+  239 | Science | General Awareness
+  240 | Science | General Awareness
+  241 | Number System | Numerical Ability
+  242 | Ratio and Proportion | Numerical Ability
+  243 | Simplification | Numerical Ability
+  244 | Algebra | Numerical Ability
+  245 | Ratio and Proportion | Numerical Ability
+  246 | Simplification | Numerical Ability
+  247 | Average | Numerical Ability
+  248 | Ratio and Proportion | Numerical Ability
+  249 | Average | Numerical Ability
+  250 | Simple Interest | Numerical Ability
+  251 | Simple Interest | Numerical Ability
+  252 | Simple Interest | Numerical Ability
+  253 | Percentage | Numerical Ability
+  254 | Percentage | Numerical Ability
+  255 | Percentage | Numerical Ability
+  256 | Ratio and Proportion | Numerical Ability
+  257 | Ratio and Proportion | Numerical Ability
+  258 | Mixtures and Alligations | Numerical Ability
+  259 | Compound Interest | Numerical Ability
+  260 | Simple Interest | Numerical Ability
+  261 | Verbal Analogy | Reasoning
+  262 | Verbal Analogy | Reasoning
+  263 | Verbal Analogy | Reasoning
+  264 | Verbal Analogy | Reasoning
+  265 | Verbal Analogy | Reasoning
+  266 | Verbal Analogy | Reasoning
+  267 | Verbal Analogy | Reasoning
+  268 | Verbal Analogy | Reasoning
+  269 | Verbal Analogy | Reasoning
+  270 | Verbal Analogy | Reasoning
+  271 | Verbal Analogy | Reasoning
+  272 | Verbal Analogy | Reasoning
+  273 | Verbal Analogy | Reasoning
+  274 | Verbal Analogy | Reasoning
+  275 | Verbal Analogy | Reasoning
+  276 | Verbal Classification | Reasoning
+  277 | Verbal Classification | Reasoning
+  278 | Verbal Classification | Reasoning
+  279 | Verbal Classification | Reasoning
+  280 | Verbal Classification | Reasoning
+  281 | Non-Verbal Series | Reasoning
+  282 | Non-Verbal Series | Reasoning
+  283 | Non-Verbal Series | Reasoning
+  284 | Non-Verbal Series | Reasoning
+  285 | Non-Verbal Series | Reasoning
+  286 | Dot Situation | Reasoning
+  287 | Dot Situation | Reasoning
+  288 | Dot Situation | Reasoning
+  289 | Dot Situation | Reasoning
+  290 | Dot Situation | Reasoning
+  291 | Embedded Figures | Reasoning
+  292 | Embedded Figures | Reasoning
+  293 | Embedded Figures | Reasoning
+  294 | Embedded Figures | Reasoning
+  295 | Embedded Figures | Reasoning
+  296 | Completion of Pattern | Reasoning
+  297 | Completion of Pattern | Reasoning
+  298 | Completion of Pattern | Reasoning
+  299 | Completion of Pattern | Reasoning
+  300 | Completion of Pattern | Reasoning
+  301 | Comprehension | Verbal Ability
+  302 | Comprehension | Verbal Ability
+  303 | Comprehension | Verbal Ability
+  304 | Comprehension | Verbal Ability
+  305 | Comprehension | Verbal Ability
+  306 | Synonyms | Verbal Ability
+  307 | Synonyms | Verbal Ability
+  308 | Synonyms | Verbal Ability
+  309 | Antonyms | Verbal Ability
+  310 | Antonyms | Verbal Ability
+  311 | Error Detection | Verbal Ability
+  312 | Error Detection | Verbal Ability
+  313 | Error Detection | Verbal Ability
+  314 | Error Detection | Verbal Ability
+  315 | Error Detection | Verbal Ability
+  316 | Sentence Completion | Verbal Ability
+  317 | Sentence Completion | Verbal Ability
+  318 | Sentence Completion | Verbal Ability
+  319 | Sentence Completion | Verbal Ability
+  320 | Sentence Completion | Verbal Ability
+  321 | History - Modern | General Awareness
+  322 | History - Modern | General Awareness
+  323 | History - Medieval | General Awareness
+  324 | History - Ancient | General Awareness
+  325 | Science | General Awareness
+  326 | Sports | General Awareness
+  327 | Sports | General Awareness
+  328 | Awards | General Awareness
+  329 | Science | General Awareness
+  330 | Economy | General Awareness
+  331 | Geography - India | General Awareness
+  332 | Science | General Awareness
+  333 | Economy | General Awareness
+  334 | Defence | General Awareness
+  335 | Books | General Awareness
+  336 | Science | General Awareness
+  337 | Science | General Awareness
+  338 | Sports | General Awareness
+  339 | Science | General Awareness
+  340 | Science | General Awareness
+  341 | Number System | Numerical Ability
+  342 | Average | Numerical Ability
+  343 | Algebra | Numerical Ability
+  344 | Algebra | Numerical Ability
+  345 | Ratio & Proportion | Numerical Ability
+  346 | Simplification | Numerical Ability
+  347 | Percentage | Numerical Ability
+  348 | Average | Numerical Ability
+  349 | Ratio & Proportion | Numerical Ability
+  350 | Simple Interest | Numerical Ability
+  351 | Simple Interest | Numerical Ability
+  352 | Simple Interest | Numerical Ability
+  353 | Percentage | Numerical Ability
+  354 | Percentage | Numerical Ability
+  355 | Percentage | Numerical Ability
+  356 | Ratio & Proportion | Numerical Ability
+  357 | Compound Interest | Numerical Ability
+  358 | Ratio & Proportion | Numerical Ability
+  359 | Mixture & Alligation | Numerical Ability
+  360 | Simple Interest | Numerical Ability
+  361 | Verbal Classification | Reasoning
+  362 | Verbal Classification | Reasoning
+  363 | Verbal Classification | Reasoning
+  364 | Verbal Classification | Reasoning
+  365 | Verbal Classification | Reasoning
+  366 | Verbal Analogy | Reasoning
+  367 | Verbal Analogy | Reasoning
+  368 | Verbal Analogy | Reasoning
+  369 | Verbal Analogy | Reasoning
+  370 | Verbal Analogy | Reasoning
+  371 | Verbal Classification | Reasoning
+  372 | Verbal Classification | Reasoning
+  373 | Verbal Classification | Reasoning
+  374 | Verbal Classification | Reasoning
+  375 | Verbal Classification | Reasoning
+  376 | Verbal Classification | Reasoning
+  377 | Verbal Classification | Reasoning
+  378 | Verbal Classification | Reasoning
+  379 | Verbal Classification | Reasoning
+  380 | Verbal Classification | Reasoning
+  381 | Non-Verbal Series | Reasoning
+  382 | Non-Verbal Series | Reasoning
+  383 | Non-Verbal Series | Reasoning
+  384 | Non-Verbal Series | Reasoning
+  385 | Non-Verbal Series | Reasoning
+  386 | Pattern | Reasoning
+  387 | Pattern | Reasoning
+  388 | Pattern | Reasoning
+  389 | Pattern | Reasoning
+  390 | Pattern | Reasoning
+  391 | Spatial Ability | Reasoning
+  392 | Spatial Ability | Reasoning
+  393 | Spatial Ability | Reasoning
+  394 | Spatial Ability | Reasoning
+  395 | Spatial Ability | Reasoning
+  396 | Pattern | Reasoning
+  397 | Pattern | Reasoning
+  398 | Pattern | Reasoning
+  399 | Pattern | Reasoning
+  400 | Pattern | Reasoning
+  401 | Reading Comprehension | Verbal Ability
+  402 | Reading Comprehension | Verbal Ability
+  403 | Reading Comprehension | Verbal Ability
+  404 | Reading Comprehension | Verbal Ability
+  405 | Cloze Test | Verbal Ability
+  406 | Cloze Test | Verbal Ability
+  407 | Cloze Test | Verbal Ability
+  408 | Cloze Test | Verbal Ability
+  409 | Cloze Test | Verbal Ability
+  410 | Cloze Test | Verbal Ability
+  411 | Synonyms | Verbal Ability
+  412 | Synonyms | Verbal Ability
+  413 | Antonyms | Verbal Ability
+  414 | Antonyms | Verbal Ability
+  415 | Antonyms | Verbal Ability
+  416 | One Word Substitution | Verbal Ability
+  417 | One Word Substitution | Verbal Ability
+  418 | One Word Substitution | Verbal Ability
+  419 | One Word Substitution | Verbal Ability
+  420 | One Word Substitution | Verbal Ability
+  421 | Grammar | Verbal Ability
+  422 | Grammar | Verbal Ability
+  423 | Grammar | Verbal Ability
+  424 | Grammar | Verbal Ability
+  425 | Grammar | Verbal Ability
+  426 | Modern History | General Awareness
+  427 | Polity | General Awareness
+  428 | World Geography | General Awareness
+  429 | Science | General Awareness
+  430 | Organizations | General Awareness
+  431 | Defence | General Awareness
+  432 | Science | General Awareness
+  433 | Ancient History | General Awareness
+  434 | Modern History | General Awareness
+  435 | Polity | General Awareness
+  436 | Indian Geography | General Awareness
+  437 | Personalities | General Awareness
+  438 | Sports | General Awareness
+  439 | Science | General Awareness
+  440 | Science | General Awareness
+  441 | Science | General Awareness
+  442 | Personalities | General Awareness
+  443 | Awards | General Awareness
+  444 | World Geography | General Awareness
+  445 | Books | General Awareness
+  446 | Polity | General Awareness
+  447 | World Geography | General Awareness
+  448 | Verbal Series | Reasoning
+  449 | Verbal Series | Reasoning
+  450 | Verbal Series | Reasoning
+  451 | Verbal Coding | Reasoning
+  452 | Verbal Coding | Reasoning
+  453 | Verbal Analogy | Reasoning
+  454 | Verbal Analogy | Reasoning
+  455 | Verbal Analogy | Reasoning
+  456 | Syllogism | Reasoning
+  457 | Syllogism | Reasoning
+  458 | Syllogism | Reasoning
+  459 | Verbal Logic | Reasoning
+  460 | Verbal Logic | Reasoning
+  461 | Verbal Classification | Reasoning
+  462 | Verbal Classification | Reasoning
+  463 | Verbal Analogy | Reasoning
+  464 | Verbal Analogy | Reasoning
+  465 | Verbal Analogy | Reasoning
+  466 | Verbal Analogy | Reasoning
+  467 | Verbal Analogy | Reasoning
+  468 | Verbal Analogy | Reasoning
+  469 | Verbal Analogy | Reasoning
+  470 | Verbal Analogy | Reasoning
+  471 | Percentage | Numerical Ability
+  472 | Profit and Loss | Numerical Ability
+  473 | Profit and Loss | Numerical Ability
+  474 | Average | Numerical Ability
+  475 | Average | Numerical Ability
+  476 | LCM | Numerical Ability
+  477 | Time and Work | Numerical Ability
+  478 | Simplification | Numerical Ability
+  479 | Average | Numerical Ability
+  480 | Time and Work | Numerical Ability
+  481 | Ratio and Proportion | Numerical Ability
+  482 | Number System | Numerical Ability
+  483 | Simple Interest | Numerical Ability
+  484 | Simple Interest | Numerical Ability
+  485 | Algebra | Numerical Ability
+  486 | Non-Verbal Pattern | Reasoning
+  487 | Non-Verbal Pattern | Reasoning
+  488 | Non-Verbal Pattern | Reasoning
+  489 | Non-Verbal Pattern | Reasoning
+  490 | Non-Verbal Analogy | Reasoning
+  491 | Non-Verbal Series | Reasoning
+  492 | Non-Verbal Series | Reasoning
+  493 | Non-Verbal Series | Reasoning
+  494 | Non-Verbal Classification | Reasoning
+  495 | Non-Verbal Classification | Reasoning
+  496 | Non-Verbal Classification | Reasoning
+  497 | Non-Verbal Classification | Reasoning
+  498 | Non-Verbal Pattern | Reasoning
+  499 | Non-Verbal Pattern | Reasoning
+  500 | Non-Verbal Pattern | Reasoning
+  501 | Cloze Test | Verbal Ability
+  502 | Cloze Test | Verbal Ability
+  503 | Cloze Test | Verbal Ability
+  504 | Cloze Test | Verbal Ability
+  505 | Cloze Test | Verbal Ability
+  506 | Cloze Test | Verbal Ability
+  507 | Reading Comprehension | Verbal Ability
+  508 | Reading Comprehension | Verbal Ability
+  509 | Reading Comprehension | Verbal Ability
+  510 | Synonyms | Verbal Ability
+  511 | Synonyms | Verbal Ability
+  512 | Synonyms | Verbal Ability
+  513 | Synonyms | Verbal Ability
+  514 | Antonyms | Verbal Ability
+  515 | Antonyms | Verbal Ability
+  516 | Antonyms | Verbal Ability
+  517 | Antonyms | Verbal Ability
+  518 | Idioms and Phrases | Verbal Ability
+  519 | Idioms and Phrases | Verbal Ability
+  520 | Idioms and Phrases | Verbal Ability
+  521 | Idioms and Phrases | Verbal Ability
+  522 | Grammar (Spellings) | Verbal Ability
+  523 | Grammar (Spellings) | Verbal Ability
+  524 | Grammar (Spellings) | Verbal Ability
+  525 | Grammar (Spellings) | Verbal Ability
+  526 | Idioms and Phrases | Verbal Ability
+  527 | Idioms and Phrases | Verbal Ability
+  528 | Idioms and Phrases | Verbal Ability
+  529 | Idioms and Phrases | Verbal Ability
+  530 | Ancient History | General Awareness
+  531 | Modern History | General Awareness
+  532 | Polity | General Awareness
+  533 | General Science | General Awareness
+  534 | Books and Authors | General Awareness
+  535 | World Geography | General Awareness
+  536 | Sports | General Awareness
+  537 | Personalities | General Awareness
+  538 | Modern History | General Awareness
+  539 | Current Affairs | General Awareness
+  540 | Polity | General Awareness
+  541 | World Geography | General Awareness
+  542 | Defence | General Awareness
+  543 | World Geography | General Awareness
+  544 | Modern History | General Awareness
+  545 | World Geography | General Awareness
+  546 | Culture | General Awareness
+  547 | Profit and Loss | Numerical Ability
+  548 | Number System | Numerical Ability
+  549 | Problems on Trains | Numerical Ability
+  550 | Time and Work | Numerical Ability
+  551 | Average | Numerical Ability
+  552 | Percentage | Numerical Ability
+  553 | Area | Numerical Ability
+  554 | Decimal Fractions | Numerical Ability
+  555 | Time and Work | Numerical Ability
+  556 | Ratio and Proportion | Numerical Ability
+  557 | Speed, Time and Distance | Numerical Ability
+  558 | Ratio and Proportion | Numerical Ability
+  559 | Compound Interest | Numerical Ability
+  560 | Problems on Trains | Numerical Ability
+  561 | Percentage | Numerical Ability
+  562 | Percentage | Numerical Ability
+  563 | Simple Interest | Numerical Ability
+  564 | Time and Work | Numerical Ability
+  565 | Boats and Streams | Numerical Ability
+  566 | Venn Diagram (Verbal) | Reasoning
+  567 | Venn Diagram (Verbal) | Reasoning
+  568 | Venn Diagram (Verbal) | Reasoning
+  569 | Venn Diagram (Verbal) | Reasoning
+  570 | Venn Diagram (Verbal) | Reasoning
+  571 | Verbal Analogy | Reasoning
+  572 | Verbal Analogy | Reasoning
+  573 | Verbal Analogy | Reasoning
+  574 | Verbal Analogy | Reasoning
+  575 | Verbal Analogy | Reasoning
+  576 | Verbal Classification | Reasoning
+  577 | Verbal Classification | Reasoning
+  578 | Verbal Classification | Reasoning
+  579 | Verbal Classification | Reasoning
+  580 | Verbal Classification | Reasoning
+  581 | Logical Reasoning | Reasoning
+  582 | Logical Reasoning | Reasoning
+  583 | Logical Reasoning | Reasoning
+  584 | Logical Reasoning | Reasoning
+  585 | Logical Reasoning | Reasoning
+  586 | Non-Verbal Series | Reasoning
+  587 | Non-Verbal Series | Reasoning
+  588 | Non-Verbal Series | Reasoning
+  589 | Non-Verbal Series | Reasoning
+  590 | Non-Verbal Analogy | Reasoning
+  591 | Non-Verbal Analogy | Reasoning
+  592 | Non-Verbal Analogy | Reasoning
+  593 | Non-Verbal Analogy | Reasoning
+  594 | Non-Verbal Classification | Reasoning
+  595 | Non-Verbal Classification | Reasoning
+  596 | Non-Verbal Classification | Reasoning
+  597 | Non-Verbal Classification | Reasoning
+  598 | Pattern Completion | Reasoning
+  599 | Pattern Completion | Reasoning
+  600 | Pattern Completion | Reasoning
+  601 | Idioms and Phrases | Verbal Ability
+  602 | Idioms and Phrases | Verbal Ability
+  603 | Idioms and Phrases | Verbal Ability
+  604 | One Word Substitution | Verbal Ability
+  605 | Cloze Test | Verbal Ability
+  606 | Cloze Test | Verbal Ability
+  607 | Cloze Test | Verbal Ability
+  608 | Cloze Test | Verbal Ability
+  609 | Cloze Test | Verbal Ability
+  610 | Cloze Test | Verbal Ability
+  611 | Synonyms | Verbal Ability
+  612 | Synonyms | Verbal Ability
+  613 | Synonyms | Verbal Ability
+  614 | Synonyms | Verbal Ability
+  615 | Antonyms | Verbal Ability
+  616 | Antonyms | Verbal Ability
+  617 | Antonyms | Verbal Ability
+  618 | Antonyms | Verbal Ability
+  619 | Comprehension | Verbal Ability
+  620 | Comprehension | Verbal Ability
+  621 | Comprehension | Verbal Ability
+  622 | Idioms and Phrases | Verbal Ability
+  623 | Idioms and Phrases | Verbal Ability
+  624 | Idioms and Phrases | Verbal Ability
+  625 | One Word Substitution | Verbal Ability
+  626 | Spelling Test | Verbal Ability
+  627 | Spelling Test | Verbal Ability
+  628 | Spelling Test | Verbal Ability
+  629 | Spelling Test | Verbal Ability
+  630 | Time and Work | Numerical Ability
+  631 | Boats and Streams | Numerical Ability
+  632 | Boats and Streams | Numerical Ability
+  633 | Simple Interest | Numerical Ability
+  634 | Compound Interest | Numerical Ability
+  635 | Profit and Loss | Numerical Ability
+  636 | Speed, Distance and Time | Numerical Ability
+  637 | Trains | Numerical Ability
+  638 | Percentage | Numerical Ability
+  639 | Percentage | Numerical Ability
+  640 | Average | Numerical Ability
+  641 | Time and Work | Numerical Ability
+  642 | Polity | General Awareness
+  643 | Books and Authors | General Awareness
+  644 | Books and Authors | General Awareness
+  645 | Defence | General Awareness
+  646 | Current Affairs | General Awareness
+  647 | Sports | General Awareness
+  648 | Current Affairs | General Awareness
+  649 | Defence | General Awareness
+  650 | Science | General Awareness
+  651 | Organizations | General Awareness
+  652 | Awards | General Awareness
+  653 | Science | General Awareness
+  654 | Organizations | General Awareness
+  655 | Defence | General Awareness
+  656 | Current Affairs | General Awareness
+  657 | Environment | General Awareness
+  658 | Sports | General Awareness
+  659 | Modern History | General Awareness
+  660 | Ancient History | General Awareness
+  661 | Ancient History | General Awareness
+  662 | Medieval History | General Awareness
+  663 | Ancient History | General Awareness
+  664 | Defence | General Awareness
+  665 | Sports | General Awareness
+  666 | Verbal Analogy | Reasoning
+  667 | Verbal Analogy | Reasoning
+  668 | Verbal Analogy | Reasoning
+  669 | Verbal Analogy | Reasoning
+  670 | Verbal Analogy | Reasoning
+  671 | Venn Diagram | Reasoning
+  672 | Venn Diagram | Reasoning
+  673 | Venn Diagram | Reasoning
+  674 | Venn Diagram | Reasoning
+  675 | Venn Diagram | Reasoning
+  676 | Non-Verbal Pattern Completion | Reasoning
+  677 | Non-Verbal Pattern Completion | Reasoning
+  678 | Non-Verbal Pattern Completion | Reasoning
+  679 | Non-Verbal Pattern Completion | Reasoning
+  680 | Non-Verbal Pattern Completion | Reasoning
+  681 | Non-Verbal Series | Reasoning
+  682 | Non-Verbal Series | Reasoning
+  683 | Non-Verbal Series | Reasoning
+  684 | Non-Verbal Series | Reasoning
+  685 | Non-Verbal Series | Reasoning
+  686 | Verbal Classification | Reasoning
+  687 | Verbal Classification | Reasoning
+  688 | Verbal Classification | Reasoning
+  689 | Verbal Classification | Reasoning
+  690 | Verbal Classification | Reasoning
+  691 | Non-Verbal Classification | Reasoning
+  692 | Non-Verbal Classification | Reasoning
+  693 | Non-Verbal Classification | Reasoning
+  694 | Non-Verbal Classification | Reasoning
+  695 | Non-Verbal Classification | Reasoning
+  696 | Non-Verbal Analogy | Reasoning
+  697 | Non-Verbal Analogy | Reasoning
+  698 | Non-Verbal Analogy | Reasoning
+  699 | Non-Verbal Analogy | Reasoning
+  700 | Non-Verbal Analogy | Reasoning
+  701 | Idioms & Phrases | Verbal Ability
+  702 | Idioms & Phrases | Verbal Ability
+  703 | Idioms & Phrases | Verbal Ability
+  704 | Idioms & Phrases | Verbal Ability
+  705 | Idioms & Phrases | Verbal Ability
+  706 | Idioms & Phrases | Verbal Ability
+  707 | Idioms & Phrases | Verbal Ability
+  708 | Idioms & Phrases | Verbal Ability
+  709 | Spelling | Verbal Ability
+  710 | Spelling | Verbal Ability
+  711 | Spelling | Verbal Ability
+  712 | Spelling | Verbal Ability
+  713 | Spelling | Verbal Ability
+  714 | Reading Comprehension | Verbal Ability
+  715 | Reading Comprehension | Verbal Ability
+  716 | Reading Comprehension | Verbal Ability
+  717 | Synonyms | Verbal Ability
+  718 | Synonyms | Verbal Ability
+  719 | Synonyms | Verbal Ability
+  720 | Synonyms | Verbal Ability
+  721 | Antonyms | Verbal Ability
+  722 | Antonyms | Verbal Ability
+  723 | Antonyms | Verbal Ability
+  724 | Antonyms | Verbal Ability
+  725 | Cloze Test | Verbal Ability
+  726 | Cloze Test | Verbal Ability
+  727 | Cloze Test | Verbal Ability
+  728 | Cloze Test | Verbal Ability
+  729 | Cloze Test | Verbal Ability
+  730 | Cloze Test | Verbal Ability
+  731 | History - Medieval | General Awareness
+  732 | History - Modern | General Awareness
+  733 | History - Modern | General Awareness
+  734 | Polity / Organizations | General Awareness
+  735 | Current Affairs (2015) | General Awareness
+  736 | General Science | General Awareness
+  737 | Sports | General Awareness
+  738 | Sports | General Awareness
+  739 | Geography - World | General Awareness
+  740 | General Science | General Awareness
+  741 | General Science | General Awareness
+  742 | Defence | General Awareness
+  743 | Geography - World | General Awareness
+  744 | Geography - World | General Awareness
+  745 | Books & Authors | General Awareness
+  746 | Books & Authors | General Awareness
+  747 | General Awareness | General Awareness
+  748 | Awards | General Awareness
+  749 | Defence | General Awareness
+  750 | Organizations | General Awareness
+  751 | Awards | General Awareness
+  752 | Trains | Numerical Ability
+  753 | Average | Numerical Ability
+  754 | Trains | Numerical Ability
+  755 | Percentage | Numerical Ability
+  756 | Simple Interest | Numerical Ability
+  757 | Percentage | Numerical Ability
+  758 | Simple Interest | Numerical Ability
+  759 | Time & Work | Numerical Ability
+  760 | Mixture & Alligation | Numerical Ability
+  761 | Profit & Loss | Numerical Ability
+  762 | Time & Work | Numerical Ability
+  763 | Boats & Streams | Numerical Ability
+  764 | Profit & Loss | Numerical Ability
+  765 | Boats & Streams | Numerical Ability
+  766 | Analogy (Verbal) | Reasoning
+  767 | Analogy (Verbal) | Reasoning
+  768 | Analogy (Verbal) | Reasoning
+  769 | Analogy (Verbal) | Reasoning
+  770 | Analogy (Verbal) | Reasoning
+  771 | Classification (Verbal) | Reasoning
+  772 | Classification (Verbal) | Reasoning
+  773 | Classification (Verbal) | Reasoning
+  774 | Classification (Verbal) | Reasoning
+  775 | Classification (Verbal) | Reasoning
+  776 | Non-Verbal Series | Reasoning
+  777 | Non-Verbal Series | Reasoning
+  778 | Non-Verbal Series | Reasoning
+  779 | Non-Verbal Series | Reasoning
+  780 | Non-Verbal Series | Reasoning
+  781 | Venn Diagrams | Reasoning
+  782 | Venn Diagrams | Reasoning
+  783 | Venn Diagrams | Reasoning
+  784 | Venn Diagrams | Reasoning
+  785 | Venn Diagrams | Reasoning
+  786 | Non-Verbal Classification | Reasoning
+  787 | Non-Verbal Classification | Reasoning
+  788 | Non-Verbal Classification | Reasoning
+  789 | Non-Verbal Classification | Reasoning
+  790 | Non-Verbal Classification | Reasoning
+  791 | Non-Verbal Analogy | Reasoning
+  792 | Non-Verbal Analogy | Reasoning
+  793 | Non-Verbal Analogy | Reasoning
+  794 | Non-Verbal Analogy | Reasoning
+  795 | Non-Verbal Analogy | Reasoning
+  796 | Non-Verbal Pattern Completion | Reasoning
+  797 | Non-Verbal Pattern Completion | Reasoning
+  798 | Non-Verbal Pattern Completion | Reasoning
+  799 | Non-Verbal Pattern Completion | Reasoning
+  800 | Non-Verbal Pattern Completion | Reasoning
+  801 | Idioms and Phrases | Verbal Ability
+  802 | Idioms and Phrases | Verbal Ability
+  803 | Idioms and Phrases | Verbal Ability
+  804 | Idioms and Phrases | Verbal Ability
+  805 | Idioms and Phrases | Verbal Ability
+  806 | Antonyms | Verbal Ability
+  807 | Antonyms | Verbal Ability
+  808 | Antonyms | Verbal Ability
+  809 | Antonyms | Verbal Ability
+  810 | Cloze Test | Verbal Ability
+  811 | Cloze Test | Verbal Ability
+  812 | Cloze Test | Verbal Ability
+  813 | Cloze Test | Verbal Ability
+  814 | Cloze Test | Verbal Ability
+  815 | Spelling Test | Verbal Ability
+  816 | Spelling Test | Verbal Ability
+  817 | Spelling Test | Verbal Ability
+  818 | Spelling Test | Verbal Ability
+  819 | Synonyms | Verbal Ability
+  820 | Synonyms | Verbal Ability
+  821 | Synonyms | Verbal Ability
+  822 | Synonyms | Verbal Ability
+  823 | Comprehension | Verbal Ability
+  824 | Comprehension | Verbal Ability
+  825 | Comprehension | Verbal Ability
+  826 | Books and Authors | General Awareness
+  827 | Current Affairs | General Awareness
+  828 | Science | General Awareness
+  829 | Geography of India | General Awareness
+  830 | Awards | General Awareness
+  831 | Awards | General Awareness
+  832 | Geography World | General Awareness
+  833 | Awards | General Awareness
+  834 | Science | General Awareness
+  835 | Medieval History | General Awareness
+  836 | Sports | General Awareness
+  837 | Medieval History | General Awareness
+  838 | Modern History | General Awareness
+  839 | Current Affairs | General Awareness
+  840 | Sports | General Awareness
+  841 | Sports | General Awareness
+  842 | Sports | General Awareness
+  843 | Ancient History | General Awareness
+  844 | Science | General Awareness
+  845 | Geography of India | General Awareness
+  846 | Defence | General Awareness
+  847 | Modern History | General Awareness
+  848 | Awards | General Awareness
+  849 | Geography of India | General Awareness
+  850 | Polity | General Awareness
+  851 | Linear Equations | Numerical Ability
+  852 | Fractions | Numerical Ability
+  853 | Ratio and Proportion | Numerical Ability
+  854 | Mixture and Alligation | Numerical Ability
+  855 | Boats and Streams | Numerical Ability
+  856 | Time and Work | Numerical Ability
+  857 | Ratio and Proportion | Numerical Ability
+  858 | Boats and Streams | Numerical Ability
+  859 | Simple Interest | Numerical Ability
+  860 | Average | Numerical Ability
+  861 | Average | Numerical Ability
+  862 | Simple Interest | Numerical Ability
+  863 | Profit and Loss | Numerical Ability
+  864 | Trains | Numerical Ability
+  865 | Profit and Loss | Numerical Ability
+  866 | Trains | Numerical Ability
+  867 | Time and Work | Numerical Ability
+  868 | Profit and Loss | Numerical Ability
+  869 | Non-Verbal Embedded Figures | Reasoning
+  870 | Non-Verbal Embedded Figures | Reasoning
+  871 | Non-Verbal Embedded Figures | Reasoning
+  872 | Non-Verbal Embedded Figures | Reasoning
+  873 | Non-Verbal Embedded Figures | Reasoning
+  874 | Venn Diagram | Reasoning
+  875 | Venn Diagram | Reasoning
+  876 | Venn Diagram | Reasoning
+  877 | Venn Diagram | Reasoning
+  878 | Non-Verbal Classification | Reasoning
+  879 | Non-Verbal Classification | Reasoning
+  880 | Non-Verbal Classification | Reasoning
+  881 | Verbal Classification | Reasoning
+  882 | Verbal Classification | Reasoning
+  883 | Verbal Classification | Reasoning
+  884 | Verbal Classification | Reasoning
+  885 | Verbal Classification | Reasoning
+  886 | Non-Verbal Puzzle | Reasoning
+  887 | Non-Verbal Puzzle | Reasoning
+  888 | Non-Verbal Puzzle | Reasoning
+  889 | Non-Verbal Puzzle | Reasoning
+  890 | Non-Verbal Puzzle | Reasoning
+  891 | Non-Verbal Series | Reasoning
+  892 | Non-Verbal Series | Reasoning
+  893 | Non-Verbal Series | Reasoning
+  894 | Non-Verbal Series | Reasoning
+  895 | Non-Verbal Series | Reasoning
+  896 | Verbal Analogy | Reasoning
+  897 | Verbal Analogy | Reasoning
+  898 | Verbal Analogy | Reasoning
+  899 | Verbal Analogy | Reasoning
+  900 | Verbal Analogy | Reasoning
+  901 | Synonyms | Verbal Ability
+  902 | Synonyms | Verbal Ability
+  903 | Synonyms | Verbal Ability
+  904 | Synonyms | Verbal Ability
+  905 | Synonyms | Verbal Ability
+  906 | Idioms & Phrases | Verbal Ability
+  907 | Idioms & Phrases | Verbal Ability
+  908 | Idioms & Phrases | Verbal Ability
+  909 | Idioms & Phrases | Verbal Ability
+  910 | Idioms & Phrases | Verbal Ability
+  911 | Grammar | Verbal Ability
+  912 | Grammar | Verbal Ability
+  913 | Grammar | Verbal Ability
+  914 | Grammar | Verbal Ability
+  915 | Grammar | Verbal Ability
+  916 | Comprehension | Verbal Ability
+  917 | Comprehension | Verbal Ability
+  918 | Comprehension | Verbal Ability
+  919 | Comprehension | Verbal Ability
+  920 | Antonyms | Verbal Ability
+  921 | Antonyms | Verbal Ability
+  922 | Antonyms | Verbal Ability
+  923 | Antonyms | Verbal Ability
+  924 | Antonyms | Verbal Ability
+  925 | Antonyms | Verbal Ability
+  926 | History - Ancient | General Awareness
+  927 | Current Affairs | General Awareness
+  928 | Defence | General Awareness
+  929 | History - Modern | General Awareness
+  930 | Awards | General Awareness
+  931 | Geography - World | General Awareness
+  932 | Books | General Awareness
+  933 | Organizations | General Awareness
+  934 | Sports | General Awareness
+  935 | Geography - World | General Awareness
+  936 | Sports | General Awareness
+  937 | Polity | General Awareness
+  938 | Personalities | General Awareness
+  939 | Polity | General Awareness
+  940 | Sports | General Awareness
+  941 | Sports | General Awareness
+  942 | Organizations | General Awareness
+  943 | Sports | General Awareness
+  944 | Sports | General Awareness
+  945 | Culture | General Awareness
+  946 | Defence | General Awareness
+  947 | Geography - India | General Awareness
+  948 | Awards | General Awareness
+  949 | Geography - India | General Awareness
+  950 | History - Modern | General Awareness
+  951 | Speed Distance Time | Numerical Ability
+  952 | Percentage | Numerical Ability
+  953 | Time & Work | Numerical Ability
+  954 | Trains | Numerical Ability
+  955 | Time & Work | Numerical Ability
+  956 | Percentage | Numerical Ability
+  957 | Average | Numerical Ability
+  958 | Average | Numerical Ability
+  959 | Profit & Loss | Numerical Ability
+  960 | Percentage | Numerical Ability
+  961 | Profit & Loss | Numerical Ability
+  962 | Ratio & Proportion | Numerical Ability
+  963 | Trains | Numerical Ability
+  964 | Number System | Numerical Ability
+  965 | Ratio & Proportion | Numerical Ability
+  966 | Simple Interest | Numerical Ability
+  967 | Verbal Classification | Reasoning
+  968 | Verbal Classification | Reasoning
+  969 | Verbal Classification | Reasoning
+  970 | Verbal Classification | Reasoning
+  971 | Verbal Classification | Reasoning
+  972 | Verbal Analogy | Reasoning
+  973 | Verbal Analogy | Reasoning
+  974 | Verbal Analogy | Reasoning
+  975 | Verbal Analogy | Reasoning
+  976 | Verbal Analogy | Reasoning
+  977 | Non-Verbal Series | Reasoning
+  978 | Non-Verbal Series | Reasoning
+  979 | Non-Verbal Series | Reasoning
+  980 | Non-Verbal Series | Reasoning
+  981 | Non-Verbal Series | Reasoning
+  982 | Pattern | Reasoning
+  983 | Pattern | Reasoning
+  984 | Pattern | Reasoning
+  985 | Pattern | Reasoning
+  986 | Pattern | Reasoning
+  987 | Non-Verbal Classification | Reasoning
+  988 | Non-Verbal Classification | Reasoning
+  989 | Non-Verbal Classification | Reasoning
+  990 | Non-Verbal Classification | Reasoning
+  991 | Non-Verbal Classification | Reasoning
+  992 | Venn Diagrams | Reasoning
+  993 | Venn Diagrams | Reasoning
+  994 | Venn Diagrams | Reasoning
+  995 | Venn Diagrams | Reasoning
+  996 | Venn Diagrams | Reasoning
+  997 | Non-Verbal Analogy | Reasoning
+  998 | Non-Verbal Analogy | Reasoning
+  999 | Non-Verbal Analogy | Reasoning
+ 1000 | Non-Verbal Analogy | Reasoning
+ 1001 | Synonyms | Verbal Ability
+ 1002 | Synonyms | Verbal Ability
+ 1003 | Synonyms | Verbal Ability
+ 1004 | Antonyms | Verbal Ability
+ 1005 | Antonyms | Verbal Ability
+ 1006 | Antonyms | Verbal Ability
+ 1007 | Error Spotting | Verbal Ability
+ 1008 | Error Spotting | Verbal Ability
+ 1009 | Error Spotting | Verbal Ability
+ 1010 | Error Spotting | Verbal Ability
+ 1011 | Reading Comprehension | Verbal Ability
+ 1012 | Reading Comprehension | Verbal Ability
+ 1013 | Reading Comprehension | Verbal Ability
+ 1014 | Idioms and Phrases | Verbal Ability
+ 1015 | Idioms and Phrases | Verbal Ability
+ 1016 | Idioms and Phrases | Verbal Ability
+ 1017 | Idioms and Phrases | Verbal Ability
+ 1018 | Cloze Test | Verbal Ability
+ 1019 | Cloze Test | Verbal Ability
+ 1020 | Cloze Test | Verbal Ability
+ 1021 | Tense and Grammar | Verbal Ability
+ 1022 | Tense and Grammar | Verbal Ability
+ 1023 | Sentence Completion | Verbal Ability
+ 1024 | Grammar | Verbal Ability
+ 1025 | Grammar | Verbal Ability
+ 1026 | Sports | General Awareness
+ 1027 | World Geography | General Awareness
+ 1028 | Sports Personalities | General Awareness
+ 1029 | Indian Culture | General Awareness
+ 1030 | Indian Polity | General Awareness
+ 1031 | Science | General Awareness
+ 1032 | Ancient Indian History | General Awareness
+ 1033 | Awards and Honors | General Awareness
+ 1034 | Sports History | General Awareness
+ 1035 | Indian Geography | General Awareness
+ 1036 | Sports | General Awareness
+ 1037 | Modern Indian History | General Awareness
+ 1038 | Defence and Space | General Awareness
+ 1039 | Books and Authors | General Awareness
+ 1040 | Ancient Indian History | General Awareness
+ 1041 | Personalities | General Awareness
+ 1042 | Sports | General Awareness
+ 1043 | Sports Personalities | General Awareness
+ 1044 | Defence | General Awareness
+ 1045 | Sports | General Awareness
+ 1046 | Medieval Indian History | General Awareness
+ 1047 | Science | General Awareness
+ 1048 | Environment | General Awareness
+ 1049 | Indian Polity | General Awareness
+ 1050 | International Organizations | General Awareness
+ 1051 | Speed, Distance and Time | Numerical Ability
+ 1052 | Average | Numerical Ability
+ 1053 | Train Problems | Numerical Ability
+ 1054 | Average | Numerical Ability
+ 1055 | Ratio and Proportion | Numerical Ability
+ 1056 | Time and Work | Numerical Ability
+ 1057 | Profit and Loss | Numerical Ability
+ 1058 | Ratio and Proportion | Numerical Ability
+ 1059 | Time and Work | Numerical Ability
+ 1060 | Profit and Loss | Numerical Ability
+ 1061 | Average | Numerical Ability
+ 1062 | Profit and Loss | Numerical Ability
+ 1063 | Average | Numerical Ability
+ 1064 | Time and Work | Numerical Ability
+ 1065 | Compound Interest | Numerical Ability
+ 1066 | Simplification | Numerical Ability
+ 1067 | Mixture and Alligation | Numerical Ability
+ 1068 | Ratio and Proportion | Numerical Ability
+ 1069 | Verbal Analogy | Reasoning
+ 1070 | Verbal Analogy | Reasoning
+ 1071 | Verbal Analogy | Reasoning
+ 1072 | Venn Diagram | Reasoning
+ 1073 | Verbal Analogy | Reasoning
+ 1074 | Verbal Analogy | Reasoning
+ 1075 | Verbal Classification | Reasoning
+ 1076 | Verbal Classification | Reasoning
+ 1077 | Verbal Classification | Reasoning
+ 1078 | Verbal Classification | Reasoning
+ 1079 | Verbal Classification | Reasoning
+ 1080 | Venn Diagram | Reasoning
+ 1081 | Logical Reasoning | Reasoning
+ 1082 | Non-Verbal Spatial Reasoning | Reasoning
+ 1083 | Non-Verbal Pattern Completion | Reasoning
+ 1084 | Venn Diagram | Reasoning
+ 1085 | Venn Diagram | Reasoning
+ 1086 | Non-Verbal Analogy | Reasoning
+ 1087 | Non-Verbal Pattern Completion | Reasoning
+ 1088 | Non-Verbal Pattern Completion | Reasoning
+ 1089 | Non-Verbal Pattern Completion | Reasoning
+ 1090 | Non-Verbal Pattern Completion | Reasoning
+ 1091 | Non-Verbal Series | Reasoning
+ 1092 | Non-Verbal Series | Reasoning
+ 1093 | Non-Verbal Series | Reasoning
+ 1094 | Non-Verbal Series | Reasoning
+ 1095 | Non-Verbal Series | Reasoning
+ 1096 | Non-Verbal Series | Reasoning
+ 1097 | Syllogism | Reasoning
+ 1098 | Syllogism | Reasoning
+ 1099 | Non-Verbal Puzzle | Reasoning
+ 1100 | Non-Verbal Puzzle | Reasoning
+ 1101 | Synonyms | Verbal Ability
+ 1102 | Synonyms | Verbal Ability
+ 1103 | Synonyms | Verbal Ability
+ 1104 | Synonyms | Verbal Ability
+ 1105 | Synonyms | Verbal Ability
+ 1106 | Synonyms | Verbal Ability
+ 1107 | Synonyms | Verbal Ability
+ 1108 | Antonyms | Verbal Ability
+ 1109 | Antonyms | Verbal Ability
+ 1110 | Antonyms | Verbal Ability
+ 1111 | Antonyms | Verbal Ability
+ 1112 | Antonyms | Verbal Ability
+ 1113 | Antonyms | Verbal Ability
+ 1114 | Antonyms | Verbal Ability
+ 1115 | Antonyms | Verbal Ability
+ 1116 | Idioms and Phrases | Verbal Ability
+ 1117 | Idioms and Phrases | Verbal Ability
+ 1118 | Idioms and Phrases | Verbal Ability
+ 1119 | Idioms and Phrases | Verbal Ability
+ 1120 | Idioms and Phrases | Verbal Ability
+ 1121 | Idioms and Phrases | Verbal Ability
+ 1122 | Idioms and Phrases | Verbal Ability
+ 1123 | Idioms and Phrases | Verbal Ability
+ 1124 | Idioms and Phrases | Verbal Ability
+ 1125 | Idioms and Phrases | Verbal Ability
+ 1126 | Idioms and Phrases | Verbal Ability
+ 1127 | Idioms and Phrases | Verbal Ability
+ 1128 | Idioms and Phrases | Verbal Ability
+ 1129 | Idioms and Phrases | Verbal Ability
+ 1130 | Idioms and Phrases | Verbal Ability
+ 1131 | Sports | General Awareness
+ 1132 | Defence | General Awareness
+ 1133 | World Geography | General Awareness
+ 1134 | Ancient History | General Awareness
+ 1135 | Sports | General Awareness
+ 1136 | Sports | General Awareness
+ 1137 | Culture | General Awareness
+ 1138 | Polity | General Awareness
+ 1139 | Modern History | General Awareness
+ 1140 | World Geography | General Awareness
+ 1141 | Books and Authors | General Awareness
+ 1142 | Indian Geography | General Awareness
+ 1143 | Polity | General Awareness
+ 1144 | World Geography | General Awareness
+ 1145 | World Geography | General Awareness
+ 1146 | Defence | General Awareness
+ 1147 | Medieval History | General Awareness
+ 1148 | Books and Authors | General Awareness
+ 1149 | Sports | General Awareness
+ 1150 | Books and Authors | General Awareness
+ 1151 | Trains | Numerical Ability
+ 1152 | Trains | Numerical Ability
+ 1153 | Simple Interest | Numerical Ability
+ 1154 | Simple Interest | Numerical Ability
+ 1155 | Speed, Distance and Time | Numerical Ability
+ 1156 | Average | Numerical Ability
+ 1157 | Average | Numerical Ability
+ 1158 | Speed, Distance and Time | Numerical Ability
+ 1159 | Time and Work | Numerical Ability
+ 1160 | Time and Work | Numerical Ability
+ 1161 | Profit and Loss | Numerical Ability
+ 1162 | Mixture and Alligation | Numerical Ability
+ 1163 | Ratio and Proportion | Numerical Ability
+ 1164 | Ratio and Proportion | Numerical Ability
+ 1165 | Ratio and Proportion | Numerical Ability
+ 1166 | Coding and Decoding | Reasoning
+ 1167 | Coding and Decoding | Reasoning
+ 1168 | Coding and Decoding | Reasoning
+ 1169 | Coding and Decoding | Reasoning
+ 1170 | Coding and Decoding | Reasoning
+ 1171 | Coding and Decoding | Reasoning
+ 1172 | Coding and Decoding | Reasoning
+ 1173 | Coding and Decoding | Reasoning
+ 1174 | Coding and Decoding | Reasoning
+ 1175 | Coding and Decoding | Reasoning
+ 1176 | Classification | Reasoning
+ 1177 | Classification | Reasoning
+ 1178 | Classification | Reasoning
+ 1179 | Classification | Reasoning
+ 1180 | Classification | Reasoning
+ 1181 | Classification | Reasoning
+ 1182 | Classification | Reasoning
+ 1183 | Classification | Reasoning
+ 1184 | Classification | Reasoning
+ 1185 | Classification | Reasoning
+ 1186 | Classification | Reasoning
+ 1187 | Non-Verbal Series | Reasoning
+ 1188 | Non-Verbal Series | Reasoning
+ 1189 | Non-Verbal Series | Reasoning
+ 1190 | Non-Verbal Series | Reasoning
+ 1191 | Non-Verbal Series | Reasoning
+ 1192 | Non-Verbal Series | Reasoning
+ 1193 | Non-Verbal Series | Reasoning
+ 1194 | Non-Verbal Series | Reasoning
+ 1195 | Non-Verbal Series | Reasoning
+ 1196 | Verbal Analogy | Reasoning
+ 1197 | Verbal Analogy | Reasoning
+ 1198 | Verbal Analogy | Reasoning
+ 1199 | Verbal Analogy | Reasoning
+ 1200 | Verbal Analogy | Reasoning
+ 1201 | Synonyms | Verbal Ability
+ 1202 | Synonyms | Verbal Ability
+ 1203 | Synonyms | Verbal Ability
+ 1204 | Synonyms | Verbal Ability
+ 1205 | Antonyms | Verbal Ability
+ 1206 | Antonyms | Verbal Ability
+ 1207 | Antonyms | Verbal Ability
+ 1208 | Antonyms | Verbal Ability
+ 1209 | Error Detection (Spelling) | Verbal Ability
+ 1210 | Error Detection (Spelling) | Verbal Ability
+ 1211 | Idioms & Phrases | Verbal Ability
+ 1212 | Idioms & Phrases | Verbal Ability
+ 1213 | Idioms & Phrases | Verbal Ability
+ 1214 | Idioms & Phrases | Verbal Ability
+ 1215 | One Word Substitution | Verbal Ability
+ 1216 | One Word Substitution | Verbal Ability
+ 1217 | One Word Substitution | Verbal Ability
+ 1218 | Grammar (Voice) | Verbal Ability
+ 1219 | Grammar (Voice) | Verbal Ability
+ 1220 | Cloze Test | Verbal Ability
+ 1221 | Cloze Test | Verbal Ability
+ 1222 | Cloze Test | Verbal Ability
+ 1223 | Reading Comprehension | Verbal Ability
+ 1224 | Reading Comprehension | Verbal Ability
+ 1225 | Reading Comprehension | Verbal Ability
+ 1226 | International Organizations | General Awareness
+ 1227 | Sports | General Awareness
+ 1228 | Sports | General Awareness
+ 1229 | Sports | General Awareness
+ 1230 | History - Medieval | General Awareness
+ 1231 | Polity | General Awareness
+ 1232 | History - Medieval | General Awareness
+ 1233 | Sports | General Awareness
+ 1234 | Geography - World | General Awareness
+ 1235 | General Science | General Awareness
+ 1236 | Books & Authors | General Awareness
+ 1237 | History - Ancient | General Awareness
+ 1238 | History - Modern | General Awareness
+ 1239 | Science & Tech | General Awareness
+ 1240 | Geography - India | General Awareness
+ 1241 | International Organizations | General Awareness
+ 1242 | General Science | General Awareness
+ 1243 | Sports | General Awareness
+ 1244 | Geography - World | General Awareness
+ 1245 | Sports | General Awareness
+ 1246 | Art & Culture | General Awareness
+ 1247 | History - Ancient | General Awareness
+ 1248 | Geography - India | General Awareness
+ 1249 | Geography - India | General Awareness
+ 1250 | History - Modern | General Awareness
+ 1251 | Sports | General Awareness
+ 1252 | Defence | General Awareness
+ 1253 | Sports | General Awareness
+ 1254 | Polity | General Awareness
+ 1255 | General Science | General Awareness
+ 1256 | Time & Work | Numerical Ability
+ 1257 | Time & Work | Numerical Ability
+ 1258 | Time, Speed & Distance | Numerical Ability
+ 1259 | Number System | Numerical Ability
+ 1260 | Time, Speed & Distance | Numerical Ability
+ 1261 | Percentage | Numerical Ability
+ 1262 | Time, Speed & Distance | Numerical Ability
+ 1263 | Simplification (Algebra) | Numerical Ability
+ 1264 | Profit & Loss | Numerical Ability
+ 1265 | Simple Interest | Numerical Ability
+ 1266 | Time, Speed & Distance | Numerical Ability
+ 1267 | Average | Numerical Ability
+ 1268 | Simple Interest | Numerical Ability
+ 1269 | Average | Numerical Ability
+ 1270 | Simple Interest | Numerical Ability
+ 1271 | Time, Speed & Distance | Numerical Ability
+ 1272 | Percentage | Numerical Ability
+ 1273 | Percentage | Numerical Ability
+ 1274 | Analogy (Verbal) | Reasoning
+ 1275 | Analogy (Verbal) | Reasoning
+ 1276 | Analogy (Verbal) | Reasoning
+ 1277 | Analogy (Verbal) | Reasoning
+ 1278 | Analogy (Verbal) | Reasoning
+ 1279 | Classification (Verbal) | Reasoning
+ 1280 | Classification (Verbal) | Reasoning
+ 1281 | Analogy (Verbal) | Reasoning
+ 1282 | Analogy (Verbal) | Reasoning
+ 1283 | Analogy (Verbal) | Reasoning
+ 1284 | Analogy (Verbal) | Reasoning
+ 1285 | Classification (Verbal) | Reasoning
+ 1286 | Analogy (Verbal) | Reasoning
+ 1287 | Venn Diagrams | Reasoning
+ 1288 | Venn Diagrams | Reasoning
+ 1289 | Coding Decoding | Reasoning
+ 1290 | Venn Diagrams | Reasoning
+ 1291 | Number Series | Reasoning
+ 1292 | Non-Verbal Pattern | Reasoning
+ 1293 | Non-Verbal Pattern | Reasoning
+ 1294 | Non-Verbal Pattern | Reasoning
+ 1295 | Non-Verbal Spatial (Embedded) | Reasoning
+ 1296 | Non-Verbal Spatial (Embedded) | Reasoning
+ 1297 | Non-Verbal Orientation | Reasoning
+ 1298 | Non-Verbal Orientation | Reasoning
+ 1299 | Non-Verbal Series | Reasoning
+ 1300 | Non-Verbal Series | Reasoning
+ 1301 | Idioms and Phrases | Verbal Ability
+ 1302 | Idioms and Phrases | Verbal Ability
+ 1303 | Cloze Test | Verbal Ability
+ 1304 | Cloze Test | Verbal Ability
+ 1305 | Cloze Test | Verbal Ability
+ 1306 | Cloze Test | Verbal Ability
+ 1307 | Cloze Test | Verbal Ability
+ 1308 | Synonyms | Verbal Ability
+ 1309 | Synonyms | Verbal Ability
+ 1310 | Synonyms | Verbal Ability
+ 1311 | Synonyms | Verbal Ability
+ 1312 | Synonyms | Verbal Ability
+ 1313 | Antonyms | Verbal Ability
+ 1314 | Antonyms | Verbal Ability
+ 1315 | Antonyms | Verbal Ability
+ 1316 | Antonyms | Verbal Ability
+ 1317 | Antonyms | Verbal Ability
+ 1318 | Reading Comprehension | Verbal Ability
+ 1319 | Reading Comprehension | Verbal Ability
+ 1320 | Reading Comprehension | Verbal Ability
+ 1321 | Reading Comprehension | Verbal Ability
+ 1322 | Reading Comprehension | Verbal Ability
+ 1323 | Idioms and Phrases | Verbal Ability
+ 1324 | Idioms and Phrases | Verbal Ability
+ 1325 | Idioms and Phrases | Verbal Ability
+ 1326 | World Geography | General Awareness
+ 1327 | World Geography | General Awareness
+ 1328 | World Geography | General Awareness
+ 1329 | World Geography | General Awareness
+ 1330 | Indian Geography | General Awareness
+ 1331 | Sports | General Awareness
+ 1332 | Sports | General Awareness
+ 1333 | Medieval History | General Awareness
+ 1334 | Sports | General Awareness
+ 1335 | Organizations | General Awareness
+ 1336 | Medieval History | General Awareness
+ 1337 | Modern History | General Awareness
+ 1338 | Indian Polity | General Awareness
+ 1339 | World Geography | General Awareness
+ 1340 | Environment | General Awareness
+ 1341 | Sports | General Awareness
+ 1342 | Sports | General Awareness
+ 1343 | Organizations | General Awareness
+ 1344 | Personalities | General Awareness
+ 1345 | World Geography | General Awareness
+ 1346 | Sports | General Awareness
+ 1347 | Indian Geography | General Awareness
+ 1348 | Indian Geography | General Awareness
+ 1349 | Personalities | General Awareness
+ 1350 | Personalities | General Awareness
+ 1351 | World Geography | General Awareness
+ 1352 | Indian Culture | General Awareness
+ 1353 | General Science | General Awareness
+ 1354 | General Science | General Awareness
+ 1355 | General Science | General Awareness
+ 1356 | Compound Interest | Numerical Ability
+ 1357 | Time and Work | Numerical Ability
+ 1358 | Average | Numerical Ability
+ 1359 | Trains | Numerical Ability
+ 1360 | Profit and Loss | Numerical Ability
+ 1361 | Boats and Streams | Numerical Ability
+ 1362 | Simplification | Numerical Ability
+ 1363 | Time and Work | Numerical Ability
+ 1364 | Profit and Loss | Numerical Ability
+ 1365 | Average | Numerical Ability
+ 1366 | Compound Interest | Numerical Ability
+ 1367 | Percentage | Numerical Ability
+ 1368 | Profit and Loss | Numerical Ability
+ 1369 | Speed, Time and Distance | Numerical Ability
+ 1370 | Ratio and Proportion | Numerical Ability
+ 1371 | Non-Verbal Venn Diagrams | Reasoning
+ 1372 | Non-Verbal Venn Diagrams | Reasoning
+ 1373 | Non-Verbal Venn Diagrams | Reasoning
+ 1374 | Non-Verbal Venn Diagrams | Reasoning
+ 1375 | Verbal Analogy | Reasoning
+ 1376 | Verbal Analogy | Reasoning
+ 1377 | Verbal Analogy | Reasoning
+ 1378 | Verbal Analogy | Reasoning
+ 1379 | Verbal Classification | Reasoning
+ 1380 | Verbal Classification | Reasoning
+ 1381 | Verbal Classification | Reasoning
+ 1382 | Verbal Classification | Reasoning
+ 1383 | Verbal Coding | Reasoning
+ 1384 | Verbal Coding | Reasoning
+ 1385 | Verbal Coding | Reasoning
+ 1386 | Non-Verbal Pattern | Reasoning
+ 1387 | Non-Verbal Pattern | Reasoning
+ 1388 | Non-Verbal Pattern | Reasoning
+ 1389 | Non-Verbal Spatial | Reasoning
+ 1390 | Non-Verbal Spatial | Reasoning
+ 1391 | Non-Verbal Spatial | Reasoning
+ 1392 | Verbal Coding | Reasoning
+ 1393 | Simplification | Numerical Ability
+ 1394 | Verbal Series | Reasoning
+ 1395 | Verbal Series | Reasoning
+ 1396 | Non-Verbal Venn Diagrams | Reasoning
+ 1397 | Non-Verbal Venn Diagrams | Reasoning
+ 1398 | Non-Verbal Venn Diagrams | Reasoning
+ 1399 | Verbal Classification | Reasoning
+ 1400 | Verbal Classification | Reasoning
+ 1401 | Sentence Rearrangement | Verbal Ability
+ 1402 | Sentence Rearrangement | Verbal Ability
+ 1403 | Sentence Rearrangement | Verbal Ability
+ 1404 | Cloze Test | Verbal Ability
+ 1405 | Cloze Test | Verbal Ability
+ 1406 | Cloze Test | Verbal Ability
+ 1407 | Sentence Completion | Verbal Ability
+ 1408 | Sentence Completion | Verbal Ability
+ 1409 | Sentence Completion | Verbal Ability
+ 1410 | Sentence Completion | Verbal Ability
+ 1411 | Sentence Completion | Verbal Ability
+ 1412 | Antonyms | Verbal Ability
+ 1413 | Antonyms | Verbal Ability
+ 1414 | Antonyms | Verbal Ability
+ 1415 | Synonyms | Verbal Ability
+ 1416 | Synonyms | Verbal Ability
+ 1417 | Synonyms | Verbal Ability
+ 1418 | Idioms and Phrases | Verbal Ability
+ 1419 | Idioms and Phrases | Verbal Ability
+ 1420 | Idioms and Phrases | Verbal Ability
+ 1421 | One Word Substitution | Verbal Ability
+ 1422 | Analogy | Verbal Ability
+ 1423 | Analogy | Verbal Ability
+ 1424 | Error Detection | Verbal Ability
+ 1425 | Error Detection | Verbal Ability
+ 1426 | Error Detection | Verbal Ability
+ 1427 | Reading Comprehension | Verbal Ability
+ 1428 | Reading Comprehension | Verbal Ability
+ 1429 | Reading Comprehension | Verbal Ability
+ 1430 | Reading Comprehension | Verbal Ability
+ 1431 | Idioms and Phrases | Verbal Ability
+ 1432 | Idioms and Phrases | Verbal Ability
+ 1433 | Antonyms | Verbal Ability
+ 1434 | Error Detection | Verbal Ability
+ 1435 | Sentence Rearrangement | Verbal Ability
+ 1436 | Analogy | Verbal Ability
+ 1437 | Antonyms | Verbal Ability
+ 1438 | Sentence Completion | Verbal Ability
+ 1439 | Synonyms | Verbal Ability
+ 1440 | One Word Substitution | Verbal Ability
+ 1441 | Sentence Rearrangement | Verbal Ability
+ 1442 | One Word Substitution | Verbal Ability
+ 1443 | Sentence Rearrangement | Verbal Ability
+ 1444 | Error Detection | Verbal Ability
+ 1445 | Idioms and Phrases | Verbal Ability
+ 1446 | Sentence Completion | Verbal Ability
+ 1447 | Synonyms | Verbal Ability
+ 1448 | One Word Substitution | Verbal Ability
+ 1449 | Sentence Completion | Verbal Ability
+ 1450 | Synonyms | Verbal Ability
+ 1451 | Analogy | Verbal Ability
+ 1452 | Cloze Test | Verbal Ability
+ 1453 | Cloze Test | Verbal Ability
+ 1454 | Cloze Test | Verbal Ability
+ 1455 | Cloze Test | Verbal Ability
+ 1456 | Cloze Test | Verbal Ability
+ 1457 | Cloze Test | Verbal Ability
+ 1458 | Reading Comprehension | Verbal Ability
+ 1459 | Reading Comprehension | Verbal Ability
+ 1460 | Reading Comprehension | Verbal Ability
+ 1461 | Venn Diagrams | Reasoning
+ 1462 | Verbal Analogy | Reasoning
+ 1463 | Venn Diagrams | Reasoning
+ 1464 | Pattern Completion | Reasoning
+ 1465 | Spatial Orientation | Reasoning
+ 1466 | Venn Diagrams | Reasoning
+ 1467 | Venn Diagrams | Reasoning
+ 1468 | Non-Verbal Series | Reasoning
+ 1469 | Coding-Decoding | Reasoning
+ 1470 | Verbal Classification | Reasoning
+ 1471 | Pattern Recognition | Reasoning
+ 1472 | Verbal Classification | Reasoning
+ 1473 | Spatial Orientation | Reasoning
+ 1474 | Pattern Completion | Reasoning
+ 1475 | Spatial Orientation | Reasoning
+ 1476 | Coding-Decoding | Reasoning
+ 1477 | Non-Verbal Series | Reasoning
+ 1478 | Coding-Decoding | Reasoning
+ 1479 | Logical Reasoning | Reasoning
+ 1480 | Logical Reasoning | Reasoning
+ 1481 | Verbal Analogy | Reasoning
+ 1482 | Non-Verbal Pattern | Reasoning
+ 1483 | Pattern Recognition | Reasoning
+ 1484 | Non-Verbal Series | Reasoning
+ 1485 | Coding-Decoding | Reasoning
+ 1486 | Awards and Honours | General Awareness
+ 1487 | Defence | General Awareness
+ 1488 | Defence | General Awareness
+ 1489 | Current Affairs | General Awareness
+ 1490 | Art and Culture | General Awareness
+ 1491 | Current Affairs | General Awareness
+ 1492 | Modern History | General Awareness
+ 1493 | Art and Culture | General Awareness
+ 1494 | Modern History | General Awareness
+ 1495 | Basic Science | General Awareness
+ 1496 | Polity and Civics | General Awareness
+ 1497 | Sports | General Awareness
+ 1498 | Important Organizations | General Awareness
+ 1499 | Basic Science | General Awareness
+ 1500 | Environment | General Awareness
+ 1501 | World Geography | General Awareness
+ 1502 | Environment | General Awareness
+ 1503 | Defence | General Awareness
+ 1504 | Defence | General Awareness
+ 1505 | Indian Geography | General Awareness
+ 1506 | Current Affairs | General Awareness
+ 1507 | Indian Geography | General Awareness
+ 1508 | Indian Geography | General Awareness
+ 1509 | Modern History | General Awareness
+ 1510 | Basic Science | General Awareness
+ 1511 | Verbal Classification | Reasoning
+ 1512 | Verbal Classification | Reasoning
+ 1513 | Verbal Analogy | Reasoning
+ 1514 | Verbal Analogy | Reasoning
+ 1515 | Verbal Analogy | Reasoning
+ 1516 | Verbal Classification | Reasoning
+ 1517 | Verbal Logic | Reasoning
+ 1518 | Venn Diagram | Reasoning
+ 1519 | Venn Diagram | Reasoning
+ 1520 | Coding-Decoding | Reasoning
+ 1521 | Verbal Logic | Reasoning
+ 1522 | Verbal Logic | Reasoning
+ 1523 | Verbal Logic | Reasoning
+ 1524 | Verbal Logic | Reasoning
+ 1525 | Non-Verbal Classification | Reasoning
+ 1526 | Pattern Completion | Reasoning
+ 1527 | Spatial Reasoning | Reasoning
+ 1528 | Non-Verbal Series | Reasoning
+ 1529 | Verbal Classification | Reasoning
+ 1530 | Verbal Logic | Reasoning
+ 1531 | Verbal Classification | Reasoning
+ 1532 | Verbal Logic | Reasoning
+ 1533 | Verbal Logic | Reasoning
+ 1534 | Verbal Analogy | Reasoning
+ 1535 | Verbal Classification | Reasoning
+ 1536 | Verbal Analogy | Reasoning
+ 1537 | Verbal Analogy | Reasoning
+ 1538 | Verbal Classification | Reasoning
+ 1539 | Verbal Classification | Reasoning
+ 1540 | Verbal Series | Reasoning
+ 1541 | Venn Diagram | Reasoning
+ 1542 | Venn Diagram | Reasoning
+ 1543 | Verbal Logic | Reasoning
+ 1544 | Verbal Logic | Reasoning
+ 1545 | Verbal Logic | Reasoning
+ 1546 | Pattern Completion | Reasoning
+ 1547 | Verbal Logic | Reasoning
+ 1548 | Non-Verbal Series | Reasoning
+ 1549 | Verbal Logic | Reasoning
+ 1550 | Verbal Logic | Reasoning
+ 1551 | Coding-Decoding | Reasoning
+ 1552 | Coding-Decoding | Reasoning
+ 1553 | Verbal Classification | Reasoning
+ 1554 | Non-Verbal Classification | Reasoning
+ 1555 | Verbal Classification | Reasoning
+ 1556 | Verbal Analogy | Reasoning
+ 1557 | Verbal Analogy | Reasoning
+ 1558 | Verbal Classification | Reasoning
+ 1559 | Venn Diagram | Reasoning
+ 1560 | Venn Diagram | Reasoning
+ 1561 | Reading Comprehension | Verbal Ability
+ 1562 | Reading Comprehension | Verbal Ability
+ 1563 | Reading Comprehension | Verbal Ability
+ 1564 | Error Detection | Verbal Ability
+ 1565 | Error Detection | Verbal Ability
+ 1566 | Error Detection | Verbal Ability
+ 1567 | Error Detection | Verbal Ability
+ 1568 | Sentence Completion | Verbal Ability
+ 1569 | Tenses | Verbal Ability
+ 1570 | Grammar | Verbal Ability
+ 1571 | Grammar | Verbal Ability
+ 1572 | Synonyms | Verbal Ability
+ 1573 | Synonyms | Verbal Ability
+ 1574 | Synonyms | Verbal Ability
+ 1575 | Synonyms | Verbal Ability
+ 1576 | Synonyms | Verbal Ability
+ 1577 | Antonyms | Verbal Ability
+ 1578 | Antonyms | Verbal Ability
+ 1579 | Antonyms | Verbal Ability
+ 1580 | Antonyms | Verbal Ability
+ 1581 | Antonyms | Verbal Ability
+ 1582 | Idioms and Phrases | Verbal Ability
+ 1583 | Idioms and Phrases | Verbal Ability
+ 1584 | Idioms and Phrases | Verbal Ability
+ 1585 | Sentence Rearrangement | Verbal Ability
+ 1586 | Sentence Rearrangement | Verbal Ability
+ 1587 | Sentence Rearrangement | Verbal Ability
+ 1588 | One Word Substitution | Verbal Ability
+ 1589 | One Word Substitution | Verbal Ability
+ 1590 | One Word Substitution | Verbal Ability
+ 1591 | World Geography | General Awareness
+ 1592 | Defence | General Awareness
+ 1593 | Defence | General Awareness
+ 1594 | Sports | General Awareness
+ 1595 | Indian Geography | General Awareness
+ 1596 | Science | General Awareness
+ 1597 | Polity | General Awareness
+ 1598 | Science | General Awareness
+ 1599 | Polity | General Awareness
+ 1600 | Awards | General Awareness
+ 1601 | Polity | General Awareness
+ 1602 | Sports | General Awareness
+ 1603 | Modern History | General Awareness
+ 1604 | Sports | General Awareness
+ 1605 | Current Affairs | General Awareness
+ 1606 | Defence | General Awareness
+ 1607 | Sports | General Awareness
+ 1608 | Polity | General Awareness
+ 1609 | Defence | General Awareness
+ 1610 | Economy | General Awareness
+ 1611 | Modern History | General Awareness
+ 1612 | Indian Geography | General Awareness
+ 1613 | Science | General Awareness
+ 1614 | Organizations | General Awareness
+ 1615 | Science | General Awareness
+ 1616 | Compound Interest | Numerical Ability
+ 1617 | Number System | Numerical Ability
+ 1618 | Statistics | Numerical Ability
+ 1619 | Statistics | Numerical Ability
+ 1620 | Mensuration | Numerical Ability
+ 1621 | Simple Interest | Numerical Ability
+ 1622 | Compound Interest | Numerical Ability
+ 1623 | Profit and Loss | Numerical Ability
+ 1624 | Ratio and Proportion | Numerical Ability
+ 1625 | Trains | Numerical Ability
+ 1626 | Average | Numerical Ability
+ 1627 | Percentage | Numerical Ability
+ 1628 | Average | Numerical Ability
+ 1629 | Percentage | Numerical Ability
+ 1630 | Time and Work | Numerical Ability
+ 1631 | Profit and Loss | Numerical Ability
+ 1632 | Time and Work | Numerical Ability
+ 1633 | Time and Work | Numerical Ability
+ 1634 | Trains | Numerical Ability
+ 1635 | Speed, Distance and Time | Numerical Ability
+ 1636 | Verbal Analogy | Reasoning
+ 1637 | Classification | Reasoning
+ 1638 | Classification | Reasoning
+ 1639 | Logical Reasoning | Reasoning
+ 1640 | Logical Reasoning | Reasoning
+ 1641 | Logical Reasoning | Reasoning
+ 1642 | Non-Verbal Pattern Completion | Reasoning
+ 1643 | Non-Verbal Pattern Completion | Reasoning
+ 1644 | Non-Verbal Series | Reasoning
+ 1645 | Non-Verbal Series | Reasoning
+ 1646 | Coding and Decoding | Reasoning
+ 1647 | Ratio and Proportion | Numerical Ability
+ 1648 | Non-Verbal Analogy | Reasoning
+ 1649 | Non-Verbal Analogy | Reasoning
+ 1650 | Coding and Decoding | Reasoning
+ 1651 | Coding and Decoding | Reasoning
+ 1652 | Non-Verbal Classification | Reasoning
+ 1653 | Non-Verbal Classification | Reasoning
+ 1654 | Non-Verbal Spatial Ability | Reasoning
+ 1655 | Non-Verbal Spatial Ability | Reasoning
+ 1656 | Venn Diagram | Reasoning
+ 1657 | Venn Diagram | Reasoning
+ 1658 | Venn Diagram | Reasoning
+ 1659 | Non-Verbal Spatial Ability | Reasoning
+ 1660 | Syllogism | Reasoning
+ 1661 | Reading Comprehension | Verbal Ability
+ 1662 | Reading Comprehension | Verbal Ability
+ 1663 | Reading Comprehension | Verbal Ability
+ 1664 | Reading Comprehension | Verbal Ability
+ 1665 | Error Detection | Verbal Ability
+ 1666 | Error Detection | Verbal Ability
+ 1667 | Error Detection | Verbal Ability
+ 1668 | Sentence Completion | Verbal Ability
+ 1669 | Sentence Completion | Verbal Ability
+ 1670 | Sentence Completion | Verbal Ability
+ 1671 | Sentence Completion | Verbal Ability
+ 1672 | Synonyms | Verbal Ability
+ 1673 | Synonyms | Verbal Ability
+ 1674 | Antonyms | Verbal Ability
+ 1675 | Antonyms | Verbal Ability
+ 1676 | Cloze Test | Verbal Ability
+ 1677 | Cloze Test | Verbal Ability
+ 1678 | Cloze Test | Verbal Ability
+ 1679 | Idioms and Phrases | Verbal Ability
+ 1680 | One Word Substitution | Verbal Ability
+ 1681 | Idioms and Phrases | Verbal Ability
+ 1682 | Analogy | Verbal Ability
+ 1683 | Analogy | Verbal Ability
+ 1684 | Analogy | Verbal Ability
+ 1685 | Sentence Rearrangement | Verbal Ability
+ 1686 | Sentence Rearrangement | Verbal Ability
+ 1687 | Sentence Rearrangement | Verbal Ability
+ 1688 | One Word Substitution | Verbal Ability
+ 1689 | One Word Substitution | Verbal Ability
+ 1690 | One Word Substitution | Verbal Ability
+ 1691 | World Geography | General Awareness
+ 1692 | Polity and Civics | General Awareness
+ 1693 | Polity and Civics | General Awareness
+ 1694 | Art and Culture | General Awareness
+ 1695 | Modern History | General Awareness
+ 1696 | Modern History | General Awareness
+ 1697 | Defence | General Awareness
+ 1698 | Sports | General Awareness
+ 1699 | Defence | General Awareness
+ 1700 | Awards and Honours | General Awareness
+ 1701 | Awards and Honours | General Awareness
+ 1702 | Current Affairs | General Awareness
+ 1703 | Sports | General Awareness
+ 1704 | Defence | General Awareness
+ 1705 | Current Affairs | General Awareness
+ 1706 | Basic Science | General Awareness
+ 1707 | Important Organizations | General Awareness
+ 1708 | Books and Authors | General Awareness
+ 1709 | Sports | General Awareness
+ 1710 | Defence | General Awareness
+ 1711 | Current Affairs | General Awareness
+ 1712 | Basic Science | General Awareness
+ 1713 | Defence | General Awareness
+ 1714 | Current Affairs | General Awareness
+ 1715 | Important Organizations | General Awareness
+ 1716 | Exponents and Powers | Numerical Ability
+ 1717 | Percentage | Numerical Ability
+ 1718 | Statistics and Probability | Numerical Ability
+ 1719 | Compound Interest | Numerical Ability
+ 1720 | Time Speed and Distance | Numerical Ability
+ 1721 | Area and Perimeter | Numerical Ability
+ 1722 | Area and Perimeter | Numerical Ability
+ 1723 | Algebra | Numerical Ability
+ 1724 | Mixture and Alligation | Numerical Ability
+ 1725 | Average | Numerical Ability
+ 1726 | Boat and Stream | Numerical Ability
+ 1727 | Profit and Loss | Numerical Ability
+ 1728 | Profit and Loss | Numerical Ability
+ 1729 | Percentage | Numerical Ability
+ 1730 | Algebra | Numerical Ability
+ 1731 | Ratio and Proportion | Numerical Ability
+ 1732 | Number System and Series | Numerical Ability
+ 1733 | Simplification | Numerical Ability
+ 1734 | Algebra | Numerical Ability
+ 1735 | Time and Work | Numerical Ability
+ 1736 | Verbal Classification | Reasoning
+ 1737 | Verbal Classification | Reasoning
+ 1738 | Verbal Analogy | Reasoning
+ 1739 | Verbal Analogy | Reasoning
+ 1740 | Coding-Decoding | Reasoning
+ 1741 | Coding-Decoding | Reasoning
+ 1742 | Verbal Series | Reasoning
+ 1743 | Logical Reasoning | Reasoning
+ 1744 | Spatial Orientation | Reasoning
+ 1745 | Spatial Orientation | Reasoning
+ 1746 | Coding-Decoding | Reasoning
+ 1747 | Coding-Decoding | Reasoning
+ 1748 | Logical Reasoning | Reasoning
+ 1749 | Logical Reasoning | Reasoning
+ 1750 | Logical Reasoning | Reasoning
+ 1751 | Non-Verbal Classification | Reasoning
+ 1752 | Non-Verbal Classification | Reasoning
+ 1753 | Pattern Completion | Reasoning
+ 1754 | Pattern Completion | Reasoning
+ 1755 | Pattern Recognition | Reasoning
+ 1756 | Pattern Recognition | Reasoning
+ 1757 | Non-Verbal Puzzle | Reasoning
+ 1758 | Non-Verbal Puzzle | Reasoning
+ 1759 | Venn Diagrams | Reasoning
+ 1760 | Venn Diagrams | Reasoning
+ 1761 | Reading Comprehension | Verbal Ability
+ 1762 | Reading Comprehension | Verbal Ability
+ 1763 | Reading Comprehension | Verbal Ability
+ 1764 | Error Spotting | Verbal Ability
+ 1765 | Error Spotting | Verbal Ability
+ 1766 | Error Spotting | Verbal Ability
+ 1767 | Error Spotting | Verbal Ability
+ 1768 | Sentence Completion | Verbal Ability
+ 1769 | Sentence Completion | Verbal Ability
+ 1770 | Sentence Completion | Verbal Ability
+ 1771 | One Word Substitution | Verbal Ability
+ 1772 | Synonyms | Verbal Ability
+ 1773 | Synonyms | Verbal Ability
+ 1774 | Synonyms | Verbal Ability
+ 1775 | Antonyms | Verbal Ability
+ 1776 | Antonyms | Verbal Ability
+ 1777 | Antonyms | Verbal Ability
+ 1778 | Cloze Test | Verbal Ability
+ 1779 | Cloze Test | Verbal Ability
+ 1780 | Cloze Test | Verbal Ability
+ 1781 | Idioms and Phrases | Verbal Ability
+ 1782 | Idioms and Phrases | Verbal Ability
+ 1783 | Idioms and Phrases | Verbal Ability
+ 1784 | Analogy | Verbal Ability
+ 1785 | Analogy | Verbal Ability
+ 1786 | Sentence Rearrangement | Verbal Ability
+ 1787 | Sentence Rearrangement | Verbal Ability
+ 1788 | One Word Substitution | Verbal Ability
+ 1789 | One Word Substitution | Verbal Ability
+ 1790 | One Word Substitution | Verbal Ability
+ 1791 | Error Detection | Verbal Ability
+ 1792 | Error Detection | Verbal Ability
+ 1793 | Error Detection | Verbal Ability
+ 1794 | Error Detection | Verbal Ability
+ 1795 | Sentence Completion (Phrasal Verbs) | Verbal Ability
+ 1796 | Sentence Completion (Conditionals) | Verbal Ability
+ 1797 | Tenses | Verbal Ability
+ 1798 | Sentence Completion (Vocabulary) | Verbal Ability
+ 1799 | Synonyms | Verbal Ability
+ 1800 | Synonyms | Verbal Ability
+ 1801 | Synonyms | Verbal Ability
+ 1802 | Antonyms | Verbal Ability
+ 1803 | Antonyms | Verbal Ability
+ 1804 | Antonyms | Verbal Ability
+ 1805 | Reading Comprehension | Verbal Ability
+ 1806 | Reading Comprehension | Verbal Ability
+ 1807 | Reading Comprehension | Verbal Ability
+ 1808 | Sentence Rearrangement | Verbal Ability
+ 1809 | Sentence Rearrangement | Verbal Ability
+ 1810 | Sentence Rearrangement | Verbal Ability
+ 1811 | Cloze Test | Verbal Ability
+ 1812 | Cloze Test | Verbal Ability
+ 1813 | Cloze Test | Verbal Ability
+ 1814 | Idioms & Phrases | Verbal Ability
+ 1815 | Idioms & Phrases | Verbal Ability
+ 1816 | Idioms & Phrases | Verbal Ability
+ 1817 | Analogy (Verbal) | Verbal Ability
+ 1818 | Analogy (Verbal) | Verbal Ability
+ 1819 | One Word Substitution | Verbal Ability
+ 1820 | One Word Substitution | Verbal Ability
+ 1821 | Reading Comprehension | Verbal Ability
+ 1822 | Reading Comprehension | Verbal Ability
+ 1823 | Reading Comprehension | Verbal Ability
+ 1824 | Error Detection | Verbal Ability
+ 1825 | Error Detection | Verbal Ability
+ 1826 | Error Detection | Verbal Ability
+ 1827 | Error Detection | Verbal Ability
+ 1828 | Sentence Completion | Verbal Ability
+ 1829 | Tenses | Verbal Ability
+ 1830 | Idioms & Phrases | Verbal Ability
+ 1831 | Idioms & Phrases | Verbal Ability
+ 1832 | Synonyms | Verbal Ability
+ 1833 | Synonyms | Verbal Ability
+ 1834 | Antonyms | Verbal Ability
+ 1835 | Antonyms | Verbal Ability
+ 1836 | Cloze Test | Verbal Ability
+ 1837 | Cloze Test | Verbal Ability
+ 1838 | Cloze Test | Verbal Ability
+ 1839 | Idioms & Phrases | Verbal Ability
+ 1840 | Idioms & Phrases | Verbal Ability
+ 1841 | Idioms & Phrases | Verbal Ability
+ 1842 | Analogy (Verbal) | Verbal Ability
+ 1843 | Analogy (Verbal) | Verbal Ability
+ 1844 | Analogy (Verbal) | Verbal Ability
+ 1845 | Sentence Rearrangement | Verbal Ability
+ 1846 | Sentence Rearrangement | Verbal Ability
+ 1847 | Sentence Rearrangement | Verbal Ability
+ 1848 | One Word Substitution | Verbal Ability
+ 1849 | One Word Substitution | Verbal Ability
+ 1850 | One Word Substitution | Verbal Ability
+ 1851 | Reading Comprehension | Verbal Ability
+ 1852 | Reading Comprehension | Verbal Ability
+ 1853 | Reading Comprehension | Verbal Ability
+ 1854 | Error Spotting | Verbal Ability
+ 1855 | Error Spotting | Verbal Ability
+ 1856 | Error Spotting | Verbal Ability
+ 1857 | Error Spotting | Verbal Ability
+ 1858 | Sentence Completion | Verbal Ability
+ 1859 | Tenses | Verbal Ability
+ 1860 | Sentence Completion | Verbal Ability
+ 1861 | Sentence Completion | Verbal Ability
+ 1862 | Synonyms | Verbal Ability
+ 1863 | Synonyms | Verbal Ability
+ 1864 | Synonyms | Verbal Ability
+ 1865 | Antonyms | Verbal Ability
+ 1866 | Antonyms | Verbal Ability
+ 1867 | Antonyms | Verbal Ability
+ 1868 | Cloze Test | Verbal Ability
+ 1869 | Cloze Test | Verbal Ability
+ 1870 | Cloze Test | Verbal Ability
+ 1871 | Idioms and Phrases | Verbal Ability
+ 1872 | Idioms and Phrases | Verbal Ability
+ 1873 | Idioms and Phrases | Verbal Ability
+ 1874 | Verbal Analogy | Verbal Ability
+ 1875 | Verbal Analogy | Verbal Ability
+ 1876 | Sentence Rearrangement | Verbal Ability
+ 1877 | Sentence Rearrangement | Verbal Ability
+ 1878 | One Word Substitution | Verbal Ability
+ 1879 | One Word Substitution | Verbal Ability
+ 1880 | One Word Substitution | Verbal Ability
+ 1881 | Idioms & Phrases | Verbal Ability
+ 1882 | Synonyms | Verbal Ability
+ 1883 | One Word Substitution | Verbal Ability
+ 1884 | Cloze Test | Verbal Ability
+ 1885 | Cloze Test | Verbal Ability
+ 1886 | Cloze Test | Verbal Ability
+ 1887 | Error Detection | Verbal Ability
+ 1888 | Idioms & Phrases | Verbal Ability
+ 1889 | Synonyms | Verbal Ability
+ 1890 | Error Detection | Verbal Ability
+ 1891 | Idioms & Phrases | Verbal Ability
+ 1892 | Synonyms | Verbal Ability
+ 1893 | Analogy (Verbal) | Verbal Ability
+ 1894 | Synonyms | Verbal Ability
+ 1895 | Antonyms | Verbal Ability
+ 1896 | Analogy (Verbal) | Verbal Ability
+ 1897 | Idioms & Phrases | Verbal Ability
+ 1898 | Synonyms | Verbal Ability
+ 1899 | Antonyms | Verbal Ability
+ 1900 | Sentence Rearrangement | Verbal Ability
+ 1901 | Sentence Rearrangement | Verbal Ability
+ 1902 | Sentence Rearrangement | Verbal Ability
+ 1903 | Sentence Rearrangement | Verbal Ability
+ 1904 | Spelling | Verbal Ability
+ 1905 | Error Detection | Verbal Ability
+ 1906 | Error Detection | Verbal Ability
+ 1907 | Idioms & Phrases | Verbal Ability
+ 1908 | Economy | General Awareness
+ 1909 | Economy | General Awareness
+ 1910 | Economy | General Awareness
+ 1911 | Reading Comprehension | Verbal Ability
+ 1912 | Reading Comprehension | Verbal Ability
+ 1913 | Reading Comprehension | Verbal Ability
+ 1914 | Error Spotting | Verbal Ability
+ 1915 | Error Spotting | Verbal Ability
+ 1916 | Error Spotting | Verbal Ability
+ 1917 | Error Spotting | Verbal Ability
+ 1918 | Tenses | Verbal Ability
+ 1919 | Sentence Completion | Verbal Ability
+ 1920 | Sentence Completion | Verbal Ability
+ 1921 | Sentence Completion | Verbal Ability
+ 1922 | Synonyms | Verbal Ability
+ 1923 | Synonyms | Verbal Ability
+ 1924 | Synonyms | Verbal Ability
+ 1925 | Antonyms | Verbal Ability
+ 1926 | Antonyms | Verbal Ability
+ 1927 | Antonyms | Verbal Ability
+ 1928 | Cloze Test | Verbal Ability
+ 1929 | Cloze Test | Verbal Ability
+ 1930 | Cloze Test | Verbal Ability
+ 1931 | Idioms and Phrases | Verbal Ability
+ 1932 | Idioms and Phrases | Verbal Ability
+ 1933 | Idioms and Phrases | Verbal Ability
+ 1934 | Verbal Analogy | Verbal Ability
+ 1935 | Verbal Analogy | Verbal Ability
+ 1936 | Verbal Analogy | Verbal Ability
+ 1937 | Sentence Rearrangement | Verbal Ability
+ 1938 | Sentence Rearrangement | Verbal Ability
+ 1939 | Sentence Rearrangement | Verbal Ability
+ 1940 | One Word Substitution | Verbal Ability
+ 1941 | Defence Exercises | General Awareness
+ 1942 | International Organizations / Summits | General Awareness
+ 1943 | Defence Technology | General Awareness
+ 1944 | Awards | General Awareness
+ 1945 | Art & Culture | General Awareness
+ 1946 | Defence Exercises | General Awareness
+ 1947 | Sports Terminology | General Awareness
+ 1948 | History - Modern | General Awareness
+ 1949 | Defence - Ranks | General Awareness
+ 1950 | Geography - India | General Awareness
+ 1951 | Polity | General Awareness
+ 1952 | Science & Tech / Current Affairs | General Awareness
+ 1953 | History - Ancient | General Awareness
+ 1954 | Basic Science (Biology) | General Awareness
+ 1955 | Basic Science (Biology) | General Awareness
+ 1956 | Geography - Physical | General Awareness
+ 1957 | Basic Science (Physics) | General Awareness
+ 1958 | Books & Authors | General Awareness
+ 1959 | Important Organizations / Defence | General Awareness
+ 1960 | Sports | General Awareness
+ 1961 | Economy | General Awareness
+ 1962 | Geography - India | General Awareness
+ 1963 | Awards | General Awareness
+ 1964 | History - Modern | General Awareness
+ 1965 | Organizations / Polity | General Awareness
+ 1966 | Coding Decoding | Reasoning
+ 1967 | Letter Series | Reasoning
+ 1968 | Blood Relations | Reasoning
+ 1969 | Non-Verbal Series | Reasoning
+ 1970 | Simplification | Numerical Ability
+ 1971 | Syllogism | Reasoning
+ 1972 | Ranking & Ordering | Reasoning
+ 1973 | Classification (Number) | Reasoning
+ 1974 | Venn Diagrams | Reasoning
+ 1975 | Non-Verbal Pattern Completion | Reasoning
+ 1976 | Non-Verbal Embedded Figures | Reasoning
+ 1977 | Logical Arrangement | Reasoning
+ 1978 | Distance & Direction | Numerical Ability
+ 1979 | Missing Number | Numerical Ability
+ 1980 | Coding Decoding | Reasoning
+ 1981 | Classification (Letter) | Reasoning
+ 1982 | Non-Verbal Figure Formation | Reasoning
+ 1983 | Venn Diagrams | Reasoning
+ 1984 | Analogy (Verbal) | Reasoning
+ 1985 | Number Series | Reasoning
+ 1986 | Clocks | Numerical Ability
+ 1987 | Classification (Verbal) | Reasoning
+ 1988 | Syllogism | Reasoning
+ 1989 | Number Analogy | Reasoning
+ 1990 | Coding Decoding | Reasoning
+ 1991 | HCF and LCM | Numerical Ability
+ 1992 | Speed, Time and Distance | Numerical Ability
+ 1993 | Statistics and Probability | Numerical Ability
+ 1994 | Statistics and Probability | Numerical Ability
+ 1995 | Simple and Compound Interest | Numerical Ability
+ 1996 | Simple Interest | Numerical Ability
+ 1997 | Average | Numerical Ability
+ 1998 | Average | Numerical Ability
+ 1999 | Mixture and Alligation | Numerical Ability
+ 2000 | Percentage | Numerical Ability
+ 2001 | Trains | Numerical Ability
+ 2002 | Time and Work | Numerical Ability
+ 2003 | Time and Work | Numerical Ability
+ 2004 | Profit and Loss | Numerical Ability
+ 2005 | Profit and Loss | Numerical Ability
+ 2006 | Profit and Loss | Numerical Ability
+ 2007 | Ratio and Proportion | Numerical Ability
+ 2008 | Ratio and Proportion | Numerical Ability
+ 2009 | Mensuration | Numerical Ability
+ 2010 | Area | Numerical Ability
+ 2011 | Direction Sense Test | Reasoning
+ 2012 | Venn Diagram | Reasoning
+ 2013 | Venn Diagram Puzzle | Reasoning
+ 2014 | Character Puzzle | Reasoning
+ 2015 | Mathematical Operations | Reasoning
+ 2016 | Verbal Analogy | Reasoning
+ 2017 | Verbal Classification | Reasoning
+ 2018 | Dot Situation | Reasoning
+ 2019 | Verbal Classification | Reasoning
+ 2020 | Verbal Analogy | Reasoning
+ 2021 | Direction and Distance | Reasoning
+ 2022 | Completion of Pattern | Reasoning
+ 2023 | Completion of Pattern | Reasoning
+ 2024 | Direction and Distance | Reasoning
+ 2025 | Mathematical Operations | Reasoning
+ 2026 | Non-Verbal Series | Reasoning
+ 2027 | Coding-Decoding | Reasoning
+ 2028 | Blood Relations | Reasoning
+ 2029 | Blood Relations | Reasoning
+ 2030 | Verbal Analogy | Reasoning
+ 2031 | Coding-Decoding | Reasoning
+ 2032 | Character Puzzle | Reasoning
+ 2033 | Dot Situation | Reasoning
+ 2034 | Non-Verbal Series | Reasoning
+ 2035 | Verbal Classification | Reasoning
+ 2036 | Current Affairs | General Awareness
+ 2037 | Defence | General Awareness
+ 2038 | Sports | General Awareness
+ 2039 | Environment | General Awareness
+ 2040 | World Geography | General Awareness
+ 2041 | Books and Authors | General Awareness
+ 2042 | Science and Technology | General Awareness
+ 2043 | Science and Technology | General Awareness
+ 2044 | Personalities | General Awareness
+ 2045 | Polity | General Awareness
+ 2046 | Modern History | General Awareness
+ 2047 | Science and Technology | General Awareness
+ 2048 | Indian Geography | General Awareness
+ 2049 | Defence | General Awareness
+ 2050 | Current Affairs | General Awareness
+ 2051 | Organizations | General Awareness
+ 2052 | Modern History | General Awareness
+ 2053 | Defence | General Awareness
+ 2054 | Defence | General Awareness
+ 2055 | Awards and Honours | General Awareness
+ 2056 | Indian Geography | General Awareness
+ 2057 | Sports | General Awareness
+ 2058 | World Geography | General Awareness
+ 2059 | Polity | General Awareness
+ 2060 | Economy | General Awareness
+ 2061 | Profit and Loss with Mixture | Numerical Ability
+ 2062 | Time and Work | Numerical Ability
+ 2063 | Decimals and Fractions | Numerical Ability
+ 2064 | Compound Interest | Numerical Ability
+ 2065 | Percentage | Numerical Ability
+ 2066 | Simplification | Numerical Ability
+ 2067 | Train Problems | Numerical Ability
+ 2068 | Train Problems | Numerical Ability
+ 2069 | Simple Interest | Numerical Ability
+ 2070 | Average | Numerical Ability
+ 2071 | Rational Numbers | Numerical Ability
+ 2072 | Average | Numerical Ability
+ 2073 | Profit and Loss | Numerical Ability
+ 2074 | Mixture and Alligation | Numerical Ability
+ 2075 | Probability | Numerical Ability
+ 2076 | Algebra | Numerical Ability
+ 2077 | Ratio and Proportion | Numerical Ability
+ 2078 | Mensuration - Area and Perimeter | Numerical Ability
+ 2079 | Time and Work | Numerical Ability
+ 2080 | Clock Problems | Numerical Ability
+ 2081 | Reading Comprehension | Verbal Ability
+ 2082 | Reading Comprehension | Verbal Ability
+ 2083 | Reading Comprehension | Verbal Ability
+ 2084 | Error Spotting | Verbal Ability
+ 2085 | Error Spotting | Verbal Ability
+ 2086 | Error Spotting | Verbal Ability
+ 2087 | Error Spotting | Verbal Ability
+ 2088 | Sentence Completion | Verbal Ability
+ 2089 | Grammar | Verbal Ability
+ 2090 | Grammar | Verbal Ability
+ 2091 | Sentence Completion | Verbal Ability
+ 2092 | Synonyms | Verbal Ability
+ 2093 | Synonyms | Verbal Ability
+ 2094 | Synonyms | Verbal Ability
+ 2095 | Antonyms | Verbal Ability
+ 2096 | Antonyms | Verbal Ability
+ 2097 | Antonyms | Verbal Ability
+ 2098 | Cloze Test | Verbal Ability
+ 2099 | Cloze Test | Verbal Ability
+ 2100 | Cloze Test | Verbal Ability
+ 2101 | Idioms and Phrases | Verbal Ability
+ 2102 | Idioms and Phrases | Verbal Ability
+ 2103 | Idioms and Phrases | Verbal Ability
+ 2104 | Verbal Analogy | Verbal Ability
+ 2105 | Verbal Analogy | Verbal Ability
+ 2106 | Verbal Analogy | Verbal Ability
+ 2107 | Sentence Rearrangement | Verbal Ability
+ 2108 | Sentence Rearrangement | Verbal Ability
+ 2109 | Sentence Rearrangement | Verbal Ability
+ 2110 | One Word Substitution | Verbal Ability
+ 2111 | Number System | Numerical Ability
+ 2112 | Percentage | Numerical Ability
+ 2113 | Time and Work | Numerical Ability
+ 2114 | Time and Work | Numerical Ability
+ 2115 | Ratio and Proportion | Numerical Ability
+ 2116 | Speed, Time and Distance | Numerical Ability
+ 2117 | Compound Interest | Numerical Ability
+ 2118 | Simple Interest | Numerical Ability
+ 2119 | Percentage | Numerical Ability
+ 2120 | Percentage | Numerical Ability
+ 2121 | Profit and Loss | Numerical Ability
+ 2122 | Speed, Time and Distance | Numerical Ability
+ 2123 | Average | Numerical Ability
+ 2124 | Profit and Loss | Numerical Ability
+ 2125 | Speed, Time and Distance | Numerical Ability
+ 2126 | Average | Numerical Ability
+ 2127 | Mixtures and Alligations | Numerical Ability
+ 2128 | Simplification | Numerical Ability
+ 2129 | Compound Interest | Numerical Ability
+ 2130 | Ratio and Proportion | Numerical Ability
+ 2131 | Books & Authors | General Awareness
+ 2132 | History - Modern | General Awareness
+ 2133 | History - Modern | General Awareness
+ 2134 | Art & Culture | General Awareness
+ 2135 | General Science | General Awareness
+ 2136 | Current Affairs | General Awareness
+ 2137 | Sports | General Awareness
+ 2138 | Defence | General Awareness
+ 2139 | Defence | General Awareness
+ 2140 | Geography - India | General Awareness
+ 2141 | Current Affairs | General Awareness
+ 2142 | Geography - World | General Awareness
+ 2143 | Polity / Schemes | General Awareness
+ 2144 | Sports | General Awareness
+ 2145 | Science & Tech | General Awareness
+ 2146 | Awards / Environment | General Awareness
+ 2147 | Polity | General Awareness
+ 2148 | Defence | General Awareness
+ 2149 | General Science | General Awareness
+ 2150 | International Organizations | General Awareness
+ 2151 | Sports | General Awareness
+ 2152 | General Science | General Awareness
+ 2153 | Awards | General Awareness
+ 2154 | Sports | General Awareness
+ 2155 | Environment | General Awareness
+ 2156 | Simplification | Numerical Ability
+ 2157 | Average | Numerical Ability
+ 2158 | Simple Interest | Numerical Ability
+ 2159 | Compound Interest | Numerical Ability
+ 2160 | Compound Interest | Numerical Ability
+ 2161 | Mixture and Alligation | Numerical Ability
+ 2162 | Profit and Loss | Numerical Ability
+ 2163 | Ratio and Proportion | Numerical Ability
+ 2164 | Ratio and Proportion | Numerical Ability
+ 2165 | Trains | Numerical Ability
+ 2166 | Speed, Distance and Time | Numerical Ability
+ 2167 | Non-Verbal Orientation | Reasoning
+ 2168 | Boats and Streams | Numerical Ability
+ 2169 | Average | Numerical Ability
+ 2170 | Time and Work | Numerical Ability
+ 2171 | Time and Work | Numerical Ability
+ 2172 | Time and Work | Numerical Ability
+ 2173 | Profit and Loss | Numerical Ability
+ 2174 | Average | Numerical Ability
+ 2175 | Time and Work | Numerical Ability
+ 2176 | Number System | Numerical Ability
+ 2177 | Profit & Loss | Numerical Ability
+ 2178 | Percentage | Numerical Ability
+ 2179 | Statistics | Numerical Ability
+ 2180 | Profit & Loss | Numerical Ability
+ 2181 | Compound Interest | Numerical Ability
+ 2182 | Compound Interest | Numerical Ability
+ 2183 | LCM & HCF | Numerical Ability
+ 2184 | Speed, Distance & Time | Numerical Ability
+ 2185 | Verbal Logic | Reasoning
+ 2186 | Ratio & Proportion | Numerical Ability
+ 2187 | Mixture & Alligation | Numerical Ability
+ 2188 | Time & Work | Numerical Ability
+ 2189 | Time & Work | Numerical Ability
+ 2190 | Boat & Stream | Numerical Ability
+ 2191 | Average | Numerical Ability
+ 2192 | Mensuration | Numerical Ability
+ 2193 | Ratio & Proportion | Numerical Ability
+ 2194 | Mensuration | Numerical Ability
+ 2195 | Simplification | Numerical Ability
+ 2196 | Number System | Numerical Ability
+ 2197 | Compound Interest | Numerical Ability
+ 2198 | Profit and Loss | Numerical Ability
+ 2199 | Trains | Numerical Ability
+ 2200 | Ratio and Proportion | Numerical Ability
+ 2201 | Mensuration | Numerical Ability
+ 2202 | Average | Numerical Ability
+ 2203 | Mixture and Alligation | Numerical Ability
+ 2204 | Profit and Loss | Numerical Ability
+ 2205 | Compound Interest | Numerical Ability
+ 2206 | Simple Interest | Numerical Ability
+ 2207 | Number System | Numerical Ability
+ 2208 | Percentage | Numerical Ability
+ 2209 | Time and Work | Numerical Ability
+ 2210 | Profit and Loss | Numerical Ability
+ 2211 | Compound Interest | Numerical Ability
+ 2212 | Statistics and Probability | Numerical Ability
+ 2213 | Percentage | Numerical Ability
+ 2214 | Time and Work | Numerical Ability
+ 2215 | Area | Numerical Ability
+ 2216 | Logical Reasoning | Reasoning
+ 2217 | Non-Verbal Reasoning | Reasoning
+ 2218 | Coding-Decoding | Reasoning
+ 2219 | Classification | Reasoning
+ 2220 | Logical Reasoning | Reasoning
+ 2221 | Logical Reasoning | Reasoning
+ 2222 | Logical Reasoning | Reasoning
+ 2223 | Logical Reasoning | Reasoning
+ 2224 | Logical Reasoning | Reasoning
+ 2225 | Venn Diagram | Reasoning
+ 2226 | Venn Diagram | Reasoning
+ 2227 | Puzzle | Reasoning
+ 2228 | Puzzle | Reasoning
+ 2229 | Series | Reasoning
+ 2230 | Non-Verbal Series | Reasoning
+ 2231 | Non-Verbal Series | Reasoning
+ 2232 | Classification | Reasoning
+ 2233 | Classification | Reasoning
+ 2234 | Analogy | Reasoning
+ 2235 | Coding-Decoding | Reasoning
+ 2236 | Coding-Decoding | Reasoning
+ 2237 | Non-Verbal Pattern | Reasoning
+ 2238 | Non-Verbal Classification | Reasoning
+ 2239 | Analogy | Reasoning
+ 2240 | Series | Reasoning
+ 2241 | Probability | Numerical Ability
+ 2242 | Mixtures & Alligations | Numerical Ability
+ 2243 | Profit and Loss | Numerical Ability
+ 2244 | Area | Numerical Ability
+ 2245 | Mixtures & Alligations | Numerical Ability
+ 2246 | Ratio and Proportion | Numerical Ability
+ 2247 | Speed, Distance and Time | Numerical Ability
+ 2248 | Ratio and Proportion | Numerical Ability
+ 2249 | Percentage | Numerical Ability
+ 2250 | Boats and Streams | Numerical Ability
+ 2251 | Simplification | Numerical Ability
+ 2252 | Profit and Loss | Numerical Ability
+ 2253 | Time and Work | Numerical Ability
+ 2254 | Number System | Numerical Ability
+ 2255 | Percentage | Numerical Ability
+ 2256 | Compound Interest | Numerical Ability
+ 2257 | Average | Numerical Ability
+ 2258 | Simple Interest | Numerical Ability
+ 2259 | Area | Numerical Ability
+ 2260 | Time and Work | Numerical Ability
+ 2261 | Non-Verbal Pattern Recognition | Reasoning
+ 2262 | Verbal Reasoning - Coding and Decoding | Reasoning
+ 2263 | Verbal Reasoning - Coding and Decoding | Reasoning
+ 2264 | Verbal Reasoning - Coding and Decoding | Reasoning
+ 2265 | Verbal Reasoning - Coding and Decoding | Reasoning
+ 2266 | Clock Problems | Numerical Ability
+ 2267 | Non-Verbal Reasoning - Calendar | Reasoning
+ 2268 | Verbal Reasoning - Logical Reasoning | Reasoning
+ 2269 | Verbal Reasoning - Blood Relations | Reasoning
+ 2270 | Verbal Reasoning - Venn Diagrams | Reasoning
+ 2271 | Verbal Reasoning - Venn Diagrams | Reasoning
+ 2272 | Verbal Reasoning - Venn Diagrams | Reasoning
+ 2273 | Verbal Reasoning - Classification | Reasoning
+ 2274 | Verbal Reasoning - Classification | Reasoning
+ 2275 | Verbal Reasoning - Classification | Reasoning
+ 2276 | Non-Verbal Reasoning - Puzzle | Reasoning
+ 2277 | Non-Verbal Reasoning - Puzzle | Reasoning
+ 2278 | Verbal Reasoning - Analogy | Reasoning
+ 2279 | Verbal Reasoning - Analogy | Reasoning
+ 2280 | Verbal Reasoning - Analogy | Reasoning
+ 2281 | Non-Verbal Reasoning - Direction and Orientation | Reasoning
+ 2282 | Verbal Reasoning - Number Series | Reasoning
+ 2283 | Verbal Reasoning - Number Series | Reasoning
+ 2284 | Non-Verbal Pattern Recognition | Reasoning
+ 2285 | Non-Verbal Figure Series | Reasoning
+ 2286 | Logical Reasoning | Reasoning
+ 2287 | Logical Reasoning | Reasoning
+ 2288 | Coding-Decoding | Reasoning
+ 2289 | Non-Verbal Reasoning | Reasoning
+ 2290 | Logical Reasoning | Reasoning
+ 2291 | Logical Reasoning | Reasoning
+ 2292 | Logical Reasoning | Reasoning
+ 2293 | Logical Reasoning | Reasoning
+ 2294 | Logical Reasoning | Reasoning
+ 2295 | Venn Diagram | Reasoning
+ 2296 | Venn Diagram | Reasoning
+ 2297 | Venn Diagram | Reasoning
+ 2298 | Series | Reasoning
+ 2299 | Puzzle | Reasoning
+ 2300 | Classification | Reasoning
+ 2301 | Classification | Reasoning
+ 2302 | Classification | Reasoning
+ 2303 | Non-Verbal Series | Reasoning
+ 2304 | Analogy | Reasoning
+ 2305 | Non-Verbal Series | Reasoning
+ 2306 | Classification | Reasoning
+ 2307 | Classification | Reasoning
+ 2308 | Puzzle | Reasoning
+ 2309 | Coding-Decoding | Reasoning
+ 2310 | Non-Verbal Series | Reasoning
+ 2311 | Trains | Numerical Ability
+ 2312 | Number System | Numerical Ability
+ 2313 | Profit & Loss | Numerical Ability
+ 2314 | Time & Work | Numerical Ability
+ 2315 | Ratio & Proportion | Numerical Ability
+ 2316 | Simple Interest | Numerical Ability
+ 2317 | Average | Numerical Ability
+ 2318 | Boats & Streams | Numerical Ability
+ 2319 | Mensuration | Numerical Ability
+ 2320 | Profit & Loss | Numerical Ability
+ 2321 | Probability | Numerical Ability
+ 2322 | Number System | Numerical Ability
+ 2323 | Simple Interest | Numerical Ability
+ 2324 | Mensuration | Numerical Ability
+ 2325 | Average | Numerical Ability
+ 2326 | Time & Work | Numerical Ability
+ 2327 | Simplification | Numerical Ability
+ 2328 | Time & Work | Numerical Ability
+ 2329 | Percentage | Numerical Ability
+ 2330 | Mixture & Alligation | Numerical Ability
+ 2331 | Current Affairs | General Awareness
+ 2332 | Polity | General Awareness
+ 2333 | Polity | General Awareness
+ 2334 | Defence | General Awareness
+ 2335 | Current Affairs | General Awareness
+ 2336 | Science & Tech | General Awareness
+ 2337 | Defence | General Awareness
+ 2338 | General Science | General Awareness
+ 2339 | General Science | General Awareness
+ 2340 | Sports | General Awareness
+ 2341 | General Science | General Awareness
+ 2342 | Defence | General Awareness
+ 2343 | Economy | General Awareness
+ 2344 | Art & Culture | General Awareness
+ 2345 | History - Medieval | General Awareness
+ 2346 | Defence | General Awareness
+ 2347 | Current Affairs | General Awareness
+ 2348 | Awards | General Awareness
+ 2349 | Polity | General Awareness
+ 2350 | Environment | General Awareness
+ 2351 | Geography - India | General Awareness
+ 2352 | International Organizations | General Awareness
+ 2353 | Books & Authors | General Awareness
+ 2354 | History - Modern | General Awareness
+ 2355 | Defence | General Awareness
+ 2356 | Ranking | Reasoning
+ 2357 | Direction & Distance | Reasoning
+ 2358 | Coding Decoding | Reasoning
+ 2359 | Classification (Verbal) | Reasoning
+ 2360 | Non-Verbal Pattern (Dot Situation) | Reasoning
+ 2361 | Number Series | Reasoning
+ 2362 | Letter Series | Reasoning
+ 2363 | Blood Relations | Reasoning
+ 2364 | Analogy (Verbal) | Reasoning
+ 2365 | Classification (Letter) | Reasoning
+ 2366 | Mathematical Operations | Reasoning
+ 2367 | Non-Verbal Series | Reasoning
+ 2368 | Syllogism | Reasoning
+ 2369 | Non-Verbal Series | Reasoning
+ 2370 | Venn Diagrams | Reasoning
+ 2371 | Classification (Letter) | Reasoning
+ 2372 | Non-Verbal Embedded | Reasoning
+ 2373 | Non-Verbal Pattern | Reasoning
+ 2374 | Number Analogy | Reasoning
+ 2375 | Non-Verbal Spatial | Reasoning
+ 2376 | Classification (Letter) | Reasoning
+ 2377 | Clocks (Mirror Image) | Reasoning
+ 2378 | Non-Verbal Pattern | Reasoning
+ 2379 | Non-Verbal Puzzle | Reasoning
+ 2380 | Number Analogy | Reasoning
+ 2381 | Average | Numerical Ability
+ 2382 | Boats & Streams | Numerical Ability
+ 2383 | Simplification | Numerical Ability
+ 2384 | Simplification | Numerical Ability
+ 2385 | Mensuration | Numerical Ability
+ 2386 | HCF & LCM | Numerical Ability
+ 2387 | Simple Interest | Numerical Ability
+ 2388 | Ratio & Proportion | Numerical Ability
+ 2389 | Percentage | Numerical Ability
+ 2390 | Percentage | Numerical Ability
+ 2391 | Probability | Numerical Ability
+ 2392 | Average | Numerical Ability
+ 2393 | Profit & Loss | Numerical Ability
+ 2394 | Mixture & Alligation | Numerical Ability
+ 2395 | Number System | Numerical Ability
+ 2396 | Mensuration | Numerical Ability
+ 2397 | Ratio & Proportion | Numerical Ability
+ 2398 | Time, Speed & Distance | Numerical Ability
+ 2399 | Mensuration | Numerical Ability
+ 2400 | Time & Work | Numerical Ability
+ 2401 | Current Affairs | General Awareness
+ 2402 | Art & Culture | General Awareness
+ 2403 | Science & Tech | General Awareness
+ 2404 | Current Affairs | General Awareness
+ 2405 | Government Schemes | General Awareness
+ 2406 | Defence | General Awareness
+ 2407 | Environment | General Awareness
+ 2408 | Defence | General Awareness
+ 2409 | History - Modern | General Awareness
+ 2410 | Sports | General Awareness
+ 2411 | International Organizations | General Awareness
+ 2412 | Books & Authors | General Awareness
+ 2413 | International Organizations | General Awareness
+ 2414 | Current Affairs | General Awareness
+ 2415 | Art & Culture | General Awareness
+ 2416 | Environment | General Awareness
+ 2417 | Polity | General Awareness
+ 2418 | History - Ancient/Medieval | General Awareness
+ 2419 | General Science | General Awareness
+ 2420 | Current Affairs | General Awareness
+ 2421 | Geography - India | General Awareness
+ 2422 | General Science | General Awareness
+ 2423 | History - Modern | General Awareness
+ 2424 | Defence | General Awareness
+ 2425 | Economy | General Awareness
+ 2426 | Profit and Loss | Numerical Ability
+ 2427 | Speed, Time and Distance | Numerical Ability
+ 2428 | Area | Numerical Ability
+ 2429 | Mensuration | Numerical Ability
+ 2430 | Compound Interest | Numerical Ability
+ 2431 | Algebra | Numerical Ability
+ 2432 | Time and Work | Numerical Ability
+ 2433 | Number System | Numerical Ability
+ 2434 | Ratio and Proportion | Numerical Ability
+ 2435 | Ratio and Proportion | Numerical Ability
+ 2436 | Simplification | Numerical Ability
+ 2437 | Algebra | Numerical Ability
+ 2438 | Ratio and Proportion | Numerical Ability
+ 2439 | Percentage | Numerical Ability
+ 2440 | Ratio and Proportion | Numerical Ability
+ 2441 | Ratio and Proportion | Numerical Ability
+ 2442 | Mixtures and Alligations | Numerical Ability
+ 2443 | Profit and Loss | Numerical Ability
+ 2444 | Number System | Numerical Ability
+ 2445 | Boats and Streams | Numerical Ability
+ 2446 | Defence | General Awareness
+ 2447 | Organizations | General Awareness
+ 2448 | Sports | General Awareness
+ 2449 | Environment | General Awareness
+ 2450 | Modern History | General Awareness
+ 2451 | Culture | General Awareness
+ 2452 | Current Affairs | General Awareness
+ 2453 | Polity | General Awareness
+ 2454 | Indian Geography | General Awareness
+ 2455 | Environment | General Awareness
+ 2456 |  | 
+ 2457 |  | 
+ 2458 |  | 
+ 2459 | Current Affairs | General Awareness
+ 2460 | Science | General Awareness
+ 2461 |  | 
+ 2462 |  | 
+ 2463 |  | 
+ 2464 |  | 
+ 2465 |  | 
+ 2466 |  | 
+ 2467 |  | 
+ 2468 |  | 
+ 2469 | Defence | General Awareness
+ 2470 | Science | General Awareness
+ 2471 | Defence | General Awareness
+ 2472 | Books | General Awareness
+ 2473 | Defence | General Awareness
+ 2474 | Current Affairs | General Awareness
+ 2475 | Science | General Awareness
+ 2476 | Awards | General Awareness
+ 2477 | Environment | General Awareness
+ 2478 | Environment | General Awareness
+ 2479 | Verbal Logic | Reasoning
+ 2480 | Verbal Logic | Reasoning
+ 2481 | Verbal Coding | Reasoning
+ 2482 | Verbal Venn | Reasoning
+ 2483 | Verbal Logic | Reasoning
+ 2484 | Verbal Analogy | Reasoning
+ 2485 | Verbal Logic | Reasoning
+ 2486 | Non-Verbal Spatial | Reasoning
+ 2487 | Verbal Series | Reasoning
+ 2488 | Non-Verbal Puzzle | Reasoning
+ 2489 | Verbal Series | Reasoning
+ 2490 | Non-Verbal Classification | Reasoning
+ 2491 | Verbal Analogy | Reasoning
+ 2492 | Average | Numerical Ability
+ 2493 | Non-Verbal Puzzle | Reasoning
+ 2494 | Verbal Series | Reasoning
+ 2495 | Verbal Coding | Reasoning
+ 2496 | Verbal Logic | Reasoning
+ 2497 | Verbal Classification | Reasoning
+ 2498 | Non-Verbal Puzzle | Reasoning
+ 2499 | Verbal Series | Reasoning
+ 2500 | Verbal Series | Reasoning
+ 2501 | Verbal Analogy | Reasoning
+ 2502 | Verbal Logic | Reasoning
+ 2503 | Verbal Logic | Reasoning
+ 2504 | Synonyms | Verbal Ability
+ 2505 | Antonyms | Verbal Ability
+ 2506 | Synonyms | Verbal Ability
+ 2507 | Antonyms | Verbal Ability
+ 2508 | One Word Substitution | Verbal Ability
+ 2509 | One Word Substitution | Verbal Ability
+ 2510 | One Word Substitution | Verbal Ability
+ 2511 | Cloze Test | Verbal Ability
+ 2512 | Cloze Test | Verbal Ability
+ 2513 | Cloze Test | Verbal Ability
+ 2514 | Cloze Test | Verbal Ability
+ 2515 | Cloze Test | Verbal Ability
+ 2516 | Reading Comprehension | Verbal Ability
+ 2517 | Reading Comprehension | Verbal Ability
+ 2518 | Reading Comprehension | Verbal Ability
+ 2519 | Reading Comprehension | Verbal Ability
+ 2520 | Sentence Completion | Verbal Ability
+ 2521 | Sentence Completion | Verbal Ability
+ 2522 | Sentence Completion | Verbal Ability
+ 2523 | Idioms | Verbal Ability
+ 2524 | Idioms | Verbal Ability
+ 2525 | Idioms | Verbal Ability
+ 2526 | Idioms | Verbal Ability
+ 2527 | Error Spotting | Verbal Ability
+ 2528 | Error Spotting | Verbal Ability
+ 2529 | Error Spotting | Verbal Ability
+ 2530 | Sentence Rearrangement | Verbal Ability
+ 2531 | Sentence Rearrangement | Verbal Ability
+ 2532 | Sentence Rearrangement | Verbal Ability
+ 2533 | Sentence Rearrangement | Verbal Ability
+ 2534 | Idioms & Phrases | Verbal Ability
+ 2535 | Error Detection | Verbal Ability
+ 2536 | Antonyms | Verbal Ability
+ 2537 | Synonyms | Verbal Ability
+ 2538 | Error Detection | Verbal Ability
+ 2539 | Antonyms | Verbal Ability
+ 2540 | Synonyms | Verbal Ability
+ 2541 | Vocabulary (Fillers) | Verbal Ability
+ 2542 | Sentence Rearrangement | Verbal Ability
+ 2543 | Synonyms | Verbal Ability
+ 2544 | Antonyms | Verbal Ability
+ 2545 | One Word Substitution | Verbal Ability
+ 2546 | Analogy | Verbal Ability
+ 2547 | Vocabulary (Fillers) | Verbal Ability
+ 2548 | Sentence Rearrangement | Verbal Ability
+ 2549 | Idioms & Phrases | Verbal Ability
+ 2550 | Analogy | Verbal Ability
+ 2551 | Error Detection | Verbal Ability
+ 2552 | Spelling | Verbal Ability
+ 2553 | Sentence Rearrangement | Verbal Ability
+ 2554 | Idioms & Phrases | Verbal Ability
+ 2555 | Spelling | Verbal Ability
+ 2556 | Error Detection | Verbal Ability
+ 2557 | Prepositions | Verbal Ability
+ 2558 | Reading Comprehension | Verbal Ability
+ 2559 | Reading Comprehension | Verbal Ability
+ 2560 | Reading Comprehension | Verbal Ability
+ 2561 | Cloze Test | Verbal Ability
+ 2562 | Cloze Test | Verbal Ability
+ 2563 | Cloze Test | Verbal Ability
+ 2564 | Time & Work | Numerical Ability
+ 2565 | Time & Work | Numerical Ability
+ 2566 | Ratio & Proportion | Numerical Ability
+ 2567 | Trains | Numerical Ability
+ 2568 | Mensuration | Numerical Ability
+ 2569 | Average | Numerical Ability
+ 2570 | Number System (Probability) | Numerical Ability
+ 2571 | Compound Interest | Numerical Ability
+ 2572 | Area & Perimeter | Numerical Ability
+ 2573 | LCM & HCF | Numerical Ability
+ 2574 | Profit & Loss | Numerical Ability
+ 2575 | Profit & Loss | Numerical Ability
+ 2576 | Percentage | Numerical Ability
+ 2577 | Simple Interest | Numerical Ability
+ 2578 | Profit & Loss | Numerical Ability
+ 2579 | Mixture & Alligation | Numerical Ability
+ 2580 | Time & Work | Numerical Ability
+ 2581 | Percentage | Numerical Ability
+ 2582 | Time, Speed & Distance | Numerical Ability
+ 2583 | Ratio & Proportion | Numerical Ability
+ 2584 | Defence | General Awareness
+ 2585 | International Organizations | General Awareness
+ 2586 | Geography - World | General Awareness
+ 2587 | Polity | General Awareness
+ 2588 | International Organizations | General Awareness
+ 2589 | History - Ancient | General Awareness
+ 2590 | Basic Science | General Awareness
+ 2591 | Current Affairs | General Awareness
+ 2592 | Environment | General Awareness
+ 2593 | Defence | General Awareness
+ 2594 | Defence | General Awareness
+ 2595 | Sports | General Awareness
+ 2596 | Economy | General Awareness
+ 2597 | International Organizations | General Awareness
+ 2598 | Sports | General Awareness
+ 2599 | History - Modern | General Awareness
+ 2600 | Geography - India | General Awareness
+ 2601 | Defence | General Awareness
+ 2602 | Defence | General Awareness
+ 2603 | Basic Science | General Awareness
+ 2604 | Environment | General Awareness
+ 2605 | Environment | General Awareness
+ 2606 | Sports | General Awareness
+ 2607 | Defence | General Awareness
+ 2608 | Defence | General Awareness
+ 2609 | Coding Decoding | Reasoning
+ 2610 | Coding Decoding | Reasoning
+ 2611 | Number Series | Reasoning
+ 2612 | Seating Arrangement | Reasoning
+ 2613 | Syllogism | Reasoning
+ 2614 | Venn Diagrams | Reasoning
+ 2615 | Number Series | Reasoning
+ 2616 | Classification (Jumbled Words) | Reasoning
+ 2617 | Non-Verbal Series | Reasoning
+ 2618 | Non-Verbal Analogy | Reasoning
+ 2619 | Venn Diagrams | Reasoning
+ 2620 | Classification (Verbal) | Reasoning
+ 2621 | Classification (Verbal) | Reasoning
+ 2622 | Blood Relations | Reasoning
+ 2623 | Blood Relations | Reasoning
+ 2624 | Number Series | Reasoning
+ 2625 | Number Series | Reasoning
+ 2626 | Non-Verbal Dot Situation | Reasoning
+ 2627 | Non-Verbal Dot Situation | Reasoning
+ 2628 | Non-Verbal Series | Reasoning
+ 2629 | Ranking | Reasoning
+ 2630 | Coding Decoding | Reasoning
+ 2631 | Analogy | Reasoning
+ 2632 | Syllogism | Reasoning
+ 2633 | Venn Diagrams | Reasoning
+ 2634 | Verbal Series | Reasoning
+ 2635 | Non-Verbal Orientation | Reasoning
+ 2636 | Verbal Logic | Reasoning
+ 2637 | Verbal Logic | Reasoning
+ 2638 | Verbal Logic | Reasoning
+ 2639 | Verbal Classification | Reasoning
+ 2640 | Simplification | Numerical Ability
+ 2641 | Verbal Classification | Reasoning
+ 2642 | Venn Diagram | Reasoning
+ 2643 | Non-Verbal Series | Reasoning
+ 2644 | Verbal Logic | Reasoning
+ 2645 | Non-Verbal Orientation | Reasoning
+ 2646 | Average | Numerical Ability
+ 2647 | Simple Interest | Numerical Ability
+ 2648 | Mixtures and Alligations | Numerical Ability
+ 2649 | Profit and Loss | Numerical Ability
+ 2650 | Simplification | Numerical Ability
+ 2651 | Percentage | Numerical Ability
+ 2652 | Percentage | Numerical Ability
+ 2653 | Mixtures and Alligations | Numerical Ability
+ 2654 | Profit and Loss | Numerical Ability
+ 2655 | Average | Numerical Ability
+ 2656 | Speed, Time and Distance | Numerical Ability
+ 2657 | Ratio and Proportion | Numerical Ability
+ 2658 | Simple Interest | Numerical Ability
+ 2659 | Problems on Numbers | Numerical Ability
+ 2660 | Profit and Loss | Numerical Ability
+ 2661 | Mensuration | Numerical Ability
+ 2662 | Average | Numerical Ability
+ 2663 | Problems on Numbers | Numerical Ability
+ 2664 | Problems on Numbers | Numerical Ability
+ 2665 | Boats and Streams | Numerical Ability
+ 2666 | Reading Comprehension | Verbal Ability
+ 2667 | Reading Comprehension | Verbal Ability
+ 2668 | Reading Comprehension | Verbal Ability
+ 2669 | Reading Comprehension | Verbal Ability
+ 2670 | Reading Comprehension | Verbal Ability
+ 2671 | Reading Comprehension | Verbal Ability
+ 2672 | Reading Comprehension | Verbal Ability
+ 2673 | Reading Comprehension | Verbal Ability
+ 2674 | Reading Comprehension | Verbal Ability
+ 2675 | Sentence Rearrangement | Verbal Ability
+ 2676 | Sentence Rearrangement | Verbal Ability
+ 2677 | Sentence Rearrangement | Verbal Ability
+ 2678 | Sentence Rearrangement | Verbal Ability
+ 2679 | Sentence Rearrangement | Verbal Ability
+ 2680 | Error Spotting | Verbal Ability
+ 2681 | Error Spotting | Verbal Ability
+ 2682 | Error Spotting | Verbal Ability
+ 2683 | Grammar | Verbal Ability
+ 2684 | Grammar | Verbal Ability
+ 2685 | Sentence Rearrangement | Verbal Ability
+ 2686 | Sentence Rearrangement | Verbal Ability
+ 2687 | Sentence Rearrangement | Verbal Ability
+ 2688 | Sentence Rearrangement | Verbal Ability
+ 2689 | Sentence Rearrangement | Verbal Ability
+ 2690 | Sentence Rearrangement | Verbal Ability
+ 2691 | Grammar | Verbal Ability
+ 2692 | Grammar | Verbal Ability
+ 2693 | Grammar | Verbal Ability
+ 2694 | Grammar | Verbal Ability
+ 2695 | Grammar | Verbal Ability
+ 2696 |  | 
+ 2697 |  | 
+ 2698 |  | 
+ 2699 |  | 
+ 2700 | Defence | General Awareness
+ 2701 | Defence | General Awareness
+ 2702 | Defence | General Awareness
+ 2703 | Personalities | General Awareness
+ 2704 | Awards | General Awareness
+ 2705 | General Science | General Awareness
+ 2706 | Defence | General Awareness
+ 2707 | Organizations | General Awareness
+ 2708 | World Geography | General Awareness
+ 2709 | Indian Geography | General Awareness
+ 2710 | Modern History | General Awareness
+ 2711 | Economy | General Awareness
+ 2712 | Defence | General Awareness
+ 2713 | Sports | General Awareness
+ 2714 | Polity | General Awareness
+ 2715 | Sports | General Awareness
+ 2716 | World Geography | General Awareness
+ 2717 | General Science | General Awareness
+ 2718 | Polity | General Awareness
+ 2719 | Organizations | General Awareness
+ 2720 | Modern History | General Awareness
+ 2721 | Medieval History | General Awareness
+ 2722 | Awards | General Awareness
+ 2723 | General Science | General Awareness
+ 2724 | Logical Reasoning | Reasoning
+ 2725 | Verbal Series | Reasoning
+ 2726 | Logical Reasoning | Reasoning
+ 2727 | Logical Reasoning | Reasoning
+ 2728 | Logical Reasoning | Reasoning
+ 2729 | Logical Reasoning | Reasoning
+ 2730 | Pattern Completion | Reasoning
+ 2731 | Logical Reasoning | Reasoning
+ 2732 | Logical Reasoning | Reasoning
+ 2733 | Verbal Analogy | Reasoning
+ 2734 | Pattern Completion | Reasoning
+ 2735 | Logical Reasoning | Reasoning
+ 2736 | Verbal Series | Reasoning
+ 2737 | Verbal Series | Reasoning
+ 2738 | Verbal Classification | Reasoning
+ 2739 | Logical Reasoning | Reasoning
+ 2740 | Logical Reasoning | Reasoning
+ 2741 | Verbal Coding | Reasoning
+ 2742 | Verbal Coding | Reasoning
+ 2743 | Non-Verbal Venn Diagram | Reasoning
+ 2744 | Logical Reasoning | Reasoning
+ 2745 | Logical Reasoning | Reasoning
+ 2746 | Logical Reasoning | Reasoning
+ 2747 | Verbal Series | Reasoning
+ 2748 | Verbal Coding | Reasoning
+ 2749 | Idioms and Phrases | Verbal Ability
+ 2750 | Error Detection | Verbal Ability
+ 2751 | Antonyms | Verbal Ability
+ 2752 | Synonyms | Verbal Ability
+ 2753 | Time and Work | Numerical Ability
+ 2754 | Trains | Numerical Ability
+ 2755 | Compound Interest | Numerical Ability
+ 2756 | Defence | General Awareness
+ 2757 | Organizations | General Awareness
+ 2758 | Science | General Awareness
+ 2759 | Defence | General Awareness
+ 2760 | Defence | General Awareness
+ 2761 | Sports | General Awareness
+ 2762 | Verbal Analogy | Reasoning
+ 2763 | Verbal Coding-Decoding | Reasoning
+ 2764 | Verbal Puzzle | Reasoning
+ 2765 | Syllogism | Reasoning
+ 2766 | Non-Verbal Venn Diagram | Reasoning
+ 2767 | Non-Verbal Puzzle | Reasoning
+ 2768 | Verbal Classification | Reasoning
+ 2769 | Non-Verbal Series | Reasoning
+ 2770 | Non-Verbal Venn Diagram | Reasoning
+ 2771 | Verbal Classification | Reasoning
+ 2772 | Verbal Classification | Reasoning
+ 2773 | Verbal Logic | Reasoning
+ 2774 | Verbal Logic | Reasoning
+ 2775 | Verbal Series | Reasoning
+ 2776 | Verbal Series | Reasoning
+ 2777 | Non-Verbal Pattern | Reasoning
+ 2778 | Idioms & Phrases | Verbal Ability
+ 2779 | Error Detection | Verbal Ability
+ 2780 | Antonyms | Verbal Ability
+ 2781 | Synonyms | Verbal Ability
+ 2782 | Error Detection | Verbal Ability
+ 2783 | Antonyms | Verbal Ability
+ 2784 | Synonyms | Verbal Ability
+ 2785 | Sentence Completion | Verbal Ability
+ 2786 | Sentence Rearrangement | Verbal Ability
+ 2787 | Synonyms | Verbal Ability
+ 2788 | Antonyms | Verbal Ability
+ 2789 | One Word Substitution | Verbal Ability
+ 2790 | Analogy (Verbal) | Verbal Ability
+ 2791 | Sentence Completion | Verbal Ability
+ 2792 | Sentence Rearrangement | Verbal Ability
+ 2793 | Idioms & Phrases | Verbal Ability
+ 2794 | Analogy (Verbal) | Verbal Ability
+ 2795 | Error Detection | Verbal Ability
+ 2796 | Spelling | Verbal Ability
+ 2797 | Sentence Rearrangement | Verbal Ability
+ 2798 | Idioms & Phrases | Verbal Ability
+ 2799 | Spelling | Verbal Ability
+ 2800 | Error Detection | Verbal Ability
+ 2801 | Prepositions | Verbal Ability
+ 2802 | Reading Comprehension | Verbal Ability
+ 2803 | Reading Comprehension | Verbal Ability
+ 2804 | Reading Comprehension | Verbal Ability
+ 2805 | Cloze Test | Verbal Ability
+ 2806 | Cloze Test | Verbal Ability
+ 2807 | Cloze Test | Verbal Ability
+ 2808 | Time & Work | Numerical Ability
+ 2809 | Time & Work | Numerical Ability
+ 2810 | Ratio & Proportion | Numerical Ability
+ 2811 | Trains | Numerical Ability
+ 2812 | Mensuration | Numerical Ability
+ 2813 | Average | Numerical Ability
+ 2814 | Probability | Numerical Ability
+ 2815 | Compound Interest | Numerical Ability
+ 2816 | Area & Perimeter | Numerical Ability
+ 2817 | LCM & HCF | Numerical Ability
+ 2818 | Profit & Loss | Numerical Ability
+ 2819 | Profit & Loss | Numerical Ability
+ 2820 | Percentage | Numerical Ability
+ 2821 | Simple Interest | Numerical Ability
+ 2822 | Profit & Loss | Numerical Ability
+ 2823 | Mixture & Alligation | Numerical Ability
+ 2824 | Time & Work | Numerical Ability
+ 2825 | Percentage | Numerical Ability
+ 2826 | Time, Speed & Distance | Numerical Ability
+ 2827 | Ratio & Proportion | Numerical Ability
+ 2828 | Defence | General Awareness
+ 2829 | International Organizations | General Awareness
+ 2830 | Geography - World | General Awareness
+ 2831 | Polity | General Awareness
+ 2832 | International Organizations | General Awareness
+ 2833 | History - Ancient | General Awareness
+ 2834 | Basic Science | General Awareness
+ 2835 | Current Affairs | General Awareness
+ 2836 | Environment | General Awareness
+ 2837 | Defence | General Awareness
+ 2838 | Defence | General Awareness
+ 2839 | Sports | General Awareness
+ 2840 | Economy | General Awareness
+ 2841 | International Organizations | General Awareness
+ 2842 | Sports | General Awareness
+ 2843 | History - Modern | General Awareness
+ 2844 | Geography - India | General Awareness
+ 2845 | Defence | General Awareness
+ 2846 | Defence | General Awareness
+ 2847 | Basic Science | General Awareness
+ 2848 | Environment | General Awareness
+ 2849 | Environment | General Awareness
+ 2850 | Sports | General Awareness
+ 2851 | Defence | General Awareness
+ 2852 | Defence | General Awareness
+ 2853 | Coding Decoding | Reasoning
+ 2854 | Coding Decoding | Reasoning
+ 2855 | Number Series | Reasoning
+ 2856 | Seating Arrangement | Reasoning
+ 2857 | Syllogism | Reasoning
+ 2858 | Venn Diagrams | Reasoning
+ 2859 | Number Series | Reasoning
+ 2860 | Classification (Jumbled Words) | Reasoning
+ 2861 | Non-Verbal Series | Reasoning
+ 2862 | Non-Verbal Analogy | Reasoning
+ 2863 | Venn Diagrams | Reasoning
+ 2864 | Classification (Verbal) | Reasoning
+ 2865 | Classification (Verbal) | Reasoning
+ 2866 | Blood Relations | Reasoning
+ 2867 | Blood Relations | Reasoning
+ 2868 | Number Series | Reasoning
+ 2869 | Number Series | Reasoning
+ 2870 | Non-Verbal Dot Situation | Reasoning
+ 2871 | Non-Verbal Dot Situation | Reasoning
+ 2872 | Non-Verbal Series | Reasoning
+ 2873 | Ranking | Reasoning
+ 2874 | Coding Decoding | Reasoning
+ 2875 | Analogy | Reasoning
+ 2876 | Syllogism | Reasoning
+ 2877 | Venn Diagrams | Reasoning
+
+Unique Topics:
+- 
+- Algebra
+- Analogy
+- Analogy (Verbal)
+- Ancient History
+- Ancient Indian History
+- Antonyms
+- Area
+- Area & Perimeter
+- Area and Perimeter
+- Art & Culture
+- Art and Culture
+- Average
+- Awards
+- Awards / Environment
+- Awards and Honors
+- Awards and Honours
+- Basic Science
+- Basic Science (Biology)
+- Basic Science (Physics)
+- Blood Relations
+- Boat & Stream
+- Boat and Stream
+- Boats & Streams
+- Boats and Streams
+- Books
+- Books & Authors
+- Books and Authors
+- Character Puzzle
+- Classification
+- Classification (Jumbled Words)
+- Classification (Letter)
+- Classification (Number)
+- Classification (Verbal)
+- Clock Problems
+- Clocks
+- Clocks (Mirror Image)
+- Cloze Test
+- Coding Decoding
+- Coding and Decoding
+- Coding-Decoding
+- Completion of Pattern
+- Compound Interest
+- Comprehension
+- Culture
+- Current Affairs
+- Current Affairs (2015)
+- Decimal Fractions
+- Decimals and Fractions
+- Defence
+- Defence - Ranks
+- Defence Exercises
+- Defence Technology
+- Defence and Space
+- Direction & Distance
+- Direction Sense Test
+- Direction and Distance
+- Distance & Direction
+- Dot Situation
+- Economics
+- Economy
+- Embedded Figures
+- Environment
+- Error Detection
+- Error Detection (Spelling)
+- Error Spotting
+- Exponents and Powers
+- Fractions
+- General Awareness
+- General Science
+- Geography - India
+- Geography - Physical
+- Geography - World
+- Geography World
+- Geography of India
+- Government Schemes
+- Grammar
+- Grammar (Spellings)
+- Grammar (Voice)
+- HCF & LCM
+- HCF and LCM
+- History - Ancient
+- History - Ancient/Medieval
+- History - Medieval
+- History - Modern
+- Idioms
+- Idioms & Phrases
+- Idioms and Phrases
+- Important Organizations
+- Important Organizations / Defence
+- Indian Culture
+- Indian Geography
+- Indian Polity
+- International Organizations
+- International Organizations / Summits
+- LCM
+- LCM & HCF
+- Letter Series
+- Linear Equations
+- Logical Arrangement
+- Logical Reasoning
+- Mathematical Operations
+- Medieval History
+- Medieval Indian History
+- Mensuration
+- Mensuration - Area and Perimeter
+- Missing Number
+- Mixture & Alligation
+- Mixture and Alligation
+- Mixtures & Alligations
+- Mixtures and Alligations
+- Modern History
+- Modern Indian History
+- Non-Verbal Analogy
+- Non-Verbal Classification
+- Non-Verbal Dot Situation
+- Non-Verbal Embedded
+- Non-Verbal Embedded Figures
+- Non-Verbal Figure Formation
+- Non-Verbal Figure Series
+- Non-Verbal Orientation
+- Non-Verbal Pattern
+- Non-Verbal Pattern (Dot Situation)
+- Non-Verbal Pattern Completion
+- Non-Verbal Pattern Recognition
+- Non-Verbal Puzzle
+- Non-Verbal Reasoning
+- Non-Verbal Reasoning - Calendar
+- Non-Verbal Reasoning - Direction and Orientation
+- Non-Verbal Reasoning - Puzzle
+- Non-Verbal Series
+- Non-Verbal Spatial
+- Non-Verbal Spatial (Embedded)
+- Non-Verbal Spatial Ability
+- Non-Verbal Spatial Reasoning
+- Non-Verbal Venn Diagram
+- Non-Verbal Venn Diagrams
+- Number Analogy
+- Number Series
+- Number System
+- Number System (Probability)
+- Number System and Series
+- One Word Substitution
+- Organizations
+- Organizations / Polity
+- Pattern
+- Pattern Completion
+- Pattern Recognition
+- Percentage
+- Personalities
+- Polity
+- Polity / Organizations
+- Polity / Schemes
+- Polity and Civics
+- Prepositions
+- Probability
+- Problems on Numbers
+- Problems on Trains
+- Profit & Loss
+- Profit and Loss
+- Profit and Loss with Mixture
+- Puzzle
+- Ranking
+- Ranking & Ordering
+- Ratio & Proportion
+- Ratio and Proportion
+- Rational Numbers
+- Reading Comprehension
+- Science
+- Science & Tech
+- Science & Tech / Current Affairs
+- Science and Technology
+- Seating Arrangement
+- Sentence Completion
+- Sentence Completion (Conditionals)
+- Sentence Completion (Phrasal Verbs)
+- Sentence Completion (Vocabulary)
+- Sentence Rearrangement
+- Series
+- Simple Interest
+- Simple and Compound Interest
+- Simplification
+- Simplification (Algebra)
+- Spatial Ability
+- Spatial Orientation
+- Spatial Reasoning
+- Speed Distance Time
+- Speed, Distance & Time
+- Speed, Distance and Time
+- Speed, Time and Distance
+- Spelling
+- Spelling Test
+- Sports
+- Sports History
+- Sports Personalities
+- Sports Terminology
+- Statistics
+- Statistics and Probability
+- Syllogism
+- Synonyms
+- Tense and Grammar
+- Tenses
+- Time & Work
+- Time Speed and Distance
+- Time and Work
+- Time, Speed & Distance
+- Train Problems
+- Trains
+- Venn Diagram
+- Venn Diagram (Verbal)
+- Venn Diagram Puzzle
+- Venn Diagrams
+- Verbal Analogy
+- Verbal Classification
+- Verbal Coding
+- Verbal Coding-Decoding
+- Verbal Logic
+- Verbal Puzzle
+- Verbal Reasoning - Analogy
+- Verbal Reasoning - Blood Relations
+- Verbal Reasoning - Classification
+- Verbal Reasoning - Coding and Decoding
+- Verbal Reasoning - Logical Reasoning
+- Verbal Reasoning - Number Series
+- Verbal Reasoning - Venn Diagrams
+- Verbal Series
+- Verbal Venn
+- Vocabulary (Fillers)
+- World Geography
+
+Unique Subjects/Sections:
+- General Awareness
+- Numerical Ability
+- Reasoning
+- Verbal Ability

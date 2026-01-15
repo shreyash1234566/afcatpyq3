@@ -1,0 +1,3404 @@
+{
+  "metadata": {
+    "model": "Year-Agnostic Frequency-Based",
+    "generated_at": "2026-01-15T18:54:19.994351",
+    "data_source": "Q_normalized.json",
+    "total_topics": 174,
+    "note": "Predictions based on frequency + known AFCAT patterns"
+  },
+  "predictions": [
+    {
+      "topic": "Reading Comprehension",
+      "section": "Verbal Ability",
+      "predicted_count": 5,
+      "raw_frequency": 99,
+      "frequency_pct": 3.44,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 8
+    },
+    {
+      "topic": "Spotting Errors",
+      "section": "Verbal Ability",
+      "predicted_count": 3,
+      "raw_frequency": 79,
+      "frequency_pct": 2.75,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Fill in the Blanks",
+      "section": "Verbal Ability",
+      "predicted_count": 2,
+      "raw_frequency": 51,
+      "frequency_pct": 1.77,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Synonyms/Antonyms",
+      "section": "Verbal Ability",
+      "predicted_count": 4,
+      "raw_frequency": 194,
+      "frequency_pct": 6.74,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 6
+    },
+    {
+      "topic": "History (Medieval)",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 15,
+      "frequency_pct": 0.52,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "History (Ancient)",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 19,
+      "frequency_pct": 0.66,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Indian Polity",
+      "section": "General Awareness",
+      "predicted_count": 1.1,
+      "raw_frequency": 36,
+      "frequency_pct": 1.25,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 6
+    },
+    {
+      "topic": "History (Modern)",
+      "section": "General Awareness",
+      "predicted_count": 0.9,
+      "raw_frequency": 45,
+      "frequency_pct": 1.56,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Static GK",
+      "section": "General Awareness",
+      "predicted_count": 2.2,
+      "raw_frequency": 94,
+      "frequency_pct": 3.27,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Awards",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 21,
+      "frequency_pct": 0.73,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Personalities",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 12,
+      "frequency_pct": 0.42,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Geography (India)",
+      "section": "General Awareness",
+      "predicted_count": 0.7,
+      "raw_frequency": 37,
+      "frequency_pct": 1.29,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "General Science",
+      "section": "General Awareness",
+      "predicted_count": 2.8,
+      "raw_frequency": 75,
+      "frequency_pct": 2.61,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Defence",
+      "section": "General Awareness",
+      "predicted_count": 2.8,
+      "raw_frequency": 74,
+      "frequency_pct": 2.57,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Geography (World)",
+      "section": "General Awareness",
+      "predicted_count": 0.8,
+      "raw_frequency": 41,
+      "frequency_pct": 1.43,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Organizations",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 16,
+      "frequency_pct": 0.56,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Ratio & Proportion",
+      "section": "Numerical Ability",
+      "predicted_count": 1.7,
+      "raw_frequency": 59,
+      "frequency_pct": 2.05,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Mixtures and Alligations",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 8,
+      "frequency_pct": 0.28,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Average",
+      "section": "Numerical Ability",
+      "predicted_count": 1.1,
+      "raw_frequency": 55,
+      "frequency_pct": 1.91,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Profit & Loss",
+      "section": "Numerical Ability",
+      "predicted_count": 1.1,
+      "raw_frequency": 58,
+      "frequency_pct": 2.02,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Percentage",
+      "section": "Numerical Ability",
+      "predicted_count": 1.7,
+      "raw_frequency": 52,
+      "frequency_pct": 1.81,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Simple/Compound Int.",
+      "section": "Numerical Ability",
+      "predicted_count": 1.1,
+      "raw_frequency": 66,
+      "frequency_pct": 2.29,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Simplification",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 23,
+      "frequency_pct": 0.8,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Decimals and Fractions",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 3,
+      "frequency_pct": 0.1,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Verbal Analogy",
+      "section": "Reasoning",
+      "predicted_count": 2.0,
+      "raw_frequency": 175,
+      "frequency_pct": 6.08,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Verbal Classification",
+      "section": "Reasoning",
+      "predicted_count": 2.0,
+      "raw_frequency": 122,
+      "frequency_pct": 4.24,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Logical Reasoning (Verbal)",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 31,
+      "frequency_pct": 1.08,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Verbal Series",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 26,
+      "frequency_pct": 0.9,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Non-Verbal Series",
+      "section": "Reasoning",
+      "predicted_count": 1.5,
+      "raw_frequency": 83,
+      "frequency_pct": 2.88,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Non-Verbal Classification",
+      "section": "Reasoning",
+      "predicted_count": 0.6,
+      "raw_frequency": 36,
+      "frequency_pct": 1.25,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Non-Verbal Orientation",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 8,
+      "frequency_pct": 0.28,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Non-Verbal Analogy",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 25,
+      "frequency_pct": 0.87,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Environment/Ecology",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 21,
+      "frequency_pct": 0.73,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Algebra",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 12,
+      "frequency_pct": 0.42,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Non-Verbal Spatial",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 14,
+      "frequency_pct": 0.49,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Non-Verbal Pattern",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 23,
+      "frequency_pct": 0.8,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Non-Verbal Puzzle",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 19,
+      "frequency_pct": 0.66,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Economics",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Number System",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 17,
+      "frequency_pct": 0.59,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Dot Situation",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 7,
+      "frequency_pct": 0.24,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Figural Visuals",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 5,
+      "frequency_pct": 0.17,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Completion of Pattern",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 7,
+      "frequency_pct": 0.24,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Economy",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 13,
+      "frequency_pct": 0.45,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Books",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 4,
+      "frequency_pct": 0.14,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Mixture & Alligation",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 15,
+      "frequency_pct": 0.52,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Pattern",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 15,
+      "frequency_pct": 0.52,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Spatial Ability",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 5,
+      "frequency_pct": 0.17,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Cloze Test",
+      "section": "Verbal Ability",
+      "predicted_count": 5,
+      "raw_frequency": 84,
+      "frequency_pct": 2.92,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 7
+    },
+    {
+      "topic": "One Word Substitution",
+      "section": "Verbal Ability",
+      "predicted_count": 1.4,
+      "raw_frequency": 41,
+      "frequency_pct": 1.43,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Grammar",
+      "section": "Verbal Ability",
+      "predicted_count": 0.8,
+      "raw_frequency": 23,
+      "frequency_pct": 0.8,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Coding-Decoding",
+      "section": "Reasoning",
+      "predicted_count": 1.5,
+      "raw_frequency": 58,
+      "frequency_pct": 2.02,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Syllogism",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 14,
+      "frequency_pct": 0.49,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "LCM",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Time & Work",
+      "section": "Numerical Ability",
+      "predicted_count": 1.1,
+      "raw_frequency": 54,
+      "frequency_pct": 1.88,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Idioms & Phrases",
+      "section": "Verbal Ability",
+      "predicted_count": 3,
+      "raw_frequency": 107,
+      "frequency_pct": 3.72,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Spelling",
+      "section": "Verbal Ability",
+      "predicted_count": 0.8,
+      "raw_frequency": 22,
+      "frequency_pct": 0.76,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Current Affairs",
+      "section": "General Awareness",
+      "predicted_count": 2.2,
+      "raw_frequency": 31,
+      "frequency_pct": 1.08,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 5
+    },
+    {
+      "topic": "Culture",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 4,
+      "frequency_pct": 0.14,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Problems on Trains",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 2,
+      "frequency_pct": 0.07,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Area",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 6,
+      "frequency_pct": 0.21,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Decimal Fractions",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Time, Speed & Dist.",
+      "section": "Numerical Ability",
+      "predicted_count": 1.1,
+      "raw_frequency": 53,
+      "frequency_pct": 1.84,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Venn Diagrams",
+      "section": "Reasoning",
+      "predicted_count": 1.5,
+      "raw_frequency": 73,
+      "frequency_pct": 2.54,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Logical Reasoning",
+      "section": "Reasoning",
+      "predicted_count": 0.7,
+      "raw_frequency": 41,
+      "frequency_pct": 1.43,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Pattern Completion",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 11,
+      "frequency_pct": 0.38,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Non-Verbal Pattern Completion",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 18,
+      "frequency_pct": 0.63,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Polity / Organizations",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Current Affairs (2015)",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Books & Authors",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 7,
+      "frequency_pct": 0.24,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "General Awareness",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Boats & Streams",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 4,
+      "frequency_pct": 0.14,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Linear Equations",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Fractions",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Non-Verbal Embedded Figures",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 6,
+      "frequency_pct": 0.21,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Tense and Grammar",
+      "section": "Verbal Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 2,
+      "frequency_pct": 0.07,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Sports Personalities",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 2,
+      "frequency_pct": 0.07,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Indian Culture",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 2,
+      "frequency_pct": 0.07,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Awards and Honors",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Sports History",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Defence and Space",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "International Organizations",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 13,
+      "frequency_pct": 0.45,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Train Problems",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 3,
+      "frequency_pct": 0.1,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Non-Verbal Spatial Reasoning",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Error Detection (Spelling)",
+      "section": "Verbal Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 2,
+      "frequency_pct": 0.07,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Grammar (Voice)",
+      "section": "Verbal Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 2,
+      "frequency_pct": 0.07,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Art & Culture",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 6,
+      "frequency_pct": 0.21,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Simplification (Algebra)",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Number Series",
+      "section": "Reasoning",
+      "predicted_count": 1.0,
+      "raw_frequency": 11,
+      "frequency_pct": 0.38,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Non-Verbal Spatial (Embedded)",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 2,
+      "frequency_pct": 0.07,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Para Jumbles",
+      "section": "Verbal Ability",
+      "predicted_count": 2,
+      "raw_frequency": 53,
+      "frequency_pct": 1.84,
+      "confidence": 0.85,
+      "prediction_method": "known_pattern",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Spatial Orientation",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 5,
+      "frequency_pct": 0.17,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Pattern Recognition",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 4,
+      "frequency_pct": 0.14,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Art and Culture",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 3,
+      "frequency_pct": 0.1,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Polity and Civics",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 3,
+      "frequency_pct": 0.1,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Important Organizations",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 3,
+      "frequency_pct": 0.1,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Spatial Reasoning",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Tenses",
+      "section": "Verbal Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 5,
+      "frequency_pct": 0.17,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Statistics",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 3,
+      "frequency_pct": 0.1,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Mensuration",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 16,
+      "frequency_pct": 0.56,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Non-Verbal Spatial Ability",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 3,
+      "frequency_pct": 0.1,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Exponents and Powers",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Statistics and Probability",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 4,
+      "frequency_pct": 0.14,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Time Speed and Distance",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Boat and Stream",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Number System and Series",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Sentence Completion (Phrasal Verbs)",
+      "section": "Verbal Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Sentence Completion (Conditionals)",
+      "section": "Verbal Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Sentence Completion (Vocabulary)",
+      "section": "Verbal Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Defence Exercises",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 2,
+      "frequency_pct": 0.07,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "International Organizations / Summits",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Defence Technology",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Sports Terminology",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Defence - Ranks",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Science & Tech / Current Affairs",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Basic Science (Biology)",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 2,
+      "frequency_pct": 0.07,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Geography - Physical",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Basic Science (Physics)",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Important Organizations / Defence",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Organizations / Polity",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Letter/Symbol Series",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 5,
+      "frequency_pct": 0.17,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Blood Relations",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 8,
+      "frequency_pct": 0.28,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Ranking & Ordering",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Classification (Number)",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Logical Arrangement",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Direction Sense",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 3,
+      "frequency_pct": 0.1,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Missing Number",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Classification (Letter)",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 4,
+      "frequency_pct": 0.14,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Non-Verbal Figure Formation",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Clocks",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Number Analogy",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 3,
+      "frequency_pct": 0.1,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "HCF and LCM",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Direction Sense Test",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Venn Diagram Puzzle",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Character Puzzle",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 2,
+      "frequency_pct": 0.07,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Mathematical Operations",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 3,
+      "frequency_pct": 0.1,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Science and Technology",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 3,
+      "frequency_pct": 0.1,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Profit and Loss with Mixture",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Rational Numbers",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Probability",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 5,
+      "frequency_pct": 0.17,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Mensuration - Area and Perimeter",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Clock Problems",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 2,
+      "frequency_pct": 0.07,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Polity / Schemes",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Awards / Environment",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "LCM & HCF",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 3,
+      "frequency_pct": 0.1,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Speed, Distance & Time",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Boat & Stream",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Non-Verbal Reasoning",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 2,
+      "frequency_pct": 0.07,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Puzzle",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 4,
+      "frequency_pct": 0.14,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Mixtures & Alligations",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 2,
+      "frequency_pct": 0.07,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Non-Verbal Pattern Recognition",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 2,
+      "frequency_pct": 0.07,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Non-Verbal Reasoning - Calendar",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Verbal Reasoning - Logical Reasoning",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Verbal Reasoning - Blood Relations",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Non-Verbal Reasoning - Puzzle",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 2,
+      "frequency_pct": 0.07,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Non-Verbal Reasoning - Direction and Orientation",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Verbal Reasoning - Number Series",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 2,
+      "frequency_pct": 0.07,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Order & Ranking",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 3,
+      "frequency_pct": 0.1,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Direction & Distance",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Non-Verbal Pattern (Dot Situation)",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Non-Verbal Embedded",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Clocks (Mirror Image)",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "HCF & LCM",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Government Schemes",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "History - Ancient/Medieval",
+      "section": "General Awareness",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Vocabulary (Fillers)",
+      "section": "Verbal Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 2,
+      "frequency_pct": 0.07,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Prepositions",
+      "section": "Verbal Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 2,
+      "frequency_pct": 0.07,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Number System (Probability)",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Area & Perimeter",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 2,
+      "frequency_pct": 0.07,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Seating Arrangement",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 2,
+      "frequency_pct": 0.07,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Classification (Jumbled Words)",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 2,
+      "frequency_pct": 0.07,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Non-Verbal Dot Situation",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 4,
+      "frequency_pct": 0.14,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Problems on Numbers",
+      "section": "Numerical Ability",
+      "predicted_count": 0.5,
+      "raw_frequency": 3,
+      "frequency_pct": 0.1,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Non-Verbal Venn Diagram",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 3,
+      "frequency_pct": 0.1,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    },
+    {
+      "topic": "Verbal Puzzle",
+      "section": "Reasoning",
+      "predicted_count": 0.5,
+      "raw_frequency": 1,
+      "frequency_pct": 0.03,
+      "confidence": 0.6,
+      "prediction_method": "frequency_based",
+      "applied_cap": 6
+    }
+  ],
+  "priority_list": [
+    {
+      "topic": "Reading Comprehension",
+      "section": "Verbal Ability",
+      "predicted": 5,
+      "confidence": 0.85,
+      "priority_score": 4.25,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Cloze Test",
+      "section": "Verbal Ability",
+      "predicted": 5,
+      "confidence": 0.85,
+      "priority_score": 4.25,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Synonyms/Antonyms",
+      "section": "Verbal Ability",
+      "predicted": 4,
+      "confidence": 0.85,
+      "priority_score": 3.4,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Spotting Errors",
+      "section": "Verbal Ability",
+      "predicted": 3,
+      "confidence": 0.85,
+      "priority_score": 2.55,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Idioms & Phrases",
+      "section": "Verbal Ability",
+      "predicted": 3,
+      "confidence": 0.85,
+      "priority_score": 2.55,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "General Science",
+      "section": "General Awareness",
+      "predicted": 2.8,
+      "confidence": 0.85,
+      "priority_score": 2.38,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Defence",
+      "section": "General Awareness",
+      "predicted": 2.8,
+      "confidence": 0.85,
+      "priority_score": 2.38,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Static GK",
+      "section": "General Awareness",
+      "predicted": 2.2,
+      "confidence": 0.85,
+      "priority_score": 1.87,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Current Affairs",
+      "section": "General Awareness",
+      "predicted": 2.2,
+      "confidence": 0.85,
+      "priority_score": 1.87,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Fill in the Blanks",
+      "section": "Verbal Ability",
+      "predicted": 2,
+      "confidence": 0.85,
+      "priority_score": 1.7,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Verbal Analogy",
+      "section": "Reasoning",
+      "predicted": 2.0,
+      "confidence": 0.85,
+      "priority_score": 1.7,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Verbal Classification",
+      "section": "Reasoning",
+      "predicted": 2.0,
+      "confidence": 0.85,
+      "priority_score": 1.7,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Para Jumbles",
+      "section": "Verbal Ability",
+      "predicted": 2,
+      "confidence": 0.85,
+      "priority_score": 1.7,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Ratio & Proportion",
+      "section": "Numerical Ability",
+      "predicted": 1.7,
+      "confidence": 0.85,
+      "priority_score": 1.44,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Percentage",
+      "section": "Numerical Ability",
+      "predicted": 1.7,
+      "confidence": 0.85,
+      "priority_score": 1.44,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Non-Verbal Series",
+      "section": "Reasoning",
+      "predicted": 1.5,
+      "confidence": 0.85,
+      "priority_score": 1.27,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Coding-Decoding",
+      "section": "Reasoning",
+      "predicted": 1.5,
+      "confidence": 0.85,
+      "priority_score": 1.27,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Venn Diagrams",
+      "section": "Reasoning",
+      "predicted": 1.5,
+      "confidence": 0.85,
+      "priority_score": 1.27,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Indian Polity",
+      "section": "General Awareness",
+      "predicted": 1.1,
+      "confidence": 0.85,
+      "priority_score": 0.94,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Average",
+      "section": "Numerical Ability",
+      "predicted": 1.1,
+      "confidence": 0.85,
+      "priority_score": 0.94,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Profit & Loss",
+      "section": "Numerical Ability",
+      "predicted": 1.1,
+      "confidence": 0.85,
+      "priority_score": 0.94,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Simple/Compound Int.",
+      "section": "Numerical Ability",
+      "predicted": 1.1,
+      "confidence": 0.85,
+      "priority_score": 0.94,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Time & Work",
+      "section": "Numerical Ability",
+      "predicted": 1.1,
+      "confidence": 0.85,
+      "priority_score": 0.94,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Time, Speed & Dist.",
+      "section": "Numerical Ability",
+      "predicted": 1.1,
+      "confidence": 0.85,
+      "priority_score": 0.94,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "Number Series",
+      "section": "Reasoning",
+      "predicted": 1.0,
+      "confidence": 0.85,
+      "priority_score": 0.85,
+      "method": "known_pattern"
+    },
+    {
+      "topic": "One Word Substitution",
+      "section": "Verbal Ability",
+      "predicted": 1.4,
+      "confidence": 0.6,
+      "priority_score": 0.84,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "History (Modern)",
+      "section": "General Awareness",
+      "predicted": 0.9,
+      "confidence": 0.6,
+      "priority_score": 0.54,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Geography (World)",
+      "section": "General Awareness",
+      "predicted": 0.8,
+      "confidence": 0.6,
+      "priority_score": 0.48,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Grammar",
+      "section": "Verbal Ability",
+      "predicted": 0.8,
+      "confidence": 0.6,
+      "priority_score": 0.48,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Spelling",
+      "section": "Verbal Ability",
+      "predicted": 0.8,
+      "confidence": 0.6,
+      "priority_score": 0.48,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Geography (India)",
+      "section": "General Awareness",
+      "predicted": 0.7,
+      "confidence": 0.6,
+      "priority_score": 0.42,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Logical Reasoning",
+      "section": "Reasoning",
+      "predicted": 0.7,
+      "confidence": 0.6,
+      "priority_score": 0.42,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Non-Verbal Classification",
+      "section": "Reasoning",
+      "predicted": 0.6,
+      "confidence": 0.6,
+      "priority_score": 0.36,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "History (Medieval)",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "History (Ancient)",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Awards",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Personalities",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Organizations",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Mixtures and Alligations",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Simplification",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Decimals and Fractions",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Logical Reasoning (Verbal)",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Verbal Series",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Non-Verbal Orientation",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Non-Verbal Analogy",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Environment/Ecology",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Algebra",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Non-Verbal Spatial",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Non-Verbal Pattern",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Non-Verbal Puzzle",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Economics",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Number System",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Dot Situation",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Figural Visuals",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Completion of Pattern",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Economy",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Books",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Mixture & Alligation",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Pattern",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Spatial Ability",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Syllogism",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "LCM",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Culture",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Problems on Trains",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Area",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Decimal Fractions",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Pattern Completion",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Non-Verbal Pattern Completion",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Polity / Organizations",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Current Affairs (2015)",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Books & Authors",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "General Awareness",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Boats & Streams",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Linear Equations",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Fractions",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Non-Verbal Embedded Figures",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Tense and Grammar",
+      "section": "Verbal Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Sports Personalities",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Indian Culture",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Awards and Honors",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Sports History",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Defence and Space",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "International Organizations",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Train Problems",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Non-Verbal Spatial Reasoning",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Error Detection (Spelling)",
+      "section": "Verbal Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Grammar (Voice)",
+      "section": "Verbal Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Art & Culture",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Simplification (Algebra)",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Non-Verbal Spatial (Embedded)",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Spatial Orientation",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Pattern Recognition",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Art and Culture",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Polity and Civics",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Important Organizations",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Spatial Reasoning",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Tenses",
+      "section": "Verbal Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Statistics",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Mensuration",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Non-Verbal Spatial Ability",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Exponents and Powers",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Statistics and Probability",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Time Speed and Distance",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Boat and Stream",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Number System and Series",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Sentence Completion (Phrasal Verbs)",
+      "section": "Verbal Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Sentence Completion (Conditionals)",
+      "section": "Verbal Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Sentence Completion (Vocabulary)",
+      "section": "Verbal Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Defence Exercises",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "International Organizations / Summits",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Defence Technology",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Sports Terminology",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Defence - Ranks",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Science & Tech / Current Affairs",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Basic Science (Biology)",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Geography - Physical",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Basic Science (Physics)",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Important Organizations / Defence",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Organizations / Polity",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Letter/Symbol Series",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Blood Relations",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Ranking & Ordering",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Classification (Number)",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Logical Arrangement",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Direction Sense",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Missing Number",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Classification (Letter)",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Non-Verbal Figure Formation",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Clocks",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Number Analogy",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "HCF and LCM",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Direction Sense Test",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Venn Diagram Puzzle",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Character Puzzle",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Mathematical Operations",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Science and Technology",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Profit and Loss with Mixture",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Rational Numbers",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Probability",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Mensuration - Area and Perimeter",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Clock Problems",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Polity / Schemes",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Awards / Environment",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "LCM & HCF",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Speed, Distance & Time",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Boat & Stream",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Non-Verbal Reasoning",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Puzzle",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Mixtures & Alligations",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Non-Verbal Pattern Recognition",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Non-Verbal Reasoning - Calendar",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Verbal Reasoning - Logical Reasoning",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Verbal Reasoning - Blood Relations",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Non-Verbal Reasoning - Puzzle",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Non-Verbal Reasoning - Direction and Orientation",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Verbal Reasoning - Number Series",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Order & Ranking",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Direction & Distance",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Non-Verbal Pattern (Dot Situation)",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Non-Verbal Embedded",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Clocks (Mirror Image)",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "HCF & LCM",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Government Schemes",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "History - Ancient/Medieval",
+      "section": "General Awareness",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Vocabulary (Fillers)",
+      "section": "Verbal Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Prepositions",
+      "section": "Verbal Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Number System (Probability)",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Area & Perimeter",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Seating Arrangement",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Classification (Jumbled Words)",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Non-Verbal Dot Situation",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Problems on Numbers",
+      "section": "Numerical Ability",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Non-Verbal Venn Diagram",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    },
+    {
+      "topic": "Verbal Puzzle",
+      "section": "Reasoning",
+      "predicted": 0.5,
+      "confidence": 0.6,
+      "priority_score": 0.3,
+      "method": "frequency_based"
+    }
+  ],
+  "study_roadmap": {
+    "phase_1_foundation": [
+      {
+        "topic": "Reading Comprehension",
+        "section": "Verbal Ability",
+        "predicted": 5,
+        "confidence": 0.85,
+        "priority_score": 4.25,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "Cloze Test",
+        "section": "Verbal Ability",
+        "predicted": 5,
+        "confidence": 0.85,
+        "priority_score": 4.25,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "Synonyms/Antonyms",
+        "section": "Verbal Ability",
+        "predicted": 4,
+        "confidence": 0.85,
+        "priority_score": 3.4,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "Spotting Errors",
+        "section": "Verbal Ability",
+        "predicted": 3,
+        "confidence": 0.85,
+        "priority_score": 2.55,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "Idioms & Phrases",
+        "section": "Verbal Ability",
+        "predicted": 3,
+        "confidence": 0.85,
+        "priority_score": 2.55,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "General Science",
+        "section": "General Awareness",
+        "predicted": 2.8,
+        "confidence": 0.85,
+        "priority_score": 2.38,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "Defence",
+        "section": "General Awareness",
+        "predicted": 2.8,
+        "confidence": 0.85,
+        "priority_score": 2.38,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "Static GK",
+        "section": "General Awareness",
+        "predicted": 2.2,
+        "confidence": 0.85,
+        "priority_score": 1.87,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "Current Affairs",
+        "section": "General Awareness",
+        "predicted": 2.2,
+        "confidence": 0.85,
+        "priority_score": 1.87,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "Fill in the Blanks",
+        "section": "Verbal Ability",
+        "predicted": 2,
+        "confidence": 0.85,
+        "priority_score": 1.7,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "Verbal Analogy",
+        "section": "Reasoning",
+        "predicted": 2.0,
+        "confidence": 0.85,
+        "priority_score": 1.7,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "Verbal Classification",
+        "section": "Reasoning",
+        "predicted": 2.0,
+        "confidence": 0.85,
+        "priority_score": 1.7,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "Para Jumbles",
+        "section": "Verbal Ability",
+        "predicted": 2,
+        "confidence": 0.85,
+        "priority_score": 1.7,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "Ratio & Proportion",
+        "section": "Numerical Ability",
+        "predicted": 1.7,
+        "confidence": 0.85,
+        "priority_score": 1.44,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "Percentage",
+        "section": "Numerical Ability",
+        "predicted": 1.7,
+        "confidence": 0.85,
+        "priority_score": 1.44,
+        "method": "known_pattern"
+      }
+    ],
+    "phase_2_practice": [
+      {
+        "topic": "Non-Verbal Series",
+        "section": "Reasoning",
+        "predicted": 1.5,
+        "confidence": 0.85,
+        "priority_score": 1.27,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "Coding-Decoding",
+        "section": "Reasoning",
+        "predicted": 1.5,
+        "confidence": 0.85,
+        "priority_score": 1.27,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "Venn Diagrams",
+        "section": "Reasoning",
+        "predicted": 1.5,
+        "confidence": 0.85,
+        "priority_score": 1.27,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "Indian Polity",
+        "section": "General Awareness",
+        "predicted": 1.1,
+        "confidence": 0.85,
+        "priority_score": 0.94,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "Average",
+        "section": "Numerical Ability",
+        "predicted": 1.1,
+        "confidence": 0.85,
+        "priority_score": 0.94,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "Profit & Loss",
+        "section": "Numerical Ability",
+        "predicted": 1.1,
+        "confidence": 0.85,
+        "priority_score": 0.94,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "Simple/Compound Int.",
+        "section": "Numerical Ability",
+        "predicted": 1.1,
+        "confidence": 0.85,
+        "priority_score": 0.94,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "Time & Work",
+        "section": "Numerical Ability",
+        "predicted": 1.1,
+        "confidence": 0.85,
+        "priority_score": 0.94,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "Time, Speed & Dist.",
+        "section": "Numerical Ability",
+        "predicted": 1.1,
+        "confidence": 0.85,
+        "priority_score": 0.94,
+        "method": "known_pattern"
+      },
+      {
+        "topic": "Number Series",
+        "section": "Reasoning",
+        "predicted": 1.0,
+        "confidence": 0.85,
+        "priority_score": 0.85,
+        "method": "known_pattern"
+      }
+    ],
+    "phase_3_mastery": [
+      {
+        "topic": "One Word Substitution",
+        "section": "Verbal Ability",
+        "predicted": 1.4,
+        "confidence": 0.6,
+        "priority_score": 0.84,
+        "method": "frequency_based"
+      },
+      {
+        "topic": "History (Modern)",
+        "section": "General Awareness",
+        "predicted": 0.9,
+        "confidence": 0.6,
+        "priority_score": 0.54,
+        "method": "frequency_based"
+      },
+      {
+        "topic": "Geography (World)",
+        "section": "General Awareness",
+        "predicted": 0.8,
+        "confidence": 0.6,
+        "priority_score": 0.48,
+        "method": "frequency_based"
+      },
+      {
+        "topic": "Grammar",
+        "section": "Verbal Ability",
+        "predicted": 0.8,
+        "confidence": 0.6,
+        "priority_score": 0.48,
+        "method": "frequency_based"
+      },
+      {
+        "topic": "Spelling",
+        "section": "Verbal Ability",
+        "predicted": 0.8,
+        "confidence": 0.6,
+        "priority_score": 0.48,
+        "method": "frequency_based"
+      }
+    ]
+  },
+  "section_totals": {
+    "Verbal Ability": 31.5,
+    "General Awareness": 33.5,
+    "Numerical Ability": 27.9,
+    "Reasoning": 37.8
+  },
+  "validation": {
+    "unrealistic_count": 0,
+    "max_prediction": 5,
+    "mean_prediction": 0.75
+  }
+}

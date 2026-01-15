@@ -1,0 +1,3131 @@
+{
+  "metadata": {
+    "exam": "AFCAT 2026 MASTER MOCK TEST",
+    "total_questions": 100,
+    "total_marks": 300,
+    "duration": "120 minutes",
+    "generated_at": "2026-01-15T19:54:12.757261",
+    "prediction_model": "Shift-Normalized ML Ensemble",
+    "note": "Based on ML predictions of topic importance"
+  },
+  "section_summary": {
+    "Verbal Ability": {
+      "count": 30,
+      "marks": 90
+    },
+    "General Awareness": {
+      "count": 25,
+      "marks": 75
+    },
+    "Numerical Ability": {
+      "count": 20,
+      "marks": 60
+    },
+    "Reasoning": {
+      "count": 25,
+      "marks": 75
+    }
+  },
+  "questions": [
+    {
+      "q_no": 1,
+      "section": "Verbal Ability",
+      "topic": "Cloze Test",
+      "year": 2025,
+      "question": "Select the most appropriate word from the options against (X)",
+      "options": [
+        {
+          "key": "1",
+          "text": "and"
+        },
+        {
+          "key": "2",
+          "text": "from"
+        },
+        {
+          "key": "3",
+          "text": "through"
+        },
+        {
+          "key": "4",
+          "text": "for"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.8,
+      "confidence": 0.94
+    },
+    {
+      "q_no": 2,
+      "section": "Verbal Ability",
+      "topic": "Cloze Test",
+      "year": 2025,
+      "question": "Select the most appropriate word from the options against (Y)",
+      "options": [
+        {
+          "key": "1",
+          "text": "for"
+        },
+        {
+          "key": "2",
+          "text": "by"
+        },
+        {
+          "key": "3",
+          "text": "at"
+        },
+        {
+          "key": "4",
+          "text": "from"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.8,
+      "confidence": 0.94
+    },
+    {
+      "q_no": 3,
+      "section": "Verbal Ability",
+      "topic": "Cloze Test",
+      "year": 2025,
+      "question": "Select the most appropriate word from the options against (Z)",
+      "options": [
+        {
+          "key": "1",
+          "text": "at"
+        },
+        {
+          "key": "2",
+          "text": "in"
+        },
+        {
+          "key": "3",
+          "text": "from"
+        },
+        {
+          "key": "4",
+          "text": "for"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.8,
+      "confidence": 0.94
+    },
+    {
+      "q_no": 4,
+      "section": "Verbal Ability",
+      "topic": "Cloze Test",
+      "year": 2025,
+      "question": "Select the most appropriate word from the options against (X) in the passage about Northern Territory.",
+      "options": [
+        {
+          "key": "1",
+          "text": "and"
+        },
+        {
+          "key": "2",
+          "text": "from"
+        },
+        {
+          "key": "3",
+          "text": "through"
+        },
+        {
+          "key": "4",
+          "text": "for"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.8,
+      "confidence": 0.94
+    },
+    {
+      "q_no": 5,
+      "section": "Verbal Ability",
+      "topic": "Spotting Errors",
+      "year": 2025,
+      "question": "Point out the incorrect sentence:",
+      "options": [
+        {
+          "key": "A",
+          "text": "The saddest thing in our life is someday we have to die."
+        },
+        {
+          "key": "B",
+          "text": "Sonu always preferred coffee over tea."
+        },
+        {
+          "key": "C",
+          "text": "The program is intended to provide medical care for elderly people."
+        },
+        {
+          "key": "D",
+          "text": "Two trucks collided at Baker street."
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.5,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 6,
+      "section": "Verbal Ability",
+      "topic": "Spotting Errors",
+      "year": 2025,
+      "question": "Spot the incorrect sentence below :",
+      "options": [
+        {
+          "key": "A",
+          "text": "Don't talk so loud."
+        },
+        {
+          "key": "B",
+          "text": "I can bowl fast."
+        },
+        {
+          "key": "C",
+          "text": "She is naughtier."
+        },
+        {
+          "key": "D",
+          "text": "You can only guess."
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.5,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 7,
+      "section": "Verbal Ability",
+      "topic": "Spotting Errors",
+      "year": 2025,
+      "question": "Select the grammatically INCORRECT sentence.",
+      "options": [
+        {
+          "key": "A",
+          "text": "They hardly meet each other."
+        },
+        {
+          "key": "B",
+          "text": "They often meet each other."
+        },
+        {
+          "key": "C",
+          "text": "They quite meet each other."
+        },
+        {
+          "key": "D",
+          "text": "They always meet each other."
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.5,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 8,
+      "section": "Verbal Ability",
+      "topic": "Spotting Errors",
+      "year": 2025,
+      "question": "Identify the segment that contains a grammatical error: If / it will rain, / we will have / a tough time.",
+      "options": [
+        {
+          "key": "A",
+          "text": "if"
+        },
+        {
+          "key": "B",
+          "text": "a tough time"
+        },
+        {
+          "key": "C",
+          "text": "we will have"
+        },
+        {
+          "key": "D",
+          "text": "it will rain"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.5,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 9,
+      "section": "Verbal Ability",
+      "topic": "Synonyms",
+      "year": 2025,
+      "question": "The word opposite in meaning to 'Eminent' is",
+      "options": [
+        {
+          "key": "1",
+          "text": "Unimportant"
+        },
+        {
+          "key": "2",
+          "text": "Important"
+        },
+        {
+          "key": "3",
+          "text": "Very important"
+        },
+        {
+          "key": "4",
+          "text": "Useless"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.5,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 10,
+      "section": "Verbal Ability",
+      "topic": "Synonyms",
+      "year": 2025,
+      "question": "The word opposite in meaning to 'Eminent' is",
+      "options": [
+        {
+          "key": "1",
+          "text": "Unimportant"
+        },
+        {
+          "key": "2",
+          "text": "Important"
+        },
+        {
+          "key": "3",
+          "text": "Very important"
+        },
+        {
+          "key": "4",
+          "text": "Useless"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.5,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 11,
+      "section": "Verbal Ability",
+      "topic": "Synonyms",
+      "year": 2025,
+      "question": "The word opposite in meaning to 'Eminent' is _________.",
+      "options": [
+        {
+          "key": "1",
+          "text": "Unimportant"
+        },
+        {
+          "key": "2",
+          "text": "Important"
+        },
+        {
+          "key": "3",
+          "text": "Very important"
+        },
+        {
+          "key": "4",
+          "text": "Useless"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.5,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 12,
+      "section": "Verbal Ability",
+      "topic": "Synonyms",
+      "year": 2025,
+      "question": "Select the most appropriate ANTONYM of the given word: Pacify",
+      "options": [
+        {
+          "key": "A",
+          "text": "Restore"
+        },
+        {
+          "key": "B",
+          "text": "Negate"
+        },
+        {
+          "key": "C",
+          "text": "Enrage"
+        },
+        {
+          "key": "D",
+          "text": "Amuse"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.5,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 13,
+      "section": "Verbal Ability",
+      "topic": "Idioms & Phrases",
+      "year": 2025,
+      "question": "Select the most appropriate meaning of the given idiom. Carry the day",
+      "options": [
+        {
+          "key": "A",
+          "text": "Win a victory"
+        },
+        {
+          "key": "B",
+          "text": "Bear the burden"
+        },
+        {
+          "key": "C",
+          "text": "Lead an army"
+        },
+        {
+          "key": "D",
+          "text": "Lift a heavy load"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.5,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 14,
+      "section": "Verbal Ability",
+      "topic": "Idioms & Phrases",
+      "year": 2025,
+      "question": "Select the most appropriate meaning of the given idiom. Kick the bucket",
+      "options": [
+        {
+          "key": "A",
+          "text": "To pass away"
+        },
+        {
+          "key": "B",
+          "text": "To retire from work"
+        },
+        {
+          "key": "C",
+          "text": "To complete a task"
+        },
+        {
+          "key": "D",
+          "text": "To start a new journey"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.5,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 15,
+      "section": "Verbal Ability",
+      "topic": "Idioms & Phrases",
+      "year": 2025,
+      "question": "Select the most appropriate meaning of the given idiom. Get the picture",
+      "options": [
+        {
+          "key": "1",
+          "text": "To control something"
+        },
+        {
+          "key": "2",
+          "text": "To understand what's happening"
+        },
+        {
+          "key": "3",
+          "text": "To buy something"
+        },
+        {
+          "key": "4",
+          "text": "To watch with own eyes"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.5,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 16,
+      "section": "Verbal Ability",
+      "topic": "Idioms & Phrases",
+      "year": 2025,
+      "question": "Select the most appropriate meaning of the given idiom. Get the picture",
+      "options": [
+        {
+          "key": "1",
+          "text": "To control something"
+        },
+        {
+          "key": "2",
+          "text": "To understand what's happening"
+        },
+        {
+          "key": "3",
+          "text": "To buy something"
+        },
+        {
+          "key": "4",
+          "text": "To watch with own eyes"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.5,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 17,
+      "section": "Verbal Ability",
+      "topic": "Reading Comprehension",
+      "year": 2025,
+      "question": "What is the main focus of this passage?",
+      "options": [
+        {
+          "key": "1",
+          "text": "How firefighters carry out their responsibilities."
+        },
+        {
+          "key": "2",
+          "text": "The proper installation of home smoke detectors"
+        },
+        {
+          "key": "3",
+          "text": "The detection of dead-air space on walls and ceiling"
+        },
+        {
+          "key": "4",
+          "text": "How smoke detectors prevent fires in homes."
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.4,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 18,
+      "section": "Verbal Ability",
+      "topic": "Reading Comprehension",
+      "year": 2025,
+      "question": "What is 'subtractive language learning'?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Learning to subtract in languages"
+        },
+        {
+          "key": "B",
+          "text": "Learning the dominant language which undermines the mother tongue"
+        },
+        {
+          "key": "C",
+          "text": "Learning English at the cost of mother tongue"
+        },
+        {
+          "key": "D",
+          "text": "Simultaneously learning two languages which support each other"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.4,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 19,
+      "section": "Verbal Ability",
+      "topic": "Reading Comprehension",
+      "year": 2025,
+      "question": "Where a smoke detector must always be placed?",
+      "options": [
+        {
+          "key": "1",
+          "text": "outside at least one of the bedrooms on any levels of the home."
+        },
+        {
+          "key": "2",
+          "text": "outside all bedrooms in a home."
+        },
+        {
+          "key": "3",
+          "text": "in all hallways of a home."
+        },
+        {
+          "key": "4",
+          "text": "in kitchens where fires are most likely to start."
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.4,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 20,
+      "section": "Verbal Ability",
+      "topic": "Para Jumbles",
+      "year": 2025,
+      "question": "Rearrange these parts... School closures P: education at home Q: parents in charge of R: have left many S: overseeing their children's",
+      "options": [
+        {
+          "key": "1",
+          "text": "RPQS"
+        },
+        {
+          "key": "2",
+          "text": "QSRP"
+        },
+        {
+          "key": "3",
+          "text": "RQSP"
+        },
+        {
+          "key": "4",
+          "text": "PSRQ"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.1,
+      "confidence": 0.84
+    },
+    {
+      "q_no": 21,
+      "section": "Verbal Ability",
+      "topic": "Para Jumbles",
+      "year": 2025,
+      "question": "S1: It follows that we should enable all individuals to live a full, free, rich life... S6: This does not mean the regimentation of the individual.",
+      "options": [
+        {
+          "key": "A",
+          "text": "QSRP"
+        },
+        {
+          "key": "B",
+          "text": "PRSQ"
+        },
+        {
+          "key": "C",
+          "text": "RQPS"
+        },
+        {
+          "key": "D",
+          "text": "SQRP"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.1,
+      "confidence": 0.84
+    },
+    {
+      "q_no": 22,
+      "section": "Verbal Ability",
+      "topic": "Para Jumbles",
+      "year": 2025,
+      "question": "S1: The advancement of science is not a secret or a mysterious process... S6: What is he to think but to marvel at the skill of science, and to fear its power?",
+      "options": [
+        {
+          "key": "A",
+          "text": "QSPR"
+        },
+        {
+          "key": "B",
+          "text": "PQRS"
+        },
+        {
+          "key": "C",
+          "text": "QPSR"
+        },
+        {
+          "key": "D",
+          "text": "SQPR"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.1,
+      "confidence": 0.84
+    },
+    {
+      "q_no": 23,
+      "section": "Verbal Ability",
+      "topic": "Fill in the Blanks",
+      "year": 2025,
+      "question": "The new policy will be __________ next month.",
+      "options": [
+        {
+          "key": "A",
+          "text": "carried on"
+        },
+        {
+          "key": "B",
+          "text": "carried out"
+        },
+        {
+          "key": "C",
+          "text": "carried over"
+        },
+        {
+          "key": "D",
+          "text": "carried in"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.0,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 24,
+      "section": "Verbal Ability",
+      "topic": "Fill in the Blanks",
+      "year": 2025,
+      "question": "The teacher asked the students to stay ________ during the exam.",
+      "options": [
+        {
+          "key": "A",
+          "text": "quite"
+        },
+        {
+          "key": "B",
+          "text": "quiet"
+        },
+        {
+          "key": "C",
+          "text": "quote"
+        },
+        {
+          "key": "D",
+          "text": "quit"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.0,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 25,
+      "section": "Verbal Ability",
+      "topic": "Fill in the Blanks",
+      "year": 2025,
+      "question": "The ancient Greeks and Romans used to worship natural __________ as Gods and Goddesses.",
+      "options": [
+        {
+          "key": "A",
+          "text": "impulses"
+        },
+        {
+          "key": "B",
+          "text": "mixtures"
+        },
+        {
+          "key": "C",
+          "text": "instincts"
+        },
+        {
+          "key": "D",
+          "text": "elements"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.0,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 26,
+      "section": "Verbal Ability",
+      "topic": "Grammar",
+      "year": 2025,
+      "question": "Choose the correctly spelt word.",
+      "options": [
+        {
+          "key": "1",
+          "text": "HEIRARCHY"
+        },
+        {
+          "key": "2",
+          "text": "APPAULLING"
+        },
+        {
+          "key": "3",
+          "text": "PESTILLENTIAL"
+        },
+        {
+          "key": "4",
+          "text": "MALODOROUS"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 2.7,
+      "confidence": 0.94
+    },
+    {
+      "q_no": 27,
+      "section": "Verbal Ability",
+      "topic": "Grammar",
+      "year": 2025,
+      "question": "Choose the correctly spelt word.",
+      "options": [
+        {
+          "key": "1",
+          "text": "HEIRARCHY"
+        },
+        {
+          "key": "2",
+          "text": "APPAULLING"
+        },
+        {
+          "key": "3",
+          "text": "PESTILLENTIAL"
+        },
+        {
+          "key": "4",
+          "text": "MALODOROUS"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 2.7,
+      "confidence": 0.94
+    },
+    {
+      "q_no": 28,
+      "section": "Verbal Ability",
+      "topic": "Grammar",
+      "year": 2025,
+      "question": "Choose the incorrectly spelt word.",
+      "options": [
+        {
+          "key": "1",
+          "text": "Brinjal"
+        },
+        {
+          "key": "2",
+          "text": "Mouse"
+        },
+        {
+          "key": "3",
+          "text": "Sliede"
+        },
+        {
+          "key": "4",
+          "text": "Blink"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 2.7,
+      "confidence": 0.94
+    },
+    {
+      "q_no": 29,
+      "section": "Verbal Ability",
+      "topic": "One Word Substitution",
+      "year": 2025,
+      "question": "Select the option that can be used as a one-word substitute for the given group of words: The study of skin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dermatology"
+        },
+        {
+          "key": "B",
+          "text": "Cytology"
+        },
+        {
+          "key": "C",
+          "text": "Congenital"
+        },
+        {
+          "key": "D",
+          "text": "Dementia"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 1.8,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 30,
+      "section": "Verbal Ability",
+      "topic": "One Word Substitution",
+      "year": 2025,
+      "question": "Select the option that can be used as a one-word substitute for the given group of words: Exceptionally clever or talented",
+      "options": [
+        {
+          "key": "A",
+          "text": "Indigenous"
+        },
+        {
+          "key": "B",
+          "text": "Studious"
+        },
+        {
+          "key": "C",
+          "text": "Assiduous"
+        },
+        {
+          "key": "D",
+          "text": "Ingenious"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 1.8,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 31,
+      "section": "General Awareness",
+      "topic": "Awards",
+      "year": 2025,
+      "question": "Who won the Miss World 2025 title?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hasset"
+        },
+        {
+          "key": "B",
+          "text": "Manushi Chhillar"
+        },
+        {
+          "key": "C",
+          "text": "Krystyna Pyszková"
+        },
+        {
+          "key": "D",
+          "text": "Opal Suchata Chuangsri"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 4.8,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 32,
+      "section": "General Awareness",
+      "topic": "Awards",
+      "year": 2025,
+      "question": "Where is the Headquarter of United Nations?",
+      "options": [
+        {
+          "key": "1",
+          "text": "London"
+        },
+        {
+          "key": "2",
+          "text": "New York"
+        },
+        {
+          "key": "3",
+          "text": "Geneva"
+        },
+        {
+          "key": "4",
+          "text": "New Delhi"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 4.8,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 33,
+      "section": "General Awareness",
+      "topic": "Awards",
+      "year": 2025,
+      "question": "Where is the Headquarter of United Nations?",
+      "options": [
+        {
+          "key": "1",
+          "text": "London"
+        },
+        {
+          "key": "2",
+          "text": "New York"
+        },
+        {
+          "key": "3",
+          "text": "Geneva"
+        },
+        {
+          "key": "4",
+          "text": "New Delhi"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 4.8,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 34,
+      "section": "General Awareness",
+      "topic": "Awards",
+      "year": 2025,
+      "question": "Which of the following is a Legal Tender in India?",
+      "options": [
+        {
+          "key": "1",
+          "text": "Government security"
+        },
+        {
+          "key": "2",
+          "text": "Commercial bills"
+        },
+        {
+          "key": "3",
+          "text": "Coins issued by the Government of India"
+        },
+        {
+          "key": "4",
+          "text": "Cheques issued by a recognised company"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 4.8,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 35,
+      "section": "General Awareness",
+      "topic": "Awards",
+      "year": 2025,
+      "question": "Which of the following is a Legal Tender in India?",
+      "options": [
+        {
+          "key": "1",
+          "text": "Government security"
+        },
+        {
+          "key": "2",
+          "text": "Commercial bills"
+        },
+        {
+          "key": "3",
+          "text": "Coins issued by the Government of India"
+        },
+        {
+          "key": "4",
+          "text": "Cheques issued by a recognised company"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 4.8,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 36,
+      "section": "General Awareness",
+      "topic": "Static GK",
+      "year": 2025,
+      "question": "'Regatta' is associated with",
+      "options": [
+        {
+          "key": "A",
+          "text": "Swimming"
+        },
+        {
+          "key": "B",
+          "text": "Table Tennis"
+        },
+        {
+          "key": "C",
+          "text": "Rowing"
+        },
+        {
+          "key": "D",
+          "text": "Polo"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 4.0,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 37,
+      "section": "General Awareness",
+      "topic": "Static GK",
+      "year": 2025,
+      "question": "In which Indian state did the game of polo originated?",
+      "options": [
+        {
+          "key": "1",
+          "text": "Meghalaya"
+        },
+        {
+          "key": "2",
+          "text": "Rajasthan"
+        },
+        {
+          "key": "3",
+          "text": "Manipur"
+        },
+        {
+          "key": "4",
+          "text": "Punjab"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 4.0,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 38,
+      "section": "General Awareness",
+      "topic": "Static GK",
+      "year": 2025,
+      "question": "In which Indian state did the game of polo originated?",
+      "options": [
+        {
+          "key": "1",
+          "text": "Meghalaya"
+        },
+        {
+          "key": "2",
+          "text": "Rajasthan"
+        },
+        {
+          "key": "3",
+          "text": "Manipur"
+        },
+        {
+          "key": "4",
+          "text": "Punjab"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 4.0,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 39,
+      "section": "General Awareness",
+      "topic": "Static GK",
+      "year": 2025,
+      "question": "When was the Eden Gardens Stadium, Kolkata established?",
+      "options": [
+        {
+          "key": "1",
+          "text": "1875"
+        },
+        {
+          "key": "2",
+          "text": "1864"
+        },
+        {
+          "key": "3",
+          "text": "1854"
+        },
+        {
+          "key": "4",
+          "text": "1885"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 4.0,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 40,
+      "section": "General Awareness",
+      "topic": "General Science",
+      "year": 2025,
+      "question": "Which disease is also known as Hansen's disease?",
+      "options": [
+        {
+          "key": "1",
+          "text": "Leprosy"
+        },
+        {
+          "key": "2",
+          "text": "Diarrhoea"
+        },
+        {
+          "key": "3",
+          "text": "Plague"
+        },
+        {
+          "key": "4",
+          "text": "Cholera"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.6,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 41,
+      "section": "General Awareness",
+      "topic": "General Science",
+      "year": 2025,
+      "question": "Which disease is also known as Hansen's disease?",
+      "options": [
+        {
+          "key": "1",
+          "text": "Leprosy"
+        },
+        {
+          "key": "2",
+          "text": "Diarrhoea"
+        },
+        {
+          "key": "3",
+          "text": "Plague"
+        },
+        {
+          "key": "4",
+          "text": "Cholera"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.6,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 42,
+      "section": "General Awareness",
+      "topic": "General Science",
+      "year": 2025,
+      "question": "Which disease is also known as Hansen's disease?",
+      "options": [
+        {
+          "key": "1",
+          "text": "Leprosy"
+        },
+        {
+          "key": "2",
+          "text": "Diarrhoea"
+        },
+        {
+          "key": "3",
+          "text": "Plague"
+        },
+        {
+          "key": "4",
+          "text": "Cholera"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.6,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 43,
+      "section": "General Awareness",
+      "topic": "General Science",
+      "year": 2025,
+      "question": "Which of the following is true about a tropical cyclone.",
+      "options": [
+        {
+          "key": "A",
+          "text": "It is much extensive size than extra-tropical cyclone"
+        },
+        {
+          "key": "B",
+          "text": "There is more than one place where wind and rain is active"
+        },
+        {
+          "key": "C",
+          "text": "It is associated with single eye"
+        },
+        {
+          "key": "D",
+          "text": "Formed in middle or high latitudes, due to the development of front"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.6,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 44,
+      "section": "General Awareness",
+      "topic": "Defence & Military",
+      "year": 2025,
+      "question": "Who is the 28th Chief of the Air Staff of India?",
+      "options": [
+        {
+          "key": "1",
+          "text": "Air Chief Marshal Rakesh Kumar Singh Bhadauria"
+        },
+        {
+          "key": "2",
+          "text": "Air Chief Marshal Vivek Ram Chaudhari"
+        },
+        {
+          "key": "3",
+          "text": "Air Chief Marshal Amar Preet Singh"
+        },
+        {
+          "key": "4",
+          "text": "Air Chief Marshal Anil Khosla"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 2.9,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 45,
+      "section": "General Awareness",
+      "topic": "Defence & Military",
+      "year": 2025,
+      "question": "Who is the 28th Chief of the Air Staff of India?",
+      "options": [
+        {
+          "key": "1",
+          "text": "Air Chief Marshal Rakesh Kumar Singh Bhadauria"
+        },
+        {
+          "key": "2",
+          "text": "Air Chief Marshal Vivek Ram Chaudhari"
+        },
+        {
+          "key": "3",
+          "text": "Air Chief Marshal Amar Preet Singh"
+        },
+        {
+          "key": "4",
+          "text": "Air Chief Marshal Anil Khosla"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 2.9,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 46,
+      "section": "General Awareness",
+      "topic": "Defence & Military",
+      "year": 2025,
+      "question": "Who is the 28th Chief of the Air Staff of India?",
+      "options": [
+        {
+          "key": "1",
+          "text": "Air Chief Marshal Rakesh Kumar Singh Bhadauria"
+        },
+        {
+          "key": "2",
+          "text": "Air Chief Marshal Vivek Ram Chaudhari"
+        },
+        {
+          "key": "3",
+          "text": "Air Chief Marshal Amar Preet Singh"
+        },
+        {
+          "key": "4",
+          "text": "Air Chief Marshal Anil Khosla"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 2.9,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 47,
+      "section": "General Awareness",
+      "topic": "Geography (World)",
+      "year": 2025,
+      "question": "The currency of Thailand is",
+      "options": [
+        {
+          "key": "A",
+          "text": "Baht"
+        },
+        {
+          "key": "B",
+          "text": "Rupiah"
+        },
+        {
+          "key": "C",
+          "text": "Yuan"
+        },
+        {
+          "key": "D",
+          "text": "Yen"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 2.3,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 48,
+      "section": "General Awareness",
+      "topic": "Geography (World)",
+      "year": 2025,
+      "question": "Cyclones are called by different names in different countries/regions. Which pair is not correctly matched?",
+      "options": [
+        {
+          "key": "A",
+          "text": "USA and Mexico - Hurricane"
+        },
+        {
+          "key": "B",
+          "text": "China - Typhoon"
+        },
+        {
+          "key": "C",
+          "text": "Australia - Whirlpool"
+        },
+        {
+          "key": "D",
+          "text": "India - Cyclone"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 2.3,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 49,
+      "section": "General Awareness",
+      "topic": "History (Modern)",
+      "year": 2025,
+      "question": "Who built 'Jantar Mantar', the famous observatory, in Delhi?",
+      "options": [
+        {
+          "key": "1",
+          "text": "Emperor Akbar"
+        },
+        {
+          "key": "2",
+          "text": "Aurangzeb"
+        },
+        {
+          "key": "3",
+          "text": "Maharaja Jai Singh"
+        },
+        {
+          "key": "4",
+          "text": "Maharajah Churaman"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 1.7,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 50,
+      "section": "General Awareness",
+      "topic": "History (Modern)",
+      "year": 2025,
+      "question": "Who built 'Jantar Mantar', the famous observatory, in Delhi?",
+      "options": [
+        {
+          "key": "1",
+          "text": "Emperor Akbar"
+        },
+        {
+          "key": "2",
+          "text": "Aurangzeb"
+        },
+        {
+          "key": "3",
+          "text": "Maharaja Jai Singh"
+        },
+        {
+          "key": "4",
+          "text": "Maharajah Churaman"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 1.7,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 51,
+      "section": "General Awareness",
+      "topic": "Geography (India)",
+      "year": 2025,
+      "question": "Pangsau Pass in the Himalayas joins",
+      "options": [
+        {
+          "key": "1",
+          "text": "Sikkim to China"
+        },
+        {
+          "key": "2",
+          "text": "Himachal Pradesh to Tibet"
+        },
+        {
+          "key": "3",
+          "text": "Uttarakhand to Tibet"
+        },
+        {
+          "key": "4",
+          "text": "Arunachal Pradesh to Myanmar"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 1.6,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 52,
+      "section": "General Awareness",
+      "topic": "Geography (India)",
+      "year": 2025,
+      "question": "Pangsau Pass in the Himalayas joins",
+      "options": [
+        {
+          "key": "1",
+          "text": "Sikkim to China"
+        },
+        {
+          "key": "2",
+          "text": "Himachal Pradesh to Tibet"
+        },
+        {
+          "key": "3",
+          "text": "Uttarakhand to Tibet"
+        },
+        {
+          "key": "4",
+          "text": "Arunachal Pradesh to Myanmar"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 1.6,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 53,
+      "section": "General Awareness",
+      "topic": "Indian Polity",
+      "year": 2025,
+      "question": "How many Article Schedules are there in the Indian Constitution?",
+      "options": [
+        {
+          "key": "A",
+          "text": "395 Article, 12 Schedules"
+        },
+        {
+          "key": "B",
+          "text": "300 Article, 10 Schedules"
+        },
+        {
+          "key": "C",
+          "text": "305 Article, 9 Schedules"
+        },
+        {
+          "key": "D",
+          "text": "391 Article, 10 Schedules"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 1.5,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 54,
+      "section": "General Awareness",
+      "topic": "Indian Polity",
+      "year": 2025,
+      "question": "Which of the following statements regarding the Comptroller Auditor General is INCORRECT?",
+      "options": [
+        {
+          "key": "A",
+          "text": "He certifies the net proceeds of any tax or duty, which is final."
+        },
+        {
+          "key": "B",
+          "text": "He conducts audits of expenditure on behalf of the parliament."
+        },
+        {
+          "key": "C",
+          "text": "His legal and regulatory audits are discretionary, but his propriety audit is obligatory."
+        },
+        {
+          "key": "D",
+          "text": "Secret services expenditure is outside the purview of CAG."
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 1.5,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 55,
+      "section": "General Awareness",
+      "topic": "Current Affairs",
+      "year": 2025,
+      "question": "Under whose presidency was the 11th BRICS Labour & Employment Ministers' Meeting 2025 held?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bangladesh"
+        },
+        {
+          "key": "B",
+          "text": "Brazil"
+        },
+        {
+          "key": "C",
+          "text": "South Africa"
+        },
+        {
+          "key": "D",
+          "text": "Russia"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 1.3,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 56,
+      "section": "Numerical Ability",
+      "topic": "Mixtures and Alligations",
+      "year": 2025,
+      "question": "What is the smallest number that must be added to 19487161 so that it is divisible by 11?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5"
+        },
+        {
+          "key": "B",
+          "text": "11"
+        },
+        {
+          "key": "C",
+          "text": "16"
+        },
+        {
+          "key": "D",
+          "text": "10"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.3,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 57,
+      "section": "Numerical Ability",
+      "topic": "Mixtures and Alligations",
+      "year": 2025,
+      "question": "The cost of 21 pencils and 9 pens is Rs. 276, and the cost of 6 pencils and 3 pens is Rs. 84. The cost of 1 pencil and 1 pen is:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rs. 20"
+        },
+        {
+          "key": "B",
+          "text": "Rs. 10"
+        },
+        {
+          "key": "C",
+          "text": "Rs. 40"
+        },
+        {
+          "key": "D",
+          "text": "Rs. 30"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.3,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 58,
+      "section": "Numerical Ability",
+      "topic": "Mixtures and Alligations",
+      "year": 2025,
+      "question": "The circumferential length of a circle of radius 7 cm is used to construct a square. The length of the side of the square is : (Take π = 22/7.)",
+      "options": [
+        {
+          "key": "A",
+          "text": "7 cm"
+        },
+        {
+          "key": "B",
+          "text": "11 cm"
+        },
+        {
+          "key": "C",
+          "text": "15 cm"
+        },
+        {
+          "key": "D",
+          "text": "22 cm"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.3,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 59,
+      "section": "Numerical Ability",
+      "topic": "Ratio & Proportion",
+      "year": 2025,
+      "question": "The third proportional to 0.13 and 0.52 is:",
+      "options": [
+        {
+          "key": "A",
+          "text": "1.45"
+        },
+        {
+          "key": "B",
+          "text": "3.12"
+        },
+        {
+          "key": "C",
+          "text": "2.65"
+        },
+        {
+          "key": "D",
+          "text": "2.08"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 2.6,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 60,
+      "section": "Numerical Ability",
+      "topic": "Ratio & Proportion",
+      "year": 2025,
+      "question": "What is the correct descending order of the following ratios?",
+      "options": [
+        {
+          "key": "1",
+          "text": "11/20 > 17/30 > 27/50 > 7/15"
+        },
+        {
+          "key": "2",
+          "text": "17/30 > 11/20 > 27/50 > 7/15"
+        },
+        {
+          "key": "3",
+          "text": "17/30 > 27/50 > 11/20 > 7/15"
+        },
+        {
+          "key": "4",
+          "text": "7/15 > 11/20 > 27/50 > 17/30"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 2.6,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 61,
+      "section": "Numerical Ability",
+      "topic": "Ratio & Proportion",
+      "year": 2025,
+      "question": "What is the correct descending order of the following ratios?",
+      "options": [
+        {
+          "key": "1",
+          "text": "11/20 > 17/30 > 27/50 > 7/15"
+        },
+        {
+          "key": "2",
+          "text": "17/30 > 11/20 > 27/50 > 7/15"
+        },
+        {
+          "key": "3",
+          "text": "17/30 > 27/50 > 11/20 > 7/15"
+        },
+        {
+          "key": "4",
+          "text": "7/15 > 11/20 > 27/50 > 17/30"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 2.6,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 62,
+      "section": "Numerical Ability",
+      "topic": "Speed, Distance, Time",
+      "year": 2025,
+      "question": "A car can finish a certain journey in 10 hrs at a speed of 48 km/hr. In order to cover the same distance in 8 hrs, the speed of the car must be increased by:",
+      "options": [
+        {
+          "key": "A",
+          "text": "6 km/h"
+        },
+        {
+          "key": "B",
+          "text": "7.5 km/h"
+        },
+        {
+          "key": "C",
+          "text": "12 km/h"
+        },
+        {
+          "key": "D",
+          "text": "15 km/h"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 2.6,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 63,
+      "section": "Numerical Ability",
+      "topic": "Speed, Distance, Time",
+      "year": 2025,
+      "question": "If the speed of a boat moving against the current is 18 km/hr, what is the speed of the stream if the boat's speed downstream is 50% greater than its speed upstream?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5.2 kmph"
+        },
+        {
+          "key": "B",
+          "text": "4.5 kmph"
+        },
+        {
+          "key": "C",
+          "text": "4.8 kmph"
+        },
+        {
+          "key": "D",
+          "text": "4.6 kmph"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 2.6,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 64,
+      "section": "Numerical Ability",
+      "topic": "Speed, Distance, Time",
+      "year": 2025,
+      "question": "Two persons A and B are travelling with the speeds of ratio 3: 4. A takes 30 minutes more time than B to reach the distance. Then find the time taken by A to reach the distance.",
+      "options": [
+        {
+          "key": "1",
+          "text": "2 Hours"
+        },
+        {
+          "key": "2",
+          "text": "1 Hour"
+        },
+        {
+          "key": "3",
+          "text": "4 Hours"
+        },
+        {
+          "key": "4",
+          "text": "3 Hours"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 2.6,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 65,
+      "section": "Numerical Ability",
+      "topic": "Percentage",
+      "year": 2025,
+      "question": "A number is increased by 30% and then decreased by 30%. Finally, the number:",
+      "options": [
+        {
+          "key": "A",
+          "text": "is decreased by 10%"
+        },
+        {
+          "key": "B",
+          "text": "is increased by 9%"
+        },
+        {
+          "key": "C",
+          "text": "does not change"
+        },
+        {
+          "key": "D",
+          "text": "is decreased by 9%"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 2.0,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 66,
+      "section": "Numerical Ability",
+      "topic": "Percentage",
+      "year": 2025,
+      "question": "Two numbers are respectively 61% and 35% less than a third number. The first number is what percentage of the second number?",
+      "options": [
+        {
+          "key": "A",
+          "text": "24%"
+        },
+        {
+          "key": "B",
+          "text": "48%"
+        },
+        {
+          "key": "C",
+          "text": "30%"
+        },
+        {
+          "key": "D",
+          "text": "60%"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 2.0,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 67,
+      "section": "Numerical Ability",
+      "topic": "Time & Work",
+      "year": 2025,
+      "question": "A is 50% more efficient than B. Working together, they can complete a job in 20 days. How long would B alone take to complete the same job?",
+      "options": [
+        {
+          "key": "A",
+          "text": "60 days"
+        },
+        {
+          "key": "B",
+          "text": "40 days"
+        },
+        {
+          "key": "C",
+          "text": "45 days"
+        },
+        {
+          "key": "D",
+          "text": "50 days"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 2.0,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 68,
+      "section": "Numerical Ability",
+      "topic": "Time & Work",
+      "year": 2025,
+      "question": "A tap can fill a tank in 10 hours. After filling half the tank, four more similar taps are opened. What is the total time taken to fill the tank completely?",
+      "options": [
+        {
+          "key": "1",
+          "text": "5 hours 45 minutes"
+        },
+        {
+          "key": "2",
+          "text": "6 hours"
+        },
+        {
+          "key": "3",
+          "text": "5 hours 48 minutes"
+        },
+        {
+          "key": "4",
+          "text": "6 hours 45 minutes"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 2.0,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 69,
+      "section": "Numerical Ability",
+      "topic": "Average",
+      "year": 2025,
+      "question": "If the average weight of 40 apples is 33 kg and that of 32 apples is 60 kg, then the average weight (in kg) of all the apples is:",
+      "options": [
+        {
+          "key": "A",
+          "text": "46.5"
+        },
+        {
+          "key": "B",
+          "text": "44"
+        },
+        {
+          "key": "C",
+          "text": "45.2"
+        },
+        {
+          "key": "D",
+          "text": "45"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 1.9,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 70,
+      "section": "Numerical Ability",
+      "topic": "Average",
+      "year": 2025,
+      "question": "A public library has an average attendance of 410 on Sundays and 230 for the remaining days. The average attendance per day of a month of 30 days beginning with Sunday would be:",
+      "options": [
+        {
+          "key": "A",
+          "text": "254"
+        },
+        {
+          "key": "B",
+          "text": "320"
+        },
+        {
+          "key": "C",
+          "text": "260"
+        },
+        {
+          "key": "D",
+          "text": "230"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 1.9,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 71,
+      "section": "Numerical Ability",
+      "topic": "Profit & Loss",
+      "year": 2025,
+      "question": "In a Lewis showroom, an offer is running \"Buy 9 shirts get 3 shirts free\". How much percent discount is there?",
+      "options": [
+        {
+          "key": "1",
+          "text": "12.5%"
+        },
+        {
+          "key": "2",
+          "text": "13.5%"
+        },
+        {
+          "key": "3",
+          "text": "25%"
+        },
+        {
+          "key": "4",
+          "text": "27%"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 1.8,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 72,
+      "section": "Numerical Ability",
+      "topic": "Profit & Loss",
+      "year": 2025,
+      "question": "In a Lewis showroom, an offer is running \"Buy 9 shirts get 3 shirts free\". How much percent discount is there?",
+      "options": [
+        {
+          "key": "1",
+          "text": "12.5%"
+        },
+        {
+          "key": "2",
+          "text": "13.5%"
+        },
+        {
+          "key": "3",
+          "text": "25%"
+        },
+        {
+          "key": "4",
+          "text": "27%"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 1.8,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 73,
+      "section": "Numerical Ability",
+      "topic": "Simplification",
+      "year": 2025,
+      "question": "Simplify: 48 - 3 [ 5 + 8 { 4 - 4 (9 - 2) + 6 } - 12 ] ÷ 3",
+      "options": [
+        {
+          "key": "A",
+          "text": "160"
+        },
+        {
+          "key": "B",
+          "text": "216"
+        },
+        {
+          "key": "C",
+          "text": "199"
+        },
+        {
+          "key": "D",
+          "text": "276"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 1.1,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 74,
+      "section": "Numerical Ability",
+      "topic": "Algebra",
+      "year": 2025,
+      "question": "If a + b = 40 and a² + b² = 116, find the value of a³ + b³.",
+      "options": [
+        {
+          "key": "A",
+          "text": "-1890"
+        },
+        {
+          "key": "B",
+          "text": "-25040"
+        },
+        {
+          "key": "C",
+          "text": "-25480"
+        },
+        {
+          "key": "D",
+          "text": "248"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 0.9,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 75,
+      "section": "Numerical Ability",
+      "topic": "Mensuration",
+      "year": 2025,
+      "question": "The ratio of the outer and the inner circumference of a circular path is 7 : 6. If the path is 45 m wide, then what is the radius (in m) of the inner circle?",
+      "options": [
+        {
+          "key": "A",
+          "text": "270"
+        },
+        {
+          "key": "B",
+          "text": "240"
+        },
+        {
+          "key": "C",
+          "text": "150"
+        },
+        {
+          "key": "D",
+          "text": "120"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 0.8,
+      "confidence": 0.9
+    },
+    {
+      "q_no": 76,
+      "section": "Reasoning",
+      "topic": "Verbal Analogy",
+      "year": 2025,
+      "question": "Select the related letters from the given alternatives. ACFJ : DFIM :: GILP : ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "IKNR"
+        },
+        {
+          "key": "B",
+          "text": "JLOS"
+        },
+        {
+          "key": "C",
+          "text": "JKOR"
+        },
+        {
+          "key": "D",
+          "text": "ILNS"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 4.3,
+      "confidence": 0.9
+    },
+    {
+      "q_no": 77,
+      "section": "Reasoning",
+      "topic": "Verbal Analogy",
+      "year": 2025,
+      "question": "'kilogram' is related to 'Unit of mass' in the same way as 'kilobyte' is related to ___________",
+      "options": [
+        {
+          "key": "A",
+          "text": "Unit of Speed"
+        },
+        {
+          "key": "B",
+          "text": "Unit of Data"
+        },
+        {
+          "key": "C",
+          "text": "Unit of time"
+        },
+        {
+          "key": "D",
+          "text": "Unit of weight"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 4.3,
+      "confidence": 0.9
+    },
+    {
+      "q_no": 78,
+      "section": "Reasoning",
+      "topic": "Verbal Analogy",
+      "year": 2025,
+      "question": "In the following question, select the related word from the given alternatives. PRAG : QTDK :: STOP : ?",
+      "options": [
+        {
+          "key": "1",
+          "text": "LMNP"
+        },
+        {
+          "key": "2",
+          "text": "BDFE"
+        },
+        {
+          "key": "3",
+          "text": "TVRT"
+        },
+        {
+          "key": "4",
+          "text": "QSTG"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 4.3,
+      "confidence": 0.9
+    },
+    {
+      "q_no": 79,
+      "section": "Reasoning",
+      "topic": "Verbal Analogy",
+      "year": 2025,
+      "question": "In the following question, select the related word from the given alternatives. Impartial : Unbiased :: Apathetic : ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Uninterested"
+        },
+        {
+          "key": "B",
+          "text": "Passionate"
+        },
+        {
+          "key": "C",
+          "text": "Enthusiastic"
+        },
+        {
+          "key": "D",
+          "text": "Peculiar"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 4.3,
+      "confidence": 0.9
+    },
+    {
+      "q_no": 80,
+      "section": "Reasoning",
+      "topic": "Verbal Classification",
+      "year": 2025,
+      "question": "Identify the term that does not fit into the group -",
+      "options": [
+        {
+          "key": "1",
+          "text": "Kalahari"
+        },
+        {
+          "key": "2",
+          "text": "Sahara"
+        },
+        {
+          "key": "3",
+          "text": "Gobi"
+        },
+        {
+          "key": "4",
+          "text": "Sunderban"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 4.3,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 81,
+      "section": "Reasoning",
+      "topic": "Verbal Classification",
+      "year": 2025,
+      "question": "Which of the following jumbled words is not an animal?",
+      "options": [
+        {
+          "key": "1",
+          "text": "LATHPEEN"
+        },
+        {
+          "key": "2",
+          "text": "TICRECK"
+        },
+        {
+          "key": "3",
+          "text": "FEFEOC"
+        },
+        {
+          "key": "4",
+          "text": "TAR"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 4.3,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 82,
+      "section": "Reasoning",
+      "topic": "Verbal Classification",
+      "year": 2025,
+      "question": "In the question given find the odd word from the given alternatives.",
+      "options": [
+        {
+          "key": "1",
+          "text": "Nephrology"
+        },
+        {
+          "key": "2",
+          "text": "Astrology"
+        },
+        {
+          "key": "3",
+          "text": "Ornithology"
+        },
+        {
+          "key": "4",
+          "text": "Entomology"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 4.3,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 83,
+      "section": "Reasoning",
+      "topic": "Verbal Classification",
+      "year": 2025,
+      "question": "Select the jumbled word which is different from the three other alternatives.",
+      "options": [
+        {
+          "key": "A",
+          "text": "BURAD"
+        },
+        {
+          "key": "B",
+          "text": "LESTEN"
+        },
+        {
+          "key": "C",
+          "text": "SGKOLLEG"
+        },
+        {
+          "key": "D",
+          "text": "NAMZAO"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 4.3,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 84,
+      "section": "Reasoning",
+      "topic": "Logical Reasoning (Verbal)",
+      "year": 2025,
+      "question": "Complete the series. 11, 3, 14, 5, 18, 8, 23, 13, ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "28"
+        },
+        {
+          "key": "B",
+          "text": "29"
+        },
+        {
+          "key": "C",
+          "text": "19"
+        },
+        {
+          "key": "D",
+          "text": "27"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 4.3,
+      "confidence": 0.94
+    },
+    {
+      "q_no": 85,
+      "section": "Reasoning",
+      "topic": "Logical Reasoning (Verbal)",
+      "year": 2025,
+      "question": "Find the next number in the given series. 5, 27, 129, 631, ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "729"
+        },
+        {
+          "key": "B",
+          "text": "512"
+        },
+        {
+          "key": "C",
+          "text": "1311"
+        },
+        {
+          "key": "D",
+          "text": "3133"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 4.3,
+      "confidence": 0.94
+    },
+    {
+      "q_no": 86,
+      "section": "Reasoning",
+      "topic": "Logical Reasoning (Verbal)",
+      "year": 2025,
+      "question": "Find the missing term in the given series. EJL, JQU, OXD, TEM, ___",
+      "options": [
+        {
+          "key": "1",
+          "text": "ZHL"
+        },
+        {
+          "key": "2",
+          "text": "YLV"
+        },
+        {
+          "key": "3",
+          "text": "ZIL"
+        },
+        {
+          "key": "4",
+          "text": "YIL"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 4.3,
+      "confidence": 0.94
+    },
+    {
+      "q_no": 87,
+      "section": "Reasoning",
+      "topic": "Logical Reasoning (Verbal)",
+      "year": 2025,
+      "question": "Which of the following jumble word is the name of an Indian River?",
+      "options": [
+        {
+          "key": "A",
+          "text": "ANGAG"
+        },
+        {
+          "key": "B",
+          "text": "ILNE"
+        },
+        {
+          "key": "C",
+          "text": "NAZAMO"
+        },
+        {
+          "key": "D",
+          "text": "ONGOC"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 4.3,
+      "confidence": 0.94
+    },
+    {
+      "q_no": 88,
+      "section": "Reasoning",
+      "topic": "Venn Diagrams",
+      "year": 2025,
+      "question": "Which of the following diagram denotes the group of mother-nurse-teacher?",
+      "options": [
+        {
+          "key": "1",
+          "text": "Figure 1"
+        },
+        {
+          "key": "2",
+          "text": "Figure 2"
+        },
+        {
+          "key": "3",
+          "text": "Figure 3"
+        },
+        {
+          "key": "4",
+          "text": "Figure 4"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.4,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 89,
+      "section": "Reasoning",
+      "topic": "Venn Diagrams",
+      "year": 2025,
+      "question": "Which of the following diagram denotes the group of mother-nurse-teacher?",
+      "options": [
+        {
+          "key": "1",
+          "text": "Figure 1"
+        },
+        {
+          "key": "2",
+          "text": "Figure 2"
+        },
+        {
+          "key": "3",
+          "text": "Figure 3"
+        },
+        {
+          "key": "4",
+          "text": "Figure 4"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.4,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 90,
+      "section": "Reasoning",
+      "topic": "Venn Diagrams",
+      "year": 2025,
+      "question": "Select the Venn diagram that best represents the relationship among the following classes: Cuisine, Italian, Language",
+      "options": [
+        {
+          "key": "1",
+          "text": "Figure 1"
+        },
+        {
+          "key": "2",
+          "text": "Figure 2"
+        },
+        {
+          "key": "3",
+          "text": "Figure 3"
+        },
+        {
+          "key": "4",
+          "text": "Figure 4"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.4,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 91,
+      "section": "Reasoning",
+      "topic": "Non-Verbal Series",
+      "year": 2025,
+      "question": "Select the figure that will come next in the following figure series.",
+      "options": [
+        {
+          "key": "1",
+          "text": "Figure 1"
+        },
+        {
+          "key": "2",
+          "text": "Figure 2"
+        },
+        {
+          "key": "3",
+          "text": "Figure 3"
+        },
+        {
+          "key": "4",
+          "text": "Figure 4"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.3,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 92,
+      "section": "Reasoning",
+      "topic": "Non-Verbal Series",
+      "year": 2025,
+      "question": "Identify the correct figure among answer figure which completes the series of the question figure.",
+      "options": [
+        {
+          "key": "1",
+          "text": "A"
+        },
+        {
+          "key": "2",
+          "text": "B"
+        },
+        {
+          "key": "3",
+          "text": "C"
+        },
+        {
+          "key": "4",
+          "text": "D"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.3,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 93,
+      "section": "Reasoning",
+      "topic": "Non-Verbal Series",
+      "year": 2025,
+      "question": "Select the figure from among the given options that can logically replace the question mark (?) in the following series.",
+      "options": [
+        {
+          "key": "1",
+          "text": "Figure 1"
+        },
+        {
+          "key": "2",
+          "text": "Figure 2"
+        },
+        {
+          "key": "3",
+          "text": "Figure 3"
+        },
+        {
+          "key": "4",
+          "text": "Figure 4"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.3,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 94,
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "year": 2025,
+      "question": "In a certain code, EDUCATION is written as DUETACNIO. How is KNOWLEDGE written in that code language?",
+      "options": [
+        {
+          "key": "A",
+          "text": "OKNELWEDG"
+        },
+        {
+          "key": "B",
+          "text": "OKNLEWEGD"
+        },
+        {
+          "key": "C",
+          "text": "NOKELWEDG"
+        },
+        {
+          "key": "D",
+          "text": "NOKWLEGED"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.2,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 95,
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "year": 2025,
+      "question": "In a code language, ‘FASHION’ is coded as ‘FAIHIED’, then how will ‘FAMOUS’ be coded in the same code language?",
+      "options": [
+        {
+          "key": "A",
+          "text": "FACEBI"
+        },
+        {
+          "key": "B",
+          "text": "GMRSAC"
+        },
+        {
+          "key": "C",
+          "text": "LFWORE"
+        },
+        {
+          "key": "D",
+          "text": "EKCFDB"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.2,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 96,
+      "section": "Reasoning",
+      "topic": "Coding-Decoding",
+      "year": 2025,
+      "question": "Direction (1-3): In the following question, select the related word from the given alternatives. PRAG: QTDK:: STOP:?",
+      "options": [
+        {
+          "key": "1",
+          "text": "LMNP"
+        },
+        {
+          "key": "2",
+          "text": "BDFE"
+        },
+        {
+          "key": "3",
+          "text": "TVRT"
+        },
+        {
+          "key": "4",
+          "text": "QSTG"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 3.2,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 97,
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "year": 2025,
+      "question": "In this question, two statements are given followed by two conclusions. Statements: 1) All sides are lengths. 2) No length is breadth. Conclusions: I. All lengths are sides. II. No breadth is side.",
+      "options": [
+        {
+          "key": "1",
+          "text": "Only conclusion I follows"
+        },
+        {
+          "key": "2",
+          "text": "Both conclusions I and II follow"
+        },
+        {
+          "key": "3",
+          "text": "Only conclusion II follows"
+        },
+        {
+          "key": "4",
+          "text": "Neither conclusion I nor II follows"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 0.9,
+      "confidence": 0.95
+    },
+    {
+      "q_no": 98,
+      "section": "Reasoning",
+      "topic": "Number Series",
+      "year": 2025,
+      "question": "Find the missing number- 30, 24, 29, 34 ... ?",
+      "options": [
+        {
+          "key": "1",
+          "text": "13"
+        },
+        {
+          "key": "2",
+          "text": "8"
+        },
+        {
+          "key": "3",
+          "text": "11"
+        },
+        {
+          "key": "4",
+          "text": "9"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 0.8,
+      "confidence": 0.86
+    },
+    {
+      "q_no": 99,
+      "section": "Reasoning",
+      "topic": "Blood Relations",
+      "year": 2025,
+      "question": "X introduces Y saying, \"He is the husband of the grand daughter of the father of my father.\" How is Y related to X?",
+      "options": [
+        {
+          "key": "1",
+          "text": "Brother"
+        },
+        {
+          "key": "2",
+          "text": "Son"
+        },
+        {
+          "key": "3",
+          "text": "Brother - in - law"
+        },
+        {
+          "key": "4",
+          "text": "Nephew"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": 0.5,
+      "confidence": 0.87
+    },
+    {
+      "q_no": 100,
+      "section": "Reasoning",
+      "topic": "Verbal Analogy",
+      "year": 2011,
+      "question": "STORY : NOVEL",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sea : Ocean"
+        },
+        {
+          "key": "B",
+          "text": "School : University"
+        },
+        {
+          "key": "C",
+          "text": "Book : Dictionary"
+        },
+        {
+          "key": "D",
+          "text": "Poetry : Drama"
+        }
+      ],
+      "answer": "",
+      "explanation": "",
+      "marks": 3,
+      "negative": -1,
+      "predicted_weight": "Random",
+      "confidence": "N/A"
+    }
+  ]
+}

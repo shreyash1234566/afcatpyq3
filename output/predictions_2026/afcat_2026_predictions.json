@@ -1,637 +1,669 @@
 {
-  "metadata": {
-    "generated_at": "2026-01-06T17:32:20.460478",
-    "data_source": "PYQ 2011-2025",
-    "total_questions_analyzed": 2877,
-    "years_covered": "2011-2025",
-    "target_year": 2026,
-    "confidence": 0.75
-  },
-  "exam_structure": {
-    "total_questions": 100,
-    "total_marks": 300,
-    "correct_marks": 3,
-    "negative_marks": -1,
-    "duration_minutes": 120
-  },
-  "section_distribution": {
-    "Verbal Ability": 30,
-    "General Awareness": 25,
-    "Numerical Ability": 20,
-    "Reasoning": 25
-  },
-  "topic_predictions": {
-    "Verbal Ability": [
-      {
-        "topic_code": "VA_REARR",
-        "topic_name": "Sentence Rearrangement",
-        "predicted_count": 4.699999809265137,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "VA_CLOZE",
-        "topic_name": "Cloze Test",
-        "predicted_count": 4.0,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "VA_COMP",
-        "topic_name": "Reading Comprehension",
-        "predicted_count": 3.200000047683716,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "VA_ERR",
-        "topic_name": "Error Detection",
-        "predicted_count": 3.0999999046325684,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "VA_IDIOM",
-        "topic_name": "Idioms & Phrases",
-        "predicted_count": 3.0999999046325684,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "VA_SYN",
-        "topic_name": "Synonyms",
-        "predicted_count": 2.9000000953674316,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "VA_ANT",
-        "topic_name": "Antonyms",
-        "predicted_count": 2.799999952316284,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "VA_OWS",
-        "topic_name": "One Word Substitution",
-        "predicted_count": 2.4000000953674316,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "VA_ANALOGY",
-        "topic_name": "Verbal Analogy",
-        "predicted_count": 1.600000023841858,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "VA_SENT",
-        "topic_name": "Sentence Completion",
-        "predicted_count": 1.100000023841858,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "VA_GRAM",
-        "topic_name": "Grammar",
-        "predicted_count": 1.100000023841858,
-        "confidence": 0.8999999999999999
-      }
-    ],
-    "General Awareness": [
-      {
-        "topic_code": "GA_DEF",
-        "topic_name": "Defence & Military",
-        "predicted_count": 4.0,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "GA_ENV",
-        "topic_name": "Environment",
-        "predicted_count": 3.799999952316284,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "GA_SCI",
-        "topic_name": "Science & Technology",
-        "predicted_count": 2.9000000953674316,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "GA_ORG",
-        "topic_name": "Organizations",
-        "predicted_count": 2.200000047683716,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "GA_SPORTS",
-        "topic_name": "Sports",
-        "predicted_count": 2.0999999046325684,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "GA_AWARDS",
-        "topic_name": "Awards & Honours",
-        "predicted_count": 2.0999999046325684,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "GA_POLITY",
-        "topic_name": "Polity & Governance",
-        "predicted_count": 1.2999999523162842,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "GA_CURR",
-        "topic_name": "Current Affairs",
-        "predicted_count": 1.2999999523162842,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "GA_GEO_IND",
-        "topic_name": "Indian Geography",
-        "predicted_count": 1.2000000476837158,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "GA_HIST_MOD",
-        "topic_name": "Modern History",
-        "predicted_count": 1.100000023841858,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "GA_GEO_WORLD",
-        "topic_name": "World Geography",
-        "predicted_count": 1.0,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "GA_ECON",
-        "topic_name": "Economy",
-        "predicted_count": 0.800000011920929,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "GA_HIST_ANC",
-        "topic_name": "Ancient History",
-        "predicted_count": 0.30000001192092896,
-        "confidence": 0.7
-      },
-      {
-        "topic_code": "GA_HIST_MED",
-        "topic_name": "Medieval History",
-        "predicted_count": 0.30000001192092896,
-        "confidence": 0.7
-      },
-      {
-        "topic_code": "GA_CULTURE",
-        "topic_name": "Art & Culture",
-        "predicted_count": 0.30000001192092896,
-        "confidence": 0.7
-      },
-      {
-        "topic_code": "GA_BOOKS",
-        "topic_name": "Books & Authors",
-        "predicted_count": 0.20000000298023224,
-        "confidence": 0.7
-      }
-    ],
-    "Numerical Ability": [
-      {
-        "topic_code": "NA_PL",
-        "topic_name": "Profit & Loss",
-        "predicted_count": 3.5,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "NA_TW",
-        "topic_name": "Time & Work",
-        "predicted_count": 3.0,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "NA_NUM",
-        "topic_name": "Number System",
-        "predicted_count": 1.899999976158142,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "NA_RAT",
-        "topic_name": "Ratio & Proportion",
-        "predicted_count": 1.7999999523162842,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "NA_AVG",
-        "topic_name": "Average",
-        "predicted_count": 1.7000000476837158,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "NA_MIX",
-        "topic_name": "Mixture & Alligation",
-        "predicted_count": 1.399999976158142,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "NA_PER",
-        "topic_name": "Percentage",
-        "predicted_count": 1.2000000476837158,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "NA_MENSA",
-        "topic_name": "Mensuration",
-        "predicted_count": 1.2000000476837158,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "NA_CI",
-        "topic_name": "Compound Interest",
-        "predicted_count": 1.0,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "NA_SIM",
-        "topic_name": "Simplification",
-        "predicted_count": 0.6000000238418579,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "NA_SI",
-        "topic_name": "Simple Interest",
-        "predicted_count": 0.6000000238418579,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "NA_SPD",
-        "topic_name": "Speed, Distance, Time",
-        "predicted_count": 0.6000000238418579,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "NA_AREA",
-        "topic_name": "Area & Perimeter",
-        "predicted_count": 0.6000000238418579,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "NA_ALG",
-        "topic_name": "Algebra",
-        "predicted_count": 0.5,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "NA_STAT",
-        "topic_name": "Statistics",
-        "predicted_count": 0.30000001192092896,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "NA_HCF",
-        "topic_name": "HCF & LCM",
-        "predicted_count": 0.10000000149011612,
-        "confidence": 0.7
-      },
-      {
-        "topic_code": "NA_DEC",
-        "topic_name": "Decimal & Fraction",
-        "predicted_count": 0.0,
-        "confidence": 0.7
-      }
-    ],
-    "Reasoning": [
-      {
-        "topic_code": "RM_VR_LOG",
-        "topic_name": "Logical Reasoning",
-        "predicted_count": 5.400000095367432,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "RM_VR_CODING",
-        "topic_name": "Coding-Decoding",
-        "predicted_count": 5.0,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "RM_VR_CLASS",
-        "topic_name": "Classification",
-        "predicted_count": 3.799999952316284,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "RM_VR_SERIES",
-        "topic_name": "Series",
-        "predicted_count": 3.0,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "RM_VR_ANALOGY",
-        "topic_name": "Verbal Analogy",
-        "predicted_count": 2.200000047683716,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "RM_NV_PATTERN",
-        "topic_name": "Pattern/Figure Series",
-        "predicted_count": 2.0,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "RM_NV_SPATIAL",
-        "topic_name": "Spatial Ability",
-        "predicted_count": 1.5,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "RM_NV_VENN",
-        "topic_name": "Venn Diagrams",
-        "predicted_count": 0.800000011920929,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "RM_VR_SYLL",
-        "topic_name": "Syllogism",
-        "predicted_count": 0.800000011920929,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "RM_NV_ORIENT",
-        "topic_name": "Direction Sense",
-        "predicted_count": 0.5,
-        "confidence": 0.8999999999999999
-      },
-      {
-        "topic_code": "RM_NV_MIRROR",
-        "topic_name": "Mirror & Water Images",
-        "predicted_count": 0.0,
-        "confidence": 0.7
-      },
-      {
-        "topic_code": "RM_NV_CUBES",
-        "topic_name": "Cubes & Dice",
-        "predicted_count": 0.0,
-        "confidence": 0.7
-      },
-      {
-        "topic_code": "RM_VR_BLOOD",
-        "topic_name": "Blood Relations",
-        "predicted_count": 0.0,
-        "confidence": 0.7
-      },
-      {
-        "topic_code": "RM_VR_ORDER",
-        "topic_name": "Order & Ranking",
-        "predicted_count": 0.0,
-        "confidence": 0.7
-      }
-    ]
-  },
-  "difficulty_prediction": {
-    "Easy": 29.5,
-    "Medium": 60.8,
-    "Hard": 9.7
-  },
-  "rising_topics": [
+  "rising": [
     {
-      "topic_code": "RM_VR_LOG",
-      "topic_name": "Logical Reasoning",
-      "growth": 500,
-      "earlier_avg": 3.0,
-      "recent_avg": 21.8
-    },
-    {
-      "topic_code": "GA_DEF",
-      "topic_name": "Defence & Military",
-      "growth": 431.00000000000006,
-      "earlier_avg": 2.2,
-      "recent_avg": 11.8
-    },
-    {
-      "topic_code": "NA_CI",
-      "topic_name": "Compound Interest",
-      "growth": 300.0,
-      "earlier_avg": 1.0,
-      "recent_avg": 4.0
-    },
-    {
-      "topic_code": "GA_ENV",
-      "topic_name": "Environment",
-      "growth": 260.0,
-      "earlier_avg": 1.0,
-      "recent_avg": 3.6
-    },
-    {
-      "topic_code": "NA_NUM",
-      "topic_name": "Number System",
-      "growth": 252.00000000000006,
-      "earlier_avg": 1.2,
-      "recent_avg": 4.4
-    },
-    {
-      "topic_code": "NA_MIX",
-      "topic_name": "Mixture & Alligation",
-      "growth": 211.11111111111111,
-      "earlier_avg": 1.3,
-      "recent_avg": 4.0
-    },
-    {
-      "topic_code": "NA_SPD",
-      "topic_name": "Speed, Distance, Time",
-      "growth": 177.7777777777778,
-      "earlier_avg": 1.2,
-      "recent_avg": 3.3
-    },
-    {
-      "topic_code": "NA_AREA",
-      "topic_name": "Area & Perimeter",
-      "growth": 175.0,
-      "earlier_avg": 1.0,
-      "recent_avg": 2.8
-    },
-    {
-      "topic_code": "GA_ORG",
-      "topic_name": "Organizations",
-      "growth": 150.0,
-      "earlier_avg": 1.7,
-      "recent_avg": 4.2
-    },
-    {
-      "topic_code": "GA_CURR",
-      "topic_name": "Current Affairs",
-      "growth": 150.0,
-      "earlier_avg": 2.0,
-      "recent_avg": 5.0
-    }
-  ],
-  "declining_topics": [
-    {
-      "topic_code": "RM_NV_CLASS",
-      "topic_name": "RM_NV_CLASS",
-      "decline": -64.28571428571428,
-      "earlier_avg": 5.6,
-      "recent_avg": 2.0
-    },
-    {
-      "topic_code": "RM_NV_ANALOGY",
-      "topic_name": "RM_NV_ANALOGY",
-      "decline": -52.38095238095239,
-      "earlier_avg": 4.2,
-      "recent_avg": 2.0
-    },
-    {
-      "topic_code": "RM_NV_PUZZLE",
-      "topic_name": "RM_NV_PUZZLE",
-      "decline": -42.04545454545454,
-      "earlier_avg": 7.3,
-      "recent_avg": 4.2
-    },
-    {
-      "topic_code": "RM_NV_SPATIAL",
-      "topic_name": "Spatial Ability",
-      "decline": -40.0,
-      "earlier_avg": 5.0,
-      "recent_avg": 3.0
-    },
-    {
-      "topic_code": "RM_NV_PATTERN",
-      "topic_name": "Pattern/Figure Series",
-      "decline": -36.36363636363637,
-      "earlier_avg": 9.2,
-      "recent_avg": 5.8
+      "topic_code": "VA_REARR",
+      "topic_name": "Para Jumbles",
+      "slope": 0.994,
+      "recent_avg": 3.9,
+      "growth": 99.4
     },
     {
       "topic_code": "VA_GRAM",
       "topic_name": "Grammar",
-      "decline": -29.687499999999993,
-      "earlier_avg": 5.3,
-      "recent_avg": 3.8
+      "slope": 0.712,
+      "recent_avg": 0.6,
+      "growth": 71.2
     },
     {
-      "topic_code": "RM_VR_ANALOGY",
-      "topic_name": "Verbal Analogy",
-      "decline": -29.411764705882355,
-      "earlier_avg": 11.3,
-      "recent_avg": 8.0
+      "topic_code": "RM_VR_ORDER",
+      "topic_name": "Order & Ranking",
+      "slope": 0.712,
+      "recent_avg": 0.6,
+      "growth": 71.2
     },
     {
-      "topic_code": "NA_BOAT",
-      "topic_name": "NA_BOAT",
-      "decline": -22.857142857142858,
-      "earlier_avg": 2.3,
-      "recent_avg": 1.8
+      "topic_code": "RM_MISC",
+      "topic_name": "Logical Reasoning (Verbal)",
+      "slope": 0.668,
+      "recent_avg": 11.9,
+      "growth": 66.8
+    },
+    {
+      "topic_code": "GA_MISC",
+      "topic_name": "Awards",
+      "slope": 0.437,
+      "recent_avg": 8.7,
+      "growth": 43.7
+    },
+    {
+      "topic_code": "NA_MISC",
+      "topic_name": "Mixtures and Alligations",
+      "slope": 0.365,
+      "recent_avg": 3.2,
+      "growth": 36.5
+    },
+    {
+      "topic_code": "NA_MENSA",
+      "topic_name": "Mensuration",
+      "slope": 0.197,
+      "recent_avg": 1.3,
+      "growth": 19.7
+    },
+    {
+      "topic_code": "RM_VR_SERIES",
+      "topic_name": "Number Series",
+      "slope": 0.159,
+      "recent_avg": 1.6,
+      "growth": 15.9
     }
   ],
-  "high_priority_topics": [
+  "declining": [
     {
-      "section": "Reasoning",
-      "topic_code": "RM_VR_LOG",
-      "topic_name": "Logical Reasoning",
-      "expected_questions": 5.400000095367432,
-      "priority": "HIGH"
+      "topic_code": "RM_NV_SERIES",
+      "topic_name": "Non-Verbal Series",
+      "slope": -0.865,
+      "recent_avg": 1.4,
+      "decline": 86.5
     },
     {
-      "section": "Reasoning",
-      "topic_code": "RM_VR_CODING",
-      "topic_name": "Coding-Decoding",
-      "expected_questions": 5.0,
-      "priority": "HIGH"
-    },
-    {
-      "section": "Verbal Ability",
-      "topic_code": "VA_REARR",
-      "topic_name": "Sentence Rearrangement",
-      "expected_questions": 4.699999809265137,
-      "priority": "HIGH"
-    },
-    {
-      "section": "Verbal Ability",
-      "topic_code": "VA_CLOZE",
-      "topic_name": "Cloze Test",
-      "expected_questions": 4.0,
-      "priority": "HIGH"
-    },
-    {
-      "section": "General Awareness",
-      "topic_code": "GA_DEF",
-      "topic_name": "Defence & Military",
-      "expected_questions": 4.0,
-      "priority": "HIGH"
-    },
-    {
-      "section": "General Awareness",
-      "topic_code": "GA_ENV",
-      "topic_name": "Environment",
-      "expected_questions": 3.799999952316284,
-      "priority": "MEDIUM"
-    },
-    {
-      "section": "Reasoning",
-      "topic_code": "RM_VR_CLASS",
-      "topic_name": "Classification",
-      "expected_questions": 3.799999952316284,
-      "priority": "MEDIUM"
-    },
-    {
-      "section": "Numerical Ability",
-      "topic_code": "NA_PL",
-      "topic_name": "Profit & Loss",
-      "expected_questions": 3.5,
-      "priority": "MEDIUM"
-    },
-    {
-      "section": "Verbal Ability",
-      "topic_code": "VA_COMP",
-      "topic_name": "Reading Comprehension",
-      "expected_questions": 3.200000047683716,
-      "priority": "MEDIUM"
-    },
-    {
-      "section": "Verbal Ability",
-      "topic_code": "VA_ERR",
-      "topic_name": "Error Detection",
-      "expected_questions": 3.0999999046325684,
-      "priority": "MEDIUM"
-    },
-    {
-      "section": "Verbal Ability",
       "topic_code": "VA_IDIOM",
       "topic_name": "Idioms & Phrases",
-      "expected_questions": 3.0999999046325684,
-      "priority": "MEDIUM"
+      "slope": -0.797,
+      "recent_avg": 3.3,
+      "decline": 79.7
     },
     {
+      "topic_code": "RM_VR_CLASS",
+      "topic_name": "Verbal Classification",
+      "slope": -0.746,
+      "recent_avg": 2.4,
+      "decline": 74.6
+    },
+    {
+      "topic_code": "GA_STATIC",
+      "topic_name": "Static GK",
+      "slope": -0.736,
+      "recent_avg": 2.6,
+      "decline": 73.6
+    },
+    {
+      "topic_code": "RM_VR_CODING",
+      "topic_name": "Coding-Decoding",
+      "slope": -0.672,
+      "recent_avg": 2.9,
+      "decline": 67.2
+    },
+    {
+      "topic_code": "VA_SYN",
+      "topic_name": "Synonyms",
+      "slope": -0.654,
+      "recent_avg": 6.4,
+      "decline": 65.4
+    },
+    {
+      "topic_code": "VA_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "slope": -0.42,
+      "recent_avg": 3.5,
+      "decline": 42.0
+    },
+    {
+      "topic_code": "RM_VR_VENN",
+      "topic_name": "Venn Diagrams",
+      "slope": -0.364,
+      "recent_avg": 2.2,
+      "decline": 36.4
+    },
+    {
+      "topic_code": "VA_MISC",
+      "topic_name": "Grammar",
+      "slope": -0.322,
+      "recent_avg": 1.9,
+      "decline": 32.2
+    },
+    {
+      "topic_code": "RM_NV_FIG",
+      "topic_name": "Figural Visuals",
+      "slope": -0.294,
+      "recent_avg": 0.8,
+      "decline": 29.4
+    }
+  ],
+  "ml_predictions": [
+    {
+      "topic_code": "VA_COMP",
+      "topic_name": "Reading Comprehension",
+      "section": "Verbal Ability",
+      "predicted_count": 3.1,
+      "confidence": 0.95,
+      "historical_avg": 3.63,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "VA_ERR",
+      "topic_name": "Spotting Errors",
+      "section": "Verbal Ability",
+      "predicted_count": 3.3,
+      "confidence": 0.95,
+      "historical_avg": 4.14,
+      "trend": "declining"
+    },
+    {
+      "topic_code": "VA_SENT",
+      "topic_name": "Fill in the Blanks",
+      "section": "Verbal Ability",
+      "predicted_count": 2.6,
+      "confidence": 0.9,
+      "historical_avg": 3.07,
+      "trend": "declining"
+    },
+    {
+      "topic_code": "VA_SYN",
+      "topic_name": "Synonyms",
+      "section": "Verbal Ability",
+      "predicted_count": 5.1,
+      "confidence": 0.95,
+      "historical_avg": 7.43,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "GA_HIST_MED",
+      "topic_name": "History (Medieval)",
+      "section": "General Awareness",
+      "predicted_count": 1.0,
+      "confidence": 0.95,
+      "historical_avg": 1.07,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "GA_HIST_ANC",
+      "topic_name": "History (Ancient)",
+      "section": "General Awareness",
+      "predicted_count": 1.4,
+      "confidence": 0.95,
+      "historical_avg": 1.09,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "GA_POLITY",
+      "topic_name": "Indian Polity",
+      "section": "General Awareness",
+      "predicted_count": 1.6,
+      "confidence": 0.95,
+      "historical_avg": 1.51,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "GA_HIST_MOD",
+      "topic_name": "History (Modern)",
+      "section": "General Awareness",
+      "predicted_count": 1.7,
+      "confidence": 0.95,
+      "historical_avg": 1.64,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "GA_STATIC",
+      "topic_name": "Static GK",
+      "section": "General Awareness",
+      "predicted_count": 4.2,
+      "confidence": 0.95,
+      "historical_avg": 4.15,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "GA_MISC",
+      "topic_name": "Awards",
+      "section": "General Awareness",
+      "predicted_count": 6.3,
+      "confidence": 0.93,
+      "historical_avg": 6.75,
+      "trend": "rising"
+    },
+    {
+      "topic_code": "GA_GEO_IND",
+      "topic_name": "Geography (India)",
+      "section": "General Awareness",
+      "predicted_count": 1.8,
+      "confidence": 0.95,
+      "historical_avg": 1.68,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "GA_SCI",
+      "topic_name": "General Science",
+      "section": "General Awareness",
+      "predicted_count": 3.7,
+      "confidence": 0.95,
+      "historical_avg": 3.3,
+      "trend": "declining"
+    },
+    {
+      "topic_code": "GA_GEO_WORLD",
+      "topic_name": "Geography (World)",
+      "section": "General Awareness",
+      "predicted_count": 2.4,
+      "confidence": 0.95,
+      "historical_avg": 2.14,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "NA_RAT",
+      "topic_name": "Ratio & Proportion",
       "section": "Numerical Ability",
+      "predicted_count": 2.2,
+      "confidence": 0.95,
+      "historical_avg": 2.5,
+      "trend": "declining"
+    },
+    {
+      "topic_code": "NA_MISC",
+      "topic_name": "Mixtures and Alligations",
+      "section": "Numerical Ability",
+      "predicted_count": 2.0,
+      "confidence": 0.95,
+      "historical_avg": 2.35,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "NA_AVG",
+      "topic_name": "Average",
+      "section": "Numerical Ability",
+      "predicted_count": 1.7,
+      "confidence": 0.95,
+      "historical_avg": 2.09,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "NA_PL",
+      "topic_name": "Profit & Loss",
+      "section": "Numerical Ability",
+      "predicted_count": 1.9,
+      "confidence": 0.95,
+      "historical_avg": 2.1,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "NA_PER",
+      "topic_name": "Percentage",
+      "section": "Numerical Ability",
+      "predicted_count": 1.8,
+      "confidence": 0.95,
+      "historical_avg": 2.26,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "NA_SI",
+      "topic_name": "Simple Interest",
+      "section": "Numerical Ability",
+      "predicted_count": 2.3,
+      "confidence": 0.95,
+      "historical_avg": 2.33,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "NA_SIM",
+      "topic_name": "Simplification",
+      "section": "Numerical Ability",
+      "predicted_count": 0.7,
+      "confidence": 0.95,
+      "historical_avg": 1.08,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "VA_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "section": "Reasoning",
+      "predicted_count": 4.3,
+      "confidence": 0.9,
+      "historical_avg": 6.88,
+      "trend": "declining"
+    },
+    {
+      "topic_code": "RM_VR_CLASS",
+      "topic_name": "Verbal Classification",
+      "section": "Reasoning",
+      "predicted_count": 3.5,
+      "confidence": 0.95,
+      "historical_avg": 5.08,
+      "trend": "declining"
+    },
+    {
+      "topic_code": "RM_MISC",
+      "topic_name": "Logical Reasoning (Verbal)",
+      "section": "Reasoning",
+      "predicted_count": 4.9,
+      "confidence": 0.95,
+      "historical_avg": 11.06,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "RM_NV_SERIES",
+      "topic_name": "Non-Verbal Series",
+      "section": "Reasoning",
+      "predicted_count": 2.8,
+      "confidence": 0.95,
+      "historical_avg": 3.88,
+      "trend": "declining"
+    },
+    {
+      "topic_code": "RM_NV_FIG",
+      "topic_name": "Figural Visuals",
+      "section": "Reasoning",
+      "predicted_count": 1.9,
+      "confidence": 0.94,
+      "historical_avg": 2.45,
+      "trend": "declining"
+    },
+    {
+      "topic_code": "GA_ENV",
+      "topic_name": "Environment/Ecology",
+      "section": "General Awareness",
+      "predicted_count": 0.9,
+      "confidence": 0.95,
+      "historical_avg": 0.98,
+      "trend": "rising"
+    },
+    {
+      "topic_code": "NA_ALG",
+      "topic_name": "Algebra",
+      "section": "Numerical Ability",
+      "predicted_count": 0.9,
+      "confidence": 0.95,
+      "historical_avg": 1.04,
+      "trend": "declining"
+    },
+    {
+      "topic_code": "NA_NUM",
+      "topic_name": "Number System",
+      "section": "Numerical Ability",
+      "predicted_count": 0.6,
+      "confidence": 0.95,
+      "historical_avg": 0.9,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "NA_MIX",
+      "topic_name": "Mixture & Alligation",
+      "section": "Numerical Ability",
+      "predicted_count": 0.6,
+      "confidence": 0.95,
+      "historical_avg": 0.8,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "VA_CLOZE",
+      "topic_name": "Cloze Test",
+      "section": "Verbal Ability",
+      "predicted_count": 3.0,
+      "confidence": 0.93,
+      "historical_avg": 3.87,
+      "trend": "declining"
+    },
+    {
+      "topic_code": "VA_OWS",
+      "topic_name": "One Word Substitution",
+      "section": "Verbal Ability",
+      "predicted_count": 1.8,
+      "confidence": 0.95,
+      "historical_avg": 2.17,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "VA_MISC",
+      "topic_name": "Grammar",
+      "section": "Verbal Ability",
+      "predicted_count": 2.6,
+      "confidence": 0.94,
+      "historical_avg": 3.02,
+      "trend": "declining"
+    },
+    {
+      "topic_code": "RM_VR_CODING",
+      "topic_name": "Coding-Decoding",
+      "section": "Reasoning",
+      "predicted_count": 2.6,
+      "confidence": 0.95,
+      "historical_avg": 3.43,
+      "trend": "declining"
+    },
+    {
+      "topic_code": "RM_VR_SYLL",
+      "topic_name": "Syllogism",
+      "section": "Reasoning",
+      "predicted_count": 0.6,
+      "confidence": 0.91,
+      "historical_avg": 1.15,
+      "trend": "declining"
+    },
+    {
       "topic_code": "NA_TW",
       "topic_name": "Time & Work",
-      "expected_questions": 3.0,
-      "priority": "MEDIUM"
+      "section": "Numerical Ability",
+      "predicted_count": 1.9,
+      "confidence": 0.95,
+      "historical_avg": 2.19,
+      "trend": "stable"
     },
     {
+      "topic_code": "VA_IDIOM",
+      "topic_name": "Idioms & Phrases",
+      "section": "Verbal Ability",
+      "predicted_count": 4.0,
+      "confidence": 0.95,
+      "historical_avg": 5.05,
+      "trend": "declining"
+    },
+    {
+      "topic_code": "VA_GRAM",
+      "topic_name": "Grammar",
+      "section": "Verbal Ability",
+      "predicted_count": 1.7,
+      "confidence": 0.85,
+      "historical_avg": 2.32,
+      "trend": "declining"
+    },
+    {
+      "topic_code": "GA_CURR",
+      "topic_name": "Current Affairs",
+      "section": "General Awareness",
+      "predicted_count": 1.3,
+      "confidence": 0.95,
+      "historical_avg": 1.5,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "NA_SPD",
+      "topic_name": "Speed, Distance, Time",
+      "section": "Numerical Ability",
+      "predicted_count": 2.3,
+      "confidence": 0.95,
+      "historical_avg": 2.56,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "RM_VR_VENN",
+      "topic_name": "Venn Diagrams",
       "section": "Reasoning",
+      "predicted_count": 2.8,
+      "confidence": 0.95,
+      "historical_avg": 3.64,
+      "trend": "declining"
+    },
+    {
       "topic_code": "RM_VR_SERIES",
-      "topic_name": "Series",
-      "expected_questions": 3.0,
-      "priority": "MEDIUM"
-    },
-    {
-      "section": "General Awareness",
-      "topic_code": "GA_SCI",
-      "topic_name": "Science & Technology",
-      "expected_questions": 2.9000000953674316,
-      "priority": "MEDIUM"
-    },
-    {
-      "section": "General Awareness",
-      "topic_code": "GA_ORG",
-      "topic_name": "Organizations",
-      "expected_questions": 2.200000047683716,
-      "priority": "MEDIUM"
-    },
-    {
+      "topic_name": "Number Series",
       "section": "Reasoning",
-      "topic_code": "RM_VR_ANALOGY",
-      "topic_name": "Verbal Analogy",
-      "expected_questions": 2.200000047683716,
-      "priority": "MEDIUM"
+      "predicted_count": 0.8,
+      "confidence": 0.76,
+      "historical_avg": 1.4,
+      "trend": "rising"
     },
     {
+      "topic_code": "VA_REARR",
+      "topic_name": "Para Jumbles",
+      "section": "Verbal Ability",
+      "predicted_count": 2.8,
+      "confidence": 0.8,
+      "historical_avg": 3.42,
+      "trend": "rising"
+    },
+    {
+      "topic_code": "NA_MENSA",
+      "topic_name": "Mensuration",
+      "section": "Numerical Ability",
+      "predicted_count": 0.7,
+      "confidence": 0.86,
+      "historical_avg": 1.08,
+      "trend": "rising"
+    },
+    {
+      "topic_code": "RM_VR_BLOOD",
+      "topic_name": "Blood Relations",
+      "section": "Reasoning",
+      "predicted_count": 0.4,
+      "confidence": 0.82,
+      "historical_avg": 0.65,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "RM_VR_DIR",
+      "topic_name": "Direction Sense",
+      "section": "Numerical Ability",
+      "predicted_count": 0.4,
+      "confidence": 0.8,
+      "historical_avg": 0.41,
+      "trend": "stable"
+    },
+    {
+      "topic_code": "RM_VR_ORDER",
+      "topic_name": "Order & Ranking",
+      "section": "Reasoning",
+      "predicted_count": 0.4,
+      "confidence": 0.8,
+      "historical_avg": 0.56,
+      "trend": "stable"
+    }
+  ],
+  "high_yield_topics_170_plus": [
+    {
+      "topic": "Awards",
       "section": "General Awareness",
-      "topic_code": "GA_SPORTS",
-      "topic_name": "Sports",
-      "expected_questions": 2.0999999046325684,
-      "priority": "MEDIUM"
+      "avg_qs": 6.3,
+      "potential_marks": 18.9,
+      "roi": 5.859
+    },
+    {
+      "topic": "Synonyms",
+      "section": "Verbal Ability",
+      "avg_qs": 5.1,
+      "potential_marks": 15.299999999999999,
+      "roi": 4.845
+    },
+    {
+      "topic": "Logical Reasoning (Verbal)",
+      "section": "Reasoning",
+      "avg_qs": 4.9,
+      "potential_marks": 14.700000000000001,
+      "roi": 4.655
+    },
+    {
+      "topic": "Static GK",
+      "section": "General Awareness",
+      "avg_qs": 4.2,
+      "potential_marks": 12.600000000000001,
+      "roi": 3.9899999999999998
+    },
+    {
+      "topic": "Verbal Analogy",
+      "section": "Reasoning",
+      "avg_qs": 4.3,
+      "potential_marks": 12.899999999999999,
+      "roi": 3.87
+    },
+    {
+      "topic": "Idioms & Phrases",
+      "section": "Verbal Ability",
+      "avg_qs": 4.0,
+      "potential_marks": 12.0,
+      "roi": 3.8
+    },
+    {
+      "topic": "General Science",
+      "section": "General Awareness",
+      "avg_qs": 3.7,
+      "potential_marks": 11.100000000000001,
+      "roi": 3.515
+    },
+    {
+      "topic": "Verbal Classification",
+      "section": "Reasoning",
+      "avg_qs": 3.5,
+      "potential_marks": 10.5,
+      "roi": 3.3249999999999997
+    },
+    {
+      "topic": "Spotting Errors",
+      "section": "Verbal Ability",
+      "avg_qs": 3.3,
+      "potential_marks": 9.899999999999999,
+      "roi": 3.135
+    },
+    {
+      "topic": "Reading Comprehension",
+      "section": "Verbal Ability",
+      "avg_qs": 3.1,
+      "potential_marks": 9.3,
+      "roi": 2.945
+    },
+    {
+      "topic": "Cloze Test",
+      "section": "Verbal Ability",
+      "avg_qs": 3.0,
+      "potential_marks": 9.0,
+      "roi": 2.79
+    },
+    {
+      "topic": "Non-Verbal Series",
+      "section": "Reasoning",
+      "avg_qs": 2.8,
+      "potential_marks": 8.399999999999999,
+      "roi": 2.6599999999999997
+    },
+    {
+      "topic": "Venn Diagrams",
+      "section": "Reasoning",
+      "avg_qs": 2.8,
+      "potential_marks": 8.399999999999999,
+      "roi": 2.6599999999999997
+    },
+    {
+      "topic": "Coding-Decoding",
+      "section": "Reasoning",
+      "avg_qs": 2.6,
+      "potential_marks": 7.800000000000001,
+      "roi": 2.4699999999999998
+    },
+    {
+      "topic": "Grammar",
+      "section": "Verbal Ability",
+      "avg_qs": 2.6,
+      "potential_marks": 7.800000000000001,
+      "roi": 2.444
+    },
+    {
+      "topic": "Fill in the Blanks",
+      "section": "Verbal Ability",
+      "avg_qs": 2.6,
+      "potential_marks": 7.800000000000001,
+      "roi": 2.3400000000000003
+    },
+    {
+      "topic": "Geography (World)",
+      "section": "General Awareness",
+      "avg_qs": 2.4,
+      "potential_marks": 7.199999999999999,
+      "roi": 2.28
     }
   ]
 }

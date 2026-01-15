@@ -1,4 +1,4 @@
-const dashboardData = {
+{
   "meta": {
     "generated_at": "2026-01-15T20:12:42.484212",
     "system": "AFCAT 2026 Phase 1 Optimized Prediction System",
@@ -83249,4 +83249,4 @@ const dashboardData = {
       "file_name": "AFCAT-01_2025-Memory-Based-Paper-Held-On_-22-Jan-2025-Shift-1.pdf"
     }
   ]
-};
+}

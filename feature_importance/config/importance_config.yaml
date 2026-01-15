@@ -1,0 +1,17 @@
+# Configuration for feature importance extraction and visualization
+models:
+  - name: random_forest
+    path: E:/afcat pridiction/models/random_forest.pkl
+    type: randomforest
+  - name: xgboost
+    path: E:/afcat pridiction/models/xgboost.pkl
+    type: xgboost
+  - name: lightgbm
+    path: E:/afcat pridiction/models/lightgbm.pkl
+    type: lightgbm
+features_path: E:/afcat pridiction/data/processed/feature_names.json
+X_val_path: E:/afcat pridiction/data/processed/X_val.csv
+y_val_path: E:/afcat pridiction/data/processed/y_val.csv
+output_dir: E:/afcat pridiction/feature_importance/outputs
+plot_dir: E:/afcat pridiction/feature_importance/outputs/plots
+top_n: 15
