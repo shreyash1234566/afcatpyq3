@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AFCAT 2026 Focus Dashboard</title>
+    <title>AFCAT 2026 Mission Control</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Outfit:wght@400;500;700;800&display=swap" rel="stylesheet">
     
     <script src="data.js"></script>
     
@@ -16,531 +16,637 @@
             theme: {
                 extend: {
                     fontFamily: {
-                        sans: ['Inter', 'sans-serif'],
+                        sans: ['"Plus Jakarta Sans"', 'sans-serif'],
                         heading: ['Outfit', 'sans-serif'],
                     },
                     colors: {
                         brand: {
-                            50: '#f0f9ff',
-                            100: '#e0f2fe',
-                            500: '#0ea5e9',
-                            600: '#0284c7',
-                            900: '#0c4a6e',
+                            navy: '#0f172a',
+                            blue: '#3b82f6',
+                            sky: '#0ea5e9',
+                            bg: '#f8fafc'
                         }
+                    },
+                    boxShadow: {
+                        'card': '0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03)',
+                        'float': '0 20px 40px -10px rgba(0, 0, 0, 0.15)',
+                        'glow': '0 0 25px rgba(59, 130, 246, 0.25)',
+                    },
+                    animation: {
+                        'fade-in': 'fadeIn 0.5s ease-out forwards',
+                        'slide-up': 'slideUp 0.4s ease-out forwards',
+                    },
+                    keyframes: {
+                        fadeIn: { '0%': { opacity: '0' }, '100%': { opacity: '1' } },
+                        slideUp: { '0%': { opacity: '0', transform: 'translateY(15px)' }, '100%': { opacity: '1', transform: 'translateY(0)' } }
                     }
                 }
             }
         }
     </script>
     <style>
-        body { font-family: 'Inter', sans-serif; background-color: #f1f5f9; }
-        h1, h2, h3, .heading { font-family: 'Outfit', sans-serif; }
+        body { background-color: #f8fafc; color: #334155; }
         
-        .tab-content { display: none; opacity: 0; transition: opacity 0.2s ease-in-out; }
-        .tab-content.active { display: block; opacity: 1; }
-        
-        /* Modern Question Card */
-        .q-card {
-            background: white;
-            border-radius: 16px;
-            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
-            transition: all 0.2s ease;
-            border: 1px solid #e2e8f0;
-            overflow: hidden;
-        }
-        .q-card:hover { transform: translateY(-2px); box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05); }
-        
-        .opt-btn {
-            text-align: left;
-            padding: 12px 16px;
-            border-radius: 12px;
-            border: 2px solid #f1f5f9;
-            transition: all 0.2s;
+        /* Smooth Transitions */
+        .tab-content { display: none; opacity: 0; transform: translateY(10px); transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1); }
+        .tab-content.active { display: block; opacity: 1; transform: translateY(0); }
+
+        /* Nav Pills */
+        .nav-item { 
+            transition: all 0.3s ease; 
+            color: #94a3b8;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
             position: relative;
-            background: #f8fafc;
         }
-        .opt-btn:hover:not(:disabled) { border-color: #cbd5e1; background: white; }
+        .nav-item:hover { color: white; }
+        .nav-item.active { color: white; }
+        .nav-item.active::after {
+            content: '';
+            position: absolute;
+            bottom: -6px; left: 50%; transform: translateX(-50%);
+            width: 24px; height: 3px;
+            background: #3b82f6;
+            border-radius: 10px;
+            box-shadow: 0 0 12px #3b82f6;
+        }
+
+        /* CARD STYLES */
+        .topic-card {
+            background: white;
+            border-radius: 24px;
+            transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+            border: 1px solid #e2e8f0;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            min-height: 220px; /* Bigger Cards */
+        }
         
-        /* Status States */
-        .opt-correct { border-color: #22c55e !important; background: #f0fdf4 !important; color: #15803d; }
-        .opt-wrong { border-color: #ef4444 !important; background: #fef2f2 !important; opacity: 0.7; }
-        
-        /* Glass Header */
-        .glass-header { background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(8px); border-bottom: 1px solid #e2e8f0; }
-        
+        .topic-card::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0; height: 4px;
+            background: linear-gradient(90deg, transparent, currentColor, transparent);
+            opacity: 0.5;
+        }
+
+        .topic-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.1);
+            border-color: #93c5fd;
+        }
+
+        /* Jet Watermark */
+        .jet-bg {
+            position: absolute;
+            bottom: -20px;
+            right: -20px;
+            width: 140px;
+            height: 140px;
+            opacity: 0.03;
+            transform: rotate(-15deg);
+            pointer-events: none;
+            transition: all 0.5s ease;
+        }
+        .topic-card:hover .jet-bg {
+            opacity: 0.08;
+            transform: rotate(0deg) scale(1.1);
+        }
+
         /* Scrollbar */
-        ::-webkit-scrollbar { width: 6px; }
-        ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; }
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: #f1f5f9; }
+        ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 10px; border: 2px solid #f1f5f9; }
+        ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+        
+        /* Buttons */
+        .option-btn { transition: all 0.2s ease; border: 2px solid #f1f5f9; }
+        .option-btn:hover:not(:disabled) { border-color: #3b82f6; background: #eff6ff; }
+        .option-correct { background: #dcfce7 !important; border-color: #22c55e !important; color: #166534 !important; }
+        .option-wrong { background: #fee2e2 !important; border-color: #ef4444 !important; color: #991b1b !important; }
     </style>
 </head>
-<body class="text-slate-700">
+<body class="min-h-screen flex flex-col font-sans selection:bg-brand-blue selection:text-white">
 
-    <header class="glass-header sticky top-0 z-50">
-        <div class="container mx-auto px-4 py-3 flex justify-between items-center">
-            <div class="flex items-center gap-3">
-                <div class="bg-brand-600 text-white p-2.5 rounded-xl shadow-lg shadow-brand-500/20">
-                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+    <header class="bg-brand-navy sticky top-0 z-50 border-b border-slate-700/50 shadow-2xl">
+        <div class="max-w-7xl mx-auto px-6">
+            <div class="flex justify-between items-center h-24">
+                <div class="flex items-center gap-5">
+                    <div class="relative group">
+                        <div class="absolute -inset-1 bg-brand-blue/50 rounded-full blur opacity-20 group-hover:opacity-60 transition duration-500"></div>
+                        <div class="relative w-12 h-12 bg-gradient-to-br from-slate-800 to-slate-900 rounded-xl flex items-center justify-center border border-slate-600 shadow-inner group-hover:scale-105 transition-transform">
+                            <svg class="w-7 h-7 text-white" fill="currentColor" viewBox="0 0 24 24">
+                                <path d="M21,16V14L13,9V3.5A1.5,1.5,0,0,0,11.5,2A1.5,1.5,0,0,0,10,3.5V9L2,14V16L10,13.5V19L8,20.5V22L11.5,21L15,22V20.5L13,19V13.5L21,16Z"/>
+                            </svg>
+                        </div>
+                    </div>
+                    <div>
+                        <h1 class="font-heading font-black text-3xl tracking-tight text-white leading-none">
+                            AFCAT <span class="text-brand-blue">2026</span>
+                        </h1>
+                        <div class="flex items-center gap-2 mt-1">
+                            <span class="h-0.5 w-4 bg-brand-blue rounded-full"></span>
+                            <p class="text-[10px] uppercase tracking-[0.25em] text-slate-400 font-bold">Mission Control</p>
+                        </div>
+                    </div>
                 </div>
-                <div>
-                    <h1 class="text-2xl font-bold text-slate-800 leading-none tracking-tight">AFCAT <span class="text-brand-600">2026</span></h1>
-                    <p class="text-xs text-slate-500 font-semibold tracking-wide uppercase mt-0.5">Target 180+</p>
+
+                <nav class="hidden md:flex items-center gap-10 bg-slate-800/30 px-8 py-3 rounded-full border border-white/5 backdrop-blur-sm">
+                    <button onclick="switchTab('dashboard')" class="nav-item active" data-tab="dashboard">Intel</button>
+                    <button onclick="switchTab('topics')" class="nav-item" data-tab="topics">Grid</button>
+                    <button onclick="switchTab('mock')" class="nav-item" data-tab="mock">Mock Ops</button>
+                </nav>
+                
+                <div class="flex items-center gap-4">
+                    <div class="hidden lg:block text-right">
+                        <div class="text-[10px] text-slate-400 font-bold uppercase tracking-widest">System Status</div>
+                        <div class="text-xs font-bold text-green-400 flex items-center justify-end gap-1">
+                            Online <span class="relative flex h-2 w-2">
+                              <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
+                              <span class="relative inline-flex rounded-full h-2 w-2 bg-green-500"></span>
+                            </span>
+                        </div>
+                    </div>
                 </div>
-            </div>
-            
-            <div class="flex bg-slate-100 p-1.5 rounded-xl overflow-x-auto gap-1">
-                <button onclick="showTab('overview')" class="tab-btn px-4 py-2 rounded-lg text-sm font-bold transition-all bg-white text-brand-600 shadow-sm" data-tab="overview">Dashboard</button>
-                <button onclick="showTab('topics')" class="tab-btn px-4 py-2 rounded-lg text-sm font-bold transition-all text-slate-500 hover:text-slate-700" data-tab="topics">Analysis</button>
-                <button onclick="showTab('mock')" class="tab-btn px-4 py-2 rounded-lg text-sm font-bold transition-all text-slate-500 hover:text-slate-700" data-tab="mock">Full Mock</button>
             </div>
         </div>
     </header>
 
-    <main class="container mx-auto px-4 py-8 max-w-6xl">
-        
-        <div id="overview" class="tab-content active">
-            <div class="bg-slate-900 rounded-3xl p-8 text-white shadow-xl mb-8 relative overflow-hidden">
-                <div class="absolute right-0 top-0 w-96 h-96 bg-brand-500 rounded-full mix-blend-overlay filter blur-3xl opacity-20 -mr-20 -mt-20"></div>
-                <div class="relative z-10 flex flex-col md:flex-row justify-between items-end gap-6">
-                    <div>
-                        <div class="flex items-center gap-2 mb-2">
-                            <span class="bg-green-500/20 text-green-300 text-xs font-bold px-2 py-1 rounded-full border border-green-500/30">ML MODEL READY</span>
-                            <span class="text-slate-400 text-xs" id="total-pyq-display">Loading...</span>
+    <main class="flex-grow max-w-7xl mx-auto px-6 py-10 w-full">
+
+        <div id="dashboard" class="tab-content active">
+            <div class="relative bg-brand-navy rounded-[2.5rem] p-12 mb-14 overflow-hidden shadow-float group">
+                <div class="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/carbon-fibre.png')] opacity-20"></div>
+                <div class="absolute -right-20 top-0 w-[500px] h-full bg-gradient-to-l from-brand-blue/20 to-transparent skew-x-12"></div>
+                
+                <svg class="absolute -bottom-10 -right-10 w-96 h-96 text-white/5 rotate-[-15deg]" fill="currentColor" viewBox="0 0 24 24">
+                    <path d="M21,16V14L13,9V3.5A1.5,1.5,0,0,0,11.5,2A1.5,1.5,0,0,0,10,3.5V9L2,14V16L10,13.5V19L8,20.5V22L11.5,21L15,22V20.5L13,19V13.5L21,16Z"/>
+                </svg>
+                
+                <div class="relative z-10 flex flex-col lg:flex-row justify-between items-center gap-12">
+                    <div class="max-w-2xl">
+                        <div class="inline-flex items-center gap-2 bg-brand-blue/20 backdrop-blur-md px-4 py-1.5 rounded-full border border-brand-blue/30 mb-6 shadow-glow">
+                            <span class="text-xs font-bold text-white uppercase tracking-widest">AI Prediction Model v3.0</span>
                         </div>
-                        <h2 class="text-4xl font-extrabold mb-3 tracking-tight">Your 2026 Strategy</h2>
-                        <p class="text-slate-300 max-w-xl text-lg">We've identified the high-probability patterns for 2026. Focus on the green zones below to secure your cutoff.</p>
+                        <h2 class="font-heading text-5xl lg:text-7xl font-black text-white mb-6 leading-tight tracking-tight">
+                            TARGET <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-blue to-brand-sky">180+</span>
+                        </h2>
+                        <p class="text-slate-300 text-xl leading-relaxed font-light">
+                            Analyzing <span id="total-pyq-display" class="text-white font-bold border-b-2 border-brand-blue/50">data stream</span>. 
+                            The system has identified high-probability zones for 2026.
+                        </p>
                     </div>
-                    <div class="bg-white/10 backdrop-blur-md px-6 py-4 rounded-2xl border border-white/10 text-center">
-                        <span class="block text-slate-400 text-xs font-bold uppercase tracking-wider mb-1">Projected Score</span>
-                        <span class="text-4xl font-black text-white tracking-tighter">176<span class="text-2xl text-slate-400">/300</span></span>
+                    
+                    <div class="flex gap-5">
+                        <div class="bg-slate-800/50 backdrop-blur-md p-6 rounded-[2rem] border border-white/5 text-center min-w-[160px] shadow-2xl">
+                            <div class="text-5xl font-heading font-black text-white mb-2">95%</div>
+                            <div class="text-[11px] text-brand-sky uppercase font-bold tracking-widest">Confidence</div>
+                        </div>
+                        <div class="bg-slate-800/50 backdrop-blur-md p-6 rounded-[2rem] border border-white/5 text-center min-w-[160px] shadow-2xl">
+                            <div class="text-5xl font-heading font-black text-white mb-2">15</div>
+                            <div class="text-[11px] text-brand-sky uppercase font-bold tracking-widest">Priority Topics</div>
+                        </div>
                     </div>
                 </div>
             </div>
 
-            <div class="grid lg:grid-cols-3 gap-8">
+            <div class="grid lg:grid-cols-3 gap-10">
                 <div class="lg:col-span-2">
-                    <div class="bg-white rounded-2xl shadow-sm border border-slate-200 overflow-hidden">
-                        <div class="px-6 py-5 border-b border-slate-100 flex justify-between items-center bg-slate-50/50">
-                            <h3 class="text-lg font-bold text-slate-800">🔥 Priority Topics (2026)</h3>
-                            <span class="text-xs font-bold text-slate-400 uppercase tracking-wider">High Yield</span>
+                    <div class="bg-white rounded-[2rem] shadow-card border border-slate-100 overflow-hidden">
+                        <div class="px-8 py-6 border-b border-slate-50 flex justify-between items-center bg-slate-50/30">
+                            <div class="flex items-center gap-4">
+                                <div class="w-10 h-10 rounded-full bg-brand-navy text-white flex items-center justify-center font-bold">15</div>
+                                <div>
+                                    <h3 class="font-heading text-2xl font-bold text-brand-navy">High Value Targets</h3>
+                                    <p class="text-xs text-slate-500 font-medium">Prioritize these for maximum ROI.</p>
+                                </div>
+                            </div>
+                            <button onclick="switchTab('topics')" class="bg-brand-navy text-white px-6 py-3 rounded-xl text-xs font-bold shadow-lg hover:bg-slate-800 transition transform hover:-translate-y-0.5 flex items-center gap-2">
+                                Launch Grid
+                                <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
+                            </button>
                         </div>
                         <div class="overflow-x-auto">
                             <table class="w-full">
-                                <thead class="bg-slate-50 text-left text-xs font-bold text-slate-500 uppercase tracking-wider">
+                                <thead class="bg-slate-50/80 border-b border-slate-100">
                                     <tr>
-                                        <th class="px-6 py-4">Topic</th>
-                                        <th class="px-6 py-4">Section</th>
-                                        <th class="px-6 py-4 text-right">Predicted</th>
+                                        <th class="px-8 py-4 text-left text-[10px] font-bold text-slate-400 uppercase tracking-widest">Rank</th>
+                                        <th class="px-8 py-4 text-left text-[10px] font-bold text-slate-400 uppercase tracking-widest">Topic Name</th>
+                                        <th class="px-8 py-4 text-left text-[10px] font-bold text-slate-400 uppercase tracking-widest">Section</th>
+                                        <th class="px-8 py-4 text-right text-[10px] font-bold text-slate-400 uppercase tracking-widest">Forecast</th>
                                     </tr>
                                 </thead>
-                                <tbody id="predicted-topics-table" class="divide-y divide-slate-100"></tbody>
+                                <tbody id="priority-list" class="divide-y divide-slate-50"></tbody>
                             </table>
                         </div>
                     </div>
                 </div>
 
-                <div class="space-y-6">
-                    <div class="bg-white rounded-2xl p-6 shadow-sm border border-slate-200">
-                        <h3 class="text-sm font-bold text-slate-400 uppercase tracking-wider mb-4">Trending Up 📈</h3>
-                        <div id="rising-topics" class="space-y-3"></div>
+                <div class="space-y-8">
+                    <div class="bg-white rounded-[2rem] p-8 shadow-card border border-slate-100 relative overflow-hidden group hover:border-green-200 transition">
+                        <div class="absolute top-0 right-0 p-6 opacity-5 group-hover:opacity-10 transition">
+                            <svg class="w-24 h-24" fill="currentColor" viewBox="0 0 24 24"><path d="M16 6l2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6z"/></svg>
+                        </div>
+                        <h3 class="font-heading font-bold text-xl text-slate-800 mb-6 flex items-center gap-3">
+                            <span class="w-8 h-8 rounded-lg bg-green-100 flex items-center justify-center text-green-600">
+                                <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"/></svg>
+                            </span>
+                            Rising Trends
+                        </h3>
+                        <div id="trending-list" class="space-y-4 relative z-10"></div>
                     </div>
-                    <div class="bg-white rounded-2xl p-6 shadow-sm border border-slate-200">
-                        <h3 class="text-sm font-bold text-slate-400 uppercase tracking-wider mb-4">Trending Down 📉</h3>
-                        <div id="declining-topics" class="space-y-3"></div>
+
+                    <div class="bg-white rounded-[2rem] p-8 shadow-card border border-slate-100 relative overflow-hidden group hover:border-red-200 transition">
+                        <h3 class="font-heading font-bold text-xl text-slate-800 mb-6 flex items-center gap-3">
+                            <span class="w-8 h-8 rounded-lg bg-red-100 flex items-center justify-center text-red-600">
+                                <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M13 17h8m0 0V9m0 8l-8-8-4 4-6-6"/></svg>
+                            </span>
+                            Declining
+                        </h3>
+                        <div id="declining-list" class="space-y-4 relative z-10"></div>
                     </div>
                 </div>
             </div>
         </div>
 
         <div id="topics" class="tab-content">
-            <div class="flex flex-col md:flex-row justify-between items-center mb-8 gap-4">
-                <div class="relative w-full md:w-96">
-                    <input type="text" id="topic-search" placeholder="Search topic (e.g. History)..." 
-                        class="w-full pl-11 pr-4 py-3 rounded-xl bg-white border border-slate-200 focus:outline-none focus:ring-2 focus:ring-brand-500 shadow-sm font-medium"
+            <div class="flex flex-col md:flex-row justify-between items-center mb-12 gap-6">
+                <div class="relative w-full md:w-96 group">
+                    <input type="text" id="topic-search" placeholder="Locate specific topic..." 
+                        class="w-full pl-14 pr-6 py-4 rounded-2xl bg-white border border-slate-200 focus:outline-none focus:ring-4 focus:ring-brand-blue/10 shadow-sm font-medium transition-all group-hover:border-blue-300"
                         onkeyup="filterTopics()">
-                    <svg class="w-5 h-5 text-slate-400 absolute left-4 top-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/></svg>
+                    <svg class="w-6 h-6 absolute left-5 top-1/2 -translate-y-1/2 text-slate-400 group-hover:text-brand-blue transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                    </svg>
                 </div>
                 
-                <div class="flex gap-2 overflow-x-auto pb-2 md:pb-0 w-full md:w-auto">
-                    <button onclick="filterBySection('all')" class="section-filter px-4 py-2 rounded-lg bg-slate-800 text-white text-sm font-bold shadow-md" data-section="all">All</button>
-                    <button onclick="filterBySection('Verbal Ability')" class="section-filter px-4 py-2 rounded-lg bg-white text-slate-600 border border-slate-200 text-sm font-bold hover:bg-slate-50" data-section="Verbal Ability">Verbal</button>
-                    <button onclick="filterBySection('Reasoning')" class="section-filter px-4 py-2 rounded-lg bg-white text-slate-600 border border-slate-200 text-sm font-bold hover:bg-slate-50" data-section="Reasoning">Reasoning</button>
-                    <button onclick="filterBySection('General Awareness')" class="section-filter px-4 py-2 rounded-lg bg-white text-slate-600 border border-slate-200 text-sm font-bold hover:bg-slate-50" data-section="General Awareness">GK</button>
-                    <button onclick="filterBySection('Numerical Ability')" class="section-filter px-4 py-2 rounded-lg bg-white text-slate-600 border border-slate-200 text-sm font-bold hover:bg-slate-50" data-section="Numerical Ability">Math</button>
+                <div class="flex gap-2 bg-white p-2 rounded-2xl border border-slate-200 shadow-sm overflow-x-auto w-full md:w-auto">
+                    <button onclick="filterBySection('all')" class="filter-btn active px-6 py-2.5 rounded-xl text-xs font-bold transition-all bg-brand-navy text-white shadow-md" data-filter="all">All</button>
+                    <button onclick="filterBySection('Verbal Ability')" class="filter-btn px-6 py-2.5 rounded-xl text-xs font-bold text-slate-500 hover:bg-slate-50 transition-all" data-filter="Verbal Ability">Verbal</button>
+                    <button onclick="filterBySection('Reasoning')" class="filter-btn px-6 py-2.5 rounded-xl text-xs font-bold text-slate-500 hover:bg-slate-50 transition-all" data-filter="Reasoning">Reasoning</button>
+                    <button onclick="filterBySection('General Awareness')" class="filter-btn px-6 py-2.5 rounded-xl text-xs font-bold text-slate-500 hover:bg-slate-50 transition-all" data-filter="General Awareness">GK</button>
+                    <button onclick="filterBySection('Numerical Ability')" class="filter-btn px-6 py-2.5 rounded-xl text-xs font-bold text-slate-500 hover:bg-slate-50 transition-all" data-filter="Numerical Ability">Maths</button>
                 </div>
             </div>
-            <div id="topics-grid" class="grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5"></div>
+            
+            <div id="topics-grid" class="grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8 pb-20">
+                </div>
         </div>
 
         <div id="mock" class="tab-content">
-            <div class="bg-indigo-900 rounded-2xl p-8 shadow-xl mb-8 text-center text-white relative overflow-hidden">
+            <div class="bg-brand-navy rounded-[2.5rem] p-12 shadow-float text-center relative overflow-hidden mb-12">
+                <div class="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/carbon-fibre.png')] opacity-10"></div>
+                <svg class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] text-white/5" fill="currentColor" viewBox="0 0 24 24"><path d="M21,16V14L13,9V3.5A1.5,1.5,0,0,0,11.5,2A1.5,1.5,0,0,0,10,3.5V9L2,14V16L10,13.5V19L8,20.5V22L11.5,21L15,22V20.5L13,19V13.5L21,16Z"/></svg>
+
                 <div class="relative z-10">
-                    <h2 class="text-3xl font-bold mb-2">2026 Predicted Mock Paper</h2>
-                    <p class="text-indigo-200 mb-6">Generated using strict AFCAT blueprint (30-25-25-20)</p>
-                    <div class="inline-flex bg-indigo-800/50 p-1 rounded-xl">
-                        <button onclick="filterMockSection('all')" class="mock-section-btn px-6 py-2 rounded-lg bg-white text-indigo-900 font-bold shadow-sm">Full Test</button>
-                        <button onclick="filterMockSection('Verbal Ability')" class="mock-section-btn px-6 py-2 rounded-lg text-indigo-300 font-bold hover:bg-indigo-800 hover:text-white transition">English</button>
-                        <button onclick="filterMockSection('Reasoning')" class="mock-section-btn px-6 py-2 rounded-lg text-indigo-300 font-bold hover:bg-indigo-800 hover:text-white transition">Reasoning</button>
+                    <h2 class="font-heading text-4xl font-black text-white mb-4">Exam Simulator</h2>
+                    <p class="text-slate-400 text-lg mb-10 max-w-2xl mx-auto">Real-time operational environment based on the 2026 blueprint.</p>
+                    
+                    <div class="flex flex-wrap justify-center gap-3">
+                        <button onclick="filterMockSection('all')" class="mock-btn active px-8 py-3 rounded-xl text-xs font-bold bg-white text-brand-navy shadow-lg transition-all">Full Test</button>
+                        <button onclick="filterMockSection('Verbal Ability')" class="mock-btn px-8 py-3 rounded-xl text-xs font-bold bg-white/5 text-slate-300 border border-white/10 hover:bg-white/10 transition-all">English</button>
+                        <button onclick="filterMockSection('Reasoning')" class="mock-btn px-8 py-3 rounded-xl text-xs font-bold bg-white/5 text-slate-300 border border-white/10 hover:bg-white/10 transition-all">Reasoning</button>
+                        <button onclick="filterMockSection('General Awareness')" class="mock-btn px-8 py-3 rounded-xl text-xs font-bold bg-white/5 text-slate-300 border border-white/10 hover:bg-white/10 transition-all">GK</button>
+                        <button onclick="filterMockSection('Numerical Ability')" class="mock-btn px-8 py-3 rounded-xl text-xs font-bold bg-white/5 text-slate-300 border border-white/10 hover:bg-white/10 transition-all">Maths</button>
                     </div>
                 </div>
             </div>
-            <div id="mock-questions" class="space-y-6 max-w-3xl mx-auto"></div>
+            
+            <div id="mock-questions" class="space-y-8 max-w-4xl mx-auto">
+                </div>
         </div>
 
     </main>
 
-    <div id="pyq-modal" class="fixed inset-0 bg-slate-900/60 backdrop-blur-sm hidden z-[100] flex items-center justify-center p-4">
-        <div class="bg-white rounded-2xl w-full max-w-4xl shadow-2xl h-[85vh] flex flex-col overflow-hidden">
-            <div class="px-6 py-4 border-b border-slate-100 flex justify-between items-center bg-white sticky top-0 z-10">
-                <div>
-                    <h3 id="modal-title" class="text-xl font-bold text-slate-800">Topic</h3>
-                    <p id="modal-subtitle" class="text-xs font-bold text-slate-400 uppercase tracking-wide">Practice Mode</p>
+    <div id="practice-modal" class="fixed inset-0 bg-brand-navy/90 backdrop-blur-md z-[100] hidden flex items-center justify-center p-6">
+        <div class="bg-white w-full max-w-5xl h-[90vh] rounded-[2.5rem] shadow-2xl flex flex-col overflow-hidden animate-slide-up">
+            <div class="px-10 py-6 border-b border-slate-100 flex justify-between items-center bg-white sticky top-0 z-10">
+                <div class="flex items-center gap-4">
+                    <span id="modal-badge" class="px-4 py-1.5 rounded-full text-[10px] font-bold uppercase tracking-widest">Topic</span>
+                    <h3 id="modal-topic-title" class="font-heading text-2xl font-black text-brand-navy">Topic Name</h3>
                 </div>
-                <button onclick="closeModal()" class="w-8 h-8 rounded-full bg-slate-100 flex items-center justify-center text-slate-500 hover:bg-slate-200 hover:text-slate-800 transition">
-                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+                <button onclick="closeModal()" class="w-12 h-12 rounded-2xl bg-slate-100 flex items-center justify-center text-slate-500 hover:bg-red-50 hover:text-red-500 transition-all">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M6 18L18 6M6 6l12 12"/></svg>
                 </button>
             </div>
-            <div id="modal-content" class="flex-1 overflow-y-auto p-6 bg-slate-50 space-y-6"></div>
+            <div id="modal-questions" class="flex-1 overflow-y-auto p-10 bg-slate-50/50 space-y-8"></div>
         </div>
     </div>
 
     <script>
-        // ============================================
-        // CORE LOGIC
-        // ============================================
-        
-        // 1. Robust Data Loading
-        async function loadBackendData() {
-            if (typeof dashboardData !== 'undefined') {
-                window.dashboardData = dashboardData;
-            } else {
-                try {
+        let appData = {};
+
+        async function init() {
+            try {
+                if (typeof window.dashboardData !== 'undefined') {
+                    appData = window.dashboardData;
+                } else {
                     const res = await fetch('data.js');
-                    if(res.ok) window.dashboardData = await res.json();
-                } catch(e) { console.error("Error loading data", e); }
-            }
+                    const text = await res.text();
+                    // Fix: Strip JS variable declaration to parse pure JSON if fallback needed
+                    const jsonStr = text.replace(/^const\s+dashboardData\s*=\s*/, '').replace(/;\s*$/, '');
+                    appData = JSON.parse(jsonStr);
+                }
+                
+                if(!appData) throw new Error("No Data");
 
-            if (!window.dashboardData) return;
+                if(document.getElementById('total-pyq-display')) {
+                    document.getElementById('total-pyq-display').textContent = (appData.question_bank?.length || 0) + " Questions";
+                }
 
-            window.pyqData = window.dashboardData.question_bank || [];
-            
-            // Map Predictions
-            window.predictions = window.dashboardData.predictions?.ml_predictions || [];
-            
-            // Update UI
-            if(document.getElementById('total-pyq-display')) {
-                document.getElementById('total-pyq-display').textContent = window.pyqData.length + " Questions Analyzed";
-            }
-            
-            // Generate mock if missing
-            if (!window.dashboardData.mock_test) {
-                window.mockData = generateMockFromPYQ(window.pyqData);
-            } else {
-                window.mockData = window.dashboardData.mock_test;
-            }
+                renderDashboard();
+                renderLibrary();
+                loadMockQuestions();
+            } catch(e) { console.error("Init Error", e); }
         }
 
-        // 2. Mock Generator Fallback
-        function generateMockFromPYQ(questions) {
-            const structure = { 'Verbal Ability': 30, 'Reasoning': 25, 'General Awareness': 25, 'Numerical Ability': 20 };
-            let mock = [];
-            Object.entries(structure).forEach(([sec, count]) => {
-                const secQs = questions.filter(q => (q.section || '').includes(sec.split(' ')[0]));
-                mock.push(...[...secQs].sort(() => 0.5 - Math.random()).slice(0, count));
-            });
-            return { all_questions: mock };
-        }
+        // --- DASHBOARD ---
+        function renderDashboard() {
+            const preds = appData.predictions?.ml_predictions || [];
+            
+            // TOP 15
+            const topTopics = [...preds]
+                .filter(p => (p.Predicted_Questions || p.predicted_count) > 0)
+                .sort((a,b) => getCount(b) - getCount(a))
+                .slice(0, 15);
 
-        document.addEventListener('DOMContentLoaded', async function() {
-            await loadBackendData();
-            loadRealPredictedTable();
-            loadRisingTopics();
-            loadDecliningTopics();
-            loadTopicsGrid();
-            loadMockTest();
-        });
-
-        // 3. FIX: Handle Variable Names & Nulls
-        function loadRealPredictedTable() {
-            const table = document.getElementById('predicted-topics-table');
-            // Use 'Predicted_Questions' from Python output
-            const allPreds = [...window.predictions]
-                .sort((a,b) => (b.Predicted_Questions || 0) - (a.Predicted_Questions || 0))
-                .slice(0, 16);
-
-            if (allPreds.length === 0) {
-                table.innerHTML = `<tr><td colspan="3" class="p-6 text-center text-slate-400">No predictions available</td></tr>`;
-                return;
-            }
-
-            table.innerHTML = allPreds.map(t => {
-                // SAFETY CHECK: Use Correct Key from Python Output (Predicted_Questions)
-                const count = t.Predicted_Questions || t.predicted_count || 0;
-                const safeName = (t.Topic || t.topic_name || 'Unknown').replace(/'/g, "\\'");
-                const safeCode = t.topic_code || '';
-                const section = t.Section || t.section || '';
-
+            document.getElementById('priority-list').innerHTML = topTopics.map((t, i) => {
+                const count = getCount(t);
+                const section = t.Section || t.section || 'General';
+                const colors = getSectionColors(section);
+                const name = t.Topic || t.topic_name;
+                
                 return `
-                <tr class="hover:bg-slate-50 transition-colors cursor-pointer group" onclick="showTopicQuestions('${safeCode}', '${safeName}')">
-                    <td class="px-6 py-4">
-                        <div class="font-bold text-slate-700 group-hover:text-brand-600 transition-colors">${t.Topic || t.topic_name}</div>
-                        <div class="text-xs text-slate-400 font-medium mt-0.5">${t.Trend || 'Stable'}</div>
+                <tr class="hover:bg-slate-50 transition-colors cursor-pointer group border-b border-slate-50 last:border-0" onclick="openPractice('${name}', '${section}')">
+                    <td class="px-8 py-5 w-24">
+                        <div class="w-10 h-10 rounded-xl bg-slate-100 text-slate-500 font-heading font-bold flex items-center justify-center text-sm group-hover:bg-brand-navy group-hover:text-white transition-all">${i+1}</div>
                     </td>
-                    <td class="px-6 py-4">
-                        <span class="inline-flex items-center px-2.5 py-0.5 rounded text-xs font-bold bg-slate-100 text-slate-600">
+                    <td class="px-8 py-5">
+                        <div class="font-bold text-brand-navy text-lg group-hover:text-brand-blue transition-colors">${name}</div>
+                    </td>
+                    <td class="px-8 py-5">
+                        <span class="px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest ${colors.badge}">
                             ${section}
                         </span>
                     </td>
-                    <td class="px-6 py-4 text-right">
+                    <td class="px-8 py-5 text-right">
                         <div class="flex items-center justify-end gap-3">
-                            <div class="text-right">
-                                <div class="text-lg font-black text-slate-800">${count.toFixed(1)} <span class="text-xs text-slate-400 font-bold uppercase">Qs</span></div>
-                                <div class="text-xs font-bold text-green-600">~ ${(count * 3).toFixed(0)} Marks</div>
+                            <div class="w-24 h-2 bg-slate-100 rounded-full overflow-hidden hidden sm:block">
+                                <div class="h-full ${colors.bar}" style="width: ${Math.min((count/6)*100, 100)}%"></div>
                             </div>
+                            <span class="font-heading font-black text-xl text-brand-navy">${count.toFixed(1)}</span>
                         </div>
                     </td>
                 </tr>
             `}).join('');
-        }
 
-        function loadRisingTopics() {
-            const container = document.getElementById('rising-topics');
-            const topics = window.dashboardData?.predictions?.rising_topics || [];
-            
-            if (!topics.length) { container.innerHTML = `<div class="text-slate-400 text-sm">No trend data available</div>`; return; }
-            
-            container.innerHTML = topics.slice(0,5).map(t => {
+            // TRENDS
+            const trending = appData.predictions?.rising_topics || [];
+            document.getElementById('trending-list').innerHTML = trending.slice(0,5).map(t => {
                 const name = t.Topic || t.topic_name;
-                const safeName = name.replace(/'/g, "\\'");
                 return `
-                <div class="flex justify-between items-center p-3 rounded-xl bg-green-50/50 border border-green-100 cursor-pointer hover:bg-green-100 transition"
-                     onclick="showTopicQuestions('', '${safeName}')">
-                    <span class="font-bold text-slate-700 text-sm">${name}</span>
-                    <svg class="w-4 h-4 text-green-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"/></svg>
+                <div class="flex justify-between items-center p-4 rounded-2xl bg-slate-50 border border-slate-100 cursor-pointer hover:border-green-300 hover:bg-white transition-all group" onclick="openPractice('${name}')">
+                    <span class="text-sm font-bold text-slate-700 group-hover:text-brand-navy">${name}</span>
+                    <span class="text-xs font-bold text-green-600 bg-green-100 px-3 py-1 rounded-full">+${parseInt(t.growth||20)}%</span>
+                </div>
+            `}).join('');
+
+            const declining = appData.predictions?.declining_topics || [];
+            document.getElementById('declining-list').innerHTML = declining.slice(0,5).map(t => {
+                const name = t.Topic || t.topic_name;
+                return `
+                <div class="flex justify-between items-center p-4 rounded-2xl bg-slate-50 border border-slate-100 cursor-pointer hover:border-red-300 hover:bg-white transition-all group" onclick="openPractice('${name}')">
+                    <span class="text-sm font-bold text-slate-700 group-hover:text-brand-navy">${name}</span>
+                    <span class="text-xs font-bold text-red-500 bg-red-100 px-3 py-1 rounded-full">${parseInt(t.decline||-10)}%</span>
                 </div>
             `}).join('');
         }
 
-        function loadDecliningTopics() {
-            const container = document.getElementById('declining-topics');
-            const topics = window.dashboardData?.predictions?.declining_topics || [];
-            
-            if (!topics.length) { container.innerHTML = `<div class="text-slate-400 text-sm">No trend data available</div>`; return; }
-            
-            container.innerHTML = topics.slice(0,5).map(t => {
-                const name = t.Topic || t.topic_name;
-                const safeName = name.replace(/'/g, "\\'");
-                return `
-                <div class="flex justify-between items-center p-3 rounded-xl bg-red-50/50 border border-red-100 cursor-pointer hover:bg-red-100 transition"
-                     onclick="showTopicQuestions('', '${safeName}')">
-                    <span class="font-bold text-slate-700 text-sm">${name}</span>
-                    <svg class="w-4 h-4 text-red-400" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 17h8m0 0V9m0 8l-8-8-4 4-6-6"/></svg>
-                </div>
-            `}).join('');
-        }
-
-        function loadTopicsGrid() {
+        // --- GRID RENDERER (FIXED) ---
+        function renderLibrary(filter = 'all') {
             const container = document.getElementById('topics-grid');
-            const preds = [...window.predictions].sort((a,b) => (b.Predicted_Questions||0) - (a.Predicted_Questions||0));
+            const preds = appData.predictions?.ml_predictions || [];
             
-            container.innerHTML = preds.map(t => {
+            const filtered = filter === 'all' 
+                ? preds 
+                : preds.filter(p => {
+                    const s = (p.Section || p.section || '').toLowerCase();
+                    return s.includes(filter.toLowerCase()) || (filter.includes('Math') && s.includes('numerical'));
+                });
+
+            filtered.sort((a,b) => getCount(b) - getCount(a));
+
+            container.innerHTML = filtered.map(t => {
                 const name = t.Topic || t.topic_name;
-                const safeName = name.replace(/'/g, "\\'");
-                const count = t.Predicted_Questions || t.predicted_count || 0;
-                const sec = t.Section || t.section;
-                
+                const count = getCount(t);
+                const section = t.Section || t.section || 'General';
+                const colors = getSectionColors(section);
+
                 return `
-                <div class="q-card p-5 cursor-pointer group" onclick="showTopicQuestions('', '${safeName}')">
-                    <div class="flex justify-between items-start mb-3">
-                        <span class="text-[10px] font-black uppercase tracking-wider px-2 py-1 rounded bg-slate-100 text-slate-500">${sec}</span>
-                        ${t.Is_Core ? '<span class="text-[10px] font-black uppercase bg-brand-50 text-brand-600 px-2 py-1 rounded">Core</span>' : ''}
-                    </div>
-                    <h4 class="font-bold text-slate-800 text-lg mb-4 leading-tight h-14 line-clamp-2">${name}</h4>
-                    <div class="flex items-end gap-2 border-t border-slate-100 pt-3">
-                        <span class="text-3xl font-black text-slate-800 group-hover:text-brand-600 transition-colors">${count.toFixed(1)}</span>
-                        <span class="text-xs font-bold text-slate-400 mb-1.5 uppercase">Questions</span>
+                <div class="topic-card group cursor-pointer" onclick="openPractice('${name}', '${section}')">
+                    <svg class="jet-bg text-slate-900" fill="currentColor" viewBox="0 0 24 24"><path d="M21,16V14L13,9V3.5A1.5,1.5,0,0,0,11.5,2A1.5,1.5,0,0,0,10,3.5V9L2,14V16L10,13.5V19L8,20.5V22L11.5,21L15,22V20.5L13,19V13.5L21,16Z"/></svg>
+                    
+                    <div style="color: ${colors.hex}" class="h-1 w-full absolute top-0 left-0 bg-current"></div>
+                    
+                    <div class="p-8 flex flex-col h-full relative z-10">
+                        <div class="flex justify-between items-start mb-6">
+                            <span class="${colors.badge} px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest">
+                                ${getSectionShort(section)}
+                            </span>
+                            ${(t.Is_Core || t.is_core) ? '<span class="text-brand-blue">★</span>' : ''}
+                        </div>
+                        
+                        <h3 class="font-heading font-black text-2xl text-brand-navy mb-auto leading-tight group-hover:text-brand-blue transition-colors line-clamp-3">
+                            ${name}
+                        </h3>
+                        
+                        <div class="flex items-center justify-between pt-6 border-t border-slate-50 mt-6">
+                            <span class="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Prediction</span>
+                            <div class="flex items-baseline gap-1">
+                                <span class="font-heading font-black text-4xl text-brand-navy group-hover:text-brand-blue transition-colors">${count.toFixed(1)}</span>
+                                <span class="text-xs font-bold text-slate-400 uppercase">Qs</span>
+                            </div>
+                        </div>
                     </div>
                 </div>
-            `}).join('');
+                `;
+            }).join('');
         }
 
-        function loadMockTest() { filterMockSection('all'); }
+        // --- MOCK RENDERER ---
+        function loadMockQuestions(filterSec = 'all') {
+            const container = document.getElementById('mock-questions');
+            const allQuestions = appData.mock_test?.all_questions || [];
+            
+            const filtered = filterSec === 'all' 
+                ? allQuestions 
+                : allQuestions.filter(q => {
+                    const s = (q.section || '').toLowerCase();
+                    if (filterSec === 'Numerical Ability') return s.includes('numerical');
+                    return s.includes(filterSec.toLowerCase());
+                });
 
-        function filterMockSection(sec) {
-            document.querySelectorAll('.mock-section-btn').forEach(b => {
-                const isActive = b.textContent.toLowerCase().includes(sec === 'all' ? 'full' : sec.split(' ')[0].toLowerCase());
-                if(isActive) {
-                    b.classList.remove('bg-white', 'text-indigo-900', 'text-indigo-300');
-                    b.classList.add('bg-white', 'text-indigo-900', 'shadow-sm');
-                } else {
-                    b.classList.remove('bg-white', 'text-indigo-900', 'shadow-sm');
-                    b.classList.add('text-indigo-300');
-                }
-            });
-            
-            const list = window.mockData?.all_questions || [];
-            const filtered = sec === 'all' ? list : list.filter(q => (q.section || '').includes(sec.split(' ')[0]));
-            
-            document.getElementById('mock-questions').innerHTML = filtered.map((q,i) => renderQuestionCard(q, i+1)).join('');
+            if(filtered.length === 0) {
+                container.innerHTML = `<div class="text-center py-20 bg-white rounded-[2rem] border border-dashed border-slate-200 text-slate-400 font-bold">No questions found for this section.</div>`;
+                return;
+            }
+
+            container.innerHTML = filtered.map((q, i) => createQuestionCard(q, i+1)).join('');
         }
 
-        // ============================================
-        // 4. FIX: ROBUST "SLUG" MATCHING (Solves "0 Matched")
-        // ============================================
-        window.showTopicQuestions = function(code, name) {
-            const modal = document.getElementById('pyq-modal');
-            document.getElementById('modal-title').textContent = name;
-            document.getElementById('pyq-modal').classList.remove('hidden');
-            const content = document.getElementById('modal-content');
+        // --- FILTER HANDLERS ---
+        window.filterBySection = function(sec) {
+            document.querySelectorAll('.filter-btn').forEach(b => {
+                b.classList.remove('bg-brand-navy', 'text-white');
+                b.classList.add('text-slate-500', 'hover:bg-slate-50');
+            });
+            const active = document.querySelector(`[data-filter="${sec}"]`);
+            if(active) {
+                active.classList.remove('text-slate-500', 'hover:bg-slate-50');
+                active.classList.add('bg-brand-navy', 'text-white');
+            }
+            renderLibrary(sec);
+        }
+
+        window.filterMockSection = function(sec) {
+            document.querySelectorAll('.mock-btn').forEach(b => {
+                b.classList.remove('bg-brand-navy', 'text-white');
+                b.classList.add('bg-white/5', 'text-slate-300');
+            });
+            event.target.classList.remove('bg-white/5', 'text-slate-300');
+            event.target.classList.add('bg-brand-navy', 'text-white');
+            loadMockQuestions(sec);
+        }
+
+        // --- UTILS ---
+        window.openPractice = function(topicName, section) {
+            const modal = document.getElementById('practice-modal');
+            const container = document.getElementById('modal-questions');
+            document.getElementById('modal-topic-title').textContent = topicName;
             
-            // SLUGIFY for fuzzy matching (Removes special chars, spaces, case)
-            const slugify = (text) => (text || '').toLowerCase().replace(/[^a-z0-9]/g, '');
-            const targetSlug = slugify(name);
+            const badge = document.getElementById('modal-badge');
+            badge.textContent = section || 'Topic';
+            const colors = getSectionColors(section || '');
+            badge.className = `px-4 py-1.5 rounded-full text-[10px] font-bold uppercase tracking-widest ${colors.badge}`;
+
+            modal.classList.remove('hidden');
+            document.body.style.overflow = 'hidden';
             
-            // Search in Question Bank
-            const matches = window.pyqData.filter(q => {
-                const qTopic = slugify(q.topic_name || q.topic || q.topic_display);
-                const qCode = slugify(q.topic_code);
-                
-                // Check if target is inside qTopic (e.g. "History" matches "History (Ancient)")
-                // OR if qTopic is inside target (e.g. "Synonyms/Antonyms" matches "Synonyms & Antonyms")
-                return qTopic.includes(targetSlug) || targetSlug.includes(qTopic) || qCode === targetSlug;
+            const slug = (str) => (str || '').toLowerCase().replace(/[^a-z0-9]/g, '');
+            const target = slug(topicName);
+            
+            const questions = (appData.question_bank || []).filter(q => {
+                const qt = slug(q.topic_name || q.topic || q.topic_display || '');
+                const qc = slug(q.topic_code || '');
+                return qt.includes(target) || target.includes(qt) || qc === target;
             });
 
-            console.log(`Searching for: ${targetSlug} | Found: ${matches.length}`);
-
-            if(matches.length === 0) {
-                content.innerHTML = `
-                    <div class="flex flex-col items-center justify-center h-64 text-center">
-                        <div class="text-4xl mb-4">🔍</div>
-                        <h3 class="font-bold text-slate-800 text-lg">No exact match found</h3>
-                        <p class="text-slate-500">Try searching for a related topic.</p>
-                    </div>`;
+            if(questions.length === 0) {
+                container.innerHTML = `<div class="flex flex-col items-center justify-center py-32 text-center">
+                    <div class="w-20 h-20 bg-slate-100 rounded-full flex items-center justify-center text-4xl mb-6">🔍</div>
+                    <h3 class="font-heading font-black text-2xl text-brand-navy mb-2">No specific questions found</h3>
+                    <p class="text-slate-500">Try searching for a related topic.</p>
+                </div>`;
             } else {
-                content.innerHTML = matches.map((q, i) => renderQuestionCard(q, i+1)).join('');
+                container.innerHTML = questions.map((q, i) => createQuestionCard(q, i+1)).join('');
             }
         }
 
-        // 5. BEAUTIFIED CARD RENDERER
-        function renderQuestionCard(q, num) {
-            const questionText = q.question_text || q.question || q.text || 'Question text missing';
-            const options = q.choices || q.options || q.opts || [];
-            const year = q.year || 'PYQ';
-            
+        window.closeModal = () => {
+            document.getElementById('practice-modal').classList.add('hidden');
+            document.body.style.overflow = 'auto';
+        }
+
+        function createQuestionCard(q, num) {
+            const colors = getSectionColors(q.section);
+            let options = q.choices || q.options || [];
+            let correctAns = q.answer;
+
             return `
-                <div class="q-card p-6">
-                    <div class="flex justify-between items-start mb-4">
-                        <div>
-                            <div class="flex items-center gap-2 mb-1">
-                                <span class="bg-brand-50 text-brand-700 text-[10px] font-bold px-2 py-0.5 rounded uppercase tracking-wider">${q.section}</span>
-                                <span class="text-xs font-bold text-slate-400">•</span>
-                                <span class="text-xs font-bold text-slate-400 uppercase">${q.topic || q.topic_name}</span>
-                            </div>
-                            <h4 class="font-bold text-slate-400 text-sm">Question ${num}</h4>
-                        </div>
-                        <span class="bg-slate-100 text-slate-600 text-xs font-bold px-2.5 py-1 rounded-lg border border-slate-200">${year}</span>
+            <div class="bg-white rounded-3xl p-8 shadow-card border border-slate-100">
+                <div class="flex justify-between items-start mb-8">
+                    <div class="flex items-center gap-4">
+                        <div class="w-10 h-10 rounded-xl bg-slate-100 text-slate-500 font-heading font-black flex items-center justify-center text-sm">Q${num}</div>
+                        <span class="${colors.badge} px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest">${q.topic_name || q.topic}</span>
                     </div>
-                    
-                    <div class="text-slate-800 text-lg font-medium leading-relaxed mb-6 font-heading">
-                        ${questionText}
+                    <span class="bg-brand-navy/5 text-brand-navy text-[10px] font-black px-3 py-1.5 rounded-lg uppercase tracking-widest border border-brand-navy/10">${q.year || 'PYQ'}</span>
+                </div>
+                
+                <p class="text-xl font-bold text-brand-navy mb-10 leading-relaxed font-heading">${q.question_text || q.question}</p>
+                
+                <div class="grid md:grid-cols-2 gap-4">
+                    ${options.map((opt, idx) => {
+                        const val = typeof opt === 'object' ? opt.text : opt;
+                        const key = typeof opt === 'object' ? opt.key : String.fromCharCode(65+idx);
+                        const isCorrect = (val === correctAns) || (key === correctAns);
+                        return `<button onclick="check(this, ${isCorrect})" class="option-btn w-full text-left p-5 rounded-2xl text-sm font-bold text-slate-600 relative group flex items-center gap-4">
+                            <span class="w-8 h-8 rounded-lg bg-slate-100 text-slate-400 text-[10px] flex items-center justify-center font-black group-hover:bg-white transition-all">${key}</span>
+                            <span class="flex-1">${val}</span>
+                        </button>`;
+                    }).join('')}
+                </div>
+                <div class="mt-6 hidden expl p-6 bg-green-50 rounded-2xl text-sm text-green-800 border border-green-100 flex items-start gap-4 animate-fade-in">
+                    <div class="w-8 h-8 bg-green-500 rounded-full flex items-center justify-center text-white flex-shrink-0">
+                        <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"/></svg>
                     </div>
-                    
-                    <div class="grid md:grid-cols-2 gap-3">
-                        ${options.map((opt, idx) => {
-                            const val = typeof opt === 'object' ? opt.text : opt;
-                            const key = typeof opt === 'object' ? opt.key : String.fromCharCode(65+idx);
-                            const isCorrect = (key == q.answer) || (val == q.answer);
-                            // Hack: Store answer in data attribute for JS toggle
-                            return `
-                            <button onclick="checkAnswer(this, ${isCorrect})" class="opt-btn group">
-                                <div class="flex items-start gap-3">
-                                    <span class="w-6 h-6 rounded-md bg-slate-200 text-slate-500 text-xs font-bold flex items-center justify-center group-hover:bg-slate-300 transition-colors mt-0.5">${key}</span>
-                                    <span class="text-slate-600 font-medium text-sm leading-relaxed">${val}</span>
-                                </div>
-                            </button>
-                            `;
-                        }).join('')}
-                    </div>
-                    
-                    <div class="mt-4 pt-4 border-t border-slate-100 hidden explanation-box">
-                        <div class="bg-green-50 border border-green-200 rounded-xl p-4">
-                            <div class="flex items-center gap-2 mb-1">
-                                <svg class="w-5 h-5 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
-                                <span class="font-bold text-green-800 text-sm">Correct Answer</span>
-                            </div>
-                            <p class="text-green-700 text-sm pl-7">${q.answer || 'Option ' + q.correct_option}</p>
-                        </div>
+                    <div>
+                        <span class="block text-[10px] font-black uppercase tracking-widest mb-1 opacity-60">Verified Answer</span>
+                        <span class="font-bold text-lg">${correctAns}</span>
                     </div>
                 </div>
+            </div>
             `;
         }
 
-        window.checkAnswer = function(btn, isCorrect) {
-            const card = btn.closest('.q-card');
-            const allBtns = card.querySelectorAll('.opt-btn');
-            
-            // Disable all buttons
-            allBtns.forEach(b => b.disabled = true);
-            
-            // Show styles
-            if(isCorrect) {
-                btn.classList.add('opt-correct');
-            } else {
-                btn.classList.add('opt-wrong');
-                // Find and highlight correct one (if logical logic allows, otherwise just show expl)
-            }
-            
-            // Show explanation
-            card.querySelector('.explanation-box').classList.remove('hidden');
+        window.check = function(btn, correct) {
+            const card = btn.closest('.bg-white');
+            const btns = card.querySelectorAll('.option-btn');
+            btns.forEach(b => b.disabled = true);
+            if(correct) btn.classList.add('option-correct');
+            else btn.classList.add('option-wrong');
+            card.querySelector('.expl').classList.remove('hidden');
         }
 
-        window.showTab = function(id) {
-            document.querySelectorAll('.tab-content').forEach(d => d.classList.remove('active'));
+        // --- UTILS ---
+        function getCount(obj) { return obj.Predicted_Questions || obj.predicted_count || 0; }
+        
+        function getSectionColors(sec) {
+            sec = (sec || '').toLowerCase();
+            if(sec.includes('verbal')) return { badge: 'bg-brand-blue/10 text-brand-blue', bar: 'bg-brand-blue', hex: '#3b82f6' };
+            if(sec.includes('reasoning')) return { badge: 'bg-purple-100 text-purple-700', bar: 'bg-purple-500', hex: '#a855f7' };
+            if(sec.includes('general')) return { badge: 'bg-green-100 text-green-700', bar: 'bg-green-500', hex: '#22c55e' };
+            return { badge: 'bg-orange-100 text-orange-700', bar: 'bg-orange-500', hex: '#f97316' };
+        }
+        
+        function getSectionShort(sec) {
+            if(!sec) return 'Topic';
+            if(sec.includes('Verbal')) return 'Verbal';
+            if(sec.includes('Reasoning')) return 'Logic';
+            if(sec.includes('General')) return 'GK';
+            return 'Math';
+        }
+
+        window.switchTab = function(id) {
+            document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
             document.getElementById(id).classList.add('active');
-            
-            // Reset nav buttons
-            document.querySelectorAll('.tab-btn').forEach(b => {
-                b.classList.remove('bg-white', 'text-brand-600', 'shadow-sm');
-                b.classList.add('text-slate-500');
-            });
-            
-            // Active nav button
-            const activeBtn = document.querySelector(`[data-tab="${id}"]`);
-            activeBtn.classList.add('bg-white', 'text-brand-600', 'shadow-sm');
-            activeBtn.classList.remove('text-slate-500');
-        }
-
-        window.closeModal = function() {
-            document.getElementById('pyq-modal').classList.add('hidden');
+            document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active'));
+            document.querySelector(`[data-tab="${id}"]`).classList.add('active');
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
         window.filterTopics = function() {
             const val = document.getElementById('topic-search').value.toLowerCase();
-            document.querySelectorAll('.q-card').forEach(c => { // Wait, topics-grid uses .q-card too? Yes.
-               // Actually topics-grid logic needs to match
-               if(c.parentElement.id === 'topics-grid') {
-                   const txt = c.textContent.toLowerCase();
-                   c.style.display = txt.includes(val) ? 'block' : 'none';
-               }
-            });
-        }
-        
-        window.filterBySection = function(sec) {
-            // Update buttons
-            document.querySelectorAll('.section-filter').forEach(b => {
-                b.classList.remove('bg-slate-800', 'text-white');
-                b.classList.add('bg-white', 'text-slate-600');
-            });
-            document.querySelector(`[data-section="${sec}"]`).classList.add('bg-slate-800', 'text-white');
-            document.querySelector(`[data-section="${sec}"]`).classList.remove('bg-white', 'text-slate-600');
-
-            // Filter grid
             const cards = document.getElementById('topics-grid').children;
             for(let card of cards) {
-                const cardSec = card.querySelector('span').textContent; // Hacky but works with our HTML
-                const show = sec === 'all' || cardSec.includes(sec) || (sec.includes('Verbal') && cardSec.includes('Verbal'));
-                card.style.display = show ? 'block' : 'none';
+                const txt = card.textContent.toLowerCase();
+                card.style.display = txt.includes(val) ? 'flex' : 'none';
             }
         }
+
+        init();
     </script>
 </body>
 </html>
