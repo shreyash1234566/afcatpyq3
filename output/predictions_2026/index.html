@@ -655,7 +655,7 @@
                         <span class="block text-[10px] font-black uppercase tracking-widest mb-1 opacity-60">Verified Answer</span>
                         <span class="font-bold text-lg">${correctAns}</span>
                     </div>
-                    <button onclick="getAIExplanation(this, '${q.question_text || q.question}', '${correctAns}', '${q.section}')" class="ml-2 px-3 py-1.5 bg-green-600 hover:bg-green-700 text-white text-[10px] font-bold rounded-lg transition flex-shrink-0">
+                    <button onclick="getAIExplanation(this, '${q.question_text || q.question}', '${correctAns}', '${q.section}', '${q.topic_name || q.topic}', ${JSON.stringify(options)})" class="ml-2 px-3 py-1.5 bg-green-600 hover:bg-green-700 text-white text-[10px] font-bold rounded-lg transition flex-shrink-0">
                         🚀 AI Explain
                     </button>
                 </div>
@@ -668,7 +668,7 @@
         }
 
         // Get AI explanation from backend
-        async function getAIExplanation(btn, question, answer, section) {
+        async function getAIExplanation(btn, question, answer, section, topic, options) {
             const card = btn.closest('[data-question-id]');
             const explDiv = card.querySelector('.ai-expl');
             const explContent = card.querySelector('.ai-expl-content');
@@ -677,7 +677,7 @@
             explContent.innerHTML = '<span class="opacity-60">⏳ Getting AI shortcut explanation...</span>';
 
             try {
-                console.log('📤 Sending to backend:', { question, answer, section });
+                console.log('📤 Sending to backend:', { question, answer, section, topic, options });
 
                 const response = await fetch(`${API_BASE_URL}/api/explain`, {
                     method: 'POST',
@@ -687,7 +687,9 @@
                     body: JSON.stringify({
                         question: question,
                         answer: answer,
-                        section: section
+                        section: section,
+                        topic: topic,
+                        options: options
                     })
                 });
 

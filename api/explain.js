@@ -14,11 +14,11 @@ export default async function handler(req, res) {
         return res.status(405).json({ error: 'Method not allowed' });
     }
 
-    const { question, answer, section } = req.body;
+    const { question, answer, section, topic, options } = req.body;
     const groqApiKey = process.env.GROQ_API_KEY;
 
     console.log('🔧 Backend /api/explain called');
-    console.log('📋 Request body:', { question: question?.substring(0, 50), answer, section });
+    console.log('📋 Request body:', { question: question?.substring(0, 50), answer, section, topic });
     console.log('🔑 API Key exists:', !!groqApiKey);
 
     if (!groqApiKey) {
@@ -34,6 +34,16 @@ export default async function handler(req, res) {
     try {
         console.log('🚀 Calling Groq API...');
 
+        // Format options for the prompt
+        let optionsText = '';
+        if (options && Array.isArray(options)) {
+            optionsText = options.map((opt, idx) => {
+                const val = typeof opt === 'object' ? opt.text : opt;
+                const key = typeof opt === 'object' ? opt.key : String.fromCharCode(65+idx);
+                return `${key}. ${val}`;
+            }).join('\n');
+        }
+
         const groqResponse = await fetch('https://api.groq.com/openai/v1/chat/completions', {
             method: 'POST',
             headers: {
@@ -44,20 +54,30 @@ export default async function handler(req, res) {
                 model: 'llama-3.3-70b-versatile',
                 messages: [{
                     role: 'user',
-                    content: `${section && section.includes('General') ? 'GK' : section || 'General'} Question - Provide EXAM SHORTCUT METHOD
+                    content: `You are an AFCAT exam expert tutor.
 
-Question: ${question}
-Correct Answer: ${answer}
+QUESTION TYPE: ${topic || 'General'}
+SUBJECT: ${section || 'General'}
 
-Give response in this format:
-1. SHORTCUT: [Quick trick to solve]
-2. WHY: [Why this answer works]
-3. KEY POINT: [What to remember]
+QUESTION:
+${question}
 
-Be very concise - just the essentials for exam prep.`
+OPTIONS:
+${optionsText}
+
+CORRECT ANSWER: ${answer}
+
+Provide an EXAM SHORTCUT explanation in this exact format:
+
+1. SHORTCUT: [Quick trick/method to solve this without lengthy calculations]
+2. WHY IT WORKS: [Explain why this answer is correct]
+3. KEY POINT: [One important thing to remember for similar questions]
+4. EXAM TIP: [A quick tip to save time in the exam]
+
+Be CONCISE and practical - just essentials for exam prep, no lengthy explanations.`
                 }],
                 temperature: 0.7,
-                max_tokens: 300
+                max_tokens: 400
             })
         });
 
