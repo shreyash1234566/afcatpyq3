@@ -677,6 +677,8 @@
             explContent.innerHTML = '<span class="opacity-60">⏳ Getting AI shortcut explanation...</span>';
 
             try {
+                console.log('📤 Sending to backend:', { question, answer, section });
+
                 const response = await fetch(`${API_BASE_URL}/api/explain`, {
                     method: 'POST',
                     headers: {
@@ -690,11 +692,13 @@
                 });
 
                 const data = await response.json();
+                console.log('📥 Backend response:', data, 'Status:', response.status);
 
                 if(response.ok && data.explanation) {
                     explContent.innerHTML = data.explanation.replace(/\n/g, '<br>');
                 } else {
-                    explContent.innerHTML = '❌ ' + (data.error || 'Could not generate explanation. Try again.');
+                    const errorMsg = data.error || data.details || 'Could not generate explanation';
+                    explContent.innerHTML = '❌ ' + errorMsg;
                 }
             } catch(e) {
                 console.error('AI Explanation Error:', e);
