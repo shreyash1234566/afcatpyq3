@@ -348,24 +348,9 @@
     <script>
         let appData = {};
         const STORAGE_KEY = 'afcat_practice_answers';
-        let groqApiKey = null;
 
         // Get API base URL (works on Vercel + localhost)
         const API_BASE_URL = window.location.origin;
-
-        // Fetch API key from backend
-        async function fetchApiKey() {
-            try {
-                const res = await fetch(`${API_BASE_URL}/api/config`);
-                const config = await res.json();
-                groqApiKey = config.groq_api_key;
-                console.log('✅ Groq API Key loaded from environment');
-                return groqApiKey;
-            } catch(e) {
-                console.warn('⚠️ Could not load API key:', e);
-                return null;
-            }
-        }
 
         // Get saved answers from localStorage
         function getSavedAnswers() {
@@ -388,9 +373,6 @@
 
         async function init() {
             try {
-                // Load API key first
-                await fetchApiKey();
-
                 if (typeof window.dashboardData !== 'undefined') {
                     appData = window.dashboardData;
                 } else {
@@ -685,13 +667,8 @@
             `;
         }
 
-        // Get AI explanation from Groq
+        // Get AI explanation from backend
         async function getAIExplanation(btn, question, answer, section) {
-            if(!groqApiKey) {
-                alert('⚠️ Groq API key not configured. Add it to .env file.');
-                return;
-            }
-
             const card = btn.closest('[data-question-id]');
             const explDiv = card.querySelector('.ai-expl');
             const explContent = card.querySelector('.ai-expl-content');
@@ -700,38 +677,24 @@
             explContent.innerHTML = '<span class="opacity-60">⏳ Getting AI shortcut explanation...</span>';
 
             try {
-                const response = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+                const response = await fetch(`${API_BASE_URL}/api/explain`, {
                     method: 'POST',
                     headers: {
-                        'Authorization': `Bearer ${groqApiKey}`,
                         'Content-Type': 'application/json'
                     },
                     body: JSON.stringify({
-                        model: 'mixtral-8x7b-32768',
-                        messages: [{
-                            role: 'user',
-                            content: `${section.includes('General') ? 'GK' : section} Question - Provide EXAM SHORTCUT METHOD
-
-Question: ${question}
-Correct Answer: ${answer}
-
-Give response in this format:
-1. SHORTCUT: [Quick trick to solve]
-2. WHY: [Why this answer works]
-3. KEY POINT: [What to remember]
-
-Be very concise - just the essentials for exam prep.`
-                        }],
-                        temperature: 0.7,
-                        max_tokens: 300
+                        question: question,
+                        answer: answer,
+                        section: section
                     })
                 });
 
                 const data = await response.json();
-                if(data.choices && data.choices[0]) {
-                    explContent.innerHTML = data.choices[0].message.content.replace(/\n/g, '<br>');
+
+                if(response.ok && data.explanation) {
+                    explContent.innerHTML = data.explanation.replace(/\n/g, '<br>');
                 } else {
-                    explContent.innerHTML = '❌ Could not generate explanation. Try again.';
+                    explContent.innerHTML = '❌ ' + (data.error || 'Could not generate explanation. Try again.');
                 }
             } catch(e) {
                 console.error('AI Explanation Error:', e);
