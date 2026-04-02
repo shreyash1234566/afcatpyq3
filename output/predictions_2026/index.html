@@ -676,11 +676,15 @@
             // Show explanation
             card.querySelector('.expl').classList.remove('hidden');
 
-            // Update question badge
-            const badge = card.querySelector('[data-answered]');
-            badge.setAttribute('data-answered', 'true');
-            badge.querySelector('.w-10').innerHTML = '✓';
-            badge.querySelector('.w-10').className = 'w-10 h-10 rounded-xl flex items-center justify-center text-sm font-heading font-black bg-green-100 text-green-600';
+            // Update question badge - find the badge element in the card
+            const questionBadge = card.querySelector('div.w-10');
+            if(questionBadge) {
+                questionBadge.innerHTML = '✓';
+                questionBadge.className = 'w-10 h-10 rounded-xl flex items-center justify-center text-sm font-heading font-black bg-green-100 text-green-600';
+            }
+
+            // Update the card's data-answered attribute
+            card.setAttribute('data-answered', 'true');
 
             // Update counter
             updateProgressCounter();
