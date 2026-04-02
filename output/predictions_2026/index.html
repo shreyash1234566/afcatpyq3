@@ -350,16 +350,19 @@
         const STORAGE_KEY = 'afcat_practice_answers';
         let groqApiKey = null;
 
+        // Get API base URL (works on Vercel + localhost)
+        const API_BASE_URL = window.location.origin;
+
         // Fetch API key from backend
         async function fetchApiKey() {
             try {
-                const res = await fetch('/api/config');
+                const res = await fetch(`${API_BASE_URL}/api/config`);
                 const config = await res.json();
                 groqApiKey = config.groq_api_key;
-                console.log('✅ Groq API Key loaded from .env');
+                console.log('✅ Groq API Key loaded from environment');
                 return groqApiKey;
             } catch(e) {
-                console.warn('⚠️ Could not load API key from backend:', e);
+                console.warn('⚠️ Could not load API key:', e);
                 return null;
             }
         }

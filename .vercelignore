@@ -1,0 +1,14 @@
+node_modules
+.git
+.env.local
+*.pyc
+__pycache__
+.github
+models
+data
+analysis
+feature_importance
+dashboard
+pipeline
+*.py
+requirements.txt
