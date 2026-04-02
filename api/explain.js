@@ -18,7 +18,7 @@ export default async function handler(req, res) {
     const groqApiKey = process.env.GROQ_API_KEY;
 
     console.log('🔧 Backend /api/explain called');
-    console.log('📋 Request body:', { question: question?.substring(0, 50), answer, section, topic });
+    console.log('📋 Request body:', { question: question?.substring(0, 50), answer, section, topic, optionsCount: options?.length });
     console.log('🔑 API Key exists:', !!groqApiKey);
 
     if (!groqApiKey) {
@@ -26,9 +26,9 @@ export default async function handler(req, res) {
         return res.status(400).json({ error: 'Groq API key not configured in environment' });
     }
 
-    if (!question || !answer) {
-        console.error('❌ Missing required fields:', { question: !!question, answer: !!answer });
-        return res.status(400).json({ error: 'Missing question or answer' });
+    if (!question || !options) {
+        console.error('❌ Missing required fields:', { question: !!question, options: !!options });
+        return res.status(400).json({ error: 'Missing question or options' });
     }
 
     try {
@@ -36,20 +36,61 @@ export default async function handler(req, res) {
 
         // Format options for the prompt
         let optionsText = '';
-        let matchingOption = '';
         if (options && Array.isArray(options)) {
             optionsText = options.map((opt, idx) => {
                 const val = typeof opt === 'object' ? opt.text : opt;
                 const key = typeof opt === 'object' ? opt.key : String.fromCharCode(65+idx);
-                // Match the correct answer to an option
-                if (val === answer || key === answer) {
-                    matchingOption = key;
-                }
                 return `${key}. ${val}`;
             }).join('\n');
         }
 
-        console.log('🔍 Matching option:', matchingOption, 'for answer:', answer);
+        // Determine if we need to identify the answer or explain existing one
+        const isAnswerProvided = answer && answer !== 'undefined';
+
+        const userPrompt = isAnswerProvided
+            ? `You are an AFCAT exam expert tutor.
+
+QUESTION TYPE: ${topic || 'General'}
+SUBJECT: ${section || 'General'}
+
+QUESTION:
+${question}
+
+OPTIONS:
+${optionsText}
+
+CORRECT ANSWER: ${answer}
+
+Provide an EXAM SHORTCUT explanation in this exact format:
+
+1. SHORTCUT: [Quick trick/method to solve - explain why this answer is correct]
+2. WHY IT WORKS: [Detailed explanation of why '${answer}' is the right choice]
+3. KEY POINT: [One important thing to remember for similar questions]
+4. EXAM TIP: [A quick tip to save time in the exam]
+
+Be CONCISE and practical - just essentials for exam prep.`
+            : `You are an AFCAT exam expert tutor. You MUST identify the correct answer.
+
+QUESTION TYPE: ${topic || 'General'}
+SUBJECT: ${section || 'General'}
+
+QUESTION:
+${question}
+
+OPTIONS:
+${optionsText}
+
+Your task:
+1. IDENTIFY which option (A, B, C, or D) is the CORRECT ANSWER
+2. Provide the correct answer in format: CORRECT OPTION: [A/B/C/D]
+3. Then explain using this format:
+
+1. SHORTCUT: [Quick trick/method to solve]
+2. WHY IT WORKS: [Why this option is correct]
+3. KEY POINT: [One important thing to remember]
+4. EXAM TIP: [A quick tip to save time]
+
+Be CONCISE and practical.`;
 
         const groqResponse = await fetch('https://api.groq.com/openai/v1/chat/completions', {
             method: 'POST',
@@ -61,28 +102,7 @@ export default async function handler(req, res) {
                 model: 'llama-3.3-70b-versatile',
                 messages: [{
                     role: 'user',
-                    content: `You are an AFCAT exam expert tutor.
-
-QUESTION TYPE: ${topic || 'General'}
-SUBJECT: ${section || 'General'}
-
-QUESTION:
-${question}
-
-OPTIONS:
-${optionsText}
-
-CORRECT ANSWER: ${answer} (Option: ${matchingOption})
-
-Provide an EXAM SHORTCUT explanation in this exact format:
-
-1. SHORTCUT: [Quick trick/method to solve - explain why OPTION ${matchingOption} is correct]
-2. WHY IT WORKS: [Detailed explanation of why '${answer}' is the right choice]
-3. KEY POINT: [One important thing to remember for similar questions]
-4. EXAM TIP: [A quick tip to save time in the exam]
-
-Focus on explaining why "${answer}" (option ${matchingOption}) is the correct answer, not other options.
-Be CONCISE and practical - just essentials for exam prep.`
+                    content: userPrompt
                 }],
                 temperature: 0.7,
                 max_tokens: 400

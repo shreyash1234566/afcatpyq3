@@ -654,12 +654,7 @@
                     <div class="flex-1">
                         <span class="block text-[10px] font-black uppercase tracking-widest mb-1 opacity-60">Verified Answer</span>
                         <div class="flex items-center gap-3">
-                            <span class="font-bold text-lg">${correctAns}</span>
-                            <span class="text-xs px-2 py-1 rounded bg-green-100 text-green-700 font-bold">${options.find(opt => {
-                                const val = typeof opt === 'object' ? opt.text : opt;
-                                const key = typeof opt === 'object' ? opt.key : null;
-                                return val === correctAns || key === correctAns;
-                            }) ? '✓ Correct' : ''}</span>
+                            <span class="font-bold text-lg">${correctAns && correctAns !== 'undefined' ? correctAns : (options && options[0] ? '(AI will identify)' : 'N/A')}</span>
                         </div>
                     </div>
                     <button onclick="getAIExplanation(this, '${q.question_text || q.question}', '${correctAns}', '${q.section}', '${q.topic_name || q.topic}', ${JSON.stringify(options)})" class="ml-2 px-3 py-1.5 bg-green-600 hover:bg-green-700 text-white text-[10px] font-bold rounded-lg transition flex-shrink-0">
@@ -704,7 +699,44 @@
                 console.log('📥 Backend response:', data, 'Status:', response.status);
 
                 if(response.ok && data.explanation) {
-                    explContent.innerHTML = data.explanation.replace(/\n/g, '<br>');
+                    let explanation = data.explanation;
+
+                    // Extract correct option if not provided
+                    const optionMatch = explanation.match(/CORRECT OPTION:\s*([A-D])/i);
+                    if (optionMatch) {
+                        const correctOpt = optionMatch[1];
+                        console.log('✅ Extracted correct option:', correctOpt);
+
+                        // Update the Verified Answer section
+                        const verifiedAnswerDiv = card.querySelector('.expl');
+                        if (verifiedAnswerDiv) {
+                            const answerSpan = verifiedAnswerDiv.querySelector('.font-bold.text-lg');
+                            if (answerSpan) {
+                                const selectedOption = options.find(opt => {
+                                    const key = typeof opt === 'object' ? opt.key : null;
+                                    return key === correctOpt;
+                                });
+                                if (selectedOption) {
+                                    const val = typeof selectedOption === 'object' ? selectedOption.text : selectedOption;
+                                    answerSpan.textContent = `${correctOpt}. ${val}`;
+                                    answerSpan.className = 'font-bold text-lg text-green-600';
+                                }
+                            }
+                        }
+
+                        // Highlight the correct option button
+                        const buttons = card.querySelectorAll('.option-btn');
+                        buttons.forEach(btn => {
+                            if (btn.querySelector('span:first-child').textContent === correctOpt) {
+                                btn.classList.add('option-correct');
+                                btn.classList.remove('option-wrong');
+                            }
+                        });
+                    }
+
+                    // Remove the correct option line from explanation display
+                    explanation = explanation.replace(/CORRECT OPTION:\s*[A-D]/i, '').trim();
+                    explContent.innerHTML = explanation.replace(/\n/g, '<br>');
                 } else {
                     const errorMsg = data.error || data.details || 'Could not generate explanation';
                     explContent.innerHTML = '❌ ' + errorMsg;
