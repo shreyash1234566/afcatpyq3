@@ -36,13 +36,20 @@ export default async function handler(req, res) {
 
         // Format options for the prompt
         let optionsText = '';
+        let matchingOption = '';
         if (options && Array.isArray(options)) {
             optionsText = options.map((opt, idx) => {
                 const val = typeof opt === 'object' ? opt.text : opt;
                 const key = typeof opt === 'object' ? opt.key : String.fromCharCode(65+idx);
+                // Match the correct answer to an option
+                if (val === answer || key === answer) {
+                    matchingOption = key;
+                }
                 return `${key}. ${val}`;
             }).join('\n');
         }
+
+        console.log('🔍 Matching option:', matchingOption, 'for answer:', answer);
 
         const groqResponse = await fetch('https://api.groq.com/openai/v1/chat/completions', {
             method: 'POST',
@@ -65,16 +72,17 @@ ${question}
 OPTIONS:
 ${optionsText}
 
-CORRECT ANSWER: ${answer}
+CORRECT ANSWER: ${answer} (Option: ${matchingOption})
 
 Provide an EXAM SHORTCUT explanation in this exact format:
 
-1. SHORTCUT: [Quick trick/method to solve this without lengthy calculations]
-2. WHY IT WORKS: [Explain why this answer is correct]
+1. SHORTCUT: [Quick trick/method to solve - explain why OPTION ${matchingOption} is correct]
+2. WHY IT WORKS: [Detailed explanation of why '${answer}' is the right choice]
 3. KEY POINT: [One important thing to remember for similar questions]
 4. EXAM TIP: [A quick tip to save time in the exam]
 
-Be CONCISE and practical - just essentials for exam prep, no lengthy explanations.`
+Focus on explaining why "${answer}" (option ${matchingOption}) is the correct answer, not other options.
+Be CONCISE and practical - just essentials for exam prep.`
                 }],
                 temperature: 0.7,
                 max_tokens: 400
