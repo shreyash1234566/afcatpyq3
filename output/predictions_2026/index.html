@@ -123,10 +123,104 @@
         ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
         
         /* Buttons */
-        .option-btn { transition: all 0.2s ease; border: 2px solid #f1f5f9; cursor: pointer; }
-        .option-btn:hover:not(:disabled) { border-color: #3b82f6; background: #eff6ff; }
-        .option-correct { background: #dcfce7 !important; border-color: #22c55e !important; color: #166534 !important; }
-        .option-wrong { background: #fee2e2 !important; border-color: #ef4444 !important; color: #991b1b !important; }
+        /* AI Explain Button */
+        .ai-explain-btn {
+            background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+            position: relative;
+            overflow: hidden;
+            transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+            box-shadow: 0 4px 15px rgba(16, 185, 129, 0.3);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .ai-explain-btn::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 0;
+            height: 0;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.1);
+            transform: translate(-50%, -50%);
+            transition: width 0.6s, height 0.6s;
+        }
+
+        .ai-explain-btn:hover::before {
+            width: 300px;
+            height: 300px;
+        }
+
+        .ai-explain-btn:hover {
+            background: linear-gradient(135deg, #059669 0%, #047857 100%);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(16, 185, 129, 0.4), 0 0 20px rgba(16, 185, 129, 0.2);
+        }
+
+        .ai-explain-btn:active {
+            transform: translateY(0);
+        }
+
+        .ai-explain-btn-text {
+            position: relative;
+            z-index: 1;
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+        }
+
+        .ai-explain-btn-icon {
+            font-size: 1.1em;
+            animation: pulse-icon 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse-icon {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.1); }
+        }
+
+        .ai-explain-btn:hover .ai-explain-btn-icon {
+            animation: bounce-icon 0.6s ease-in-out;
+        }
+
+        @keyframes bounce-icon {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-3px); }
+        }
+
+        /* AI Explanation Box */
+        .ai-expl {
+            background: linear-gradient(135deg, #f0fdf4 0%, #ecfdf5 100%);
+            border: 1px solid #bbf7d0;
+            box-shadow: 0 4px 20px rgba(16, 185, 129, 0.15), inset 0 1px 0 rgba(255, 255, 255, 0.5);
+            border-radius: 1.5rem;
+        }
+
+        .ai-expl-content {
+            color: #065f46;
+            line-height: 1.7;
+            font-size: 0.95rem;
+        }
+
+        .ai-expl-content strong {
+            color: #047857;
+            font-weight: 700;
+        }
+
+        .expl {
+            background: linear-gradient(135deg, #f0fdf4 0%, #ecfdf5 100%) !important;
+            border: 1px solid #bbf7d0 !important;
+            box-shadow: 0 4px 20px rgba(16, 185, 129, 0.12), inset 0 1px 0 rgba(255, 255, 255, 0.4) !important;
+            border-radius: 1.5rem !important;
+        }
+
+        .expl span {
+            color: #065f46 !important;
+        }
+
+        .expl .font-bold {
+            color: #047857 !important;
+        }
     </style>
 </head>
 <body class="min-h-screen flex flex-col font-sans selection:bg-brand-blue selection:text-white">
@@ -657,11 +751,14 @@
                             <span class="font-bold text-lg">${correctAns && correctAns !== 'undefined' ? correctAns : (options && options[0] ? '(AI will identify)' : 'N/A')}</span>
                         </div>
                     </div>
-                    <button onclick="getAIExplanation(this, '${q.question_text || q.question}', '${correctAns}', '${q.section}', '${q.topic_name || q.topic}')" class="ml-2 px-3 py-1.5 bg-green-600 hover:bg-green-700 text-white text-[10px] font-bold rounded-lg transition flex-shrink-0">
-                        🚀 AI Explain
+                    <button onclick="getAIExplanation(this, '${q.question_text || q.question}', '${correctAns}', '${q.section}', '${q.topic_name || q.topic}')" class="ai-explain-btn px-4 py-2 text-white text-xs font-bold uppercase tracking-wide rounded-xl flex-shrink-0 relative">
+                        <span class="ai-explain-btn-text">
+                            <span class="ai-explain-btn-icon">✨</span>
+                            <span>AI Explain</span>
+                        </span>
                     </button>
                 </div>
-                <div class="mt-6 hidden ai-expl p-6 bg-blue-50 rounded-2xl text-sm text-blue-800 border border-blue-100 animate-fade-in">
+                <div class="mt-6 hidden ai-expl p-6 animate-fade-in">
                     <span class="block text-[10px] font-black uppercase tracking-widest mb-2 opacity-60">💡 AI-Powered Explanation</span>
                     <div class="text-sm leading-relaxed ai-expl-content">Loading...</div>
                 </div>
