@@ -160,7 +160,7 @@
                     <button onclick="switchTab('mock')" class="nav-item" data-tab="mock">Mock Ops</button>
                 </nav>
                 
-                <div class="flex items-center gap-4">
+                <div class="flex items-center gap-6">
                     <div class="hidden lg:block text-right">
                         <div class="text-[10px] text-slate-400 font-bold uppercase tracking-widest">System Status</div>
                         <div class="text-xs font-bold text-green-400 flex items-center justify-end gap-1">
@@ -348,6 +348,21 @@
     <script>
         let appData = {};
         const STORAGE_KEY = 'afcat_practice_answers';
+        let groqApiKey = null;
+
+        // Fetch API key from backend
+        async function fetchApiKey() {
+            try {
+                const res = await fetch('/api/config');
+                const config = await res.json();
+                groqApiKey = config.groq_api_key;
+                console.log('✅ Groq API Key loaded from .env');
+                return groqApiKey;
+            } catch(e) {
+                console.warn('⚠️ Could not load API key from backend:', e);
+                return null;
+            }
+        }
 
         // Get saved answers from localStorage
         function getSavedAnswers() {
@@ -370,6 +385,9 @@
 
         async function init() {
             try {
+                // Load API key first
+                await fetchApiKey();
+
                 if (typeof window.dashboardData !== 'undefined') {
                     appData = window.dashboardData;
                 } else {
@@ -648,13 +666,75 @@
                     <div class="w-8 h-8 bg-green-500 rounded-full flex items-center justify-center text-white flex-shrink-0">
                         <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"/></svg>
                     </div>
-                    <div>
+                    <div class="flex-1">
                         <span class="block text-[10px] font-black uppercase tracking-widest mb-1 opacity-60">Verified Answer</span>
                         <span class="font-bold text-lg">${correctAns}</span>
                     </div>
+                    <button onclick="getAIExplanation(this, '${q.question_text || q.question}', '${correctAns}', '${q.section}')" class="ml-2 px-3 py-1.5 bg-green-600 hover:bg-green-700 text-white text-[10px] font-bold rounded-lg transition flex-shrink-0">
+                        🚀 AI Explain
+                    </button>
+                </div>
+                <div class="mt-6 hidden ai-expl p-6 bg-blue-50 rounded-2xl text-sm text-blue-800 border border-blue-100 animate-fade-in">
+                    <span class="block text-[10px] font-black uppercase tracking-widest mb-2 opacity-60">💡 AI-Powered Explanation</span>
+                    <div class="text-sm leading-relaxed ai-expl-content">Loading...</div>
                 </div>
             </div>
             `;
+        }
+
+        // Get AI explanation from Groq
+        async function getAIExplanation(btn, question, answer, section) {
+            if(!groqApiKey) {
+                alert('⚠️ Groq API key not configured. Add it to .env file.');
+                return;
+            }
+
+            const card = btn.closest('[data-question-id]');
+            const explDiv = card.querySelector('.ai-expl');
+            const explContent = card.querySelector('.ai-expl-content');
+
+            explDiv.classList.remove('hidden');
+            explContent.innerHTML = '<span class="opacity-60">⏳ Getting AI shortcut explanation...</span>';
+
+            try {
+                const response = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+                    method: 'POST',
+                    headers: {
+                        'Authorization': `Bearer ${groqApiKey}`,
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        model: 'mixtral-8x7b-32768',
+                        messages: [{
+                            role: 'user',
+                            content: `${section.includes('General') ? 'GK' : section} Question - Provide EXAM SHORTCUT METHOD
+
+Question: ${question}
+Correct Answer: ${answer}
+
+Give response in this format:
+1. SHORTCUT: [Quick trick to solve]
+2. WHY: [Why this answer works]
+3. KEY POINT: [What to remember]
+
+Be very concise - just the essentials for exam prep.`
+                        }],
+                        temperature: 0.7,
+                        max_tokens: 300
+                    })
+                });
+
+                const data = await response.json();
+                if(data.choices && data.choices[0]) {
+                    explContent.innerHTML = data.choices[0].message.content.replace(/\n/g, '<br>');
+                } else {
+                    explContent.innerHTML = '❌ Could not generate explanation. Try again.';
+                }
+            } catch(e) {
+                console.error('AI Explanation Error:', e);
+                explContent.innerHTML = '❌ Error: ' + e.message;
+            }
+        }
         }
 
         window.check = function(btn, correct, questionId, answerKey) {
