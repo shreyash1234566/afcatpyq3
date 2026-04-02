@@ -123,7 +123,7 @@
         ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
         
         /* Buttons */
-        .option-btn { transition: all 0.2s ease; border: 2px solid #f1f5f9; }
+        .option-btn { transition: all 0.2s ease; border: 2px solid #f1f5f9; cursor: pointer; }
         .option-btn:hover:not(:disabled) { border-color: #3b82f6; background: #eff6ff; }
         .option-correct { background: #dcfce7 !important; border-color: #22c55e !important; color: #166534 !important; }
         .option-wrong { background: #fee2e2 !important; border-color: #ef4444 !important; color: #991b1b !important; }
@@ -323,15 +323,18 @@
 
     <div id="practice-modal" class="fixed inset-0 bg-brand-navy/90 backdrop-blur-md z-[100] hidden flex items-center justify-center p-6">
         <div class="bg-white w-full max-w-5xl h-[90vh] rounded-[2.5rem] shadow-2xl flex flex-col overflow-hidden animate-slide-up">
-            <div class="px-10 py-6 border-b border-slate-100 flex justify-between items-center bg-white sticky top-0 z-10">
-                <div class="flex items-center gap-4">
+            <div class="px-10 py-6 border-b border-slate-100 flex justify-between items-center bg-gradient-to-r from-white to-slate-50 sticky top-0 z-10">
+                <div class="flex items-center gap-6">
                     <span id="modal-badge" class="px-4 py-1.5 rounded-full text-[10px] font-bold uppercase tracking-widest">Topic</span>
                     <h3 id="modal-topic-title" class="font-heading text-2xl font-black text-brand-navy">Topic Name</h3>
                 </div>
-                <div class="flex items-center gap-4">
-                    <div class="text-right bg-blue-50 px-4 py-2 rounded-xl">
-                        <div class="text-[10px] text-slate-500 font-bold uppercase">Answered</div>
-                        <div id="progress-counter" class="text-xl font-bold text-brand-blue">0 / 0</div>
+                <div class="flex items-center gap-6">
+                    <div class="relative">
+                        <div class="absolute -inset-3 bg-brand-blue/20 rounded-2xl blur-lg opacity-0 group-hover:opacity-100 transition"></div>
+                        <div class="relative bg-gradient-to-br from-brand-blue to-brand-sky px-6 py-3 rounded-2xl text-white shadow-lg">
+                            <div class="text-[10px] font-bold uppercase tracking-widest opacity-90">Progress</div>
+                            <div class="text-3xl font-heading font-black" id="progress-counter">0 / 0</div>
+                        </div>
                     </div>
                     <button onclick="closeModal()" class="w-12 h-12 rounded-2xl bg-slate-100 flex items-center justify-center text-slate-500 hover:bg-red-50 hover:text-red-500 transition-all">
                         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M6 18L18 6M6 6l12 12"/></svg>
@@ -580,13 +583,23 @@
                 container.innerHTML = questions.map((q, i) => createQuestionCard(q, i+1)).join('');
 
                 // Update progress counter
-                const savedAnswers = getSavedAnswers();
-                const qIds = questions.map((q, i) => {
-                    return `${q.topic_code || q.topic_name || q.topic}_${q.year || 'pyq'}_${i+1}`.replace(/\s+/g, '_');
-                });
-                const answeredCount = qIds.filter(id => savedAnswers[id]).length;
-                document.getElementById('progress-counter').textContent = `${answeredCount} / ${questions.length}`;
+                updateProgressCounter();
+
+                // Scroll to first unanswered question
+                setTimeout(() => {
+                    const firstUnanswered = container.querySelector('[data-answered="false"]');
+                    if(firstUnanswered) {
+                        firstUnanswered.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    }
+                }, 100);
             }
+        }
+
+        function updateProgressCounter() {
+            const container = document.getElementById('modal-questions');
+            const totalCards = container.querySelectorAll('[data-question-id]').length;
+            const answeredCards = container.querySelectorAll('[data-answered="true"]').length;
+            document.getElementById('progress-counter').textContent = `${answeredCards} / ${totalCards}`;
         }
 
         window.closeModal = () => {
@@ -605,10 +618,12 @@
             const isAnswered = !!savedAnswer;
 
             return `
-            <div class="bg-white rounded-3xl p-8 shadow-card border border-slate-100" data-question-id="${qId}">
+            <div class="bg-white rounded-3xl p-8 shadow-card border border-slate-100" data-question-id="${qId}" data-answered="${isAnswered}">
                 <div class="flex justify-between items-start mb-8">
                     <div class="flex items-center gap-4">
-                        <div class="w-10 h-10 rounded-xl bg-slate-100 text-slate-500 font-heading font-black flex items-center justify-center text-sm">Q${num}</div>
+                        <div class="w-10 h-10 rounded-xl flex items-center justify-center text-sm font-heading font-black ${isAnswered ? 'bg-green-100 text-green-600' : 'bg-slate-100 text-slate-500'}">
+                            ${isAnswered ? '✓' : `Q${num}`}
+                        </div>
                         <span class="${colors.badge} px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest">${q.topic_name || q.topic}</span>
                     </div>
                     <span class="bg-brand-navy/5 text-brand-navy text-[10px] font-black px-3 py-1.5 rounded-lg uppercase tracking-widest border border-brand-navy/10">${q.year || 'PYQ'}</span>
@@ -623,7 +638,7 @@
                         const isCorrect = (val === correctAns) || (key === correctAns);
                         const wasSaved = savedAnswer === key;
 
-                        return `<button onclick="check(this, ${isCorrect}, '${qId}', '${key}')" class="option-btn w-full text-left p-5 rounded-2xl text-sm font-bold text-slate-600 relative group flex items-center gap-4 ${wasSaved ? (isCorrect ? 'option-correct' : 'option-wrong') : ''}" ${isAnswered ? 'disabled' : ''} data-answer-key="${key}">
+                        return `<button onclick="check(this, ${isCorrect}, '${qId}', '${key}')" class="option-btn w-full text-left p-5 rounded-2xl text-sm font-bold text-slate-600 relative group flex items-center gap-4 transition-all ${wasSaved ? (isCorrect ? 'option-correct' : 'option-wrong') : 'hover:border-brand-blue'}" data-answer-key="${key}">
                             <span class="w-8 h-8 rounded-lg bg-slate-100 text-slate-400 text-[10px] flex items-center justify-center font-black group-hover:bg-white transition-all">${key}</span>
                             <span class="flex-1">${val}</span>
                         </button>`;
@@ -645,14 +660,30 @@
         window.check = function(btn, correct, questionId, answerKey) {
             const card = btn.closest('[data-question-id]');
             const btns = card.querySelectorAll('.option-btn');
-            btns.forEach(b => b.disabled = true);
+
+            // Remove all previous selections
+            btns.forEach(b => {
+                b.classList.remove('option-correct', 'option-wrong');
+            });
 
             // Save to localStorage
             saveAnswer(questionId, answerKey);
 
+            // Apply new selection styling
             if(correct) btn.classList.add('option-correct');
             else btn.classList.add('option-wrong');
+
+            // Show explanation
             card.querySelector('.expl').classList.remove('hidden');
+
+            // Update question badge
+            const badge = card.querySelector('[data-answered]');
+            badge.setAttribute('data-answered', 'true');
+            badge.querySelector('.w-10').innerHTML = '✓';
+            badge.querySelector('.w-10').className = 'w-10 h-10 rounded-xl flex items-center justify-center text-sm font-heading font-black bg-green-100 text-green-600';
+
+            // Update counter
+            updateProgressCounter();
         }
 
         // --- UTILS ---
