@@ -657,7 +657,7 @@
                             <span class="font-bold text-lg">${correctAns && correctAns !== 'undefined' ? correctAns : (options && options[0] ? '(AI will identify)' : 'N/A')}</span>
                         </div>
                     </div>
-                    <button onclick="getAIExplanation(this, '${q.question_text || q.question}', '${correctAns}', '${q.section}', '${q.topic_name || q.topic}', ${JSON.stringify(options)})" class="ml-2 px-3 py-1.5 bg-green-600 hover:bg-green-700 text-white text-[10px] font-bold rounded-lg transition flex-shrink-0">
+                    <button onclick="getAIExplanation(this, '${q.question_text || q.question}', '${correctAns}', '${q.section}', '${q.topic_name || q.topic}')" class="ml-2 px-3 py-1.5 bg-green-600 hover:bg-green-700 text-white text-[10px] font-bold rounded-lg transition flex-shrink-0">
                         🚀 AI Explain
                     </button>
                 </div>
@@ -670,17 +670,29 @@
         }
 
         // Get AI explanation from backend
-        async function getAIExplanation(btn, question, answer, section, topic, options) {
+        async function getAIExplanation(btn, question, answer, section, topic) {
             const card = btn.closest('[data-question-id]');
             const explDiv = card.querySelector('.ai-expl');
             const explContent = card.querySelector('.ai-expl-content');
+
+            // Extract options from the option buttons in the card
+            const optionButtons = card.querySelectorAll('.option-btn');
+            const options = [];
+            optionButtons.forEach(btn => {
+                const keySpan = btn.querySelector('span:first-child');
+                const textSpan = btn.querySelector('span:nth-child(2)');
+                if (keySpan && textSpan) {
+                    options.push(`${keySpan.textContent}. ${textSpan.textContent}`);
+                }
+            });
+
+            console.log('📤 Extracted options:', options);
+            console.log('📤 Sending to backend:', { question, answer, section, topic, optionsCount: options.length });
 
             explDiv.classList.remove('hidden');
             explContent.innerHTML = '<span class="opacity-60">⏳ Getting AI shortcut explanation...</span>';
 
             try {
-                console.log('📤 Sending to backend:', { question, answer, section, topic, options });
-
                 const response = await fetch(`${API_BASE_URL}/api/explain`, {
                     method: 'POST',
                     headers: {
@@ -712,13 +724,11 @@
                         if (verifiedAnswerDiv) {
                             const answerSpan = verifiedAnswerDiv.querySelector('.font-bold.text-lg');
                             if (answerSpan) {
-                                const selectedOption = options.find(opt => {
-                                    const key = typeof opt === 'object' ? opt.key : null;
-                                    return key === correctOpt;
-                                });
-                                if (selectedOption) {
-                                    const val = typeof selectedOption === 'object' ? selectedOption.text : selectedOption;
-                                    answerSpan.textContent = `${correctOpt}. ${val}`;
+                                // Find the option text
+                                const optionBtn = card.querySelector(`.option-btn [data-answer-key="${correctOpt}"]`)?.closest('.option-btn');
+                                if (optionBtn) {
+                                    const optionText = optionBtn.querySelector('span:nth-child(2)').textContent;
+                                    answerSpan.textContent = `${correctOpt}. ${optionText}`;
                                     answerSpan.className = 'font-bold text-lg text-green-600';
                                 }
                             }
@@ -727,7 +737,8 @@
                         // Highlight the correct option button
                         const buttons = card.querySelectorAll('.option-btn');
                         buttons.forEach(btn => {
-                            if (btn.querySelector('span:first-child').textContent === correctOpt) {
+                            const keySpan = btn.querySelector('span:first-child');
+                            if (keySpan && keySpan.textContent === correctOpt) {
                                 btn.classList.add('option-correct');
                                 btn.classList.remove('option-wrong');
                             }

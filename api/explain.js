@@ -18,7 +18,12 @@ export default async function handler(req, res) {
     const groqApiKey = process.env.GROQ_API_KEY;
 
     console.log('🔧 Backend /api/explain called');
-    console.log('📋 Request body:', { question: question?.substring(0, 50), answer, section, topic, optionsCount: options?.length });
+    console.log('📋 Request body keys:', Object.keys(req.body));
+    console.log('📋 Question:', question?.substring(0, 50), '...');
+    console.log('📋 Answer:', answer);
+    console.log('📋 Section:', section, 'Topic:', topic);
+    console.log('📋 Options received:', Array.isArray(options), 'Length:', options?.length);
+    if(options) console.log('📋 First option:', options[0]);
     console.log('🔑 API Key exists:', !!groqApiKey);
 
     if (!groqApiKey) {
@@ -26,23 +31,21 @@ export default async function handler(req, res) {
         return res.status(400).json({ error: 'Groq API key not configured in environment' });
     }
 
-    if (!question || !options) {
-        console.error('❌ Missing required fields:', { question: !!question, options: !!options });
+    if (!question || !options || !Array.isArray(options) || options.length === 0) {
+        console.error('❌ Missing required fields:', { question: !!question, optionsArray: Array.isArray(options), optionsLength: options?.length });
         return res.status(400).json({ error: 'Missing question or options' });
     }
 
     try {
         console.log('🚀 Calling Groq API...');
 
-        // Format options for the prompt
+        // Format options - they come as ["A. Option", "B. Option", ...]
         let optionsText = '';
         if (options && Array.isArray(options)) {
-            optionsText = options.map((opt, idx) => {
-                const val = typeof opt === 'object' ? opt.text : opt;
-                const key = typeof opt === 'object' ? opt.key : String.fromCharCode(65+idx);
-                return `${key}. ${val}`;
-            }).join('\n');
+            optionsText = options.join('\n');
         }
+
+        console.log('📋 Options text:', optionsText);
 
         // Determine if we need to identify the answer or explain existing one
         const isAnswerProvided = answer && answer !== 'undefined';
