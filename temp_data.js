@@ -6,8 +6,8 @@ const dashboardData = {
   "predictions": {
     "rising": [
       {
-        "topic_code": "RM_MISC",
-        "topic_name": "Non-Verbal Dot Situation",
+        "topic_code": "RM_NV_DOT",
+        "topic_name": "Dot Situation",
         "slope": 7.906,
         "recent_avg": 45.3,
         "growth": 790.6
@@ -21,7 +21,7 @@ const dashboardData = {
       },
       {
         "topic_code": "VA_REARR",
-        "topic_name": "Para Jumbles",
+        "topic_name": "Sentence Rearrangement",
         "slope": 5.9,
         "recent_avg": 15.7,
         "growth": 590.0
@@ -34,8 +34,8 @@ const dashboardData = {
         "growth": 300.0
       },
       {
-        "topic_code": "RM_VR_ORDER",
-        "topic_name": "Order & Ranking",
+        "topic_code": "RM_VR_LOG",
+        "topic_name": "Logical Reasoning",
         "slope": 3.0,
         "recent_avg": 2.5,
         "growth": 300.0
@@ -56,7 +56,7 @@ const dashboardData = {
       },
       {
         "topic_code": "VA_ERR",
-        "topic_name": "Spotting Errors",
+        "topic_name": "Error Detection",
         "slope": 2.342,
         "recent_avg": 16.7,
         "growth": 234.2
@@ -88,7 +88,7 @@ const dashboardData = {
           "time": "Session",
           "section": "Reasoning",
           "topics": [
-            "Non-Verbal Dot Situation"
+            "Dot Situation"
           ],
           "target": "Solve 30 Questions"
         },
@@ -175,7 +175,7 @@ const dashboardData = {
           "time": "Session",
           "section": "Verbal Ability",
           "topics": [
-            "Spotting Errors"
+            "Error Detection"
           ],
           "target": "Solve 30 Questions"
         },
@@ -218,7 +218,7 @@ const dashboardData = {
         }
       ],
       "pyq_practice": [
-        "\u2018Duckworth Lewis Rule\u2019 is used in the game of...",
+        "‘Duckworth Lewis Rule’ is used in the game of...",
         "The first Olympic Games were held in 1896 at...",
         "Those living in the slums are (5) and tough because they are totally (6) to the ...",
         "Those living in the slums are (5) and tough because they are totally (6) to the ..."
@@ -241,7 +241,7 @@ const dashboardData = {
           "time": "Session",
           "section": "Verbal Ability",
           "topics": [
-            "Para Jumbles"
+            "Sentence Rearrangement"
           ],
           "target": "Solve 30 Questions"
         }
@@ -363,8 +363,8 @@ const dashboardData = {
         }
       ],
       "pyq_practice": [
-        "If A = C, B = D, C = E and so on, code the following: \u2018STUDENT\u2019...",
-        "If A = Z, B = Y and so on, code the following: \u2018EDITOR\u2019...",
+        "If A = C, B = D, C = E and so on, code the following: ‘STUDENT’...",
+        "If A = Z, B = Y and so on, code the following: ‘EDITOR’...",
         "The average of five consecutive odd number is 61. What is the difference between...",
         "A cricketer has an average of 30 runs in 14 innings. How many runs should he sco..."
       ],
@@ -452,7 +452,7 @@ const dashboardData = {
       "pyq_practice": [
         "The two great revolutionaries who threw a bomb in Legislative Assembly were...",
         "Gandhiji started Dandi March...",
-        "India\u2019s permanent research station \u2018Dakshin Gangotri\u201d is situated in the...",
+        "India’s permanent research station ‘Dakshin Gangotri” is situated in the...",
         "Which one of the following is the busiest ocean route in the world?..."
       ],
       "phase": "Intensity & Speed"
@@ -771,7 +771,7 @@ const dashboardData = {
               }
             ],
             "answer": "",
-            "topic": "Spotting Errors",
+            "topic": "Error Detection",
             "year": 2012
           },
           {
@@ -971,7 +971,7 @@ const dashboardData = {
               }
             ],
             "answer": "",
-            "topic": "Spotting Errors",
+            "topic": "Error Detection",
             "year": 2024
           },
           {
@@ -1046,7 +1046,7 @@ const dashboardData = {
               }
             ],
             "answer": "",
-            "topic": "Para Jumbles",
+            "topic": "Sentence Rearrangement",
             "year": 2024
           },
           {
@@ -1096,7 +1096,7 @@ const dashboardData = {
               }
             ],
             "answer": "",
-            "topic": "Prepositions",
+            "topic": "Grammar",
             "year": 2025
           },
           {
@@ -1121,7 +1121,7 @@ const dashboardData = {
               }
             ],
             "answer": "",
-            "topic": "Spotting Errors",
+            "topic": "Error Detection",
             "year": 2024
           },
           {
@@ -1271,7 +1271,7 @@ const dashboardData = {
               }
             ],
             "answer": "",
-            "topic": "Spotting Errors",
+            "topic": "Error Detection",
             "year": 2025
           },
           {
@@ -1963,7 +1963,7 @@ const dashboardData = {
           },
           {
             "id": 2,
-            "text": "Simplify 1.11 / 19 \u00d7 380 / 3.7 \u00f7 (1/2 + 1/3)",
+            "text": "Simplify 1.11 / 19 × 380 / 3.7 ÷ (1/2 + 1/3)",
             "options": [
               {
                 "key": "A",
@@ -2038,7 +2038,7 @@ const dashboardData = {
           },
           {
             "id": 5,
-            "text": "Car A is travelling at 60 kmph towards northwest creating an angle 42\u00b0 to north and Car B is travelling towards South West at 80 kmph creating an angle 48\u00b0 degree to South. Both are started from same point. Find distance between A and B after one hour?",
+            "text": "Car A is travelling at 60 kmph towards northwest creating an angle 42° to north and Car B is travelling towards South West at 80 kmph creating an angle 48° degree to South. Both are started from same point. Find distance between A and B after one hour?",
             "options": [
               {
                 "key": "A",
@@ -2263,7 +2263,7 @@ const dashboardData = {
           },
           {
             "id": 14,
-            "text": "A retail fruit vendor buys a score of apples for \u20b9400 and retails them for \u20b9264 at a dozen. What was his loss/gain per cent? (a score = 20 no's)",
+            "text": "A retail fruit vendor buys a score of apples for ₹400 and retails them for ₹264 at a dozen. What was his loss/gain per cent? (a score = 20 no's)",
             "options": [
               {
                 "key": "A",
@@ -2338,7 +2338,7 @@ const dashboardData = {
           },
           {
             "id": 17,
-            "text": "A certain amount was divided between Sita and Gita in the ratio 9: 8. If Sita\u2019s share was Rs. 4500 then the amount is",
+            "text": "A certain amount was divided between Sita and Gita in the ratio 9: 8. If Sita’s share was Rs. 4500 then the amount is",
             "options": [
               {
                 "key": "A",
@@ -2413,7 +2413,7 @@ const dashboardData = {
           },
           {
             "id": 20,
-            "text": "Hari\u2019s income is 20% more than Madhu\u2019s income. Madhu\u2019s income is less than Hari\u2019s income by",
+            "text": "Hari’s income is 20% more than Madhu’s income. Madhu’s income is less than Hari’s income by",
             "options": [
               {
                 "key": "A",
@@ -2544,7 +2544,7 @@ const dashboardData = {
           },
           {
             "id": 5,
-            "text": "Eight friends\u2014 P, Q, R, S, T, U, V and W are sitting around a square table facing the centre... Who is immediate right to the T?",
+            "text": "Eight friends— P, Q, R, S, T, U, V and W are sitting around a square table facing the centre... Who is immediate right to the T?",
             "options": [
               {
                 "key": "A",
@@ -2639,12 +2639,12 @@ const dashboardData = {
               }
             ],
             "answer": "",
-            "topic": "Non-Verbal Puzzle",
+            "topic": "Non-Verbal Pattern",
             "year": 2016
           },
           {
             "id": 9,
-            "text": "Madhu points to a picture and says, \u201cThis is my mother\u2019s sister\u2019s daughter.\u201d How is the lady in the picture related to Madhu?",
+            "text": "Madhu points to a picture and says, “This is my mother’s sister’s daughter.” How is the lady in the picture related to Madhu?",
             "options": [
               {
                 "key": "A",
@@ -2664,7 +2664,7 @@ const dashboardData = {
               }
             ],
             "answer": "",
-            "topic": "Logical Reasoning (Verbal)",
+            "topic": "Logical Reasoning",
             "year": 2022
           },
           {
@@ -2814,7 +2814,7 @@ const dashboardData = {
               }
             ],
             "answer": "",
-            "topic": "Non-Verbal Pattern Completion",
+            "topic": "Non-Verbal Pattern",
             "year": 2018
           },
           {
@@ -2839,7 +2839,7 @@ const dashboardData = {
               }
             ],
             "answer": "",
-            "topic": "Non-Verbal Puzzle",
+            "topic": "Non-Verbal Pattern",
             "year": 2016
           },
           {
@@ -2919,7 +2919,7 @@ const dashboardData = {
           },
           {
             "id": 20,
-            "text": "In a code language, \u2018FASHION\u2019 is coded as \u2018FAIHIED\u2019, then how will \u2018FAMOUS\u2019 be coded in the same code language?",
+            "text": "In a code language, ‘FASHION’ is coded as ‘FAIHIED’, then how will ‘FAMOUS’ be coded in the same code language?",
             "options": [
               {
                 "key": "A",
@@ -2973,23 +2973,23 @@ const dashboardData = {
             "options": [
               {
                 "key": "A",
-                "text": "45\u00b0"
+                "text": "45°"
               },
               {
                 "key": "B",
-                "text": "315\u00b0"
+                "text": "315°"
               },
               {
                 "key": "C",
-                "text": "30\u00b0"
+                "text": "30°"
               },
               {
                 "key": "D",
-                "text": "330\u00b0"
+                "text": "330°"
               }
             ],
             "answer": "",
-            "topic": "Logical Reasoning (Verbal)",
+            "topic": "Logical Reasoning",
             "year": 2025
           },
           {
@@ -3064,7 +3064,7 @@ const dashboardData = {
               }
             ],
             "answer": "",
-            "topic": "Non-Verbal Spatial",
+            "topic": "Spatial Ability",
             "year": 2024
           }
         ]
@@ -3792,7 +3792,7 @@ const dashboardData = {
         ]
       },
       {
-        "q": "Who is the chairman of the constitution drafting committee\u2014",
+        "q": "Who is the chairman of the constitution drafting committee—",
         "a": "",
         "opts": [
           {
@@ -3972,7 +3972,7 @@ const dashboardData = {
     ],
     "Static GK": [
       {
-        "q": "What was India\u2019s rank at Common Wealth Games?",
+        "q": "What was India’s rank at Common Wealth Games?",
         "a": "",
         "opts": [
           {
@@ -4644,7 +4644,7 @@ const dashboardData = {
     ],
     "LCM & HCF": [
       {
-        "q": "The circumferential length of a circle of radius 7 cm is used to construct a square. The length of the side of the square is : (Take \u03c0 = 22/7.)",
+        "q": "The circumferential length of a circle of radius 7 cm is used to construct a square. The length of the side of the square is : (Take π = 22/7.)",
         "a": "",
         "opts": [
           {
@@ -4693,19 +4693,19 @@ const dashboardData = {
         "opts": [
           {
             "key": "A",
-            "text": "200\u00b0"
+            "text": "200°"
           },
           {
             "key": "B",
-            "text": "220\u00b0"
+            "text": "220°"
           },
           {
             "key": "C",
-            "text": "110\u00b0"
+            "text": "110°"
           },
           {
             "key": "D",
-            "text": "95\u00b0"
+            "text": "95°"
           }
         ]
       },
@@ -5024,7 +5024,7 @@ const dashboardData = {
         ]
       },
       {
-        "q": "Hari\u2019s income is 20% more than Madhu\u2019s income. Madhu\u2019s income is less than Hari\u2019s income by",
+        "q": "Hari’s income is 20% more than Madhu’s income. Madhu’s income is less than Hari’s income by",
         "a": "",
         "opts": [
           {
@@ -5158,24 +5158,24 @@ const dashboardData = {
         ]
       },
       {
-        "q": "Sohan borrows a sum of \u20b98,06,465 at the rate of 20% per annum simple interest. At the end of the first year, he repays \u20b925,590 towards return of principal amount borrowed. If Sohan clears all pending dues at the end of the second year, including interest payment that accrued during the first year, how much does he pay at the end of the second year?",
+        "q": "Sohan borrows a sum of ₹8,06,465 at the rate of 20% per annum simple interest. At the end of the first year, he repays ₹25,590 towards return of principal amount borrowed. If Sohan clears all pending dues at the end of the second year, including interest payment that accrued during the first year, how much does he pay at the end of the second year?",
         "a": "",
         "opts": [
           {
             "key": "A",
-            "text": "\u20b910,91,479"
+            "text": "₹10,91,479"
           },
           {
             "key": "B",
-            "text": "\u20b910,98,343"
+            "text": "₹10,98,343"
           },
           {
             "key": "C",
-            "text": "\u20b911,07,314"
+            "text": "₹11,07,314"
           },
           {
             "key": "D",
-            "text": "\u20b910,95,423"
+            "text": "₹10,95,423"
           }
         ]
       },
@@ -5226,7 +5226,7 @@ const dashboardData = {
         ]
       },
       {
-        "q": "Value of the expression: (2.25 - 1.25) / \u221a(2.25\u00b2 - 1.25\u00b2)",
+        "q": "Value of the expression: (2.25 - 1.25) / √(2.25² - 1.25²)",
         "a": "",
         "opts": [
           {
@@ -6015,7 +6015,7 @@ const dashboardData = {
         ]
       },
       {
-        "q": "Simplify: (69\u00d769\u00d769 \u2212 65\u00d765\u00d765) / (69\u00d769 + 69\u00d765 + 65\u00d765)",
+        "q": "Simplify: (69×69×69 − 65×65×65) / (69×69 + 69×65 + 65×65)",
         "a": "",
         "opts": [
           {
@@ -6059,7 +6059,7 @@ const dashboardData = {
         ]
       },
       {
-        "q": "If a/b = 3/4 and 8 a + 5 b=22, then the value of \u2018a\u2019 is",
+        "q": "If a/b = 3/4 and 8 a + 5 b=22, then the value of ‘a’ is",
         "a": "",
         "opts": [
           {
@@ -6118,7 +6118,7 @@ const dashboardData = {
           },
           {
             "key": "C",
-            "text": "a\u221ab, a^2b^2"
+            "text": "a√b, a^2b^2"
           },
           {
             "key": "D",
@@ -6463,7 +6463,7 @@ const dashboardData = {
         ]
       },
       {
-        "q": "\u2018The identification of a disease by its symptoms\u2019",
+        "q": "‘The identification of a disease by its symptoms’",
         "a": "",
         "opts": [
           {
@@ -6531,7 +6531,7 @@ const dashboardData = {
     ],
     "Prepositions": [
       {
-        "q": "Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select \u2018No substitution required\u2019. I had to write a letter of mistake to my father for the blunder I made.",
+        "q": "Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution required’. I had to write a letter of mistake to my father for the blunder I made.",
         "a": "",
         "opts": [
           {
@@ -6643,7 +6643,7 @@ const dashboardData = {
     ],
     "Coding-Decoding": [
       {
-        "q": "If A = C, B = D, C = E and so on, code the following: \u2018STUDENT\u2019",
+        "q": "If A = C, B = D, C = E and so on, code the following: ‘STUDENT’",
         "a": "",
         "opts": [
           {
@@ -6665,7 +6665,7 @@ const dashboardData = {
         ]
       },
       {
-        "q": "\u2018ZYXW\u2019 as coded as \u2018ABCD\u2019 then \u2018STUV\u2019 is coded as",
+        "q": "‘ZYXW’ as coded as ‘ABCD’ then ‘STUV’ is coded as",
         "a": "",
         "opts": [
           {
@@ -6731,7 +6731,7 @@ const dashboardData = {
         ]
       },
       {
-        "q": "In a certain code language, \u2019SAMPLE\u2019 is written as \u2018RYJLGY\u2019 and \u2018MAPLE\u2019 is written as \u2018LYMHZ\u2019. How will \u2018PEOPLE\u2019 be written in that language?",
+        "q": "In a certain code language, ’SAMPLE’ is written as ‘RYJLGY’ and ‘MAPLE’ is written as ‘LYMHZ’. How will ‘PEOPLE’ be written in that language?",
         "a": "",
         "opts": [
           {
@@ -6924,11 +6924,11 @@ const dashboardData = {
           },
           {
             "key": "C",
-            "text": "8 \u00bd days"
+            "text": "8 ½ days"
           },
           {
             "key": "D",
-            "text": "7 \u00bd days"
+            "text": "7 ½ days"
           }
         ]
       },
@@ -7475,7 +7475,7 @@ const dashboardData = {
         ]
       },
       {
-        "q": "In the given figure, the circle stands for intelligence, square for hard - working, triangle for post\u2013graduate and the rectangle for loyal employees. Study the figure and indicate the number which represents post-graduate employees who are hard-working and intelligent but not loyal?",
+        "q": "In the given figure, the circle stands for intelligence, square for hard - working, triangle for post–graduate and the rectangle for loyal employees. Study the figure and indicate the number which represents post-graduate employees who are hard-working and intelligent but not loyal?",
         "a": "",
         "opts": [
           {
@@ -7821,19 +7821,19 @@ const dashboardData = {
         "opts": [
           {
             "key": "A",
-            "text": "6 cm\u00b2"
+            "text": "6 cm²"
           },
           {
             "key": "B",
-            "text": "8 cm\u00b2"
+            "text": "8 cm²"
           },
           {
             "key": "C",
-            "text": "10 cm\u00b2"
+            "text": "10 cm²"
           },
           {
             "key": "D",
-            "text": "12 cm\u00b2"
+            "text": "12 cm²"
           }
         ]
       },
@@ -7884,7 +7884,7 @@ const dashboardData = {
         ]
       },
       {
-        "q": "Pointing towards a woman, Reena said, \u201c She is the only daughter of my father-in-law.\u201d How is the woman related to Reena?",
+        "q": "Pointing towards a woman, Reena said, “ She is the only daughter of my father-in-law.” How is the woman related to Reena?",
         "a": "",
         "opts": [
           {
@@ -7950,7 +7950,7 @@ const dashboardData = {
         ]
       },
       {
-        "q": "Shivam is the son of the brother of Rani\u2019s mother. Anil is married to Aparna, who is Ana\u2019s mother. Ritu and Ana are the sisters of Shivam. How is Rani related to Ritu?",
+        "q": "Shivam is the son of the brother of Rani’s mother. Anil is married to Aparna, who is Ana’s mother. Ritu and Ana are the sisters of Shivam. How is Rani related to Ritu?",
         "a": "",
         "opts": [
           {
