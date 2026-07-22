@@ -727,6 +727,12 @@
                 </div>
 
                 <p class="text-xl font-bold text-brand-navy mb-10 leading-relaxed font-heading">${q.question_text || q.question}</p>
+                ${q.has_figure && q.image_path && q.image_path.length > 0 ? 
+                    `<div class="mt-6 mb-8 flex flex-wrap gap-4 justify-center bg-white p-4 rounded-xl border border-slate-200">
+                        ${q.image_path.map(img => `<img src="${img}" alt="Question Figure" class="max-h-64 object-contain rounded-lg shadow-sm border border-slate-100" />`).join('')}
+                    </div>` : ''
+                }
+
 
                 <div class="grid md:grid-cols-2 gap-4">
                     ${options.map((opt, idx) => {

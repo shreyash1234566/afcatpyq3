@@ -18,7 +18,7 @@ const dashboardData = {
         "Confidence": "73.66%",
         "Trend": "Stable",
         "Historical_Avg": 6.91,
-        "Is_Core": "\u2713",
+        "Is_Core": "✓",
         "raw_count": 3.641394956023435,
         "topic_code": "Synonyms & Antonyms",
         "topic_name": "Synonyms & Antonyms"
@@ -30,7 +30,7 @@ const dashboardData = {
         "Confidence": "75.65%",
         "Trend": "Stable",
         "Historical_Avg": 3.14,
-        "Is_Core": "\u2713",
+        "Is_Core": "✓",
         "raw_count": 3.514467874300428,
         "topic_code": "Reading Comprehension",
         "topic_name": "Reading Comprehension"
@@ -42,7 +42,7 @@ const dashboardData = {
         "Confidence": "56.84%",
         "Trend": "Stable",
         "Historical_Avg": 1.86,
-        "Is_Core": "\u2713",
+        "Is_Core": "✓",
         "raw_count": 3.392233729025212,
         "topic_code": "Spotting Errors",
         "topic_name": "Spotting Errors"
@@ -102,7 +102,7 @@ const dashboardData = {
         "Confidence": "80.42%",
         "Trend": "Decreasing",
         "Historical_Avg": 3.12,
-        "Is_Core": "\u2713",
+        "Is_Core": "✓",
         "raw_count": 2.2271363386329943,
         "topic_code": "History",
         "topic_name": "History"
@@ -114,7 +114,7 @@ const dashboardData = {
         "Confidence": "60.55%",
         "Trend": "Stable",
         "Historical_Avg": 1.81,
-        "Is_Core": "\u2713",
+        "Is_Core": "✓",
         "raw_count": 2.178640422866181,
         "topic_code": "Defence",
         "topic_name": "Defence"
@@ -162,7 +162,7 @@ const dashboardData = {
         "Confidence": "64.6%",
         "Trend": "Stable",
         "Historical_Avg": 3.22,
-        "Is_Core": "\u2713",
+        "Is_Core": "✓",
         "raw_count": 1.960770821901233,
         "topic_code": "Geography",
         "topic_name": "Geography"
@@ -234,7 +234,7 @@ const dashboardData = {
         "Confidence": "61.63%",
         "Trend": "Stable",
         "Historical_Avg": 1.9,
-        "Is_Core": "\u2713",
+        "Is_Core": "✓",
         "raw_count": 1.5787663855418843,
         "topic_code": "Time, Speed & Dist.",
         "topic_name": "Time, Speed & Dist."
@@ -246,7 +246,7 @@ const dashboardData = {
         "Confidence": "67.73%",
         "Trend": "Stable",
         "Historical_Avg": 1.66,
-        "Is_Core": "\u2713",
+        "Is_Core": "✓",
         "raw_count": 1.535977499357052,
         "topic_code": "Percentage",
         "topic_name": "Percentage"
@@ -270,7 +270,7 @@ const dashboardData = {
         "Confidence": "58.62%",
         "Trend": "Increasing",
         "Historical_Avg": 1.58,
-        "Is_Core": "\u2713",
+        "Is_Core": "✓",
         "raw_count": 1.5096386861893654,
         "topic_code": "Coding-Decoding",
         "topic_name": "Coding-Decoding"
@@ -306,7 +306,7 @@ const dashboardData = {
         "Confidence": "56.71%",
         "Trend": "Stable",
         "Historical_Avg": 0.64,
-        "Is_Core": "\u2713",
+        "Is_Core": "✓",
         "raw_count": 1.4700263450908846,
         "topic_code": "Current Affairs",
         "topic_name": "Current Affairs"
@@ -498,7 +498,7 @@ const dashboardData = {
         "Confidence": "55.53%",
         "Trend": "Stable",
         "Historical_Avg": 0.36,
-        "Is_Core": "\u2713",
+        "Is_Core": "✓",
         "raw_count": 0.8869093485957725,
         "topic_code": "Syllogism",
         "topic_name": "Syllogism"
@@ -558,7 +558,7 @@ const dashboardData = {
         "Confidence": "56.32%",
         "Trend": "Stable",
         "Historical_Avg": 0.61,
-        "Is_Core": "\u2713",
+        "Is_Core": "✓",
         "raw_count": 0.8032723787644617,
         "topic_code": "Simplification",
         "topic_name": "Simplification"
@@ -750,7 +750,7 @@ const dashboardData = {
         "Confidence": "61.29%",
         "Trend": "Stable",
         "Historical_Avg": 0.08,
-        "Is_Core": "\u2713",
+        "Is_Core": "✓",
         "raw_count": 0.34246567612865064,
         "topic_code": "Blood Relations",
         "topic_name": "Blood Relations"
@@ -2036,7 +2036,7 @@ const dashboardData = {
         "Confidence": "58.62%",
         "Trend": "Increasing",
         "Historical_Avg": 1.58,
-        "Is_Core": "\u2713",
+        "Is_Core": "✓",
         "raw_count": 1.5096386861893654,
         "topic_code": "Coding-Decoding",
         "topic_name": "Coding-Decoding"
@@ -2062,7 +2062,7 @@ const dashboardData = {
         "Confidence": "80.42%",
         "Trend": "Decreasing",
         "Historical_Avg": 3.12,
-        "Is_Core": "\u2713",
+        "Is_Core": "✓",
         "raw_count": 2.2271363386329943,
         "topic_code": "History",
         "topic_name": "History"
@@ -2891,7 +2891,7 @@ const dashboardData = {
       {
         "file_name": "AFCAT_2012_Official_Paper1.pdf",
         "question_number": 5,
-        "question_text": "Pablo\u2019s father gave up painting because he",
+        "question_text": "Pablo’s father gave up painting because he",
         "section": "Verbal Ability",
         "topic": "Reading Comprehension",
         "difficulty": "Easy",
@@ -2907,7 +2907,7 @@ const dashboardData = {
           },
           {
             "key": "C",
-            "text": "was impressed by his son\u2019s talent."
+            "text": "was impressed by his son’s talent."
           },
           {
             "key": "D",
@@ -3439,7 +3439,7 @@ const dashboardData = {
       {
         "file_name": "AFCAT_02_2025_24_Aug_Shift_1.pdf",
         "question_number": 55,
-        "question_text": "Which celebrity has been officially named as the \u2018Fit India Icon\u2019 during the inaugural ceremony of the Fit India Movement in New Delhi?",
+        "question_text": "Which celebrity has been officially named as the ‘Fit India Icon’ during the inaugural ceremony of the Fit India Movement in New Delhi?",
         "section": "General Awareness",
         "topic": "Personalities",
         "difficulty": "Medium",
@@ -3783,7 +3783,7 @@ const dashboardData = {
       {
         "file_name": "AFCAT_02_2025_Shift_2.pdf",
         "question_number": 62,
-        "question_text": "In a code language, \u2018FASHION\u2019 is coded as \u2018FAIHIED\u2019, then how will \u2018FAMOUS\u2019 be coded in the same code language?",
+        "question_text": "In a code language, ‘FASHION’ is coded as ‘FAIHIED’, then how will ‘FAMOUS’ be coded in the same code language?",
         "section": "Reasoning",
         "topic": "Coding-Decoding",
         "difficulty": "Medium",
@@ -3836,7 +3836,13 @@ const dashboardData = {
           }
         ],
         "year": 2025,
-        "mock_tag": "Predicted 2026"
+        "mock_tag": "Predicted 2026",
+        "has_figure": true,
+        "image_path": [
+          "./images/AFCAT_2023_01_Memory/p14_img4.png",
+          "./images/AFCAT_2023_01_Memory/p14_img5.png",
+          "./images/AFCAT_2023_01_Memory/p14_img6.png"
+        ]
       },
       {
         "file_name": "AFCAT_02_2025_Shift_2.pdf",
@@ -4043,7 +4049,14 @@ const dashboardData = {
           }
         ],
         "year": 2025,
-        "mock_tag": "Predicted 2026"
+        "mock_tag": "Predicted 2026",
+        "has_figure": true,
+        "image_path": [
+          "./images/AFCAT_2023_02_Memory/p17_img4.png",
+          "./images/AFCAT_2023_02_Memory/p17_img5.png",
+          "./images/AFCAT_2023_02_Memory/p17_img6.png",
+          "./images/AFCAT_2023_02_Memory/p17_img7.png"
+        ]
       },
       {
         "file_name": "AFCAT_02_2025_Shift_2.pdf",
@@ -4188,7 +4201,17 @@ const dashboardData = {
           }
         ],
         "year": 2025,
-        "mock_tag": "Predicted 2026"
+        "mock_tag": "Predicted 2026",
+        "has_figure": true,
+        "image_path": [
+          "./images/AFCAT_2022_Aug27_Memory_v2/p4_img2.png",
+          "./images/AFCAT_2022_Aug27_Memory_v2/p4_img3.png",
+          "./images/AFCAT_2022_Aug27_Memory_v2/p4_img4.png",
+          "./images/AFCAT_2022_Aug27_Memory_v2/p4_img5.png",
+          "./images/AFCAT_2022_Aug27_Memory_v2/p4_img6.png",
+          "./images/AFCAT_2022_Aug27_Memory_v2/p4_img7.png",
+          "./images/AFCAT_2022_Aug27_Memory_v2/p4_img8.png"
+        ]
       },
       {
         "file_name": "AFCAT_02_2025_Shift_2.pdf",
@@ -4246,7 +4269,22 @@ const dashboardData = {
           }
         ],
         "year": 2025,
-        "mock_tag": "Predicted 2026"
+        "mock_tag": "Predicted 2026",
+        "has_figure": true,
+        "image_path": [
+          "./images/DPP_2024_Aug10_Shift2/p3_img1.jpeg",
+          "./images/DPP_2024_Aug10_Shift2/p3_img2.jpeg",
+          "./images/DPP_2024_Aug10_Shift2/p3_img3.jpeg",
+          "./images/DPP_2024_Aug10_Shift2/p3_img4.jpeg",
+          "./images/DPP_2024_Aug10_Shift2/p3_img5.jpeg",
+          "./images/DPP_2024_Aug10_Shift2/p3_img6.png",
+          "./images/DPP_2024_Aug10_Shift2/p3_img7.png",
+          "./images/DPP_2024_Aug10_Shift2/p3_img8.png",
+          "./images/DPP_2024_Aug10_Shift2/p3_img9.png",
+          "./images/DPP_2024_Aug10_Shift2/p3_img10.png",
+          "./images/DPP_2024_Aug10_Shift2/p3_img11.png",
+          "./images/DPP_2024_Aug10_Shift2/p3_img12.png"
+        ]
       },
       {
         "file_name": "AFCAT_2017_Memory.pdf",
@@ -4258,7 +4296,16 @@ const dashboardData = {
         "topic_code": "RM_NV_PATTERN",
         "choices": [],
         "year": 2017,
-        "mock_tag": "Predicted 2026"
+        "mock_tag": "Predicted 2026",
+        "has_figure": true,
+        "image_path": [
+          "./images/AFCAT_2017_Memory/p17_img4.png",
+          "./images/AFCAT_2017_Memory/p17_img5.png",
+          "./images/AFCAT_2017_Memory/p17_img6.png",
+          "./images/AFCAT_2017_Memory/p17_img7.jpeg",
+          "./images/AFCAT_2017_Memory/p17_img8.png",
+          "./images/AFCAT_2017_Memory/p17_img9.png"
+        ]
       },
       {
         "file_name": "AFCAT_2024_Feb17_Memory_v3.pdf",
@@ -4287,7 +4334,17 @@ const dashboardData = {
           }
         ],
         "year": 2024,
-        "mock_tag": "Predicted 2026"
+        "mock_tag": "Predicted 2026",
+        "has_figure": true,
+        "image_path": [
+          "./images/DPP_2024_Feb16_v2/p4_img1.jpeg",
+          "./images/DPP_2024_Feb16_v2/p4_img2.png",
+          "./images/DPP_2024_Feb16_v2/p4_img3.png",
+          "./images/DPP_2024_Feb16_v2/p4_img4.png",
+          "./images/DPP_2024_Feb16_v2/p4_img5.png",
+          "./images/DPP_2024_Feb16_v2/p4_img6.png",
+          "./images/DPP_2024_Feb16_v2/p4_img7.png"
+        ]
       },
       {
         "file_name": "AFCAT_2012_Official_Paper1.pdf",
@@ -4343,7 +4400,16 @@ const dashboardData = {
             "text": "D"
           }
         ],
-        "year": 2022
+        "year": 2022,
+        "has_figure": true,
+        "image_path": [
+          "./images/AFCAT_2022_Aug27_Memory_v2/p3_img2.png",
+          "./images/AFCAT_2022_Aug27_Memory_v2/p3_img3.png",
+          "./images/AFCAT_2022_Aug27_Memory_v2/p3_img4.png",
+          "./images/AFCAT_2022_Aug27_Memory_v2/p3_img5.png",
+          "./images/AFCAT_2022_Aug27_Memory_v2/p3_img6.png",
+          "./images/AFCAT_2022_Aug27_Memory_v2/p3_img7.png"
+        ]
       },
       {
         "file_name": "AFCAT_2020_Memory.pdf",
@@ -4399,7 +4465,21 @@ const dashboardData = {
             "text": "Figure d"
           }
         ],
-        "year": 2014
+        "year": 2014,
+        "has_figure": true,
+        "image_path": [
+          "./images/AFCAT_2014_Official_Paper2/p19_img4.jpeg",
+          "./images/AFCAT_2014_Official_Paper2/p19_img5.jpeg",
+          "./images/AFCAT_2014_Official_Paper2/p19_img6.png",
+          "./images/AFCAT_2014_Official_Paper2/p19_img7.png",
+          "./images/AFCAT_2014_Official_Paper2/p20_img10.png",
+          "./images/AFCAT_2014_Official_Paper2/p20_img4.jpeg",
+          "./images/AFCAT_2014_Official_Paper2/p20_img5.jpeg",
+          "./images/AFCAT_2014_Official_Paper2/p20_img6.jpeg",
+          "./images/AFCAT_2014_Official_Paper2/p20_img7.jpeg",
+          "./images/AFCAT_2014_Official_Paper2/p20_img8.jpeg",
+          "./images/AFCAT_2014_Official_Paper2/p20_img9.png"
+        ]
       },
       {
         "file_name": "AFCAT_02_2025_Shift_2.pdf",
@@ -4462,7 +4542,7 @@ const dashboardData = {
       {
         "file_name": "AFCAT_02_2025_Shift_2.pdf",
         "question_number": 1,
-        "question_text": "A retail fruit vendor buys a score of apples for \u20b9400 and retails them for \u20b9264 at a dozen. What was his loss/gain per cent? (a score = 20 no's)",
+        "question_text": "A retail fruit vendor buys a score of apples for ₹400 and retails them for ₹264 at a dozen. What was his loss/gain per cent? (a score = 20 no's)",
         "section": "Numerical Ability",
         "topic": "Profit & Loss",
         "difficulty": "Easy",
@@ -4752,7 +4832,7 @@ const dashboardData = {
       {
         "file_name": "AFCAT_02_2025_Shift_2.pdf",
         "question_number": 11,
-        "question_text": "Simplify: 48 - 3 [ 5 + 8 { 4 - 4 (9 - 2) + 6 } - 12 ] \u00f7 3",
+        "question_text": "Simplify: 48 - 3 [ 5 + 8 { 4 - 4 (9 - 2) + 6 } - 12 ] ÷ 3",
         "section": "Numerical Ability",
         "topic": "Simplification",
         "difficulty": "Easy",
@@ -4781,7 +4861,7 @@ const dashboardData = {
       {
         "file_name": "AFCAT_02_2025_Shift_2.pdf",
         "question_number": 6,
-        "question_text": "If a + b = 40 and a\u00b2 + b\u00b2 = 116, find the value of a\u00b3 + b\u00b3.",
+        "question_text": "If a + b = 40 and a² + b² = 116, find the value of a³ + b³.",
         "section": "Numerical Ability",
         "topic": "Algebra",
         "difficulty": "Medium",
@@ -5056,7 +5136,7 @@ const dashboardData = {
         },
         {
           "key": "C",
-          "text": "Cater to the needs of those who represent \u2018cone\u2019."
+          "text": "Cater to the needs of those who represent ‘cone’."
         },
         {
           "key": "D",
@@ -5068,7 +5148,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2011_Official_Paper2.pdf",
       "question_number": 4,
-      "question_text": "In the context of the passage, what is the meaning of the sentence \u201cThe writing is already on the wall\u201d?",
+      "question_text": "In the context of the passage, what is the meaning of the sentence “The writing is already on the wall”?",
       "section": "Verbal Ability",
       "topic": "Reading Comprehension",
       "difficulty": "Hard",
@@ -5180,7 +5260,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2011_Official_Paper2.pdf",
       "question_number": 8,
-      "question_text": "Find out which part of the sentence has an error: The two brothers amicably divided (a) / their parent\u2019s property (b) /among them. (c) / No error. (d)",
+      "question_text": "Find out which part of the sentence has an error: The two brothers amicably divided (a) / their parent’s property (b) /among them. (c) / No error. (d)",
       "section": "Verbal Ability",
       "topic": "Spotting Errors",
       "difficulty": "Medium",
@@ -5192,7 +5272,7 @@ const dashboardData = {
         },
         {
           "key": "B",
-          "text": "their parent\u2019s property"
+          "text": "their parent’s property"
         },
         {
           "key": "C",
@@ -5656,7 +5736,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2011_Official_Paper2.pdf",
       "question_number": 25,
-      "question_text": "\u2018Duckworth Lewis Rule\u2019 is used in the game of",
+      "question_text": "‘Duckworth Lewis Rule’ is used in the game of",
       "section": "General Awareness",
       "topic": "Static GK",
       "difficulty": "Easy",
@@ -5964,7 +6044,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2011_Official_Paper2.pdf",
       "question_number": 36,
-      "question_text": "India\u2019s permanent research station \u2018Dakshin Gangotri\u201d is situated in the",
+      "question_text": "India’s permanent research station ‘Dakshin Gangotri” is situated in the",
       "section": "General Awareness",
       "topic": "Geography (World)",
       "difficulty": "Easy",
@@ -6076,7 +6156,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2011_Official_Paper2.pdf",
       "question_number": 40,
-      "question_text": "Who authored the book \u201cFreedom at Midnight\u201d?",
+      "question_text": "Who authored the book “Freedom at Midnight”?",
       "section": "General Awareness",
       "topic": "Static GK",
       "difficulty": "Medium",
@@ -6216,7 +6296,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2011_Official_Paper2.pdf",
       "question_number": 45,
-      "question_text": "Jayesh is twice as old as Vijay and half as old as Suresh. If the sum of Vijay\u2019s age and Suresh\u2019s age is 85 years what is the age of Jayesh?",
+      "question_text": "Jayesh is twice as old as Vijay and half as old as Suresh. If the sum of Vijay’s age and Suresh’s age is 85 years what is the age of Jayesh?",
       "section": "Numerical Ability",
       "topic": "Ratio & Proportion",
       "difficulty": "Medium",
@@ -7527,7 +7607,15 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2011
+      "year": 2011,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2019_Memory/p16_img4.png",
+        "./images/AFCAT_2019_Memory/p16_img5.png",
+        "./images/AFCAT_2019_Memory/p16_img6.png",
+        "./images/AFCAT_2019_Memory/p16_img7.png",
+        "./images/AFCAT_2019_Memory/p16_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2011_Official_Paper2.pdf",
@@ -7555,7 +7643,15 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2011
+      "year": 2011,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2019_Memory/p16_img4.png",
+        "./images/AFCAT_2019_Memory/p16_img5.png",
+        "./images/AFCAT_2019_Memory/p16_img6.png",
+        "./images/AFCAT_2019_Memory/p16_img7.png",
+        "./images/AFCAT_2019_Memory/p16_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2011_Official_Paper2.pdf",
@@ -7583,7 +7679,15 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2011
+      "year": 2011,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2019_Memory/p16_img4.png",
+        "./images/AFCAT_2019_Memory/p16_img5.png",
+        "./images/AFCAT_2019_Memory/p16_img6.png",
+        "./images/AFCAT_2019_Memory/p16_img7.png",
+        "./images/AFCAT_2019_Memory/p16_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2011_Official_Paper2.pdf",
@@ -7611,7 +7715,15 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2011
+      "year": 2011,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2019_Memory/p16_img4.png",
+        "./images/AFCAT_2019_Memory/p16_img5.png",
+        "./images/AFCAT_2019_Memory/p16_img6.png",
+        "./images/AFCAT_2019_Memory/p16_img7.png",
+        "./images/AFCAT_2019_Memory/p16_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2011_Official_Paper2.pdf",
@@ -7639,7 +7751,15 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2011
+      "year": 2011,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2011_Official_Paper2/p16_img4.png",
+        "./images/AFCAT_2011_Official_Paper2/p16_img5.png",
+        "./images/AFCAT_2011_Official_Paper2/p16_img6.png",
+        "./images/AFCAT_2011_Official_Paper2/p16_img7.png",
+        "./images/AFCAT_2011_Official_Paper2/p16_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_2011_Official_Paper2.pdf",
@@ -7667,7 +7787,15 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2011
+      "year": 2011,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2011_Official_Paper2/p16_img4.png",
+        "./images/AFCAT_2011_Official_Paper2/p16_img5.png",
+        "./images/AFCAT_2011_Official_Paper2/p16_img6.png",
+        "./images/AFCAT_2011_Official_Paper2/p16_img7.png",
+        "./images/AFCAT_2011_Official_Paper2/p16_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_2011_Official_Paper2.pdf",
@@ -7695,7 +7823,28 @@ const dashboardData = {
           "text": "none of these"
         }
       ],
-      "year": 2011
+      "year": 2011,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2011_Official_Paper2/p15_img4.png",
+        "./images/AFCAT_2011_Official_Paper2/p15_img5.png",
+        "./images/AFCAT_2011_Official_Paper2/p15_img6.png",
+        "./images/AFCAT_2011_Official_Paper2/p15_img7.png",
+        "./images/AFCAT_2011_Official_Paper2/p15_img8.jpeg",
+        "./images/AFCAT_2011_Official_Paper2/p16_img4.png",
+        "./images/AFCAT_2011_Official_Paper2/p16_img5.png",
+        "./images/AFCAT_2011_Official_Paper2/p16_img6.png",
+        "./images/AFCAT_2011_Official_Paper2/p16_img7.png",
+        "./images/AFCAT_2011_Official_Paper2/p16_img8.png",
+        "./images/AFCAT_2011_Official_Paper2/p17_img10.png",
+        "./images/AFCAT_2011_Official_Paper2/p17_img11.jpeg",
+        "./images/AFCAT_2011_Official_Paper2/p17_img4.png",
+        "./images/AFCAT_2011_Official_Paper2/p17_img5.png",
+        "./images/AFCAT_2011_Official_Paper2/p17_img6.png",
+        "./images/AFCAT_2011_Official_Paper2/p17_img7.png",
+        "./images/AFCAT_2011_Official_Paper2/p17_img8.png",
+        "./images/AFCAT_2011_Official_Paper2/p17_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2011_Official_Paper2.pdf",
@@ -7723,7 +7872,28 @@ const dashboardData = {
           "text": "none of these"
         }
       ],
-      "year": 2011
+      "year": 2011,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2011_Official_Paper2/p15_img4.png",
+        "./images/AFCAT_2011_Official_Paper2/p15_img5.png",
+        "./images/AFCAT_2011_Official_Paper2/p15_img6.png",
+        "./images/AFCAT_2011_Official_Paper2/p15_img7.png",
+        "./images/AFCAT_2011_Official_Paper2/p15_img8.jpeg",
+        "./images/AFCAT_2011_Official_Paper2/p16_img4.png",
+        "./images/AFCAT_2011_Official_Paper2/p16_img5.png",
+        "./images/AFCAT_2011_Official_Paper2/p16_img6.png",
+        "./images/AFCAT_2011_Official_Paper2/p16_img7.png",
+        "./images/AFCAT_2011_Official_Paper2/p16_img8.png",
+        "./images/AFCAT_2011_Official_Paper2/p17_img10.png",
+        "./images/AFCAT_2011_Official_Paper2/p17_img11.jpeg",
+        "./images/AFCAT_2011_Official_Paper2/p17_img4.png",
+        "./images/AFCAT_2011_Official_Paper2/p17_img5.png",
+        "./images/AFCAT_2011_Official_Paper2/p17_img6.png",
+        "./images/AFCAT_2011_Official_Paper2/p17_img7.png",
+        "./images/AFCAT_2011_Official_Paper2/p17_img8.png",
+        "./images/AFCAT_2011_Official_Paper2/p17_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2011_Official_Paper2.pdf",
@@ -7751,7 +7921,11 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2011
+      "year": 2011,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2011_Official_Paper2/p12_img4.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2011_Official_Paper2.pdf",
@@ -7779,7 +7953,20 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2011
+      "year": 2011,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2011_Official_Paper2/p17_img10.png",
+        "./images/AFCAT_2011_Official_Paper2/p17_img11.jpeg",
+        "./images/AFCAT_2011_Official_Paper2/p17_img4.png",
+        "./images/AFCAT_2011_Official_Paper2/p17_img5.png",
+        "./images/AFCAT_2011_Official_Paper2/p17_img6.png",
+        "./images/AFCAT_2011_Official_Paper2/p17_img7.png",
+        "./images/AFCAT_2011_Official_Paper2/p17_img8.png",
+        "./images/AFCAT_2011_Official_Paper2/p17_img9.png",
+        "./images/AFCAT_2011_Official_Paper2/p18_img4.png",
+        "./images/AFCAT_2011_Official_Paper2/p18_img5.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
@@ -7896,7 +8083,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
       "question_number": 5,
-      "question_text": "Pablo\u2019s father gave up painting because he",
+      "question_text": "Pablo’s father gave up painting because he",
       "section": "Verbal Ability",
       "topic": "Reading Comprehension",
       "difficulty": "Easy",
@@ -7912,7 +8099,7 @@ const dashboardData = {
         },
         {
           "key": "C",
-          "text": "was impressed by his son\u2019s talent."
+          "text": "was impressed by his son’s talent."
         },
         {
           "key": "D",
@@ -8092,7 +8279,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
       "question_number": 12,
-      "question_text": "There was so much__________ material in the essay that it was difficult to get the author\u2019s message.",
+      "question_text": "There was so much__________ material in the essay that it was difficult to get the author’s message.",
       "section": "Verbal Ability",
       "topic": "Fill in the Blanks",
       "difficulty": "Medium",
@@ -8472,11 +8659,11 @@ const dashboardData = {
         },
         {
           "key": "C",
-          "text": "situated further East (about 30\u00b0 Longitude) than Dwarka and the earth rotates from West to East."
+          "text": "situated further East (about 30° Longitude) than Dwarka and the earth rotates from West to East."
         },
         {
           "key": "D",
-          "text": "situated about 30\u00ba East of Dwaraka and the earth rotates from West to East."
+          "text": "situated about 30º East of Dwaraka and the earth rotates from West to East."
         }
       ],
       "year": 2012
@@ -8484,7 +8671,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
       "question_number": 26,
-      "question_text": "S \u0936\u094d\u0930\u0940\u0928\u0917\u0930 is situated on the banks of the river",
+      "question_text": "S श्रीनगर is situated on the banks of the river",
       "section": "General Awareness",
       "topic": "Geography (India)",
       "difficulty": "Easy",
@@ -8800,7 +8987,7 @@ const dashboardData = {
       "choices": [
         {
           "key": "A",
-          "text": "South Africa became the first host nation to fail to qualify for the tournament\u2019s second round."
+          "text": "South Africa became the first host nation to fail to qualify for the tournament’s second round."
         },
         {
           "key": "B",
@@ -9464,7 +9651,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
       "question_number": 61,
-      "question_text": "Hari\u2019s income is 20% more than Madhu\u2019s income. Madhu\u2019s income is less than Hari\u2019s income by",
+      "question_text": "Hari’s income is 20% more than Madhu’s income. Madhu’s income is less than Hari’s income by",
       "section": "Numerical Ability",
       "topic": "Percentage",
       "difficulty": "Easy",
@@ -9884,7 +10071,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
       "question_number": 76,
-      "question_text": "If a/b = 3/4 and 8 a + 5 b=22, then the value of \u2018a\u2019 is",
+      "question_text": "If a/b = 3/4 and 8 a + 5 b=22, then the value of ‘a’ is",
       "section": "Numerical Ability",
       "topic": "Algebra",
       "difficulty": "Medium",
@@ -9912,7 +10099,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
       "question_number": 77,
-      "question_text": "If (a \u2013 b) is 6 more than (c + d) and (a + b) is 3 less than (c \u2013 d), then the value of (a \u2013 c) is",
+      "question_text": "If (a – b) is 6 more than (c + d) and (a + b) is 3 less than (c – d), then the value of (a – c) is",
       "section": "Numerical Ability",
       "topic": "Algebra",
       "difficulty": "Hard",
@@ -9996,7 +10183,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
       "question_number": 80,
-      "question_text": "A certain amount was divided between Sita and Gita in the ratio 9: 8. If Sita\u2019s share was Rs. 4500 then the amount is",
+      "question_text": "A certain amount was divided between Sita and Gita in the ratio 9: 8. If Sita’s share was Rs. 4500 then the amount is",
       "section": "Numerical Ability",
       "topic": "Ratio & Proportion",
       "difficulty": "Easy",
@@ -10047,7 +10234,17 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Feb16_v2/p4_img1.jpeg",
+        "./images/DPP_2024_Feb16_v2/p4_img2.png",
+        "./images/DPP_2024_Feb16_v2/p4_img3.png",
+        "./images/DPP_2024_Feb16_v2/p4_img4.png",
+        "./images/DPP_2024_Feb16_v2/p4_img5.png",
+        "./images/DPP_2024_Feb16_v2/p4_img6.png",
+        "./images/DPP_2024_Feb16_v2/p4_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
@@ -10075,7 +10272,17 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Feb16_v2/p4_img1.jpeg",
+        "./images/DPP_2024_Feb16_v2/p4_img2.png",
+        "./images/DPP_2024_Feb16_v2/p4_img3.png",
+        "./images/DPP_2024_Feb16_v2/p4_img4.png",
+        "./images/DPP_2024_Feb16_v2/p4_img5.png",
+        "./images/DPP_2024_Feb16_v2/p4_img6.png",
+        "./images/DPP_2024_Feb16_v2/p4_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
@@ -10103,7 +10310,17 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Feb16_v2/p4_img1.jpeg",
+        "./images/DPP_2024_Feb16_v2/p4_img2.png",
+        "./images/DPP_2024_Feb16_v2/p4_img3.png",
+        "./images/DPP_2024_Feb16_v2/p4_img4.png",
+        "./images/DPP_2024_Feb16_v2/p4_img5.png",
+        "./images/DPP_2024_Feb16_v2/p4_img6.png",
+        "./images/DPP_2024_Feb16_v2/p4_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
@@ -10131,7 +10348,17 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Feb16_v2/p4_img1.jpeg",
+        "./images/DPP_2024_Feb16_v2/p4_img2.png",
+        "./images/DPP_2024_Feb16_v2/p4_img3.png",
+        "./images/DPP_2024_Feb16_v2/p4_img4.png",
+        "./images/DPP_2024_Feb16_v2/p4_img5.png",
+        "./images/DPP_2024_Feb16_v2/p4_img6.png",
+        "./images/DPP_2024_Feb16_v2/p4_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
@@ -10159,7 +10386,14 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper1/p16_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p16_img5.png",
+        "./images/AFCAT_2012_Official_Paper1/p16_img6.png",
+        "./images/AFCAT_2012_Official_Paper1/p16_img7.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
@@ -10187,7 +10421,26 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2015_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
@@ -10215,7 +10468,26 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2015_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
@@ -10243,7 +10515,26 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2015_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
@@ -10271,7 +10562,26 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2015_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
@@ -10299,7 +10609,26 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2015_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
@@ -10327,7 +10656,21 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper1/p16_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p16_img5.png",
+        "./images/AFCAT_2012_Official_Paper1/p16_img6.png",
+        "./images/AFCAT_2012_Official_Paper1/p16_img7.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2012_Official_Paper1/p17_img5.png",
+        "./images/AFCAT_2012_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2012_Official_Paper1/p17_img7.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img6.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
@@ -10355,7 +10698,21 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper1/p16_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p16_img5.png",
+        "./images/AFCAT_2012_Official_Paper1/p16_img6.png",
+        "./images/AFCAT_2012_Official_Paper1/p16_img7.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2012_Official_Paper1/p17_img5.png",
+        "./images/AFCAT_2012_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2012_Official_Paper1/p17_img7.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img6.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
@@ -10383,7 +10740,21 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper1/p16_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p16_img5.png",
+        "./images/AFCAT_2012_Official_Paper1/p16_img6.png",
+        "./images/AFCAT_2012_Official_Paper1/p16_img7.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2012_Official_Paper1/p17_img5.png",
+        "./images/AFCAT_2012_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2012_Official_Paper1/p17_img7.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img6.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
@@ -10411,7 +10782,21 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper1/p16_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p16_img5.png",
+        "./images/AFCAT_2012_Official_Paper1/p16_img6.png",
+        "./images/AFCAT_2012_Official_Paper1/p16_img7.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2012_Official_Paper1/p17_img5.png",
+        "./images/AFCAT_2012_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2012_Official_Paper1/p17_img7.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img6.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
@@ -10439,7 +10824,21 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper1/p16_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p16_img5.png",
+        "./images/AFCAT_2012_Official_Paper1/p16_img6.png",
+        "./images/AFCAT_2012_Official_Paper1/p16_img7.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2012_Official_Paper1/p17_img5.png",
+        "./images/AFCAT_2012_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2012_Official_Paper1/p17_img7.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img6.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
@@ -10467,7 +10866,20 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper1/p18_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img6.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p19_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p19_img5.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p19_img6.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p19_img7.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p20_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p20_img5.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p20_img6.png"
+      ]
     },
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
@@ -10495,7 +10907,20 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper1/p18_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img6.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p19_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p19_img5.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p19_img6.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p19_img7.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p20_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p20_img5.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p20_img6.png"
+      ]
     },
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
@@ -10523,7 +10948,20 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper1/p18_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img6.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p19_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p19_img5.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p19_img6.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p19_img7.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p20_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p20_img5.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p20_img6.png"
+      ]
     },
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
@@ -10551,7 +10989,20 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper1/p18_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img6.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p19_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p19_img5.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p19_img6.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p19_img7.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p20_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p20_img5.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p20_img6.png"
+      ]
     },
     {
       "file_name": "AFCAT_2012_Official_Paper1.pdf",
@@ -10579,7 +11030,20 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper1/p18_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p18_img6.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p19_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p19_img5.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p19_img6.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p19_img7.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p20_img4.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p20_img5.jpeg",
+        "./images/AFCAT_2012_Official_Paper1/p20_img6.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2012.pdf",
@@ -11276,7 +11740,7 @@ const dashboardData = {
         },
         {
           "key": "D",
-          "text": "F \u2013 1"
+          "text": "F – 1"
         }
       ],
       "year": 2012
@@ -11816,7 +12280,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2_2012.pdf",
       "question_number": 45,
-      "question_text": "If a/(a + b) = 17/23, what is (a + b)/(a \u2013 b) equal to?",
+      "question_text": "If a/(a + b) = 17/23, what is (a + b)/(a – b) equal to?",
       "section": "Numerical Ability",
       "topic": "Ratio & Proportion",
       "difficulty": "Medium",
@@ -11872,7 +12336,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2_2012.pdf",
       "question_number": 47,
-      "question_text": "A man\u2019s average monthly expenditure for the first four months of the year was Rs. 225.25. For the next five months, the average monthly expenditure was Rs. 20.75 more than what it was during the first four months. If the person spent Rs. 700 in all during the remaining three months of the year, find what percentage of his annual income of Rs. 3500 he saved in the year?",
+      "question_text": "A man’s average monthly expenditure for the first four months of the year was Rs. 225.25. For the next five months, the average monthly expenditure was Rs. 20.75 more than what it was during the first four months. If the person spent Rs. 700 in all during the remaining three months of the year, find what percentage of his annual income of Rs. 3500 he saved in the year?",
       "section": "Numerical Ability",
       "topic": "Average",
       "difficulty": "Hard",
@@ -11928,7 +12392,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2_2012.pdf",
       "question_number": 49,
-      "question_text": "The mean temperature of Monday to Wednesday was 37\u00b0C and of Tuesday to Thursday was 34\u00b0C. If the temperature on Thursday was 4/5th that of Monday, the temperature on Thursday was",
+      "question_text": "The mean temperature of Monday to Wednesday was 37°C and of Tuesday to Thursday was 34°C. If the temperature on Thursday was 4/5th that of Monday, the temperature on Thursday was",
       "section": "Numerical Ability",
       "topic": "Average",
       "difficulty": "Medium",
@@ -11936,19 +12400,19 @@ const dashboardData = {
       "choices": [
         {
           "key": "A",
-          "text": "36.5\u00b0C"
+          "text": "36.5°C"
         },
         {
           "key": "B",
-          "text": "36\u00baC"
+          "text": "36ºC"
         },
         {
           "key": "C",
-          "text": "35.5\u00b0C"
+          "text": "35.5°C"
         },
         {
           "key": "D",
-          "text": "34\u00b0C"
+          "text": "34°C"
         }
       ],
       "year": 2012
@@ -12847,7 +13311,17 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper2/p15_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2012.pdf",
@@ -12875,7 +13349,17 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper2/p15_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2012.pdf",
@@ -12903,7 +13387,17 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper2/p15_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2012.pdf",
@@ -12931,7 +13425,17 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper2/p15_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2012.pdf",
@@ -12959,7 +13463,17 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper2/p15_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2012.pdf",
@@ -12987,7 +13501,24 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper2/p15_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img9.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img10.jpeg",
+        "./images/AFCAT_2012_Official_Paper2/p17_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2012.pdf",
@@ -13015,7 +13546,24 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper2/p15_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img9.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img10.jpeg",
+        "./images/AFCAT_2012_Official_Paper2/p17_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2012.pdf",
@@ -13043,7 +13591,24 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper2/p15_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img9.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img10.jpeg",
+        "./images/AFCAT_2012_Official_Paper2/p17_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2012.pdf",
@@ -13071,7 +13636,24 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper2/p15_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img9.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img10.jpeg",
+        "./images/AFCAT_2012_Official_Paper2/p17_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2012.pdf",
@@ -13099,7 +13681,24 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper2/p15_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img9.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img10.jpeg",
+        "./images/AFCAT_2012_Official_Paper2/p17_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2012.pdf",
@@ -13127,7 +13726,29 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper2/p16_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img9.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img10.jpeg",
+        "./images/AFCAT_2012_Official_Paper2/p17_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img9.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2_2012.pdf",
@@ -13155,7 +13776,29 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper2/p16_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img9.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img10.jpeg",
+        "./images/AFCAT_2012_Official_Paper2/p17_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img9.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2_2012.pdf",
@@ -13183,7 +13826,29 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper2/p16_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img9.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img10.jpeg",
+        "./images/AFCAT_2012_Official_Paper2/p17_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img9.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2_2012.pdf",
@@ -13211,7 +13876,29 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper2/p16_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img9.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img10.jpeg",
+        "./images/AFCAT_2012_Official_Paper2/p17_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img9.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2_2012.pdf",
@@ -13239,7 +13926,29 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper2/p16_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p16_img9.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img10.jpeg",
+        "./images/AFCAT_2012_Official_Paper2/p17_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img9.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2_2012.pdf",
@@ -13267,7 +13976,26 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper2/p17_img10.jpeg",
+        "./images/AFCAT_2012_Official_Paper2/p17_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img9.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img9.jpeg",
+        "./images/AFCAT_2012_Official_Paper2/p19_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p19_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p19_img6.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2_2012.pdf",
@@ -13295,7 +14023,26 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper2/p17_img10.jpeg",
+        "./images/AFCAT_2012_Official_Paper2/p17_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img9.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img9.jpeg",
+        "./images/AFCAT_2012_Official_Paper2/p19_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p19_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p19_img6.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2_2012.pdf",
@@ -13323,7 +14070,26 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper2/p17_img10.jpeg",
+        "./images/AFCAT_2012_Official_Paper2/p17_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img9.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img9.jpeg",
+        "./images/AFCAT_2012_Official_Paper2/p19_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p19_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p19_img6.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2_2012.pdf",
@@ -13351,7 +14117,26 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper2/p17_img10.jpeg",
+        "./images/AFCAT_2012_Official_Paper2/p17_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img9.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img9.jpeg",
+        "./images/AFCAT_2012_Official_Paper2/p19_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p19_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p19_img6.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2_2012.pdf",
@@ -13379,7 +14164,26 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2012
+      "year": 2012,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2012_Official_Paper2/p17_img10.jpeg",
+        "./images/AFCAT_2012_Official_Paper2/p17_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p17_img9.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img6.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img7.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img8.png",
+        "./images/AFCAT_2012_Official_Paper2/p18_img9.jpeg",
+        "./images/AFCAT_2012_Official_Paper2/p19_img4.png",
+        "./images/AFCAT_2012_Official_Paper2/p19_img5.png",
+        "./images/AFCAT_2012_Official_Paper2/p19_img6.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
@@ -13944,7 +14748,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
       "question_number": 21,
-      "question_text": "Who accorded the title \u2018Mahatma\u2019 to MK Gandhi?",
+      "question_text": "Who accorded the title ‘Mahatma’ to MK Gandhi?",
       "section": "General Awareness",
       "topic": "History (Modern)",
       "difficulty": "Easy",
@@ -14112,7 +14916,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
       "question_number": 27,
-      "question_text": "The official song \u2018WakaWaka\u2019 of FIFA World Cup held in the year 2010 at South Africa was sung by which popular singer?",
+      "question_text": "The official song ‘WakaWaka’ of FIFA World Cup held in the year 2010 at South Africa was sung by which popular singer?",
       "section": "General Awareness",
       "topic": "Static GK",
       "difficulty": "Easy",
@@ -14168,7 +14972,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
       "question_number": 29,
-      "question_text": "Term \u2018Visible Horizon\u2019 in astronomy is defined as",
+      "question_text": "Term ‘Visible Horizon’ in astronomy is defined as",
       "section": "General Awareness",
       "topic": "General Science",
       "difficulty": "Medium",
@@ -14336,7 +15140,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
       "question_number": 35,
-      "question_text": "Who is the author of book \u2018Keeping the Faith: Members of a Parliamentarian\u2019?",
+      "question_text": "Who is the author of book ‘Keeping the Faith: Members of a Parliamentarian’?",
       "section": "General Awareness",
       "topic": "Books",
       "difficulty": "Medium",
@@ -14616,7 +15420,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
       "question_number": 45,
-      "question_text": "If a/ (a + b) = 15/21, what is (a + b)/(a \u2013 b) equal to?",
+      "question_text": "If a/ (a + b) = 15/21, what is (a + b)/(a – b) equal to?",
       "section": "Numerical Ability",
       "topic": "Ratio & Proportion",
       "difficulty": "Medium",
@@ -14644,7 +15448,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
       "question_number": 46,
-      "question_text": "((798+579)^2 - (798-579)^2)/(798 \u00d7 579) = ?",
+      "question_text": "((798+579)^2 - (798-579)^2)/(798 × 579) = ?",
       "section": "Numerical Ability",
       "topic": "Simplification",
       "difficulty": "Easy",
@@ -14672,7 +15476,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
       "question_number": 47,
-      "question_text": "A man\u2019s average monthly expenditure for the first four months of the year was Rs. 231.25. For the next five months, the average monthly expenditure was Rs. 22.75 more than what it was during the first four months. If the person spent Rs. 605 in all during the remaining three months of the year, find what percentage of his annual income of Rs. 3500 did he save in the year?",
+      "question_text": "A man’s average monthly expenditure for the first four months of the year was Rs. 231.25. For the next five months, the average monthly expenditure was Rs. 22.75 more than what it was during the first four months. If the person spent Rs. 605 in all during the remaining three months of the year, find what percentage of his annual income of Rs. 3500 did he save in the year?",
       "section": "Numerical Ability",
       "topic": "Percentage",
       "difficulty": "Hard",
@@ -15630,7 +16434,14 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_SERIES",
       "choices": [],
-      "year": 2013
+      "year": 2013,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p16_img4.png",
+        "./images/AFCAT_2017_Memory/p16_img5.png",
+        "./images/AFCAT_2017_Memory/p16_img6.png",
+        "./images/AFCAT_2017_Memory/p16_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
@@ -15641,7 +16452,16 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_SERIES",
       "choices": [],
-      "year": 2013
+      "year": 2013,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2015_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2015_Official_Paper1/p17_img5.png",
+        "./images/AFCAT_2015_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2015_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2015_Official_Paper1/p17_img8.png",
+        "./images/AFCAT_2015_Official_Paper1/p17_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
@@ -15652,7 +16472,30 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_SERIES",
       "choices": [],
-      "year": 2013
+      "year": 2013,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2015_Official_Paper1/p16_img10.png",
+        "./images/AFCAT_2015_Official_Paper1/p16_img4.png",
+        "./images/AFCAT_2015_Official_Paper1/p16_img5.png",
+        "./images/AFCAT_2015_Official_Paper1/p16_img6.png",
+        "./images/AFCAT_2015_Official_Paper1/p16_img7.png",
+        "./images/AFCAT_2015_Official_Paper1/p16_img8.png",
+        "./images/AFCAT_2015_Official_Paper1/p16_img9.png",
+        "./images/AFCAT_2015_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2015_Official_Paper1/p17_img5.png",
+        "./images/AFCAT_2015_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2015_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2015_Official_Paper1/p17_img8.png",
+        "./images/AFCAT_2015_Official_Paper1/p17_img9.jpeg",
+        "./images/AFCAT_2015_Official_Paper1/p18_img10.png",
+        "./images/AFCAT_2015_Official_Paper1/p18_img4.png",
+        "./images/AFCAT_2015_Official_Paper1/p18_img5.png",
+        "./images/AFCAT_2015_Official_Paper1/p18_img6.png",
+        "./images/AFCAT_2015_Official_Paper1/p18_img7.png",
+        "./images/AFCAT_2015_Official_Paper1/p18_img8.png",
+        "./images/AFCAT_2015_Official_Paper1/p18_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
@@ -15663,7 +16506,13 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_SERIES",
       "choices": [],
-      "year": 2013
+      "year": 2013,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p14_img4.png",
+        "./images/AFCAT_2023_01_Memory/p14_img5.png",
+        "./images/AFCAT_2023_01_Memory/p14_img6.png"
+      ]
     },
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
@@ -15674,7 +16523,13 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_SERIES",
       "choices": [],
-      "year": 2013
+      "year": 2013,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p14_img4.png",
+        "./images/AFCAT_2023_01_Memory/p14_img5.png",
+        "./images/AFCAT_2023_01_Memory/p14_img6.png"
+      ]
     },
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
@@ -15685,7 +16540,21 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_PATTERN",
       "choices": [],
-      "year": 2013
+      "year": 2013,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2013_Official_Paper1/p15_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p15_img5.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p15_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p16_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p16_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p16_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
@@ -15696,7 +16565,21 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_PATTERN",
       "choices": [],
-      "year": 2013
+      "year": 2013,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2013_Official_Paper1/p15_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p15_img5.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p15_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p16_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p16_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p16_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
@@ -15707,7 +16590,21 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_PATTERN",
       "choices": [],
-      "year": 2013
+      "year": 2013,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2013_Official_Paper1/p15_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p15_img5.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p15_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p16_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p16_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p16_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
@@ -15718,7 +16615,21 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_PATTERN",
       "choices": [],
-      "year": 2013
+      "year": 2013,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2013_Official_Paper1/p15_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p15_img5.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p15_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p16_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p16_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p16_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
@@ -15729,7 +16640,21 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_PATTERN",
       "choices": [],
-      "year": 2013
+      "year": 2013,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2013_Official_Paper1/p15_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p15_img5.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p15_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p16_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p16_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p16_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
@@ -15740,7 +16665,24 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_SPATIAL",
       "choices": [],
-      "year": 2013
+      "year": 2013,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2013_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img8.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p18_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p18_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p18_img7.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p19_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
@@ -15751,7 +16693,24 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_SPATIAL",
       "choices": [],
-      "year": 2013
+      "year": 2013,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2013_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img8.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p18_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p18_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p18_img7.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p19_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
@@ -15762,7 +16721,24 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_SPATIAL",
       "choices": [],
-      "year": 2013
+      "year": 2013,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2013_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img8.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p18_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p18_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p18_img7.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p19_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
@@ -15773,7 +16749,24 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_SPATIAL",
       "choices": [],
-      "year": 2013
+      "year": 2013,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2013_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img8.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p18_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p18_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p18_img7.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p19_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
@@ -15784,7 +16777,24 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_SPATIAL",
       "choices": [],
-      "year": 2013
+      "year": 2013,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2013_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p17_img8.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p18_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p18_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p18_img7.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p19_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
@@ -15795,7 +16805,23 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_PATTERN",
       "choices": [],
-      "year": 2013
+      "year": 2013,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2013_Official_Paper1/p19_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img8.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p20_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p20_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p20_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p20_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p21_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p21_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p21_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p21_img7.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
@@ -15806,7 +16832,23 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_PATTERN",
       "choices": [],
-      "year": 2013
+      "year": 2013,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2013_Official_Paper1/p19_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img8.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p20_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p20_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p20_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p20_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p21_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p21_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p21_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p21_img7.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
@@ -15817,7 +16859,23 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_PATTERN",
       "choices": [],
-      "year": 2013
+      "year": 2013,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2013_Official_Paper1/p19_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img8.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p20_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p20_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p20_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p20_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p21_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p21_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p21_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p21_img7.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
@@ -15828,7 +16886,23 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_PATTERN",
       "choices": [],
-      "year": 2013
+      "year": 2013,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2013_Official_Paper1/p19_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img8.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p20_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p20_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p20_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p20_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p21_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p21_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p21_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p21_img7.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2013_Official_Paper1.pdf",
@@ -15839,7 +16913,23 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_PATTERN",
       "choices": [],
-      "year": 2013
+      "year": 2013,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2013_Official_Paper1/p19_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p19_img8.jpeg",
+        "./images/AFCAT_2013_Official_Paper1/p20_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p20_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p20_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p20_img7.png",
+        "./images/AFCAT_2013_Official_Paper1/p21_img4.png",
+        "./images/AFCAT_2013_Official_Paper1/p21_img5.png",
+        "./images/AFCAT_2013_Official_Paper1/p21_img6.png",
+        "./images/AFCAT_2013_Official_Paper1/p21_img7.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_1_2014.pdf",
@@ -16068,7 +17158,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_1_2014.pdf",
       "question_number": 9,
-      "question_text": "They don\u2019t (9) hypertension and heart attacks because there is, after all (10) to worry about. (Select the appropriate word for 9)",
+      "question_text": "They don’t (9) hypertension and heart attacks because there is, after all (10) to worry about. (Select the appropriate word for 9)",
       "section": "Verbal Ability",
       "topic": "Cloze Test",
       "difficulty": "Easy",
@@ -16096,7 +17186,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_1_2014.pdf",
       "question_number": 10,
-      "question_text": "They don\u2019t (9) hypertension and heart attacks because there is, after all (10) to worry about. (Select the appropriate word for 10)",
+      "question_text": "They don’t (9) hypertension and heart attacks because there is, after all (10) to worry about. (Select the appropriate word for 10)",
       "section": "Verbal Ability",
       "topic": "Cloze Test",
       "difficulty": "Easy",
@@ -16264,7 +17354,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_1_2014.pdf",
       "question_number": 16,
-      "question_text": "\u2018Able to use both hands alike\u2019",
+      "question_text": "‘Able to use both hands alike’",
       "section": "Verbal Ability",
       "topic": "One Word Substitution",
       "difficulty": "Easy",
@@ -16292,7 +17382,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_1_2014.pdf",
       "question_number": 17,
-      "question_text": "\u2018A written account of the life of an individual\u2019",
+      "question_text": "‘A written account of the life of an individual’",
       "section": "Verbal Ability",
       "topic": "One Word Substitution",
       "difficulty": "Easy",
@@ -16320,7 +17410,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_1_2014.pdf",
       "question_number": 18,
-      "question_text": "\u2018The identification of a disease by its symptoms\u2019",
+      "question_text": "‘The identification of a disease by its symptoms’",
       "section": "Verbal Ability",
       "topic": "One Word Substitution",
       "difficulty": "Easy",
@@ -16348,7 +17438,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_1_2014.pdf",
       "question_number": 19,
-      "question_text": "\u2018Prolonged inability to sleep\u2019",
+      "question_text": "‘Prolonged inability to sleep’",
       "section": "Verbal Ability",
       "topic": "One Word Substitution",
       "difficulty": "Easy",
@@ -16432,7 +17522,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_1_2014.pdf",
       "question_number": 22,
-      "question_text": "\u2018God is Dead\u2019 is a ___________ statement. (Choose the correctly spelt word)",
+      "question_text": "‘God is Dead’ is a ___________ statement. (Choose the correctly spelt word)",
       "section": "Verbal Ability",
       "topic": "Grammar",
       "difficulty": "Medium",
@@ -16544,7 +17634,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_1_2014.pdf",
       "question_number": 26,
-      "question_text": "Who was the Governor-General of India during the \u2018Sepoy Mutiny\u2019?",
+      "question_text": "Who was the Governor-General of India during the ‘Sepoy Mutiny’?",
       "section": "General Awareness",
       "topic": "History (Modern)",
       "difficulty": "Easy",
@@ -16740,7 +17830,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_1_2014.pdf",
       "question_number": 33,
-      "question_text": "Who is called as the \u201cNapoleon of India\u2019?",
+      "question_text": "Who is called as the “Napoleon of India’?",
       "section": "General Awareness",
       "topic": "History (Ancient)",
       "difficulty": "Easy",
@@ -16768,7 +17858,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_1_2014.pdf",
       "question_number": 34,
-      "question_text": "Who is known as the \u2018Grand Old Man of India\u2019?",
+      "question_text": "Who is known as the ‘Grand Old Man of India’?",
       "section": "General Awareness",
       "topic": "History (Modern)",
       "difficulty": "Easy",
@@ -16852,7 +17942,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_1_2014.pdf",
       "question_number": 37,
-      "question_text": "Which Indian sportsperson was appointed as \u2018Messenger of Peace\u2019 in 2001 by the UN?",
+      "question_text": "Which Indian sportsperson was appointed as ‘Messenger of Peace’ in 2001 by the UN?",
       "section": "General Awareness",
       "topic": "Personalities",
       "difficulty": "Medium",
@@ -16880,7 +17970,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_1_2014.pdf",
       "question_number": 38,
-      "question_text": "Indian Women\u2019s hockey team secured which of the following position in Asian Champions Trophy 2013?",
+      "question_text": "Indian Women’s hockey team secured which of the following position in Asian Champions Trophy 2013?",
       "section": "General Awareness",
       "topic": "Static GK",
       "difficulty": "Medium",
@@ -17076,7 +18166,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_1_2014.pdf",
       "question_number": 45,
-      "question_text": "Kalhana\u2019s \u2018Rajatarangini\u2019 is a history of",
+      "question_text": "Kalhana’s ‘Rajatarangini’ is a history of",
       "section": "General Awareness",
       "topic": "Books",
       "difficulty": "Easy",
@@ -17088,7 +18178,7 @@ const dashboardData = {
         },
         {
           "key": "B",
-          "text": "Harsha\u2019s reign"
+          "text": "Harsha’s reign"
         },
         {
           "key": "C",
@@ -17096,7 +18186,7 @@ const dashboardData = {
         },
         {
           "key": "D",
-          "text": "Chandragupta\u2019s reign"
+          "text": "Chandragupta’s reign"
         }
       ],
       "year": 2014
@@ -17152,7 +18242,7 @@ const dashboardData = {
         },
         {
           "key": "D",
-          "text": "Zimbabwe \u2013 Harare"
+          "text": "Zimbabwe – Harare"
         }
       ],
       "year": 2014
@@ -17244,7 +18334,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_1_2014.pdf",
       "question_number": 51,
-      "question_text": "If A = C, B = D, C = E and so on, code the following: \u2018STUDENT\u2019",
+      "question_text": "If A = C, B = D, C = E and so on, code the following: ‘STUDENT’",
       "section": "Reasoning",
       "topic": "Coding-Decoding",
       "difficulty": "Easy",
@@ -17272,7 +18362,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_1_2014.pdf",
       "question_number": 52,
-      "question_text": "If A = Z, B = Y and so on, code the following: \u2018EDITOR\u2019",
+      "question_text": "If A = Z, B = Y and so on, code the following: ‘EDITOR’",
       "section": "Reasoning",
       "topic": "Coding-Decoding",
       "difficulty": "Easy",
@@ -17300,7 +18390,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_1_2014.pdf",
       "question_number": 53,
-      "question_text": "\u2018RUSTLE\u2019 is to \u2018LEAVES\u2019 as \u2018PATTER\u2019 is to_",
+      "question_text": "‘RUSTLE’ is to ‘LEAVES’ as ‘PATTER’ is to_",
       "section": "Reasoning",
       "topic": "Verbal Analogy",
       "difficulty": "Easy",
@@ -17328,7 +18418,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_1_2014.pdf",
       "question_number": 54,
-      "question_text": "\u2018INDISCREET\u2019 is to \u2018IMPRUDENT\u2019 as \u2018INDISPOSED\u2019 is to ____________",
+      "question_text": "‘INDISCREET’ is to ‘IMPRUDENT’ as ‘INDISPOSED’ is to ____________",
       "section": "Reasoning",
       "topic": "Verbal Analogy",
       "difficulty": "Medium",
@@ -17356,7 +18446,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_1_2014.pdf",
       "question_number": 55,
-      "question_text": "\u2018ACCIDENT\u2019 is to \u2018CAREFULNESS\u2019 as \u2018DISEASE\u2019 is to _________",
+      "question_text": "‘ACCIDENT’ is to ‘CAREFULNESS’ as ‘DISEASE’ is to _________",
       "section": "Reasoning",
       "topic": "Verbal Analogy",
       "difficulty": "Easy",
@@ -17468,7 +18558,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_1_2014.pdf",
       "question_number": 59,
-      "question_text": "Statement: \u201cYou won\u2019t get sweets at any cost. I will not let you eat things that are not good for your teeth\u201d \u2014 a mother tells her child. Which of the following assumptions are implicit? (i) The mother cares for her child. (ii) Sweets are not good for her child. (iii) The mother has the authority to decide what her child is to eat.",
+      "question_text": "Statement: “You won’t get sweets at any cost. I will not let you eat things that are not good for your teeth” — a mother tells her child. Which of the following assumptions are implicit? (i) The mother cares for her child. (ii) Sweets are not good for her child. (iii) The mother has the authority to decide what her child is to eat.",
       "section": "Reasoning",
       "topic": "Logical Reasoning (Verbal)",
       "difficulty": "Medium",
@@ -17496,7 +18586,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_1_2014.pdf",
       "question_number": 60,
-      "question_text": "Statement: \u201cClearly, the judiciary cannot provide all answers. But it seems the public, weary of an inactive Executive, is turning to the Supreme Court as a last resort\u201d\u2014an article. Which of the following assumptions are implicit? (i) The Supreme Court is above the Executive. (ii) The Supreme Court is more active than the Executive. (iii) The Executive does not have sufficient powers.",
+      "question_text": "Statement: “Clearly, the judiciary cannot provide all answers. But it seems the public, weary of an inactive Executive, is turning to the Supreme Court as a last resort”—an article. Which of the following assumptions are implicit? (i) The Supreme Court is above the Executive. (ii) The Supreme Court is more active than the Executive. (iii) The Executive does not have sufficient powers.",
       "section": "Reasoning",
       "topic": "Logical Reasoning (Verbal)",
       "difficulty": "Medium",
@@ -17580,7 +18670,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_1_2014.pdf",
       "question_number": 63,
-      "question_text": "Cr\u00e8che: Infants",
+      "question_text": "Crèche: Infants",
       "section": "Reasoning",
       "topic": "Verbal Analogy",
       "difficulty": "Easy",
@@ -18196,7 +19286,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_1_2014.pdf",
       "question_number": 85,
-      "question_text": "Simplify: (69\u00d769\u00d769 \u2212 65\u00d765\u00d765) / (69\u00d769 + 69\u00d765 + 65\u00d765)",
+      "question_text": "Simplify: (69×69×69 − 65×65×65) / (69×69 + 69×65 + 65×65)",
       "section": "Numerical Ability",
       "topic": "Algebra",
       "difficulty": "Hard",
@@ -18247,7 +19337,15 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_1_2014.pdf",
@@ -18275,7 +19373,15 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_1_2014.pdf",
@@ -18303,7 +19409,15 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_1_2014.pdf",
@@ -18331,7 +19445,15 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_1_2014.pdf",
@@ -18359,7 +19481,20 @@ const dashboardData = {
           "text": "LQ"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img8.png",
+        "./images/AFCAT_2014_Official_Paper1/p18_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img6.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p18_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_1_2014.pdf",
@@ -18387,7 +19522,20 @@ const dashboardData = {
           "text": "SZ"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img8.png",
+        "./images/AFCAT_2014_Official_Paper1/p18_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img6.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p18_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_1_2014.pdf",
@@ -18415,7 +19563,20 @@ const dashboardData = {
           "text": "JK"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img8.png",
+        "./images/AFCAT_2014_Official_Paper1/p18_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img6.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p18_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_1_2014.pdf",
@@ -18443,7 +19604,20 @@ const dashboardData = {
           "text": "CG"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img8.png",
+        "./images/AFCAT_2014_Official_Paper1/p18_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img6.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p18_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_1_2014.pdf",
@@ -18471,7 +19645,27 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img8.png",
+        "./images/AFCAT_2014_Official_Paper1/p18_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img6.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p18_img8.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p19_img10.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p19_img4.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img5.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img6.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img8.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_1_2014.pdf",
@@ -18499,7 +19693,27 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img8.png",
+        "./images/AFCAT_2014_Official_Paper1/p18_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img6.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p18_img8.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p19_img10.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p19_img4.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img5.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img6.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img8.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_1_2014.pdf",
@@ -18527,7 +19741,27 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img8.png",
+        "./images/AFCAT_2014_Official_Paper1/p18_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img6.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p18_img8.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p19_img10.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p19_img4.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img5.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img6.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img8.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_1_2014.pdf",
@@ -18555,7 +19789,27 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper1/p17_img4.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p17_img6.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p17_img8.png",
+        "./images/AFCAT_2014_Official_Paper1/p18_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img6.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p18_img8.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p19_img10.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p19_img4.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img5.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img6.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img8.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_1_2014.pdf",
@@ -18583,7 +19837,22 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper1/p18_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img6.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p18_img8.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p19_img10.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p19_img4.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img5.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img6.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img8.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_1_2014.pdf",
@@ -18611,7 +19880,22 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper1/p18_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img6.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p18_img8.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p19_img10.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p19_img4.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img5.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img6.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img8.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_1_2014.pdf",
@@ -18639,7 +19923,22 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper1/p18_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img6.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p18_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p18_img8.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p19_img10.jpeg",
+        "./images/AFCAT_2014_Official_Paper1/p19_img4.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img5.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img6.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img7.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img8.png",
+        "./images/AFCAT_2014_Official_Paper1/p19_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2014.pdf",
@@ -21047,7 +22346,21 @@ const dashboardData = {
           "text": "Figure d"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper2/p19_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p19_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p19_img6.png",
+        "./images/AFCAT_2014_Official_Paper2/p19_img7.png",
+        "./images/AFCAT_2014_Official_Paper2/p20_img10.png",
+        "./images/AFCAT_2014_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2014.pdf",
@@ -21075,7 +22388,21 @@ const dashboardData = {
           "text": "Figure d"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper2/p19_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p19_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p19_img6.png",
+        "./images/AFCAT_2014_Official_Paper2/p19_img7.png",
+        "./images/AFCAT_2014_Official_Paper2/p20_img10.png",
+        "./images/AFCAT_2014_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2014.pdf",
@@ -21103,7 +22430,21 @@ const dashboardData = {
           "text": "Figure d"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper2/p19_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p19_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p19_img6.png",
+        "./images/AFCAT_2014_Official_Paper2/p19_img7.png",
+        "./images/AFCAT_2014_Official_Paper2/p20_img10.png",
+        "./images/AFCAT_2014_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2014.pdf",
@@ -21131,7 +22472,21 @@ const dashboardData = {
           "text": "Figure d"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper2/p19_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p19_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p19_img6.png",
+        "./images/AFCAT_2014_Official_Paper2/p19_img7.png",
+        "./images/AFCAT_2014_Official_Paper2/p20_img10.png",
+        "./images/AFCAT_2014_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2014.pdf",
@@ -21159,7 +22514,12 @@ const dashboardData = {
           "text": "Figure d"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p15_img4.png",
+        "./images/AFCAT_2023_01_Memory/p15_img5.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2014.pdf",
@@ -21187,7 +22547,12 @@ const dashboardData = {
           "text": "Figure d"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p15_img4.png",
+        "./images/AFCAT_2023_01_Memory/p15_img5.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2014.pdf",
@@ -21215,7 +22580,12 @@ const dashboardData = {
           "text": "Figure d"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p15_img4.png",
+        "./images/AFCAT_2023_01_Memory/p15_img5.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2014.pdf",
@@ -21243,7 +22613,12 @@ const dashboardData = {
           "text": "Figure d"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p15_img4.png",
+        "./images/AFCAT_2023_01_Memory/p15_img5.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2014.pdf",
@@ -21271,7 +22646,26 @@ const dashboardData = {
           "text": "Figure d"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper2/p19_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p19_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p19_img6.png",
+        "./images/AFCAT_2014_Official_Paper2/p19_img7.png",
+        "./images/AFCAT_2014_Official_Paper2/p20_img10.png",
+        "./images/AFCAT_2014_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img9.png",
+        "./images/AFCAT_2014_Official_Paper2/p21_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p21_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p21_img6.png",
+        "./images/AFCAT_2014_Official_Paper2/p21_img7.png",
+        "./images/AFCAT_2014_Official_Paper2/p21_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2014.pdf",
@@ -21299,7 +22693,26 @@ const dashboardData = {
           "text": "Figure d"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper2/p19_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p19_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p19_img6.png",
+        "./images/AFCAT_2014_Official_Paper2/p19_img7.png",
+        "./images/AFCAT_2014_Official_Paper2/p20_img10.png",
+        "./images/AFCAT_2014_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img9.png",
+        "./images/AFCAT_2014_Official_Paper2/p21_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p21_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p21_img6.png",
+        "./images/AFCAT_2014_Official_Paper2/p21_img7.png",
+        "./images/AFCAT_2014_Official_Paper2/p21_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2014.pdf",
@@ -21327,7 +22740,26 @@ const dashboardData = {
           "text": "Figure d"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper2/p19_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p19_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p19_img6.png",
+        "./images/AFCAT_2014_Official_Paper2/p19_img7.png",
+        "./images/AFCAT_2014_Official_Paper2/p20_img10.png",
+        "./images/AFCAT_2014_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img9.png",
+        "./images/AFCAT_2014_Official_Paper2/p21_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p21_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p21_img6.png",
+        "./images/AFCAT_2014_Official_Paper2/p21_img7.png",
+        "./images/AFCAT_2014_Official_Paper2/p21_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2014.pdf",
@@ -21355,7 +22787,26 @@ const dashboardData = {
           "text": "Figure d"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper2/p19_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p19_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p19_img6.png",
+        "./images/AFCAT_2014_Official_Paper2/p19_img7.png",
+        "./images/AFCAT_2014_Official_Paper2/p20_img10.png",
+        "./images/AFCAT_2014_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img9.png",
+        "./images/AFCAT_2014_Official_Paper2/p21_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p21_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p21_img6.png",
+        "./images/AFCAT_2014_Official_Paper2/p21_img7.png",
+        "./images/AFCAT_2014_Official_Paper2/p21_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2014.pdf",
@@ -21383,7 +22834,22 @@ const dashboardData = {
           "text": "Figure d"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper2/p20_img10.png",
+        "./images/AFCAT_2014_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img9.png",
+        "./images/AFCAT_2014_Official_Paper2/p21_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p21_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p21_img6.png",
+        "./images/AFCAT_2014_Official_Paper2/p21_img7.png",
+        "./images/AFCAT_2014_Official_Paper2/p21_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2014.pdf",
@@ -21411,7 +22877,22 @@ const dashboardData = {
           "text": "Figure d"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper2/p20_img10.png",
+        "./images/AFCAT_2014_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img9.png",
+        "./images/AFCAT_2014_Official_Paper2/p21_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p21_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p21_img6.png",
+        "./images/AFCAT_2014_Official_Paper2/p21_img7.png",
+        "./images/AFCAT_2014_Official_Paper2/p21_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_2_2014.pdf",
@@ -21439,7 +22920,22 @@ const dashboardData = {
           "text": "Figure d"
         }
       ],
-      "year": 2014
+      "year": 2014,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2014_Official_Paper2/p20_img10.png",
+        "./images/AFCAT_2014_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p20_img9.png",
+        "./images/AFCAT_2014_Official_Paper2/p21_img4.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p21_img5.jpeg",
+        "./images/AFCAT_2014_Official_Paper2/p21_img6.png",
+        "./images/AFCAT_2014_Official_Paper2/p21_img7.png",
+        "./images/AFCAT_2014_Official_Paper2/p21_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -22508,7 +24004,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
       "question_number": 39,
-      "question_text": "A\u2019s salary is 20% lower than B\u2019s salary, which is 15% lower than C\u2019s salary. By how much percent is C\u2019s salary more than A\u2019s salary?",
+      "question_text": "A’s salary is 20% lower than B’s salary, which is 15% lower than C’s salary. By how much percent is C’s salary more than A’s salary?",
       "section": "Numerical Ability",
       "topic": "Percentage",
       "difficulty": "Medium",
@@ -23427,7 +24923,22 @@ const dashboardData = {
           "text": "Diagram D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p12_img4.png",
+        "./images/AFCAT_2021_Memory/p12_img5.png",
+        "./images/AFCAT_2021_Memory/p12_img6.png",
+        "./images/AFCAT_2021_Memory/p12_img7.png",
+        "./images/AFCAT_2021_Memory/p12_img8.png",
+        "./images/AFCAT_2021_Memory/p13_img10.png",
+        "./images/AFCAT_2021_Memory/p13_img4.png",
+        "./images/AFCAT_2021_Memory/p13_img5.png",
+        "./images/AFCAT_2021_Memory/p13_img6.png",
+        "./images/AFCAT_2021_Memory/p13_img7.png",
+        "./images/AFCAT_2021_Memory/p13_img8.png",
+        "./images/AFCAT_2021_Memory/p13_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -23455,7 +24966,22 @@ const dashboardData = {
           "text": "Diagram D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p12_img4.png",
+        "./images/AFCAT_2021_Memory/p12_img5.png",
+        "./images/AFCAT_2021_Memory/p12_img6.png",
+        "./images/AFCAT_2021_Memory/p12_img7.png",
+        "./images/AFCAT_2021_Memory/p12_img8.png",
+        "./images/AFCAT_2021_Memory/p13_img10.png",
+        "./images/AFCAT_2021_Memory/p13_img4.png",
+        "./images/AFCAT_2021_Memory/p13_img5.png",
+        "./images/AFCAT_2021_Memory/p13_img6.png",
+        "./images/AFCAT_2021_Memory/p13_img7.png",
+        "./images/AFCAT_2021_Memory/p13_img8.png",
+        "./images/AFCAT_2021_Memory/p13_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -23483,7 +25009,22 @@ const dashboardData = {
           "text": "Diagram D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p12_img4.png",
+        "./images/AFCAT_2021_Memory/p12_img5.png",
+        "./images/AFCAT_2021_Memory/p12_img6.png",
+        "./images/AFCAT_2021_Memory/p12_img7.png",
+        "./images/AFCAT_2021_Memory/p12_img8.png",
+        "./images/AFCAT_2021_Memory/p13_img10.png",
+        "./images/AFCAT_2021_Memory/p13_img4.png",
+        "./images/AFCAT_2021_Memory/p13_img5.png",
+        "./images/AFCAT_2021_Memory/p13_img6.png",
+        "./images/AFCAT_2021_Memory/p13_img7.png",
+        "./images/AFCAT_2021_Memory/p13_img8.png",
+        "./images/AFCAT_2021_Memory/p13_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -23511,7 +25052,22 @@ const dashboardData = {
           "text": "Diagram D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p12_img4.png",
+        "./images/AFCAT_2021_Memory/p12_img5.png",
+        "./images/AFCAT_2021_Memory/p12_img6.png",
+        "./images/AFCAT_2021_Memory/p12_img7.png",
+        "./images/AFCAT_2021_Memory/p12_img8.png",
+        "./images/AFCAT_2021_Memory/p13_img10.png",
+        "./images/AFCAT_2021_Memory/p13_img4.png",
+        "./images/AFCAT_2021_Memory/p13_img5.png",
+        "./images/AFCAT_2021_Memory/p13_img6.png",
+        "./images/AFCAT_2021_Memory/p13_img7.png",
+        "./images/AFCAT_2021_Memory/p13_img8.png",
+        "./images/AFCAT_2021_Memory/p13_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -23567,7 +25123,26 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2015_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -23595,7 +25170,26 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2015_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -23623,7 +25217,26 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2015_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -23651,7 +25264,26 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2015_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -23679,7 +25311,26 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2015_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -23707,7 +25358,14 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p16_img4.png",
+        "./images/AFCAT_2017_Memory/p16_img5.png",
+        "./images/AFCAT_2017_Memory/p16_img6.png",
+        "./images/AFCAT_2017_Memory/p16_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -23735,7 +25393,14 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p16_img4.png",
+        "./images/AFCAT_2017_Memory/p16_img5.png",
+        "./images/AFCAT_2017_Memory/p16_img6.png",
+        "./images/AFCAT_2017_Memory/p16_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -23763,7 +25428,14 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p16_img4.png",
+        "./images/AFCAT_2017_Memory/p16_img5.png",
+        "./images/AFCAT_2017_Memory/p16_img6.png",
+        "./images/AFCAT_2017_Memory/p16_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -23791,7 +25463,14 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p16_img4.png",
+        "./images/AFCAT_2017_Memory/p16_img5.png",
+        "./images/AFCAT_2017_Memory/p16_img6.png",
+        "./images/AFCAT_2017_Memory/p16_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -23819,7 +25498,14 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p16_img4.png",
+        "./images/AFCAT_2017_Memory/p16_img5.png",
+        "./images/AFCAT_2017_Memory/p16_img6.png",
+        "./images/AFCAT_2017_Memory/p16_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -23987,7 +25673,17 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p18_img4.jpeg",
+        "./images/AFCAT_2017_Memory/p18_img5.png",
+        "./images/AFCAT_2017_Memory/p18_img6.png",
+        "./images/AFCAT_2017_Memory/p18_img7.png",
+        "./images/AFCAT_2017_Memory/p18_img8.png",
+        "./images/AFCAT_2017_Memory/p18_img9.png",
+        "./images/AFCAT_2017_Memory/p18_img10.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -24015,7 +25711,17 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p18_img4.jpeg",
+        "./images/AFCAT_2017_Memory/p18_img5.png",
+        "./images/AFCAT_2017_Memory/p18_img6.png",
+        "./images/AFCAT_2017_Memory/p18_img7.png",
+        "./images/AFCAT_2017_Memory/p18_img8.png",
+        "./images/AFCAT_2017_Memory/p18_img9.png",
+        "./images/AFCAT_2017_Memory/p18_img10.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -24043,7 +25749,17 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p18_img4.jpeg",
+        "./images/AFCAT_2017_Memory/p18_img5.png",
+        "./images/AFCAT_2017_Memory/p18_img6.png",
+        "./images/AFCAT_2017_Memory/p18_img7.png",
+        "./images/AFCAT_2017_Memory/p18_img8.png",
+        "./images/AFCAT_2017_Memory/p18_img9.png",
+        "./images/AFCAT_2017_Memory/p18_img10.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -24071,7 +25787,17 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p18_img4.jpeg",
+        "./images/AFCAT_2017_Memory/p18_img5.png",
+        "./images/AFCAT_2017_Memory/p18_img6.png",
+        "./images/AFCAT_2017_Memory/p18_img7.png",
+        "./images/AFCAT_2017_Memory/p18_img8.png",
+        "./images/AFCAT_2017_Memory/p18_img9.png",
+        "./images/AFCAT_2017_Memory/p18_img10.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -24099,7 +25825,17 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p18_img4.jpeg",
+        "./images/AFCAT_2017_Memory/p18_img5.png",
+        "./images/AFCAT_2017_Memory/p18_img6.png",
+        "./images/AFCAT_2017_Memory/p18_img7.png",
+        "./images/AFCAT_2017_Memory/p18_img8.png",
+        "./images/AFCAT_2017_Memory/p18_img9.png",
+        "./images/AFCAT_2017_Memory/p18_img10.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -24127,7 +25863,12 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p15_img4.png",
+        "./images/AFCAT_2023_01_Memory/p15_img5.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -24155,7 +25896,12 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p15_img4.png",
+        "./images/AFCAT_2023_01_Memory/p15_img5.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -24183,7 +25929,12 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p15_img4.png",
+        "./images/AFCAT_2023_01_Memory/p15_img5.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -24211,7 +25962,12 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p15_img4.png",
+        "./images/AFCAT_2023_01_Memory/p15_img5.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -24239,7 +25995,12 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p15_img4.png",
+        "./images/AFCAT_2023_01_Memory/p15_img5.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper2.pdf",
@@ -26367,7 +28128,22 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2015_Official_Paper2/p14_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img9.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper2.pdf",
@@ -26395,7 +28171,22 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2015_Official_Paper2/p14_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img9.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper2.pdf",
@@ -26423,7 +28214,22 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2015_Official_Paper2/p14_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img9.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper2.pdf",
@@ -26451,7 +28257,22 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2015_Official_Paper2/p14_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img9.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper2.pdf",
@@ -26479,7 +28300,22 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2015_Official_Paper2/p14_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p15_img9.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p16_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper2.pdf",
@@ -26591,7 +28427,17 @@ const dashboardData = {
           "text": "Diagram (d)"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2018_Memory/p18_img4.png",
+        "./images/AFCAT_2018_Memory/p18_img5.png",
+        "./images/AFCAT_2018_Memory/p18_img6.png",
+        "./images/AFCAT_2018_Memory/p18_img7.png",
+        "./images/AFCAT_2018_Memory/p18_img8.png",
+        "./images/AFCAT_2018_Memory/p18_img9.png",
+        "./images/AFCAT_2018_Memory/p18_img10.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper2.pdf",
@@ -26619,7 +28465,17 @@ const dashboardData = {
           "text": "Diagram (d)"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2018_Memory/p18_img4.png",
+        "./images/AFCAT_2018_Memory/p18_img5.png",
+        "./images/AFCAT_2018_Memory/p18_img6.png",
+        "./images/AFCAT_2018_Memory/p18_img7.png",
+        "./images/AFCAT_2018_Memory/p18_img8.png",
+        "./images/AFCAT_2018_Memory/p18_img9.png",
+        "./images/AFCAT_2018_Memory/p18_img10.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper2.pdf",
@@ -26647,7 +28503,17 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p18_img4.jpeg",
+        "./images/AFCAT_2017_Memory/p18_img5.png",
+        "./images/AFCAT_2017_Memory/p18_img6.png",
+        "./images/AFCAT_2017_Memory/p18_img7.png",
+        "./images/AFCAT_2017_Memory/p18_img8.png",
+        "./images/AFCAT_2017_Memory/p18_img9.png",
+        "./images/AFCAT_2017_Memory/p18_img10.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper2.pdf",
@@ -26675,7 +28541,17 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p18_img4.jpeg",
+        "./images/AFCAT_2017_Memory/p18_img5.png",
+        "./images/AFCAT_2017_Memory/p18_img6.png",
+        "./images/AFCAT_2017_Memory/p18_img7.png",
+        "./images/AFCAT_2017_Memory/p18_img8.png",
+        "./images/AFCAT_2017_Memory/p18_img9.png",
+        "./images/AFCAT_2017_Memory/p18_img10.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper2.pdf",
@@ -26703,7 +28579,17 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p18_img4.jpeg",
+        "./images/AFCAT_2017_Memory/p18_img5.png",
+        "./images/AFCAT_2017_Memory/p18_img6.png",
+        "./images/AFCAT_2017_Memory/p18_img7.png",
+        "./images/AFCAT_2017_Memory/p18_img8.png",
+        "./images/AFCAT_2017_Memory/p18_img9.png",
+        "./images/AFCAT_2017_Memory/p18_img10.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper2.pdf",
@@ -26731,7 +28617,17 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p18_img4.jpeg",
+        "./images/AFCAT_2017_Memory/p18_img5.png",
+        "./images/AFCAT_2017_Memory/p18_img6.png",
+        "./images/AFCAT_2017_Memory/p18_img7.png",
+        "./images/AFCAT_2017_Memory/p18_img8.png",
+        "./images/AFCAT_2017_Memory/p18_img9.png",
+        "./images/AFCAT_2017_Memory/p18_img10.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper2.pdf",
@@ -26759,7 +28655,17 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p18_img4.jpeg",
+        "./images/AFCAT_2017_Memory/p18_img5.png",
+        "./images/AFCAT_2017_Memory/p18_img6.png",
+        "./images/AFCAT_2017_Memory/p18_img7.png",
+        "./images/AFCAT_2017_Memory/p18_img8.png",
+        "./images/AFCAT_2017_Memory/p18_img9.png",
+        "./images/AFCAT_2017_Memory/p18_img10.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper2.pdf",
@@ -26787,7 +28693,12 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p15_img4.png",
+        "./images/AFCAT_2023_01_Memory/p15_img5.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper2.pdf",
@@ -26815,7 +28726,12 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p15_img4.png",
+        "./images/AFCAT_2023_01_Memory/p15_img5.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper2.pdf",
@@ -26843,7 +28759,12 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p15_img4.png",
+        "./images/AFCAT_2023_01_Memory/p15_img5.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper2.pdf",
@@ -26871,7 +28792,12 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p15_img4.png",
+        "./images/AFCAT_2023_01_Memory/p15_img5.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper2.pdf",
@@ -26899,7 +28825,12 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p15_img4.png",
+        "./images/AFCAT_2023_01_Memory/p15_img5.png"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper2.pdf",
@@ -26927,7 +28858,26 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2015_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper2.pdf",
@@ -26955,7 +28905,26 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2015_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper2.pdf",
@@ -26983,7 +28952,26 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2015_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper2.pdf",
@@ -27011,7 +28999,26 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2015_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2015_Official_Paper2.pdf",
@@ -27039,7 +29046,26 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2015
+      "year": 2015,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2015_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p20_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p21_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img4.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img5.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img6.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img7.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img8.jpeg",
+        "./images/AFCAT_2015_Official_Paper2/p22_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2016_Official_Paper2.pdf",
@@ -28971,7 +30997,16 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2016
+      "year": 2016,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2016_Official_Paper2/p14_img4.png",
+        "./images/AFCAT_2016_Official_Paper2/p14_img5.png",
+        "./images/AFCAT_2016_Official_Paper2/p14_img6.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p14_img7.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p14_img8.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p14_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2016_Official_Paper2.pdf",
@@ -28999,7 +31034,16 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2016
+      "year": 2016,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2016_Official_Paper2/p14_img4.png",
+        "./images/AFCAT_2016_Official_Paper2/p14_img5.png",
+        "./images/AFCAT_2016_Official_Paper2/p14_img6.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p14_img7.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p14_img8.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p14_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2016_Official_Paper2.pdf",
@@ -29027,7 +31071,16 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2016
+      "year": 2016,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2016_Official_Paper2/p14_img4.png",
+        "./images/AFCAT_2016_Official_Paper2/p14_img5.png",
+        "./images/AFCAT_2016_Official_Paper2/p14_img6.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p14_img7.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p14_img8.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p14_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2016_Official_Paper2.pdf",
@@ -29055,7 +31108,16 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2016
+      "year": 2016,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2016_Official_Paper2/p14_img4.png",
+        "./images/AFCAT_2016_Official_Paper2/p14_img5.png",
+        "./images/AFCAT_2016_Official_Paper2/p14_img6.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p14_img7.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p14_img8.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p14_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2016_Official_Paper2.pdf",
@@ -29083,7 +31145,16 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2016
+      "year": 2016,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2016_Official_Paper2/p14_img4.png",
+        "./images/AFCAT_2016_Official_Paper2/p14_img5.png",
+        "./images/AFCAT_2016_Official_Paper2/p14_img6.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p14_img7.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p14_img8.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p14_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2016_Official_Paper2.pdf",
@@ -29111,7 +31182,22 @@ const dashboardData = {
           "text": "Diagram D"
         }
       ],
-      "year": 2016
+      "year": 2016,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p12_img4.png",
+        "./images/AFCAT_2021_Memory/p12_img5.png",
+        "./images/AFCAT_2021_Memory/p12_img6.png",
+        "./images/AFCAT_2021_Memory/p12_img7.png",
+        "./images/AFCAT_2021_Memory/p12_img8.png",
+        "./images/AFCAT_2021_Memory/p13_img10.png",
+        "./images/AFCAT_2021_Memory/p13_img4.png",
+        "./images/AFCAT_2021_Memory/p13_img5.png",
+        "./images/AFCAT_2021_Memory/p13_img6.png",
+        "./images/AFCAT_2021_Memory/p13_img7.png",
+        "./images/AFCAT_2021_Memory/p13_img8.png",
+        "./images/AFCAT_2021_Memory/p13_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2016_Official_Paper2.pdf",
@@ -29223,7 +31309,25 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2016
+      "year": 2016,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2016_Official_Paper2/p16_img4.png",
+        "./images/AFCAT_2016_Official_Paper2/p16_img5.png",
+        "./images/AFCAT_2016_Official_Paper2/p16_img6.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p16_img7.png",
+        "./images/AFCAT_2016_Official_Paper2/p16_img8.png",
+        "./images/AFCAT_2016_Official_Paper2/p16_img9.png",
+        "./images/AFCAT_2016_Official_Paper2/p17_img10.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p17_img4.png",
+        "./images/AFCAT_2016_Official_Paper2/p17_img5.png",
+        "./images/AFCAT_2016_Official_Paper2/p17_img6.png",
+        "./images/AFCAT_2016_Official_Paper2/p17_img7.png",
+        "./images/AFCAT_2016_Official_Paper2/p17_img8.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p17_img9.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p18_img4.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p18_img5.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2016_Official_Paper2.pdf",
@@ -29251,7 +31355,25 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2016
+      "year": 2016,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2016_Official_Paper2/p16_img4.png",
+        "./images/AFCAT_2016_Official_Paper2/p16_img5.png",
+        "./images/AFCAT_2016_Official_Paper2/p16_img6.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p16_img7.png",
+        "./images/AFCAT_2016_Official_Paper2/p16_img8.png",
+        "./images/AFCAT_2016_Official_Paper2/p16_img9.png",
+        "./images/AFCAT_2016_Official_Paper2/p17_img10.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p17_img4.png",
+        "./images/AFCAT_2016_Official_Paper2/p17_img5.png",
+        "./images/AFCAT_2016_Official_Paper2/p17_img6.png",
+        "./images/AFCAT_2016_Official_Paper2/p17_img7.png",
+        "./images/AFCAT_2016_Official_Paper2/p17_img8.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p17_img9.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p18_img4.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p18_img5.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2016_Official_Paper2.pdf",
@@ -29279,7 +31401,25 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2016
+      "year": 2016,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2016_Official_Paper2/p16_img4.png",
+        "./images/AFCAT_2016_Official_Paper2/p16_img5.png",
+        "./images/AFCAT_2016_Official_Paper2/p16_img6.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p16_img7.png",
+        "./images/AFCAT_2016_Official_Paper2/p16_img8.png",
+        "./images/AFCAT_2016_Official_Paper2/p16_img9.png",
+        "./images/AFCAT_2016_Official_Paper2/p17_img10.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p17_img4.png",
+        "./images/AFCAT_2016_Official_Paper2/p17_img5.png",
+        "./images/AFCAT_2016_Official_Paper2/p17_img6.png",
+        "./images/AFCAT_2016_Official_Paper2/p17_img7.png",
+        "./images/AFCAT_2016_Official_Paper2/p17_img8.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p17_img9.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p18_img4.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p18_img5.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2016_Official_Paper2.pdf",
@@ -29447,7 +31587,13 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2016
+      "year": 2016,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2016_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p20_img6.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2016_Official_Paper2.pdf",
@@ -29475,7 +31621,13 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2016
+      "year": 2016,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2016_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p20_img6.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2016_Official_Paper2.pdf",
@@ -29503,7 +31655,13 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2016
+      "year": 2016,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2016_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p20_img6.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2016_Official_Paper2.pdf",
@@ -29531,7 +31689,13 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2016
+      "year": 2016,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2016_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p20_img6.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2016_Official_Paper2.pdf",
@@ -29559,7 +31723,13 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2016
+      "year": 2016,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2016_Official_Paper2/p20_img4.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p20_img5.jpeg",
+        "./images/AFCAT_2016_Official_Paper2/p20_img6.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2016_Official_Paper2.pdf",
@@ -29587,7 +31757,14 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2016
+      "year": 2016,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p16_img4.png",
+        "./images/AFCAT_2017_Memory/p16_img5.png",
+        "./images/AFCAT_2017_Memory/p16_img6.png",
+        "./images/AFCAT_2017_Memory/p16_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2016_Official_Paper2.pdf",
@@ -29615,7 +31792,14 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2016
+      "year": 2016,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p16_img4.png",
+        "./images/AFCAT_2017_Memory/p16_img5.png",
+        "./images/AFCAT_2017_Memory/p16_img6.png",
+        "./images/AFCAT_2017_Memory/p16_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2016_Official_Paper2.pdf",
@@ -29643,7 +31827,14 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2016
+      "year": 2016,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p16_img4.png",
+        "./images/AFCAT_2017_Memory/p16_img5.png",
+        "./images/AFCAT_2017_Memory/p16_img6.png",
+        "./images/AFCAT_2017_Memory/p16_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2016_Official_Paper2.pdf",
@@ -29671,7 +31862,14 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2016
+      "year": 2016,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p16_img4.png",
+        "./images/AFCAT_2017_Memory/p16_img5.png",
+        "./images/AFCAT_2017_Memory/p16_img6.png",
+        "./images/AFCAT_2017_Memory/p16_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2016_Official_Paper2.pdf",
@@ -29699,7 +31897,14 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2016
+      "year": 2016,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p16_img4.png",
+        "./images/AFCAT_2017_Memory/p16_img5.png",
+        "./images/AFCAT_2017_Memory/p16_img6.png",
+        "./images/AFCAT_2017_Memory/p16_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2016_Official_Paper2.pdf",
@@ -31978,7 +34183,14 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_SERIES",
       "choices": [],
-      "year": 2017
+      "year": 2017,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p16_img4.png",
+        "./images/AFCAT_2017_Memory/p16_img5.png",
+        "./images/AFCAT_2017_Memory/p16_img6.png",
+        "./images/AFCAT_2017_Memory/p16_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2017_Memory.pdf",
@@ -31989,7 +34201,14 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_SERIES",
       "choices": [],
-      "year": 2017
+      "year": 2017,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p16_img4.png",
+        "./images/AFCAT_2017_Memory/p16_img5.png",
+        "./images/AFCAT_2017_Memory/p16_img6.png",
+        "./images/AFCAT_2017_Memory/p16_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2017_Memory.pdf",
@@ -32000,7 +34219,14 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_SERIES",
       "choices": [],
-      "year": 2017
+      "year": 2017,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p16_img4.png",
+        "./images/AFCAT_2017_Memory/p16_img5.png",
+        "./images/AFCAT_2017_Memory/p16_img6.png",
+        "./images/AFCAT_2017_Memory/p16_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2017_Memory.pdf",
@@ -32011,7 +34237,14 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_SERIES",
       "choices": [],
-      "year": 2017
+      "year": 2017,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p16_img4.png",
+        "./images/AFCAT_2017_Memory/p16_img5.png",
+        "./images/AFCAT_2017_Memory/p16_img6.png",
+        "./images/AFCAT_2017_Memory/p16_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2017_Memory.pdf",
@@ -32022,7 +34255,14 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_SERIES",
       "choices": [],
-      "year": 2017
+      "year": 2017,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p16_img4.png",
+        "./images/AFCAT_2017_Memory/p16_img5.png",
+        "./images/AFCAT_2017_Memory/p16_img6.png",
+        "./images/AFCAT_2017_Memory/p16_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2017_Memory.pdf",
@@ -32033,7 +34273,16 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_PATTERN",
       "choices": [],
-      "year": 2017
+      "year": 2017,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p17_img4.png",
+        "./images/AFCAT_2017_Memory/p17_img5.png",
+        "./images/AFCAT_2017_Memory/p17_img6.png",
+        "./images/AFCAT_2017_Memory/p17_img7.jpeg",
+        "./images/AFCAT_2017_Memory/p17_img8.png",
+        "./images/AFCAT_2017_Memory/p17_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2017_Memory.pdf",
@@ -32044,7 +34293,16 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_PATTERN",
       "choices": [],
-      "year": 2017
+      "year": 2017,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p17_img4.png",
+        "./images/AFCAT_2017_Memory/p17_img5.png",
+        "./images/AFCAT_2017_Memory/p17_img6.png",
+        "./images/AFCAT_2017_Memory/p17_img7.jpeg",
+        "./images/AFCAT_2017_Memory/p17_img8.png",
+        "./images/AFCAT_2017_Memory/p17_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2017_Memory.pdf",
@@ -32055,7 +34313,16 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_PATTERN",
       "choices": [],
-      "year": 2017
+      "year": 2017,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p17_img4.png",
+        "./images/AFCAT_2017_Memory/p17_img5.png",
+        "./images/AFCAT_2017_Memory/p17_img6.png",
+        "./images/AFCAT_2017_Memory/p17_img7.jpeg",
+        "./images/AFCAT_2017_Memory/p17_img8.png",
+        "./images/AFCAT_2017_Memory/p17_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2017_Memory.pdf",
@@ -32066,7 +34333,16 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_PATTERN",
       "choices": [],
-      "year": 2017
+      "year": 2017,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p17_img4.png",
+        "./images/AFCAT_2017_Memory/p17_img5.png",
+        "./images/AFCAT_2017_Memory/p17_img6.png",
+        "./images/AFCAT_2017_Memory/p17_img7.jpeg",
+        "./images/AFCAT_2017_Memory/p17_img8.png",
+        "./images/AFCAT_2017_Memory/p17_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2017_Memory.pdf",
@@ -32077,7 +34353,16 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_PATTERN",
       "choices": [],
-      "year": 2017
+      "year": 2017,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p17_img4.png",
+        "./images/AFCAT_2017_Memory/p17_img5.png",
+        "./images/AFCAT_2017_Memory/p17_img6.png",
+        "./images/AFCAT_2017_Memory/p17_img7.jpeg",
+        "./images/AFCAT_2017_Memory/p17_img8.png",
+        "./images/AFCAT_2017_Memory/p17_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2017_Memory.pdf",
@@ -32088,7 +34373,17 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_CLASS",
       "choices": [],
-      "year": 2017
+      "year": 2017,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p18_img4.jpeg",
+        "./images/AFCAT_2017_Memory/p18_img5.png",
+        "./images/AFCAT_2017_Memory/p18_img6.png",
+        "./images/AFCAT_2017_Memory/p18_img7.png",
+        "./images/AFCAT_2017_Memory/p18_img8.png",
+        "./images/AFCAT_2017_Memory/p18_img9.png",
+        "./images/AFCAT_2017_Memory/p18_img10.png"
+      ]
     },
     {
       "file_name": "AFCAT_2017_Memory.pdf",
@@ -32099,7 +34394,17 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_CLASS",
       "choices": [],
-      "year": 2017
+      "year": 2017,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p18_img4.jpeg",
+        "./images/AFCAT_2017_Memory/p18_img5.png",
+        "./images/AFCAT_2017_Memory/p18_img6.png",
+        "./images/AFCAT_2017_Memory/p18_img7.png",
+        "./images/AFCAT_2017_Memory/p18_img8.png",
+        "./images/AFCAT_2017_Memory/p18_img9.png",
+        "./images/AFCAT_2017_Memory/p18_img10.png"
+      ]
     },
     {
       "file_name": "AFCAT_2017_Memory.pdf",
@@ -32110,7 +34415,17 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_CLASS",
       "choices": [],
-      "year": 2017
+      "year": 2017,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p18_img4.jpeg",
+        "./images/AFCAT_2017_Memory/p18_img5.png",
+        "./images/AFCAT_2017_Memory/p18_img6.png",
+        "./images/AFCAT_2017_Memory/p18_img7.png",
+        "./images/AFCAT_2017_Memory/p18_img8.png",
+        "./images/AFCAT_2017_Memory/p18_img9.png",
+        "./images/AFCAT_2017_Memory/p18_img10.png"
+      ]
     },
     {
       "file_name": "AFCAT_2017_Memory.pdf",
@@ -32121,7 +34436,17 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_CLASS",
       "choices": [],
-      "year": 2017
+      "year": 2017,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p18_img4.jpeg",
+        "./images/AFCAT_2017_Memory/p18_img5.png",
+        "./images/AFCAT_2017_Memory/p18_img6.png",
+        "./images/AFCAT_2017_Memory/p18_img7.png",
+        "./images/AFCAT_2017_Memory/p18_img8.png",
+        "./images/AFCAT_2017_Memory/p18_img9.png",
+        "./images/AFCAT_2017_Memory/p18_img10.png"
+      ]
     },
     {
       "file_name": "AFCAT_2017_Memory.pdf",
@@ -32132,7 +34457,17 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_CLASS",
       "choices": [],
-      "year": 2017
+      "year": 2017,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p18_img4.jpeg",
+        "./images/AFCAT_2017_Memory/p18_img5.png",
+        "./images/AFCAT_2017_Memory/p18_img6.png",
+        "./images/AFCAT_2017_Memory/p18_img7.png",
+        "./images/AFCAT_2017_Memory/p18_img8.png",
+        "./images/AFCAT_2017_Memory/p18_img9.png",
+        "./images/AFCAT_2017_Memory/p18_img10.png"
+      ]
     },
     {
       "file_name": "AFCAT_2017_Memory.pdf",
@@ -32187,7 +34522,25 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_VR_VENN",
       "choices": [],
-      "year": 2017
+      "year": 2017,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p16_img4.png",
+        "./images/AFCAT_2021_Memory/p16_img5.png",
+        "./images/AFCAT_2021_Memory/p16_img6.png",
+        "./images/AFCAT_2021_Memory/p16_img7.png",
+        "./images/AFCAT_2021_Memory/p16_img8.png",
+        "./images/AFCAT_2021_Memory/p16_img9.png",
+        "./images/AFCAT_2021_Memory/p17_img4.png",
+        "./images/AFCAT_2021_Memory/p17_img5.png",
+        "./images/AFCAT_2021_Memory/p17_img6.png",
+        "./images/AFCAT_2021_Memory/p17_img7.png",
+        "./images/AFCAT_2021_Memory/p17_img8.png",
+        "./images/AFCAT_2021_Memory/p18_img4.png",
+        "./images/AFCAT_2021_Memory/p18_img5.png",
+        "./images/AFCAT_2021_Memory/p18_img6.png",
+        "./images/AFCAT_2021_Memory/p18_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2017_Memory.pdf",
@@ -32198,7 +34551,13 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_ANALOGY",
       "choices": [],
-      "year": 2017
+      "year": 2017,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p22_img4.jpeg",
+        "./images/AFCAT_2017_Memory/p22_img5.jpeg",
+        "./images/AFCAT_2017_Memory/p22_img6.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2017_Memory.pdf",
@@ -32209,7 +34568,13 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_ANALOGY",
       "choices": [],
-      "year": 2017
+      "year": 2017,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p22_img4.jpeg",
+        "./images/AFCAT_2017_Memory/p22_img5.jpeg",
+        "./images/AFCAT_2017_Memory/p22_img6.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2017_Memory.pdf",
@@ -32220,7 +34585,13 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_ANALOGY",
       "choices": [],
-      "year": 2017
+      "year": 2017,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p22_img4.jpeg",
+        "./images/AFCAT_2017_Memory/p22_img5.jpeg",
+        "./images/AFCAT_2017_Memory/p22_img6.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2017_Memory.pdf",
@@ -32231,7 +34602,13 @@ const dashboardData = {
       "difficulty": "Medium",
       "topic_code": "RM_NV_ANALOGY",
       "choices": [],
-      "year": 2017
+      "year": 2017,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2017_Memory/p22_img4.jpeg",
+        "./images/AFCAT_2017_Memory/p22_img5.jpeg",
+        "./images/AFCAT_2017_Memory/p22_img6.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2018_Memory.pdf",
@@ -33496,7 +35873,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2018_Memory.pdf",
       "question_number": 46,
-      "question_text": "Agra city was founded by \u2013",
+      "question_text": "Agra city was founded by –",
       "section": "General Awareness",
       "topic": "History (Medieval)",
       "difficulty": "Easy",
@@ -33524,7 +35901,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2018_Memory.pdf",
       "question_number": 47,
-      "question_text": "The visible part of the sun is called \u2014",
+      "question_text": "The visible part of the sun is called —",
       "section": "General Awareness",
       "topic": "General Science",
       "difficulty": "Easy",
@@ -33552,7 +35929,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2018_Memory.pdf",
       "question_number": 48,
-      "question_text": "Ozone layer located in which layer \u2013",
+      "question_text": "Ozone layer located in which layer –",
       "section": "General Awareness",
       "topic": "Environment/Ecology",
       "difficulty": "Easy",
@@ -33580,7 +35957,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2018_Memory.pdf",
       "question_number": 49,
-      "question_text": "Who is the chairman of the constitution drafting committee\u2014",
+      "question_text": "Who is the chairman of the constitution drafting committee—",
       "section": "General Awareness",
       "topic": "Indian Polity",
       "difficulty": "Easy",
@@ -33636,7 +36013,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2018_Memory.pdf",
       "question_number": 51,
-      "question_text": "Car A is travelling at 60 kmph towards northwest creating an angle 42\u00b0 to north and Car B is travelling towards South West at 80 kmph creating an angle 48\u00b0 degree to South. Both are started from same point. Find distance between A and B after one hour?",
+      "question_text": "Car A is travelling at 60 kmph towards northwest creating an angle 42° to north and Car B is travelling towards South West at 80 kmph creating an angle 48° degree to South. Both are started from same point. Find distance between A and B after one hour?",
       "section": "Numerical Ability",
       "topic": "Time, Speed & Dist.",
       "difficulty": "Hard",
@@ -33676,7 +36053,7 @@ const dashboardData = {
         },
         {
           "key": "B",
-          "text": "Y\u00b3"
+          "text": "Y³"
         },
         {
           "key": "C",
@@ -33888,7 +36265,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2018_Memory.pdf",
       "question_number": 60,
-      "question_text": "While selling, a businessman allows 40% discount on the marked price and there is a loss of 30%. If it is sold at the marked price, profit per cent will be \u2014",
+      "question_text": "While selling, a businessman allows 40% discount on the marked price and there is a loss of 30%. If it is sold at the marked price, profit per cent will be —",
       "section": "Numerical Ability",
       "topic": "Profit & Loss",
       "difficulty": "Hard",
@@ -33916,7 +36293,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2018_Memory.pdf",
       "question_number": 61,
-      "question_text": "The average salary of all the staff in an office of a corporate house is Rs. 5,000. The average salary of the officers is Rs. 14,000 and that of the rest is Rs. 4,000. If the total number of staff is 500, the number of officers is\u2014",
+      "question_text": "The average salary of all the staff in an office of a corporate house is Rs. 5,000. The average salary of the officers is Rs. 14,000 and that of the rest is Rs. 4,000. If the total number of staff is 500, the number of officers is—",
       "section": "Numerical Ability",
       "topic": "Average",
       "difficulty": "Medium",
@@ -34056,7 +36433,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2018_Memory.pdf",
       "question_number": 66,
-      "question_text": "If \u221a2 = 1.4142, find the value of 2/\u221a2 + \u221a2 + 1/(2+\u221a2) + 1/(\u221a2\u22122)",
+      "question_text": "If √2 = 1.4142, find the value of 2/√2 + √2 + 1/(2+√2) + 1/(√2−2)",
       "section": "Numerical Ability",
       "topic": "Simplification",
       "difficulty": "Hard",
@@ -34247,12 +36624,16 @@ const dashboardData = {
           "text": "EDGJ"
         }
       ],
-      "year": 2018
+      "year": 2018,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2018_Memory/p14_img4.png"
+      ]
     },
     {
       "file_name": "AFCAT_2018_Memory.pdf",
       "question_number": 73,
-      "question_text": "School : Education \u2237 ? : ?",
+      "question_text": "School : Education ∷ ? : ?",
       "section": "Reasoning",
       "topic": "Verbal Analogy",
       "difficulty": "Easy",
@@ -34471,7 +36852,14 @@ const dashboardData = {
           "text": "Option D"
         }
       ],
-      "year": 2018
+      "year": 2018,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2018_Memory/p16_img4.png",
+        "./images/AFCAT_2018_Memory/p16_img5.png",
+        "./images/AFCAT_2018_Memory/p16_img6.jpeg",
+        "./images/AFCAT_2018_Memory/p16_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2018_Memory.pdf",
@@ -34527,7 +36915,14 @@ const dashboardData = {
           "text": "Option D"
         }
       ],
-      "year": 2018
+      "year": 2018,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2018_Memory/p16_img4.png",
+        "./images/AFCAT_2018_Memory/p16_img5.png",
+        "./images/AFCAT_2018_Memory/p16_img6.jpeg",
+        "./images/AFCAT_2018_Memory/p16_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2018_Memory.pdf",
@@ -34555,7 +36950,23 @@ const dashboardData = {
           "text": "Option D"
         }
       ],
-      "year": 2018
+      "year": 2018,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Feb16_v2/p3_img1.png",
+        "./images/DPP_2024_Feb16_v2/p3_img2.png",
+        "./images/DPP_2024_Feb16_v2/p3_img3.png",
+        "./images/DPP_2024_Feb16_v2/p3_img4.png",
+        "./images/DPP_2024_Feb16_v2/p3_img5.png",
+        "./images/DPP_2024_Feb16_v2/p3_img6.png",
+        "./images/DPP_2024_Feb16_v2/p3_img7.png",
+        "./images/DPP_2024_Feb16_v2/p3_img8.png",
+        "./images/DPP_2024_Feb16_v2/p3_img9.png",
+        "./images/DPP_2024_Feb16_v2/p3_img10.png",
+        "./images/DPP_2024_Feb16_v2/p3_img11.png",
+        "./images/DPP_2024_Feb16_v2/p3_img12.png",
+        "./images/DPP_2024_Feb16_v2/p3_img13.png"
+      ]
     },
     {
       "file_name": "AFCAT_2018_Memory.pdf",
@@ -34583,7 +36994,17 @@ const dashboardData = {
           "text": "Option D"
         }
       ],
-      "year": 2018
+      "year": 2018,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2018_Memory/p18_img4.png",
+        "./images/AFCAT_2018_Memory/p18_img5.png",
+        "./images/AFCAT_2018_Memory/p18_img6.png",
+        "./images/AFCAT_2018_Memory/p18_img7.png",
+        "./images/AFCAT_2018_Memory/p18_img8.png",
+        "./images/AFCAT_2018_Memory/p18_img9.png",
+        "./images/AFCAT_2018_Memory/p18_img10.png"
+      ]
     },
     {
       "file_name": "AFCAT_2018_Memory.pdf",
@@ -34611,7 +37032,17 @@ const dashboardData = {
           "text": "Option D"
         }
       ],
-      "year": 2018
+      "year": 2018,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2018_Memory/p18_img4.png",
+        "./images/AFCAT_2018_Memory/p18_img5.png",
+        "./images/AFCAT_2018_Memory/p18_img6.png",
+        "./images/AFCAT_2018_Memory/p18_img7.png",
+        "./images/AFCAT_2018_Memory/p18_img8.png",
+        "./images/AFCAT_2018_Memory/p18_img9.png",
+        "./images/AFCAT_2018_Memory/p18_img10.png"
+      ]
     },
     {
       "file_name": "AFCAT_2018_Memory.pdf",
@@ -34639,7 +37070,20 @@ const dashboardData = {
           "text": "Option D"
         }
       ],
-      "year": 2018
+      "year": 2018,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2018_Memory/p19_img4.png",
+        "./images/AFCAT_2018_Memory/p19_img5.png",
+        "./images/AFCAT_2018_Memory/p19_img6.png",
+        "./images/AFCAT_2018_Memory/p19_img7.png",
+        "./images/AFCAT_2018_Memory/p19_img8.png",
+        "./images/AFCAT_2018_Memory/p19_img9.jpeg",
+        "./images/AFCAT_2018_Memory/p19_img10.png",
+        "./images/AFCAT_2018_Memory/p19_img11.png",
+        "./images/AFCAT_2018_Memory/p19_img12.png",
+        "./images/AFCAT_2018_Memory/p19_img13.png"
+      ]
     },
     {
       "file_name": "AFCAT_2018_Memory.pdf",
@@ -34667,7 +37111,16 @@ const dashboardData = {
           "text": "Option D"
         }
       ],
-      "year": 2018
+      "year": 2018,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2018_Memory/p20_img4.jpeg",
+        "./images/AFCAT_2018_Memory/p20_img5.png",
+        "./images/AFCAT_2018_Memory/p20_img6.png",
+        "./images/AFCAT_2018_Memory/p20_img7.jpeg",
+        "./images/AFCAT_2018_Memory/p20_img8.jpeg",
+        "./images/AFCAT_2018_Memory/p20_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2018_Memory.pdf",
@@ -34695,7 +37148,16 @@ const dashboardData = {
           "text": "Option D"
         }
       ],
-      "year": 2018
+      "year": 2018,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2018_Memory/p20_img4.jpeg",
+        "./images/AFCAT_2018_Memory/p20_img5.png",
+        "./images/AFCAT_2018_Memory/p20_img6.png",
+        "./images/AFCAT_2018_Memory/p20_img7.jpeg",
+        "./images/AFCAT_2018_Memory/p20_img8.jpeg",
+        "./images/AFCAT_2018_Memory/p20_img9.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2018_Memory.pdf",
@@ -34723,7 +37185,18 @@ const dashboardData = {
           "text": "Option D"
         }
       ],
-      "year": 2018
+      "year": 2018,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2018_Memory/p22_img4.png",
+        "./images/AFCAT_2018_Memory/p22_img5.png",
+        "./images/AFCAT_2018_Memory/p22_img6.png",
+        "./images/AFCAT_2018_Memory/p22_img7.png",
+        "./images/AFCAT_2018_Memory/p22_img8.png",
+        "./images/AFCAT_2018_Memory/p22_img9.png",
+        "./images/AFCAT_2018_Memory/p22_img10.jpeg",
+        "./images/AFCAT_2018_Memory/p22_img11.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2018_Memory.pdf",
@@ -34751,7 +37224,18 @@ const dashboardData = {
           "text": "Option D"
         }
       ],
-      "year": 2018
+      "year": 2018,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2018_Memory/p22_img4.png",
+        "./images/AFCAT_2018_Memory/p22_img5.png",
+        "./images/AFCAT_2018_Memory/p22_img6.png",
+        "./images/AFCAT_2018_Memory/p22_img7.png",
+        "./images/AFCAT_2018_Memory/p22_img8.png",
+        "./images/AFCAT_2018_Memory/p22_img9.png",
+        "./images/AFCAT_2018_Memory/p22_img10.jpeg",
+        "./images/AFCAT_2018_Memory/p22_img11.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2018_Memory.pdf",
@@ -34779,7 +37263,34 @@ const dashboardData = {
           "text": "Option D"
         }
       ],
-      "year": 2018
+      "year": 2018,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2018_Memory/p21_img10.png",
+        "./images/AFCAT_2018_Memory/p21_img11.png",
+        "./images/AFCAT_2018_Memory/p21_img12.jpeg",
+        "./images/AFCAT_2018_Memory/p21_img4.png",
+        "./images/AFCAT_2018_Memory/p21_img5.png",
+        "./images/AFCAT_2018_Memory/p21_img6.png",
+        "./images/AFCAT_2018_Memory/p21_img7.png",
+        "./images/AFCAT_2018_Memory/p21_img8.jpeg",
+        "./images/AFCAT_2018_Memory/p21_img9.png",
+        "./images/AFCAT_2018_Memory/p22_img10.jpeg",
+        "./images/AFCAT_2018_Memory/p22_img11.jpeg",
+        "./images/AFCAT_2018_Memory/p22_img4.png",
+        "./images/AFCAT_2018_Memory/p22_img5.png",
+        "./images/AFCAT_2018_Memory/p22_img6.png",
+        "./images/AFCAT_2018_Memory/p22_img7.png",
+        "./images/AFCAT_2018_Memory/p22_img8.png",
+        "./images/AFCAT_2018_Memory/p22_img9.png",
+        "./images/AFCAT_2018_Memory/p23_img10.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img4.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img5.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img6.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img7.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img8.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2018_Memory.pdf",
@@ -34807,7 +37318,34 @@ const dashboardData = {
           "text": "Option D"
         }
       ],
-      "year": 2018
+      "year": 2018,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2018_Memory/p21_img10.png",
+        "./images/AFCAT_2018_Memory/p21_img11.png",
+        "./images/AFCAT_2018_Memory/p21_img12.jpeg",
+        "./images/AFCAT_2018_Memory/p21_img4.png",
+        "./images/AFCAT_2018_Memory/p21_img5.png",
+        "./images/AFCAT_2018_Memory/p21_img6.png",
+        "./images/AFCAT_2018_Memory/p21_img7.png",
+        "./images/AFCAT_2018_Memory/p21_img8.jpeg",
+        "./images/AFCAT_2018_Memory/p21_img9.png",
+        "./images/AFCAT_2018_Memory/p22_img10.jpeg",
+        "./images/AFCAT_2018_Memory/p22_img11.jpeg",
+        "./images/AFCAT_2018_Memory/p22_img4.png",
+        "./images/AFCAT_2018_Memory/p22_img5.png",
+        "./images/AFCAT_2018_Memory/p22_img6.png",
+        "./images/AFCAT_2018_Memory/p22_img7.png",
+        "./images/AFCAT_2018_Memory/p22_img8.png",
+        "./images/AFCAT_2018_Memory/p22_img9.png",
+        "./images/AFCAT_2018_Memory/p23_img10.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img4.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img5.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img6.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img7.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img8.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2018_Memory.pdf",
@@ -34835,7 +37373,34 @@ const dashboardData = {
           "text": "Option D"
         }
       ],
-      "year": 2018
+      "year": 2018,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2018_Memory/p21_img10.png",
+        "./images/AFCAT_2018_Memory/p21_img11.png",
+        "./images/AFCAT_2018_Memory/p21_img12.jpeg",
+        "./images/AFCAT_2018_Memory/p21_img4.png",
+        "./images/AFCAT_2018_Memory/p21_img5.png",
+        "./images/AFCAT_2018_Memory/p21_img6.png",
+        "./images/AFCAT_2018_Memory/p21_img7.png",
+        "./images/AFCAT_2018_Memory/p21_img8.jpeg",
+        "./images/AFCAT_2018_Memory/p21_img9.png",
+        "./images/AFCAT_2018_Memory/p22_img10.jpeg",
+        "./images/AFCAT_2018_Memory/p22_img11.jpeg",
+        "./images/AFCAT_2018_Memory/p22_img4.png",
+        "./images/AFCAT_2018_Memory/p22_img5.png",
+        "./images/AFCAT_2018_Memory/p22_img6.png",
+        "./images/AFCAT_2018_Memory/p22_img7.png",
+        "./images/AFCAT_2018_Memory/p22_img8.png",
+        "./images/AFCAT_2018_Memory/p22_img9.png",
+        "./images/AFCAT_2018_Memory/p23_img10.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img4.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img5.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img6.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img7.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img8.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2018_Memory.pdf",
@@ -34863,7 +37428,34 @@ const dashboardData = {
           "text": "Option D"
         }
       ],
-      "year": 2018
+      "year": 2018,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2018_Memory/p21_img10.png",
+        "./images/AFCAT_2018_Memory/p21_img11.png",
+        "./images/AFCAT_2018_Memory/p21_img12.jpeg",
+        "./images/AFCAT_2018_Memory/p21_img4.png",
+        "./images/AFCAT_2018_Memory/p21_img5.png",
+        "./images/AFCAT_2018_Memory/p21_img6.png",
+        "./images/AFCAT_2018_Memory/p21_img7.png",
+        "./images/AFCAT_2018_Memory/p21_img8.jpeg",
+        "./images/AFCAT_2018_Memory/p21_img9.png",
+        "./images/AFCAT_2018_Memory/p22_img10.jpeg",
+        "./images/AFCAT_2018_Memory/p22_img11.jpeg",
+        "./images/AFCAT_2018_Memory/p22_img4.png",
+        "./images/AFCAT_2018_Memory/p22_img5.png",
+        "./images/AFCAT_2018_Memory/p22_img6.png",
+        "./images/AFCAT_2018_Memory/p22_img7.png",
+        "./images/AFCAT_2018_Memory/p22_img8.png",
+        "./images/AFCAT_2018_Memory/p22_img9.png",
+        "./images/AFCAT_2018_Memory/p23_img10.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img4.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img5.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img6.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img7.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img8.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2018_Memory.pdf",
@@ -34891,7 +37483,34 @@ const dashboardData = {
           "text": "Option D"
         }
       ],
-      "year": 2018
+      "year": 2018,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2018_Memory/p21_img10.png",
+        "./images/AFCAT_2018_Memory/p21_img11.png",
+        "./images/AFCAT_2018_Memory/p21_img12.jpeg",
+        "./images/AFCAT_2018_Memory/p21_img4.png",
+        "./images/AFCAT_2018_Memory/p21_img5.png",
+        "./images/AFCAT_2018_Memory/p21_img6.png",
+        "./images/AFCAT_2018_Memory/p21_img7.png",
+        "./images/AFCAT_2018_Memory/p21_img8.jpeg",
+        "./images/AFCAT_2018_Memory/p21_img9.png",
+        "./images/AFCAT_2018_Memory/p22_img10.jpeg",
+        "./images/AFCAT_2018_Memory/p22_img11.jpeg",
+        "./images/AFCAT_2018_Memory/p22_img4.png",
+        "./images/AFCAT_2018_Memory/p22_img5.png",
+        "./images/AFCAT_2018_Memory/p22_img6.png",
+        "./images/AFCAT_2018_Memory/p22_img7.png",
+        "./images/AFCAT_2018_Memory/p22_img8.png",
+        "./images/AFCAT_2018_Memory/p22_img9.png",
+        "./images/AFCAT_2018_Memory/p23_img10.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img4.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img5.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img6.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img7.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img8.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2018_Memory.pdf",
@@ -34919,7 +37538,34 @@ const dashboardData = {
           "text": "Option D"
         }
       ],
-      "year": 2018
+      "year": 2018,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2018_Memory/p21_img10.png",
+        "./images/AFCAT_2018_Memory/p21_img11.png",
+        "./images/AFCAT_2018_Memory/p21_img12.jpeg",
+        "./images/AFCAT_2018_Memory/p21_img4.png",
+        "./images/AFCAT_2018_Memory/p21_img5.png",
+        "./images/AFCAT_2018_Memory/p21_img6.png",
+        "./images/AFCAT_2018_Memory/p21_img7.png",
+        "./images/AFCAT_2018_Memory/p21_img8.jpeg",
+        "./images/AFCAT_2018_Memory/p21_img9.png",
+        "./images/AFCAT_2018_Memory/p22_img10.jpeg",
+        "./images/AFCAT_2018_Memory/p22_img11.jpeg",
+        "./images/AFCAT_2018_Memory/p22_img4.png",
+        "./images/AFCAT_2018_Memory/p22_img5.png",
+        "./images/AFCAT_2018_Memory/p22_img6.png",
+        "./images/AFCAT_2018_Memory/p22_img7.png",
+        "./images/AFCAT_2018_Memory/p22_img8.png",
+        "./images/AFCAT_2018_Memory/p22_img9.png",
+        "./images/AFCAT_2018_Memory/p23_img10.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img4.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img5.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img6.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img7.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img8.jpeg",
+        "./images/AFCAT_2018_Memory/p23_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2018_Memory.pdf",
@@ -35003,7 +37649,12 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2018
+      "year": 2018,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2018_Memory/p25_img4.jpeg",
+        "./images/AFCAT_2018_Memory/p25_img5.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2018_Memory.pdf",
@@ -35031,7 +37682,12 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2018
+      "year": 2018,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2018_Memory/p25_img4.jpeg",
+        "./images/AFCAT_2018_Memory/p25_img5.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2019_Memory.pdf",
@@ -36352,7 +39008,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2019_Memory.pdf",
       "question_number": 48,
-      "question_text": "Who wrote the book \u201cDeath of a City\u201d?",
+      "question_text": "Who wrote the book “Death of a City”?",
       "section": "General Awareness",
       "topic": "Static GK",
       "difficulty": "Medium",
@@ -36856,7 +39512,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2019_Memory.pdf",
       "question_number": 66,
-      "question_text": "\u2018ZYXW\u2019 as coded as \u2018ABCD\u2019 then \u2018STUV\u2019 is coded as",
+      "question_text": "‘ZYXW’ as coded as ‘ABCD’ then ‘STUV’ is coded as",
       "section": "Reasoning",
       "topic": "Coding-Decoding",
       "difficulty": "Medium",
@@ -36884,7 +39540,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2019_Memory.pdf",
       "question_number": 67,
-      "question_text": "\u2018bcd\u2019 is coded as \u2018def\u2019 then \u2018true\u2019 is coded as",
+      "question_text": "‘bcd’ is coded as ‘def’ then ‘true’ is coded as",
       "section": "Reasoning",
       "topic": "Coding-Decoding",
       "difficulty": "Easy",
@@ -36912,7 +39568,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2019_Memory.pdf",
       "question_number": 68,
-      "question_text": "\u2018Hyderabad\u2019 is coded as \u2018Ixedszcze\u2019 then \u2018Chennai\u2019 is coded as",
+      "question_text": "‘Hyderabad’ is coded as ‘Ixedszcze’ then ‘Chennai’ is coded as",
       "section": "Reasoning",
       "topic": "Coding-Decoding",
       "difficulty": "Medium",
@@ -37467,7 +40123,15 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2019
+      "year": 2019,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2019_Memory/p16_img4.png",
+        "./images/AFCAT_2019_Memory/p16_img5.png",
+        "./images/AFCAT_2019_Memory/p16_img6.png",
+        "./images/AFCAT_2019_Memory/p16_img7.png",
+        "./images/AFCAT_2019_Memory/p16_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2019_Memory.pdf",
@@ -37495,7 +40159,15 @@ const dashboardData = {
           "text": "1"
         }
       ],
-      "year": 2019
+      "year": 2019,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2019_Memory/p16_img4.png",
+        "./images/AFCAT_2019_Memory/p16_img5.png",
+        "./images/AFCAT_2019_Memory/p16_img6.png",
+        "./images/AFCAT_2019_Memory/p16_img7.png",
+        "./images/AFCAT_2019_Memory/p16_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2019_Memory.pdf",
@@ -37523,7 +40195,15 @@ const dashboardData = {
           "text": "2"
         }
       ],
-      "year": 2019
+      "year": 2019,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2019_Memory/p16_img4.png",
+        "./images/AFCAT_2019_Memory/p16_img5.png",
+        "./images/AFCAT_2019_Memory/p16_img6.png",
+        "./images/AFCAT_2019_Memory/p16_img7.png",
+        "./images/AFCAT_2019_Memory/p16_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2019_Memory.pdf",
@@ -37551,7 +40231,15 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2019
+      "year": 2019,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2019_Memory/p16_img4.png",
+        "./images/AFCAT_2019_Memory/p16_img5.png",
+        "./images/AFCAT_2019_Memory/p16_img6.png",
+        "./images/AFCAT_2019_Memory/p16_img7.png",
+        "./images/AFCAT_2019_Memory/p16_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2019_Memory.pdf",
@@ -37579,7 +40267,15 @@ const dashboardData = {
           "text": "3"
         }
       ],
-      "year": 2019
+      "year": 2019,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2019_Memory/p16_img4.png",
+        "./images/AFCAT_2019_Memory/p16_img5.png",
+        "./images/AFCAT_2019_Memory/p16_img6.png",
+        "./images/AFCAT_2019_Memory/p16_img7.png",
+        "./images/AFCAT_2019_Memory/p16_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2019_Memory.pdf",
@@ -37607,7 +40303,15 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2019
+      "year": 2019,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2019_Memory/p16_img4.png",
+        "./images/AFCAT_2019_Memory/p16_img5.png",
+        "./images/AFCAT_2019_Memory/p16_img6.png",
+        "./images/AFCAT_2019_Memory/p16_img7.png",
+        "./images/AFCAT_2019_Memory/p16_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2019_Memory.pdf",
@@ -37635,7 +40339,15 @@ const dashboardData = {
           "text": "3"
         }
       ],
-      "year": 2019
+      "year": 2019,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2019_Memory/p16_img4.png",
+        "./images/AFCAT_2019_Memory/p16_img5.png",
+        "./images/AFCAT_2019_Memory/p16_img6.png",
+        "./images/AFCAT_2019_Memory/p16_img7.png",
+        "./images/AFCAT_2019_Memory/p16_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2019_Memory.pdf",
@@ -37663,7 +40375,15 @@ const dashboardData = {
           "text": "3"
         }
       ],
-      "year": 2019
+      "year": 2019,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2019_Memory/p16_img4.png",
+        "./images/AFCAT_2019_Memory/p16_img5.png",
+        "./images/AFCAT_2019_Memory/p16_img6.png",
+        "./images/AFCAT_2019_Memory/p16_img7.png",
+        "./images/AFCAT_2019_Memory/p16_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2019_Memory.pdf",
@@ -37691,7 +40411,15 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2019
+      "year": 2019,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2019_Memory/p16_img4.png",
+        "./images/AFCAT_2019_Memory/p16_img5.png",
+        "./images/AFCAT_2019_Memory/p16_img6.png",
+        "./images/AFCAT_2019_Memory/p16_img7.png",
+        "./images/AFCAT_2019_Memory/p16_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_2019_Memory.pdf",
@@ -40267,7 +42995,13 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2020
+      "year": 2020,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2020_Memory/p13_img4.png",
+        "./images/AFCAT_2020_Memory/p13_img5.png",
+        "./images/AFCAT_2020_Memory/p13_img6.png"
+      ]
     },
     {
       "file_name": "AFCAT_2020_Memory.pdf",
@@ -40295,7 +43029,16 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2020
+      "year": 2020,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2020_Memory/p14_img4.png",
+        "./images/AFCAT_2020_Memory/p14_img5.png",
+        "./images/AFCAT_2020_Memory/p14_img6.png",
+        "./images/AFCAT_2020_Memory/p14_img7.png",
+        "./images/AFCAT_2020_Memory/p14_img8.png",
+        "./images/AFCAT_2020_Memory/p14_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2020_Memory.pdf",
@@ -40351,7 +43094,16 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2020
+      "year": 2020,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2020_Memory/p14_img4.png",
+        "./images/AFCAT_2020_Memory/p14_img5.png",
+        "./images/AFCAT_2020_Memory/p14_img6.png",
+        "./images/AFCAT_2020_Memory/p14_img7.png",
+        "./images/AFCAT_2020_Memory/p14_img8.png",
+        "./images/AFCAT_2020_Memory/p14_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2020_Memory.pdf",
@@ -40407,7 +43159,15 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2020
+      "year": 2020,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2020_Memory/p15_img4.png",
+        "./images/AFCAT_2020_Memory/p15_img5.png",
+        "./images/AFCAT_2020_Memory/p15_img6.png",
+        "./images/AFCAT_2020_Memory/p15_img7.png",
+        "./images/AFCAT_2020_Memory/p15_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_2020_Memory.pdf",
@@ -40435,7 +43195,15 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2020
+      "year": 2020,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2020_Memory/p15_img4.png",
+        "./images/AFCAT_2020_Memory/p15_img5.png",
+        "./images/AFCAT_2020_Memory/p15_img6.png",
+        "./images/AFCAT_2020_Memory/p15_img7.png",
+        "./images/AFCAT_2020_Memory/p15_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_2020_Memory.pdf",
@@ -40463,7 +43231,15 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2020
+      "year": 2020,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2020_Memory/p15_img4.png",
+        "./images/AFCAT_2020_Memory/p15_img5.png",
+        "./images/AFCAT_2020_Memory/p15_img6.png",
+        "./images/AFCAT_2020_Memory/p15_img7.png",
+        "./images/AFCAT_2020_Memory/p15_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_2020_Memory.pdf",
@@ -40491,7 +43267,15 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2020
+      "year": 2020,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2020_Memory/p16_img4.png",
+        "./images/AFCAT_2020_Memory/p16_img5.png",
+        "./images/AFCAT_2020_Memory/p16_img6.png",
+        "./images/AFCAT_2020_Memory/p16_img7.png",
+        "./images/AFCAT_2020_Memory/p16_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_2020_Memory.pdf",
@@ -40519,7 +43303,15 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2020
+      "year": 2020,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2020_Memory/p16_img4.png",
+        "./images/AFCAT_2020_Memory/p16_img5.png",
+        "./images/AFCAT_2020_Memory/p16_img6.png",
+        "./images/AFCAT_2020_Memory/p16_img7.png",
+        "./images/AFCAT_2020_Memory/p16_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_2020_Memory.pdf",
@@ -40547,7 +43339,16 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2020
+      "year": 2020,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2020_Memory/p17_img4.png",
+        "./images/AFCAT_2020_Memory/p17_img5.png",
+        "./images/AFCAT_2020_Memory/p17_img6.png",
+        "./images/AFCAT_2020_Memory/p17_img7.png",
+        "./images/AFCAT_2020_Memory/p17_img8.png",
+        "./images/AFCAT_2020_Memory/p17_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2020_Memory.pdf",
@@ -40575,7 +43376,16 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2020
+      "year": 2020,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2020_Memory/p17_img4.png",
+        "./images/AFCAT_2020_Memory/p17_img5.png",
+        "./images/AFCAT_2020_Memory/p17_img6.png",
+        "./images/AFCAT_2020_Memory/p17_img7.png",
+        "./images/AFCAT_2020_Memory/p17_img8.png",
+        "./images/AFCAT_2020_Memory/p17_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2020_Memory.pdf",
@@ -40603,7 +43413,12 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2020
+      "year": 2020,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2020_Memory/p18_img4.png",
+        "./images/AFCAT_2020_Memory/p18_img5.png"
+      ]
     },
     {
       "file_name": "AFCAT_2020_Memory.pdf",
@@ -40631,12 +43446,17 @@ const dashboardData = {
           "text": "Figure (d)"
         }
       ],
-      "year": 2020
+      "year": 2020,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2020_Memory/p18_img4.png",
+        "./images/AFCAT_2020_Memory/p18_img5.png"
+      ]
     },
     {
       "file_name": "Indian_Air_Force_AFCAT_2021_Memory_Based.pdf",
       "question_number": 1,
-      "question_text": "That dress made her look fat, let\u2019s call a spade a spade before she goes out wearing it and embarrasses herself. Source: theidioms.com",
+      "question_text": "That dress made her look fat, let’s call a spade a spade before she goes out wearing it and embarrasses herself. Source: theidioms.com",
       "section": "Verbal Ability",
       "topic": "Idioms & Phrases",
       "difficulty": "Easy",
@@ -41316,7 +44136,7 @@ const dashboardData = {
     {
       "file_name": "Indian_Air_Force_AFCAT_2021_Memory_Based.pdf",
       "question_number": 25,
-      "question_text": "Choose the best phrasal verb to fill in the blank: Though he loved his fianc\u00e9e very much, the boy acted in accordance with his parent's wishes and ____________with her.",
+      "question_text": "Choose the best phrasal verb to fill in the blank: Though he loved his fiancée very much, the boy acted in accordance with his parent's wishes and ____________with her.",
       "section": "Verbal Ability",
       "topic": "Idioms & Phrases",
       "difficulty": "Medium",
@@ -42356,7 +45176,7 @@ const dashboardData = {
     {
       "file_name": "Indian_Air_Force_AFCAT_2021_Memory_Based.pdf",
       "question_number": 62,
-      "question_text": "Simplify 1.11 / 19 \u00d7 380 / 3.7 \u00f7 (1/2 + 1/3)",
+      "question_text": "Simplify 1.11 / 19 × 380 / 3.7 ÷ (1/2 + 1/3)",
       "section": "Numerical Ability",
       "topic": "Simplification",
       "difficulty": "Medium",
@@ -42496,7 +45316,7 @@ const dashboardData = {
     {
       "file_name": "Indian_Air_Force_AFCAT_2021_Memory_Based.pdf",
       "question_number": 67,
-      "question_text": "A\u2019s salary is 25% lower than B\u2019s salary, which is 30% lower than C\u2019s salary. By how much percent is C\u2019s salary greater than B\u2019s salary?",
+      "question_text": "A’s salary is 25% lower than B’s salary, which is 30% lower than C’s salary. By how much percent is C’s salary greater than B’s salary?",
       "section": "Numerical Ability",
       "topic": "Percentage",
       "difficulty": "Medium",
@@ -42631,7 +45451,22 @@ const dashboardData = {
           "text": "Two intersecting circles and a separate circle"
         }
       ],
-      "year": 2021
+      "year": 2021,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p12_img4.png",
+        "./images/AFCAT_2021_Memory/p12_img5.png",
+        "./images/AFCAT_2021_Memory/p12_img6.png",
+        "./images/AFCAT_2021_Memory/p12_img7.png",
+        "./images/AFCAT_2021_Memory/p12_img8.png",
+        "./images/AFCAT_2021_Memory/p13_img10.png",
+        "./images/AFCAT_2021_Memory/p13_img4.png",
+        "./images/AFCAT_2021_Memory/p13_img5.png",
+        "./images/AFCAT_2021_Memory/p13_img6.png",
+        "./images/AFCAT_2021_Memory/p13_img7.png",
+        "./images/AFCAT_2021_Memory/p13_img8.png",
+        "./images/AFCAT_2021_Memory/p13_img9.png"
+      ]
     },
     {
       "file_name": "Indian_Air_Force_AFCAT_2021_Memory_Based.pdf",
@@ -42659,7 +45494,22 @@ const dashboardData = {
           "text": "Three intersecting circles in a line"
         }
       ],
-      "year": 2021
+      "year": 2021,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p12_img4.png",
+        "./images/AFCAT_2021_Memory/p12_img5.png",
+        "./images/AFCAT_2021_Memory/p12_img6.png",
+        "./images/AFCAT_2021_Memory/p12_img7.png",
+        "./images/AFCAT_2021_Memory/p12_img8.png",
+        "./images/AFCAT_2021_Memory/p13_img10.png",
+        "./images/AFCAT_2021_Memory/p13_img4.png",
+        "./images/AFCAT_2021_Memory/p13_img5.png",
+        "./images/AFCAT_2021_Memory/p13_img6.png",
+        "./images/AFCAT_2021_Memory/p13_img7.png",
+        "./images/AFCAT_2021_Memory/p13_img8.png",
+        "./images/AFCAT_2021_Memory/p13_img9.png"
+      ]
     },
     {
       "file_name": "Indian_Air_Force_AFCAT_2021_Memory_Based.pdf",
@@ -42687,7 +45537,22 @@ const dashboardData = {
           "text": "Three intersecting circles"
         }
       ],
-      "year": 2021
+      "year": 2021,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p12_img4.png",
+        "./images/AFCAT_2021_Memory/p12_img5.png",
+        "./images/AFCAT_2021_Memory/p12_img6.png",
+        "./images/AFCAT_2021_Memory/p12_img7.png",
+        "./images/AFCAT_2021_Memory/p12_img8.png",
+        "./images/AFCAT_2021_Memory/p13_img10.png",
+        "./images/AFCAT_2021_Memory/p13_img4.png",
+        "./images/AFCAT_2021_Memory/p13_img5.png",
+        "./images/AFCAT_2021_Memory/p13_img6.png",
+        "./images/AFCAT_2021_Memory/p13_img7.png",
+        "./images/AFCAT_2021_Memory/p13_img8.png",
+        "./images/AFCAT_2021_Memory/p13_img9.png"
+      ]
     },
     {
       "file_name": "Indian_Air_Force_AFCAT_2021_Memory_Based.pdf",
@@ -42715,7 +45580,22 @@ const dashboardData = {
           "text": "One circle inside another and a separate circle"
         }
       ],
-      "year": 2021
+      "year": 2021,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p12_img4.png",
+        "./images/AFCAT_2021_Memory/p12_img5.png",
+        "./images/AFCAT_2021_Memory/p12_img6.png",
+        "./images/AFCAT_2021_Memory/p12_img7.png",
+        "./images/AFCAT_2021_Memory/p12_img8.png",
+        "./images/AFCAT_2021_Memory/p13_img10.png",
+        "./images/AFCAT_2021_Memory/p13_img4.png",
+        "./images/AFCAT_2021_Memory/p13_img5.png",
+        "./images/AFCAT_2021_Memory/p13_img6.png",
+        "./images/AFCAT_2021_Memory/p13_img7.png",
+        "./images/AFCAT_2021_Memory/p13_img8.png",
+        "./images/AFCAT_2021_Memory/p13_img9.png"
+      ]
     },
     {
       "file_name": "Indian_Air_Force_AFCAT_2021_Memory_Based.pdf",
@@ -42804,7 +45684,7 @@ const dashboardData = {
     {
       "file_name": "Indian_Air_Force_AFCAT_2021_Memory_Based.pdf",
       "question_number": 78,
-      "question_text": "Complete the series: International literacy Day : September 8 :: International woman\u2019s Day : ?",
+      "question_text": "Complete the series: International literacy Day : September 8 :: International woman’s Day : ?",
       "section": "Reasoning",
       "topic": "Verbal Analogy",
       "difficulty": "Medium",
@@ -42995,7 +45875,20 @@ const dashboardData = {
           "text": "LKBGYPK"
         }
       ],
-      "year": 2021
+      "year": 2021,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p15_img4.png",
+        "./images/AFCAT_2021_Memory/p15_img5.png",
+        "./images/AFCAT_2021_Memory/p15_img6.png",
+        "./images/AFCAT_2021_Memory/p15_img7.png",
+        "./images/AFCAT_2021_Memory/p16_img4.png",
+        "./images/AFCAT_2021_Memory/p16_img5.png",
+        "./images/AFCAT_2021_Memory/p16_img6.png",
+        "./images/AFCAT_2021_Memory/p16_img7.png",
+        "./images/AFCAT_2021_Memory/p16_img8.png",
+        "./images/AFCAT_2021_Memory/p16_img9.png"
+      ]
     },
     {
       "file_name": "Indian_Air_Force_AFCAT_2021_Memory_Based.pdf",
@@ -43028,7 +45921,7 @@ const dashboardData = {
     {
       "file_name": "Indian_Air_Force_AFCAT_2021_Memory_Based.pdf",
       "question_number": 86,
-      "question_text": "Choose the option in which the figure marked \u2018X\u2019 is embedded. [Figure X is a Z shape]",
+      "question_text": "Choose the option in which the figure marked ‘X’ is embedded. [Figure X is a Z shape]",
       "section": "Reasoning",
       "topic": "Non-Verbal Pattern",
       "difficulty": "Medium",
@@ -43051,12 +45944,25 @@ const dashboardData = {
           "text": "Option (d)"
         }
       ],
-      "year": 2021
+      "year": 2021,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p15_img4.png",
+        "./images/AFCAT_2021_Memory/p15_img5.png",
+        "./images/AFCAT_2021_Memory/p15_img6.png",
+        "./images/AFCAT_2021_Memory/p15_img7.png",
+        "./images/AFCAT_2021_Memory/p16_img4.png",
+        "./images/AFCAT_2021_Memory/p16_img5.png",
+        "./images/AFCAT_2021_Memory/p16_img6.png",
+        "./images/AFCAT_2021_Memory/p16_img7.png",
+        "./images/AFCAT_2021_Memory/p16_img8.png",
+        "./images/AFCAT_2021_Memory/p16_img9.png"
+      ]
     },
     {
       "file_name": "Indian_Air_Force_AFCAT_2021_Memory_Based.pdf",
       "question_number": 87,
-      "question_text": "Choose the option in which the figure marked \u2018x\u2019 is embedded. [Figure X is a stepped line shape]",
+      "question_text": "Choose the option in which the figure marked ‘x’ is embedded. [Figure X is a stepped line shape]",
       "section": "Reasoning",
       "topic": "Non-Verbal Pattern",
       "difficulty": "Medium",
@@ -43079,12 +45985,25 @@ const dashboardData = {
           "text": "Option (d)"
         }
       ],
-      "year": 2021
+      "year": 2021,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p15_img4.png",
+        "./images/AFCAT_2021_Memory/p15_img5.png",
+        "./images/AFCAT_2021_Memory/p15_img6.png",
+        "./images/AFCAT_2021_Memory/p15_img7.png",
+        "./images/AFCAT_2021_Memory/p16_img4.png",
+        "./images/AFCAT_2021_Memory/p16_img5.png",
+        "./images/AFCAT_2021_Memory/p16_img6.png",
+        "./images/AFCAT_2021_Memory/p16_img7.png",
+        "./images/AFCAT_2021_Memory/p16_img8.png",
+        "./images/AFCAT_2021_Memory/p16_img9.png"
+      ]
     },
     {
       "file_name": "Indian_Air_Force_AFCAT_2021_Memory_Based.pdf",
       "question_number": 88,
-      "question_text": "Choose the option in which the figure marked \u2018X\u2019 is is embedded. [Figure X is a flag shape]",
+      "question_text": "Choose the option in which the figure marked ‘X’ is is embedded. [Figure X is a flag shape]",
       "section": "Reasoning",
       "topic": "Non-Verbal Pattern",
       "difficulty": "Medium",
@@ -43107,7 +46026,20 @@ const dashboardData = {
           "text": "Option (d)"
         }
       ],
-      "year": 2021
+      "year": 2021,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p15_img4.png",
+        "./images/AFCAT_2021_Memory/p15_img5.png",
+        "./images/AFCAT_2021_Memory/p15_img6.png",
+        "./images/AFCAT_2021_Memory/p15_img7.png",
+        "./images/AFCAT_2021_Memory/p16_img4.png",
+        "./images/AFCAT_2021_Memory/p16_img5.png",
+        "./images/AFCAT_2021_Memory/p16_img6.png",
+        "./images/AFCAT_2021_Memory/p16_img7.png",
+        "./images/AFCAT_2021_Memory/p16_img8.png",
+        "./images/AFCAT_2021_Memory/p16_img9.png"
+      ]
     },
     {
       "file_name": "Indian_Air_Force_AFCAT_2021_Memory_Based.pdf",
@@ -43135,7 +46067,25 @@ const dashboardData = {
           "text": "Option (d)"
         }
       ],
-      "year": 2021
+      "year": 2021,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p15_img4.png",
+        "./images/AFCAT_2021_Memory/p15_img5.png",
+        "./images/AFCAT_2021_Memory/p15_img6.png",
+        "./images/AFCAT_2021_Memory/p15_img7.png",
+        "./images/AFCAT_2021_Memory/p16_img4.png",
+        "./images/AFCAT_2021_Memory/p16_img5.png",
+        "./images/AFCAT_2021_Memory/p16_img6.png",
+        "./images/AFCAT_2021_Memory/p16_img7.png",
+        "./images/AFCAT_2021_Memory/p16_img8.png",
+        "./images/AFCAT_2021_Memory/p16_img9.png",
+        "./images/AFCAT_2021_Memory/p17_img4.png",
+        "./images/AFCAT_2021_Memory/p17_img5.png",
+        "./images/AFCAT_2021_Memory/p17_img6.png",
+        "./images/AFCAT_2021_Memory/p17_img7.png",
+        "./images/AFCAT_2021_Memory/p17_img8.png"
+      ]
     },
     {
       "file_name": "Indian_Air_Force_AFCAT_2021_Memory_Based.pdf",
@@ -43163,7 +46113,25 @@ const dashboardData = {
           "text": "Option (d)"
         }
       ],
-      "year": 2021
+      "year": 2021,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p15_img4.png",
+        "./images/AFCAT_2021_Memory/p15_img5.png",
+        "./images/AFCAT_2021_Memory/p15_img6.png",
+        "./images/AFCAT_2021_Memory/p15_img7.png",
+        "./images/AFCAT_2021_Memory/p16_img4.png",
+        "./images/AFCAT_2021_Memory/p16_img5.png",
+        "./images/AFCAT_2021_Memory/p16_img6.png",
+        "./images/AFCAT_2021_Memory/p16_img7.png",
+        "./images/AFCAT_2021_Memory/p16_img8.png",
+        "./images/AFCAT_2021_Memory/p16_img9.png",
+        "./images/AFCAT_2021_Memory/p17_img4.png",
+        "./images/AFCAT_2021_Memory/p17_img5.png",
+        "./images/AFCAT_2021_Memory/p17_img6.png",
+        "./images/AFCAT_2021_Memory/p17_img7.png",
+        "./images/AFCAT_2021_Memory/p17_img8.png"
+      ]
     },
     {
       "file_name": "Indian_Air_Force_AFCAT_2021_Memory_Based.pdf",
@@ -43191,7 +46159,25 @@ const dashboardData = {
           "text": "Option (d)"
         }
       ],
-      "year": 2021
+      "year": 2021,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p15_img4.png",
+        "./images/AFCAT_2021_Memory/p15_img5.png",
+        "./images/AFCAT_2021_Memory/p15_img6.png",
+        "./images/AFCAT_2021_Memory/p15_img7.png",
+        "./images/AFCAT_2021_Memory/p16_img4.png",
+        "./images/AFCAT_2021_Memory/p16_img5.png",
+        "./images/AFCAT_2021_Memory/p16_img6.png",
+        "./images/AFCAT_2021_Memory/p16_img7.png",
+        "./images/AFCAT_2021_Memory/p16_img8.png",
+        "./images/AFCAT_2021_Memory/p16_img9.png",
+        "./images/AFCAT_2021_Memory/p17_img4.png",
+        "./images/AFCAT_2021_Memory/p17_img5.png",
+        "./images/AFCAT_2021_Memory/p17_img6.png",
+        "./images/AFCAT_2021_Memory/p17_img7.png",
+        "./images/AFCAT_2021_Memory/p17_img8.png"
+      ]
     },
     {
       "file_name": "Indian_Air_Force_AFCAT_2021_Memory_Based.pdf",
@@ -43224,7 +46210,7 @@ const dashboardData = {
     {
       "file_name": "Indian_Air_Force_AFCAT_2021_Memory_Based.pdf",
       "question_number": 93,
-      "question_text": "Find out the two signs to be interchanged to make the following equation correct. 25 + 5 \u00d7 7 \u2013 12 \u00f7 3 = 26",
+      "question_text": "Find out the two signs to be interchanged to make the following equation correct. 25 + 5 × 7 – 12 ÷ 3 = 26",
       "section": "Numerical Ability",
       "topic": "Simplification",
       "difficulty": "Medium",
@@ -43232,19 +46218,19 @@ const dashboardData = {
       "choices": [
         {
           "key": "A",
-          "text": "+ and \u00f7"
+          "text": "+ and ÷"
         },
         {
           "key": "B",
-          "text": "+ and \u00d7"
+          "text": "+ and ×"
         },
         {
           "key": "C",
-          "text": "\u2013 and \u00f7"
+          "text": "– and ÷"
         },
         {
           "key": "D",
-          "text": "+ and \u2013"
+          "text": "+ and –"
         }
       ],
       "year": 2021
@@ -43331,7 +46317,25 @@ const dashboardData = {
           "text": "5"
         }
       ],
-      "year": 2021
+      "year": 2021,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p16_img4.png",
+        "./images/AFCAT_2021_Memory/p16_img5.png",
+        "./images/AFCAT_2021_Memory/p16_img6.png",
+        "./images/AFCAT_2021_Memory/p16_img7.png",
+        "./images/AFCAT_2021_Memory/p16_img8.png",
+        "./images/AFCAT_2021_Memory/p16_img9.png",
+        "./images/AFCAT_2021_Memory/p17_img4.png",
+        "./images/AFCAT_2021_Memory/p17_img5.png",
+        "./images/AFCAT_2021_Memory/p17_img6.png",
+        "./images/AFCAT_2021_Memory/p17_img7.png",
+        "./images/AFCAT_2021_Memory/p17_img8.png",
+        "./images/AFCAT_2021_Memory/p18_img4.png",
+        "./images/AFCAT_2021_Memory/p18_img5.png",
+        "./images/AFCAT_2021_Memory/p18_img6.png",
+        "./images/AFCAT_2021_Memory/p18_img7.png"
+      ]
     },
     {
       "file_name": "Indian_Air_Force_AFCAT_2021_Memory_Based.pdf",
@@ -43359,7 +46363,25 @@ const dashboardData = {
           "text": "Option (d)"
         }
       ],
-      "year": 2021
+      "year": 2021,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p16_img4.png",
+        "./images/AFCAT_2021_Memory/p16_img5.png",
+        "./images/AFCAT_2021_Memory/p16_img6.png",
+        "./images/AFCAT_2021_Memory/p16_img7.png",
+        "./images/AFCAT_2021_Memory/p16_img8.png",
+        "./images/AFCAT_2021_Memory/p16_img9.png",
+        "./images/AFCAT_2021_Memory/p17_img4.png",
+        "./images/AFCAT_2021_Memory/p17_img5.png",
+        "./images/AFCAT_2021_Memory/p17_img6.png",
+        "./images/AFCAT_2021_Memory/p17_img7.png",
+        "./images/AFCAT_2021_Memory/p17_img8.png",
+        "./images/AFCAT_2021_Memory/p18_img4.png",
+        "./images/AFCAT_2021_Memory/p18_img5.png",
+        "./images/AFCAT_2021_Memory/p18_img6.png",
+        "./images/AFCAT_2021_Memory/p18_img7.png"
+      ]
     },
     {
       "file_name": "Indian_Air_Force_AFCAT_2021_Memory_Based.pdf",
@@ -43387,7 +46409,19 @@ const dashboardData = {
           "text": "Option (d)"
         }
       ],
-      "year": 2021
+      "year": 2021,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p17_img4.png",
+        "./images/AFCAT_2021_Memory/p17_img5.png",
+        "./images/AFCAT_2021_Memory/p17_img6.png",
+        "./images/AFCAT_2021_Memory/p17_img7.png",
+        "./images/AFCAT_2021_Memory/p17_img8.png",
+        "./images/AFCAT_2021_Memory/p18_img4.png",
+        "./images/AFCAT_2021_Memory/p18_img5.png",
+        "./images/AFCAT_2021_Memory/p18_img6.png",
+        "./images/AFCAT_2021_Memory/p18_img7.png"
+      ]
     },
     {
       "file_name": "Indian_Air_Force_AFCAT_2021_Memory_Based.pdf",
@@ -45151,7 +48185,21 @@ const dashboardData = {
           "text": "Option D diagram"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Aug27_Memory_v2/p1_img1.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p1_img2.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p1_img3.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p1_img4.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p1_img5.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p1_img6.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p1_img7.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p1_img8.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p1_img9.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p1_img10.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p1_img11.png"
+      ]
     },
     {
       "file_name": "AFCAT_2022_Aug27_Memory_v2.pdf",
@@ -45207,7 +48255,21 @@ const dashboardData = {
           "text": "Option D diagram"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Aug27_Memory_v2/p1_img1.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p1_img2.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p1_img3.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p1_img4.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p1_img5.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p1_img6.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p1_img7.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p1_img8.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p1_img9.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p1_img10.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p1_img11.png"
+      ]
     },
     {
       "file_name": "AFCAT_2022_Aug27_Memory_v2.pdf",
@@ -45235,7 +48297,17 @@ const dashboardData = {
           "text": "Option D figure"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Feb16_v2/p4_img1.jpeg",
+        "./images/DPP_2024_Feb16_v2/p4_img2.png",
+        "./images/DPP_2024_Feb16_v2/p4_img3.png",
+        "./images/DPP_2024_Feb16_v2/p4_img4.png",
+        "./images/DPP_2024_Feb16_v2/p4_img5.png",
+        "./images/DPP_2024_Feb16_v2/p4_img6.png",
+        "./images/DPP_2024_Feb16_v2/p4_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2022_Aug27_Memory_v2.pdf",
@@ -45291,7 +48363,15 @@ const dashboardData = {
           "text": "5"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Aug27_Memory_v2/p2_img2.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p2_img3.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p2_img4.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p2_img5.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p2_img6.png"
+      ]
     },
     {
       "file_name": "AFCAT_2022_Aug27_Memory_v2.pdf",
@@ -45319,7 +48399,15 @@ const dashboardData = {
           "text": "43"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Aug27_Memory_v2/p2_img2.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p2_img3.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p2_img4.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p2_img5.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p2_img6.png"
+      ]
     },
     {
       "file_name": "AFCAT_2022_Aug27_Memory_v2.pdf",
@@ -45347,7 +48435,15 @@ const dashboardData = {
           "text": "B"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Aug27_Memory_v2/p2_img2.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p2_img3.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p2_img4.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p2_img5.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p2_img6.png"
+      ]
     },
     {
       "file_name": "AFCAT_2022_Aug27_Memory_v2.pdf",
@@ -45431,7 +48527,16 @@ const dashboardData = {
           "text": "D"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Aug27_Memory_v2/p3_img2.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p3_img3.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p3_img4.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p3_img5.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p3_img6.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p3_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2022_Aug27_Memory_v2.pdf",
@@ -45515,7 +48620,16 @@ const dashboardData = {
           "text": "Option D figure"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Aug27_Memory_v2/p3_img2.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p3_img3.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p3_img4.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p3_img5.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p3_img6.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p3_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2022_Aug27_Memory_v2.pdf",
@@ -45548,7 +48662,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2022_Aug27_Memory_v2.pdf",
       "question_number": 16,
-      "question_text": "If 'L' means \u00d7, 'M' means -, 'N' means +, and 'O' means \u00f7, then what will be the value of the following expression? 6 L 25 M 15 N 45 O 5",
+      "question_text": "If 'L' means ×, 'M' means -, 'N' means +, and 'O' means ÷, then what will be the value of the following expression? 6 L 25 M 15 N 45 O 5",
       "section": "Reasoning",
       "topic": "Coding-Decoding",
       "difficulty": "Medium",
@@ -45599,7 +48713,16 @@ const dashboardData = {
           "text": "Option D figure"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Aug27_Memory_v2/p3_img2.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p3_img3.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p3_img4.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p3_img5.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p3_img6.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p3_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2022_Aug27_Memory_v2.pdf",
@@ -45739,7 +48862,17 @@ const dashboardData = {
           "text": "26"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img2.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img3.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img4.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img5.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img6.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img7.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_2022_Aug27_Memory_v2.pdf",
@@ -45767,7 +48900,17 @@ const dashboardData = {
           "text": "A"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img2.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img3.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img4.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img5.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img6.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img7.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_2022_Aug27_Memory_v2.pdf",
@@ -45795,7 +48938,20 @@ const dashboardData = {
           "text": "Option D figure"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift2/p2_img1.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p2_img2.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img3.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img4.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p2_img5.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img6.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img7.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img8.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img9.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img10.png"
+      ]
     },
     {
       "file_name": "AFCAT_2022_Aug27_Memory_v2.pdf",
@@ -46719,7 +49875,22 @@ const dashboardData = {
           "text": "25"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Feb13_Memory/p1_img1.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img2.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img3.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img4.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img5.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img2.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img3.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img4.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img5.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img6.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img7.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT Memory Based Paper - 13 Feb 2022",
@@ -46747,7 +49918,22 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Feb13_Memory/p1_img1.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img2.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img3.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img4.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img5.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img2.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img3.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img4.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img5.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img6.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img7.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT Memory Based Paper - 13 Feb 2022",
@@ -46775,7 +49961,22 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Feb13_Memory/p1_img1.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img2.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img3.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img4.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img5.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img2.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img3.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img4.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img5.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img6.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img7.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT Memory Based Paper - 13 Feb 2022",
@@ -46808,7 +50009,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT Memory Based Paper - 13 Feb 2022",
       "question_number": 11,
-      "question_text": "There are six persons A, B, C, D, E and F. C is the sister of F. B is the brother of E\u2019s husband. D is the father of A and grandfather of F. There are two fathers, three brothers and a mother in the group. Who is the mother?",
+      "question_text": "There are six persons A, B, C, D, E and F. C is the sister of F. B is the brother of E’s husband. D is the father of A and grandfather of F. There are two fathers, three brothers and a mother in the group. Who is the mother?",
       "section": "Reasoning",
       "topic": "Logical Reasoning (Verbal)",
       "difficulty": "Hard",
@@ -46836,7 +50037,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT Memory Based Paper - 13 Feb 2022",
       "question_number": 12,
-      "question_text": "Pointing to a photograph, Rohit said, \u201cShe is the daughter of the only son of my father.\u201d How is Rohit related to the girl in the photograph?",
+      "question_text": "Pointing to a photograph, Rohit said, “She is the daughter of the only son of my father.” How is Rohit related to the girl in the photograph?",
       "section": "Reasoning",
       "topic": "Logical Reasoning (Verbal)",
       "difficulty": "Easy",
@@ -46943,7 +50144,30 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Feb13_Memory/p1_img1.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img2.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img3.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img4.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img5.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img2.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img3.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img4.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img5.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img6.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img7.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img8.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img2.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img3.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img4.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img5.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img6.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img7.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img8.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT Memory Based Paper - 13 Feb 2022",
@@ -46971,7 +50195,25 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Feb13_Memory/p2_img2.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img3.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img4.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img5.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img6.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img7.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img8.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img2.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img3.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img4.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img5.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img6.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img7.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img8.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT Memory Based Paper - 13 Feb 2022",
@@ -46999,7 +50241,25 @@ const dashboardData = {
           "text": "E"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Feb13_Memory/p2_img2.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img3.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img4.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img5.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img6.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img7.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img8.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img2.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img3.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img4.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img5.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img6.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img7.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img8.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT Memory Based Paper - 13 Feb 2022",
@@ -47027,7 +50287,25 @@ const dashboardData = {
           "text": "A"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Feb13_Memory/p2_img2.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img3.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img4.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img5.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img6.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img7.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img8.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img2.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img3.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img4.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img5.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img6.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img7.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img8.png",
+        "./images/AFCAT_2022_Feb13_Memory/p3_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT Memory Based Paper - 13 Feb 2022",
@@ -47116,7 +50394,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT Memory Based Paper - 13 Feb 2022",
       "question_number": 22,
-      "question_text": "If \u2018+\u2019 mean \u2018\u00f7\u2019, \u2018-\u2019 means \u2018\u00d7\u2019, \u2018\u00d7\u2019 means \u2018+\u2019, \u2018\u00f7\u2019 means \u2018-\u2019, then the value of 11 \u00d7 15 \u2212 81 + 27 \u00f7 18 will be?",
+      "question_text": "If ‘+’ mean ‘÷’, ‘-’ means ‘×’, ‘×’ means ‘+’, ‘÷’ means ‘-’, then the value of 11 × 15 − 81 + 27 ÷ 18 will be?",
       "section": "Reasoning",
       "topic": "Logical Reasoning (Verbal)",
       "difficulty": "Medium",
@@ -47144,7 +50422,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT Memory Based Paper - 13 Feb 2022",
       "question_number": 23,
-      "question_text": "If \u2018A\u2019 means \u2018+\u2019, \u2018B\u2019 means \u2018\u00d7\u2019, \u2018C\u2019 means \u2018\u00f7\u2019, and \u2018D\u2019 means \u2018-\u2019, then 16 C 7 B 49 C 28 A 63 D 21 A 11 =?",
+      "question_text": "If ‘A’ means ‘+’, ‘B’ means ‘×’, ‘C’ means ‘÷’, and ‘D’ means ‘-’, then 16 C 7 B 49 C 28 A 63 D 21 A 11 =?",
       "section": "Reasoning",
       "topic": "Logical Reasoning (Verbal)",
       "difficulty": "Medium",
@@ -47391,7 +50669,24 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Feb14_Memory/p1_img1.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img3.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img4.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img5.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img6.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img7.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img3.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img4.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img5.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img6.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img7.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT Memory Based Paper - 14 Feb 2022",
@@ -47419,7 +50714,24 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Feb14_Memory/p1_img1.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img3.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img4.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img5.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img6.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img7.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img3.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img4.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img5.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img6.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img7.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT Memory Based Paper - 14 Feb 2022",
@@ -47432,19 +50744,19 @@ const dashboardData = {
       "choices": [
         {
           "key": "A",
-          "text": "6\u221a41"
+          "text": "6√41"
         },
         {
           "key": "B",
-          "text": "5\u221a42"
+          "text": "5√42"
         },
         {
           "key": "C",
-          "text": "2\u221a42"
+          "text": "2√42"
         },
         {
           "key": "D",
-          "text": "5\u221a41"
+          "text": "5√41"
         }
       ],
       "year": 2022
@@ -47452,7 +50764,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT Memory Based Paper - 14 Feb 2022",
       "question_number": 9,
-      "question_text": "Madhu points to a picture and says, \u201cThis is my mother\u2019s sister\u2019s daughter.\u201d How is the lady in the picture related to Madhu?",
+      "question_text": "Madhu points to a picture and says, “This is my mother’s sister’s daughter.” How is the lady in the picture related to Madhu?",
       "section": "Reasoning",
       "topic": "Logical Reasoning (Verbal)",
       "difficulty": "Easy",
@@ -47475,7 +50787,29 @@ const dashboardData = {
           "text": "Daughter"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Feb14_Memory/p1_img1.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img3.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img4.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img5.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img6.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img7.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img3.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img4.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img5.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img6.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img7.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img8.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img3.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img4.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img5.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img6.png"
+      ]
     },
     {
       "file_name": "AFCAT Memory Based Paper - 14 Feb 2022",
@@ -47500,7 +50834,7 @@ const dashboardData = {
         },
         {
           "key": "D",
-          "text": "Maternal Grandfather\u2019s Brother"
+          "text": "Maternal Grandfather’s Brother"
         }
       ],
       "year": 2022
@@ -47531,7 +50865,29 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Feb14_Memory/p1_img1.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img3.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img4.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img5.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img6.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img7.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img3.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img4.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img5.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img6.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img7.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img8.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img3.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img4.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img5.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img6.png"
+      ]
     },
     {
       "file_name": "AFCAT Memory Based Paper - 14 Feb 2022",
@@ -47587,12 +50943,20 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2024_Feb17_Memory_v3/p1_img1.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p1_img2.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p1_img3.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p1_img4.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p1_img5.png"
+      ]
     },
     {
       "file_name": "AFCAT Memory Based Paper - 14 Feb 2022",
       "question_number": 14,
-      "question_text": "If \u2018!\u2019 means \u2018Division\u2019, \u2018@\u2019 means \u2018Addition\u2019, \u2018$\u2019 means \u2018Multiplication\u2019 and \u2018&\u2019 means \u2018Subtraction\u2019, then 135 ! 3 & 45 $ 4 @ 167 =?",
+      "question_text": "If ‘!’ means ‘Division’, ‘@’ means ‘Addition’, ‘$’ means ‘Multiplication’ and ‘&’ means ‘Subtraction’, then 135 ! 3 & 45 $ 4 @ 167 =?",
       "section": "Reasoning",
       "topic": "Logical Reasoning (Verbal)",
       "difficulty": "Easy",
@@ -47628,19 +50992,19 @@ const dashboardData = {
       "choices": [
         {
           "key": "A",
-          "text": "\u00d7, +, \u00f7, \u2212"
+          "text": "×, +, ÷, −"
         },
         {
           "key": "B",
-          "text": "\u00d7, \u2212, \u00f7, +"
+          "text": "×, −, ÷, +"
         },
         {
           "key": "C",
-          "text": "\u00f7, \u00d7, \u2212, +"
+          "text": "÷, ×, −, +"
         },
         {
           "key": "D",
-          "text": "\u00d7, \u00f7, +, \u2212"
+          "text": "×, ÷, +, −"
         }
       ],
       "year": 2022
@@ -47755,7 +51119,24 @@ const dashboardData = {
           "text": "d"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Feb14_Memory/p2_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img3.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img4.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img5.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img6.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img7.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img8.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img3.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img4.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img5.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img6.png",
+        "./images/AFCAT_2022_Feb14_Memory/p4_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p4_img3.png"
+      ]
     },
     {
       "file_name": "AFCAT Memory Based Paper - 14 Feb 2022",
@@ -47895,7 +51276,17 @@ const dashboardData = {
           "text": "5:6"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Feb14_Memory/p3_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img3.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img4.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img5.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img6.png",
+        "./images/AFCAT_2022_Feb14_Memory/p4_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p4_img3.png"
+      ]
     },
     {
       "file_name": "AFCAT Memory Based Paper - 14 Feb 2022",
@@ -47923,7 +51314,17 @@ const dashboardData = {
           "text": "14"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Feb14_Memory/p3_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img3.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img4.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img5.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img6.png",
+        "./images/AFCAT_2022_Feb14_Memory/p4_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p4_img3.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
@@ -48216,7 +51617,7 @@ const dashboardData = {
       "choices": [
         {
           "key": "A",
-          "text": "who\u2019s"
+          "text": "who’s"
         },
         {
           "key": "B",
@@ -48656,7 +52057,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
       "question_number": 27,
-      "question_text": "but checking it is not going to be easy (p)/ The practice of taking performance\u2014boosting drugs among athletes is generally conceded to be unfair (Q)/ of the detection technology (R)/ for the user is generally one jump ahead (S)",
+      "question_text": "but checking it is not going to be easy (p)/ The practice of taking performance—boosting drugs among athletes is generally conceded to be unfair (Q)/ of the detection technology (R)/ for the user is generally one jump ahead (S)",
       "section": "Verbal Ability",
       "topic": "Para Jumbles",
       "difficulty": "Medium",
@@ -48768,7 +52169,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
       "question_number": 31,
-      "question_text": "Where is the World\u2019s longest Suspension Bridge?",
+      "question_text": "Where is the World’s longest Suspension Bridge?",
       "section": "General Awareness",
       "topic": "Geography (World)",
       "difficulty": "Medium",
@@ -48824,7 +52225,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
       "question_number": 33,
-      "question_text": "Which is the helicopter launched Antitank missile? \u2013",
+      "question_text": "Which is the helicopter launched Antitank missile? –",
       "section": "General Awareness",
       "topic": "Defence",
       "difficulty": "Medium",
@@ -48992,7 +52393,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
       "question_number": 39,
-      "question_text": "Which Prime Minister of India imposed President Rule for more number of times\u2014",
+      "question_text": "Which Prime Minister of India imposed President Rule for more number of times—",
       "section": "General Awareness",
       "topic": "Indian Polity",
       "difficulty": "Medium",
@@ -49104,7 +52505,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
       "question_number": 43,
-      "question_text": "In which Year Sepoy Mutiny at Barrackpore happened? \u2013 1824.",
+      "question_text": "In which Year Sepoy Mutiny at Barrackpore happened? – 1824.",
       "section": "General Awareness",
       "topic": "History (Modern)",
       "difficulty": "Medium",
@@ -49132,7 +52533,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
       "question_number": 44,
-      "question_text": "Who won the women\u2019s singles tennis title at the 2023 Australian Open?",
+      "question_text": "Who won the women’s singles tennis title at the 2023 Australian Open?",
       "section": "General Awareness",
       "topic": "Static GK",
       "difficulty": "Medium",
@@ -49148,7 +52549,7 @@ const dashboardData = {
         },
         {
           "key": "C",
-          "text": "Iga \u015awi\u0105tek"
+          "text": "Iga Świątek"
         },
         {
           "key": "D",
@@ -49216,7 +52617,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
       "question_number": 47,
-      "question_text": "What was India\u2019s rank at Common Wealth Games?",
+      "question_text": "What was India’s rank at Common Wealth Games?",
       "section": "General Awareness",
       "topic": "Static GK",
       "difficulty": "Medium",
@@ -49300,7 +52701,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
       "question_number": 50,
-      "question_text": "The \u2018Udyam Abhilasha\u2019 Scheme is launched by?",
+      "question_text": "The ‘Udyam Abhilasha’ Scheme is launched by?",
       "section": "General Awareness",
       "topic": "Economy",
       "difficulty": "Medium",
@@ -49328,7 +52729,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
       "question_number": 51,
-      "question_text": "Who said, \u201cPatriotism is religion and religion is love for India\u201d?",
+      "question_text": "Who said, “Patriotism is religion and religion is love for India”?",
       "section": "General Awareness",
       "topic": "History (Modern)",
       "difficulty": "Medium",
@@ -50219,7 +53620,13 @@ const dashboardData = {
           "text": "d"
         }
       ],
-      "year": 2023
+      "year": 2023,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p14_img4.png",
+        "./images/AFCAT_2023_01_Memory/p14_img5.png",
+        "./images/AFCAT_2023_01_Memory/p14_img6.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
@@ -50247,7 +53654,13 @@ const dashboardData = {
           "text": "d"
         }
       ],
-      "year": 2023
+      "year": 2023,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p14_img4.png",
+        "./images/AFCAT_2023_01_Memory/p14_img5.png",
+        "./images/AFCAT_2023_01_Memory/p14_img6.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
@@ -50275,7 +53688,13 @@ const dashboardData = {
           "text": "d"
         }
       ],
-      "year": 2023
+      "year": 2023,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p14_img4.png",
+        "./images/AFCAT_2023_01_Memory/p14_img5.png",
+        "./images/AFCAT_2023_01_Memory/p14_img6.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
@@ -50303,12 +53722,18 @@ const dashboardData = {
           "text": "d"
         }
       ],
-      "year": 2023
+      "year": 2023,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p14_img4.png",
+        "./images/AFCAT_2023_01_Memory/p14_img5.png",
+        "./images/AFCAT_2023_01_Memory/p14_img6.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
       "question_number": 86,
-      "question_text": "If \u201c\u2013\u201d mean \u201cdivided by\u201d, \u201c+\u201d means \u201cmultiplied by\u201d, \u201c\u00f7\u201d means \u201cadded to\u201d, \u201c\u00d7\u201d means \u201csubtracted from\u201d, then 11 \u00f7 6 \u2013 2 + 5 \u00d7 3 = ?",
+      "question_text": "If “–” mean “divided by”, “+” means “multiplied by”, “÷” means “added to”, “×” means “subtracted from”, then 11 ÷ 6 – 2 + 5 × 3 = ?",
       "section": "Reasoning",
       "topic": "Coding-Decoding",
       "difficulty": "Easy",
@@ -50336,7 +53761,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
       "question_number": 87,
-      "question_text": "Rakhi got engaged 10 yr ago. Rakhi\u2019s present age is 5/3 of her age at the time of engagement. If the present age of Rakhi\u2019s mother is twice that of present age of Rakhi, then what was her mother\u2019s age (in yr) at the time of engagement?",
+      "question_text": "Rakhi got engaged 10 yr ago. Rakhi’s present age is 5/3 of her age at the time of engagement. If the present age of Rakhi’s mother is twice that of present age of Rakhi, then what was her mother’s age (in yr) at the time of engagement?",
       "section": "Numerical Ability",
       "topic": "Ratio & Proportion",
       "difficulty": "Hard",
@@ -50387,7 +53812,12 @@ const dashboardData = {
           "text": "d"
         }
       ],
-      "year": 2023
+      "year": 2023,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p15_img4.png",
+        "./images/AFCAT_2023_01_Memory/p15_img5.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
@@ -50415,7 +53845,12 @@ const dashboardData = {
           "text": "d"
         }
       ],
-      "year": 2023
+      "year": 2023,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p15_img4.png",
+        "./images/AFCAT_2023_01_Memory/p15_img5.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
@@ -50448,7 +53883,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
       "question_number": 91,
-      "question_text": "In a certain code language, \u201cNIGHT\u201d is written as \u201cODDGM\u201d and \u201cDARK\u201d is written as \u201cGOYC\u201d. How is \u201cGREEN\u201d written in that code language?",
+      "question_text": "In a certain code language, “NIGHT” is written as “ODDGM” and “DARK” is written as “GOYC”. How is “GREEN” written in that code language?",
       "section": "Reasoning",
       "topic": "Coding-Decoding",
       "difficulty": "Hard",
@@ -50499,7 +53934,13 @@ const dashboardData = {
           "text": "d"
         }
       ],
-      "year": 2023
+      "year": 2023,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p16_img4.png",
+        "./images/AFCAT_2023_01_Memory/p16_img5.png",
+        "./images/AFCAT_2023_01_Memory/p16_img6.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
@@ -50527,7 +53968,13 @@ const dashboardData = {
           "text": "d"
         }
       ],
-      "year": 2023
+      "year": 2023,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p16_img4.png",
+        "./images/AFCAT_2023_01_Memory/p16_img5.png",
+        "./images/AFCAT_2023_01_Memory/p16_img6.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
@@ -50555,7 +54002,22 @@ const dashboardData = {
           "text": "d"
         }
       ],
-      "year": 2023
+      "year": 2023,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p15_img4.png",
+        "./images/AFCAT_2023_01_Memory/p15_img5.png",
+        "./images/AFCAT_2023_01_Memory/p16_img4.png",
+        "./images/AFCAT_2023_01_Memory/p16_img5.png",
+        "./images/AFCAT_2023_01_Memory/p16_img6.png",
+        "./images/AFCAT_2023_01_Memory/p17_img10.png",
+        "./images/AFCAT_2023_01_Memory/p17_img4.png",
+        "./images/AFCAT_2023_01_Memory/p17_img5.png",
+        "./images/AFCAT_2023_01_Memory/p17_img6.png",
+        "./images/AFCAT_2023_01_Memory/p17_img7.png",
+        "./images/AFCAT_2023_01_Memory/p17_img8.png",
+        "./images/AFCAT_2023_01_Memory/p17_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
@@ -50583,7 +54045,22 @@ const dashboardData = {
           "text": "d"
         }
       ],
-      "year": 2023
+      "year": 2023,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p15_img4.png",
+        "./images/AFCAT_2023_01_Memory/p15_img5.png",
+        "./images/AFCAT_2023_01_Memory/p16_img4.png",
+        "./images/AFCAT_2023_01_Memory/p16_img5.png",
+        "./images/AFCAT_2023_01_Memory/p16_img6.png",
+        "./images/AFCAT_2023_01_Memory/p17_img10.png",
+        "./images/AFCAT_2023_01_Memory/p17_img4.png",
+        "./images/AFCAT_2023_01_Memory/p17_img5.png",
+        "./images/AFCAT_2023_01_Memory/p17_img6.png",
+        "./images/AFCAT_2023_01_Memory/p17_img7.png",
+        "./images/AFCAT_2023_01_Memory/p17_img8.png",
+        "./images/AFCAT_2023_01_Memory/p17_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
@@ -50611,7 +54088,25 @@ const dashboardData = {
           "text": "d"
         }
       ],
-      "year": 2023
+      "year": 2023,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p16_img4.png",
+        "./images/AFCAT_2021_Memory/p16_img5.png",
+        "./images/AFCAT_2021_Memory/p16_img6.png",
+        "./images/AFCAT_2021_Memory/p16_img7.png",
+        "./images/AFCAT_2021_Memory/p16_img8.png",
+        "./images/AFCAT_2021_Memory/p16_img9.png",
+        "./images/AFCAT_2021_Memory/p17_img4.png",
+        "./images/AFCAT_2021_Memory/p17_img5.png",
+        "./images/AFCAT_2021_Memory/p17_img6.png",
+        "./images/AFCAT_2021_Memory/p17_img7.png",
+        "./images/AFCAT_2021_Memory/p17_img8.png",
+        "./images/AFCAT_2021_Memory/p18_img4.png",
+        "./images/AFCAT_2021_Memory/p18_img5.png",
+        "./images/AFCAT_2021_Memory/p18_img6.png",
+        "./images/AFCAT_2021_Memory/p18_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
@@ -50639,7 +54134,25 @@ const dashboardData = {
           "text": "d"
         }
       ],
-      "year": 2023
+      "year": 2023,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p16_img4.png",
+        "./images/AFCAT_2021_Memory/p16_img5.png",
+        "./images/AFCAT_2021_Memory/p16_img6.png",
+        "./images/AFCAT_2021_Memory/p16_img7.png",
+        "./images/AFCAT_2021_Memory/p16_img8.png",
+        "./images/AFCAT_2021_Memory/p16_img9.png",
+        "./images/AFCAT_2021_Memory/p17_img4.png",
+        "./images/AFCAT_2021_Memory/p17_img5.png",
+        "./images/AFCAT_2021_Memory/p17_img6.png",
+        "./images/AFCAT_2021_Memory/p17_img7.png",
+        "./images/AFCAT_2021_Memory/p17_img8.png",
+        "./images/AFCAT_2021_Memory/p18_img4.png",
+        "./images/AFCAT_2021_Memory/p18_img5.png",
+        "./images/AFCAT_2021_Memory/p18_img6.png",
+        "./images/AFCAT_2021_Memory/p18_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
@@ -50667,7 +54180,19 @@ const dashboardData = {
           "text": "d"
         }
       ],
-      "year": 2023
+      "year": 2023,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2021_Memory/p17_img4.png",
+        "./images/AFCAT_2021_Memory/p17_img5.png",
+        "./images/AFCAT_2021_Memory/p17_img6.png",
+        "./images/AFCAT_2021_Memory/p17_img7.png",
+        "./images/AFCAT_2021_Memory/p17_img8.png",
+        "./images/AFCAT_2021_Memory/p18_img4.png",
+        "./images/AFCAT_2021_Memory/p18_img5.png",
+        "./images/AFCAT_2021_Memory/p18_img6.png",
+        "./images/AFCAT_2021_Memory/p18_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
@@ -50695,7 +54220,17 @@ const dashboardData = {
           "text": "d"
         }
       ],
-      "year": 2023
+      "year": 2023,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p18_img4.png",
+        "./images/AFCAT_2023_01_Memory/p18_img5.png",
+        "./images/AFCAT_2023_01_Memory/p18_img6.png",
+        "./images/AFCAT_2023_01_Memory/p18_img7.png",
+        "./images/AFCAT_2023_01_Memory/p18_img8.png",
+        "./images/AFCAT_2023_01_Memory/p18_img9.png",
+        "./images/AFCAT_2023_01_Memory/p18_img10.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_01_Memory.pdf",
@@ -52416,19 +55951,19 @@ const dashboardData = {
       "choices": [
         {
           "key": "A",
-          "text": "80 cm\u00b2"
+          "text": "80 cm²"
         },
         {
           "key": "B",
-          "text": "84 cm\u00b2"
+          "text": "84 cm²"
         },
         {
           "key": "C",
-          "text": "88 cm\u00b2"
+          "text": "88 cm²"
         },
         {
           "key": "D",
-          "text": "90 cm\u00b2"
+          "text": "90 cm²"
         }
       ],
       "year": 2023
@@ -52444,19 +55979,19 @@ const dashboardData = {
       "choices": [
         {
           "key": "A",
-          "text": "6 cm\u00b2"
+          "text": "6 cm²"
         },
         {
           "key": "B",
-          "text": "8 cm\u00b2"
+          "text": "8 cm²"
         },
         {
           "key": "C",
-          "text": "10 cm\u00b2"
+          "text": "10 cm²"
         },
         {
           "key": "D",
-          "text": "12 cm\u00b2"
+          "text": "12 cm²"
         }
       ],
       "year": 2023
@@ -52716,7 +56251,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2023_02_Memory.pdf",
       "question_number": 72,
-      "question_text": "If x\u00b2 = 6 + \u221a(6 + \u221a(6 + \u221a(6 + ... \u221e))) then what is one of the values of x equal to?",
+      "question_text": "If x² = 6 + √(6 + √(6 + √(6 + ... ∞))) then what is one of the values of x equal to?",
       "section": "Numerical Ability",
       "topic": "Number System and Series",
       "difficulty": "Hard",
@@ -52816,11 +56351,11 @@ const dashboardData = {
         },
         {
           "key": "C",
-          "text": "8 \u00bd days"
+          "text": "8 ½ days"
         },
         {
           "key": "D",
-          "text": "7 \u00bd days"
+          "text": "7 ½ days"
         }
       ],
       "year": 2023
@@ -52884,7 +56419,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2023_02_Memory.pdf",
       "question_number": 78,
-      "question_text": "Select the related word from the given alternatives: Square : 90\u00b0 :: Equilateral triangle: ?",
+      "question_text": "Select the related word from the given alternatives: Square : 90° :: Equilateral triangle: ?",
       "section": "Reasoning",
       "topic": "Verbal Analogy",
       "difficulty": "Easy",
@@ -52892,19 +56427,19 @@ const dashboardData = {
       "choices": [
         {
           "key": "A",
-          "text": "30\u00b0"
+          "text": "30°"
         },
         {
           "key": "B",
-          "text": "60\u00b0"
+          "text": "60°"
         },
         {
           "key": "C",
-          "text": "90\u00b0"
+          "text": "90°"
         },
         {
           "key": "D",
-          "text": "120\u00b0"
+          "text": "120°"
         }
       ],
       "year": 2023
@@ -53108,7 +56643,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2023_02_Memory.pdf",
       "question_number": 86,
-      "question_text": "In a certain code language, '\u00d7' represents '+', '\u00f7' represents '\u00d7', '\u2013' represents '\u00f7' and '+' represents '\u2013'. Find out the answer to the following question: 4 \u00d7 18 \u00f7 5 \u2013 10 + 8 = ?",
+      "question_text": "In a certain code language, '×' represents '+', '÷' represents '×', '–' represents '÷' and '+' represents '–'. Find out the answer to the following question: 4 × 18 ÷ 5 – 10 + 8 = ?",
       "section": "Reasoning",
       "topic": "Coding-Decoding",
       "difficulty": "Medium",
@@ -53136,7 +56671,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2023_02_Memory.pdf",
       "question_number": 87,
-      "question_text": "In a certain code language, '\u00f7' represents '+', '\u2013' represents '\u00d7', '+' represents '\u00f7' and '\u00d7' represents '\u2013'. Find out the answer to the following question: 9 \u00f7 4 \u2013 30 + 10 \u00d7 13 = ?",
+      "question_text": "In a certain code language, '÷' represents '+', '–' represents '×', '+' represents '÷' and '×' represents '–'. Find out the answer to the following question: 9 ÷ 4 – 30 + 10 × 13 = ?",
       "section": "Reasoning",
       "topic": "Coding-Decoding",
       "difficulty": "Medium",
@@ -53172,19 +56707,19 @@ const dashboardData = {
       "choices": [
         {
           "key": "A",
-          "text": "47.5\u00b0"
+          "text": "47.5°"
         },
         {
           "key": "B",
-          "text": "37.5\u00b0"
+          "text": "37.5°"
         },
         {
           "key": "C",
-          "text": "17.5\u00b0"
+          "text": "17.5°"
         },
         {
           "key": "D",
-          "text": "18.5\u00b0"
+          "text": "18.5°"
         }
       ],
       "year": 2023
@@ -53271,7 +56806,14 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2023
+      "year": 2023,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_02_Memory/p17_img4.png",
+        "./images/AFCAT_2023_02_Memory/p17_img5.png",
+        "./images/AFCAT_2023_02_Memory/p17_img6.png",
+        "./images/AFCAT_2023_02_Memory/p17_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_02_Memory.pdf",
@@ -53299,7 +56841,14 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2023
+      "year": 2023,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_02_Memory/p17_img4.png",
+        "./images/AFCAT_2023_02_Memory/p17_img5.png",
+        "./images/AFCAT_2023_02_Memory/p17_img6.png",
+        "./images/AFCAT_2023_02_Memory/p17_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_02_Memory.pdf",
@@ -53327,7 +56876,17 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2023
+      "year": 2023,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Feb16_v2/p4_img1.jpeg",
+        "./images/DPP_2024_Feb16_v2/p4_img2.png",
+        "./images/DPP_2024_Feb16_v2/p4_img3.png",
+        "./images/DPP_2024_Feb16_v2/p4_img4.png",
+        "./images/DPP_2024_Feb16_v2/p4_img5.png",
+        "./images/DPP_2024_Feb16_v2/p4_img6.png",
+        "./images/DPP_2024_Feb16_v2/p4_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_02_Memory.pdf",
@@ -53355,7 +56914,17 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2023
+      "year": 2023,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Feb16_v2/p4_img1.jpeg",
+        "./images/DPP_2024_Feb16_v2/p4_img2.png",
+        "./images/DPP_2024_Feb16_v2/p4_img3.png",
+        "./images/DPP_2024_Feb16_v2/p4_img4.png",
+        "./images/DPP_2024_Feb16_v2/p4_img5.png",
+        "./images/DPP_2024_Feb16_v2/p4_img6.png",
+        "./images/DPP_2024_Feb16_v2/p4_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_02_Memory.pdf",
@@ -53383,7 +56952,16 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2023
+      "year": 2023,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_02_Memory/p18_img4.png",
+        "./images/AFCAT_2023_02_Memory/p18_img5.png",
+        "./images/AFCAT_2023_02_Memory/p18_img6.png",
+        "./images/AFCAT_2023_02_Memory/p18_img7.png",
+        "./images/AFCAT_2023_02_Memory/p18_img8.png",
+        "./images/AFCAT_2023_02_Memory/p18_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_02_Memory.pdf",
@@ -53411,7 +56989,16 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2023
+      "year": 2023,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_02_Memory/p18_img4.png",
+        "./images/AFCAT_2023_02_Memory/p18_img5.png",
+        "./images/AFCAT_2023_02_Memory/p18_img6.png",
+        "./images/AFCAT_2023_02_Memory/p18_img7.png",
+        "./images/AFCAT_2023_02_Memory/p18_img8.png",
+        "./images/AFCAT_2023_02_Memory/p18_img9.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_02_Memory.pdf",
@@ -53439,7 +57026,15 @@ const dashboardData = {
           "text": "31"
         }
       ],
-      "year": 2023
+      "year": 2023,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_02_Memory/p19_img4.png",
+        "./images/AFCAT_2023_02_Memory/p19_img5.png",
+        "./images/AFCAT_2023_02_Memory/p19_img6.png",
+        "./images/AFCAT_2023_02_Memory/p19_img7.png",
+        "./images/AFCAT_2023_02_Memory/p19_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_02_Memory.pdf",
@@ -53467,7 +57062,15 @@ const dashboardData = {
           "text": "120"
         }
       ],
-      "year": 2023
+      "year": 2023,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_02_Memory/p19_img4.png",
+        "./images/AFCAT_2023_02_Memory/p19_img5.png",
+        "./images/AFCAT_2023_02_Memory/p19_img6.png",
+        "./images/AFCAT_2023_02_Memory/p19_img7.png",
+        "./images/AFCAT_2023_02_Memory/p19_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_2023_02_Memory.pdf",
@@ -54256,7 +57859,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_9_Aug_2024_Shift_1.pdf",
       "question_number": 27,
-      "question_text": "Rearrange the jumbled parts of the sentence marked P, Q, R, and S.\nVenezuela\u2019s move to ______________between the South American nations.\nP: exercise sovereignty over Essequibo, a vast, oil-rich disputed\nQ: hold a referendum on whether it should\nR: has cut open old wounds and inflamed tensions\nS: region that is now part of neighbouring Guyana,",
+      "question_text": "Rearrange the jumbled parts of the sentence marked P, Q, R, and S.\nVenezuela’s move to ______________between the South American nations.\nP: exercise sovereignty over Essequibo, a vast, oil-rich disputed\nQ: hold a referendum on whether it should\nR: has cut open old wounds and inflamed tensions\nS: region that is now part of neighbouring Guyana,",
       "section": "Verbal Ability",
       "topic": "Para Jumbles",
       "difficulty": "Hard",
@@ -56048,7 +59651,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2024_-2_MBT_English_Shift-1_11_Aug_2024.pdf",
       "question_number": 1,
-      "question_text": "Read the following passage and answer the questions.\n\nOn a cold wintry Christmas day in 1998, the ice and snow were beating down upon the windows of the vehicles as we travelled to an obscure orphanage in Bosnia-Hezegovina. We battled unstable hills blanketed with two feet of snow. The narrow road forced us to drive perilously close to the edge. This would be my first Christmas away from home and family. I could imagine my wife and my two little daughters opening their gifts on Christmas day. Today, I was going to learn for the first time how it would be to spend Christmas day with other children. Enemy activity had devastated the villages. I had heard stories and seen pictures of this particular village where we were headed. What I did not know was that it would be a camp full of destitute families and children. As we entered the village, the children lined the roads on both sides and cheered. They ran to us in excitement as we climbed out of our vehicles. Within moments I saw my soldiers passing out sweets and chocolates and talking with the children. The adults who were not sure if we could be trusted kept their distance. But soon, they too were won over by my men. The soldiers unloaded 87 boxes of toys, clothes, shoes, school supplies and candy. We were soon surrounded by the people of the village who shook our hands and smiled shyly in thanks for our gifts and our presence. After the two-hour visit, as we rose to leave, the camp leader said to us, \u201c Please come again, even if you have nothing to give. We enjoyed having you here.\u201d We had loved every moment we had been there. This year we truly learnt the Christmas spirit of loving and giving!\n\nWhich of these statements is NOT true?",
+      "question_text": "Read the following passage and answer the questions.\n\nOn a cold wintry Christmas day in 1998, the ice and snow were beating down upon the windows of the vehicles as we travelled to an obscure orphanage in Bosnia-Hezegovina. We battled unstable hills blanketed with two feet of snow. The narrow road forced us to drive perilously close to the edge. This would be my first Christmas away from home and family. I could imagine my wife and my two little daughters opening their gifts on Christmas day. Today, I was going to learn for the first time how it would be to spend Christmas day with other children. Enemy activity had devastated the villages. I had heard stories and seen pictures of this particular village where we were headed. What I did not know was that it would be a camp full of destitute families and children. As we entered the village, the children lined the roads on both sides and cheered. They ran to us in excitement as we climbed out of our vehicles. Within moments I saw my soldiers passing out sweets and chocolates and talking with the children. The adults who were not sure if we could be trusted kept their distance. But soon, they too were won over by my men. The soldiers unloaded 87 boxes of toys, clothes, shoes, school supplies and candy. We were soon surrounded by the people of the village who shook our hands and smiled shyly in thanks for our gifts and our presence. After the two-hour visit, as we rose to leave, the camp leader said to us, “ Please come again, even if you have nothing to give. We enjoyed having you here.” We had loved every moment we had been there. This year we truly learnt the Christmas spirit of loving and giving!\n\nWhich of these statements is NOT true?",
       "section": "Verbal Ability",
       "topic": "Reading Comprehension",
       "difficulty": "Medium",
@@ -56068,7 +59671,7 @@ const dashboardData = {
         },
         {
           "key": "D",
-          "text": "It was the narrator\u2019s first Christmas away from home."
+          "text": "It was the narrator’s first Christmas away from home."
         }
       ],
       "year": 2024
@@ -56524,7 +60127,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_2024-2_MBT_English_Shift-1_11_Aug_2024.pdf",
       "question_number": 18,
-      "question_text": "Read the following passage and fill in the blank with the most appropriate word from the options.\n\nNorth American walnut sphinx moth caterpillars (Amorpha juglandis) look like easy meals for birds, but they have a trick up their sleeves \u2014 they produce whistles that sound like bird alarm calls, X potential predators away. \n\nSelect the most appropriate word from the options against X.",
+      "question_text": "Read the following passage and fill in the blank with the most appropriate word from the options.\n\nNorth American walnut sphinx moth caterpillars (Amorpha juglandis) look like easy meals for birds, but they have a trick up their sleeves — they produce whistles that sound like bird alarm calls, X potential predators away. \n\nSelect the most appropriate word from the options against X.",
       "section": "Verbal Ability",
       "topic": "Cloze Test",
       "difficulty": "Easy",
@@ -59375,7 +62978,15 @@ const dashboardData = {
           "text": "Figure (D)"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2024_Feb17_Memory_v3/p1_img1.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p1_img2.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p1_img3.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p1_img4.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p1_img5.png"
+      ]
     },
     {
       "file_name": "AFCAT_2024_Feb17_Memory_v3.pdf",
@@ -59400,7 +63011,7 @@ const dashboardData = {
         },
         {
           "key": "D",
-          "text": "x, \u00f7, =, \u00f7"
+          "text": "x, ÷, =, ÷"
         }
       ],
       "year": 2024
@@ -59515,7 +63126,22 @@ const dashboardData = {
           "text": "Figure (D)"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img1.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img2.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img3.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img4.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img5.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img6.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img7.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img8.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img9.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img10.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img11.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img12.png"
+      ]
     },
     {
       "file_name": "AFCAT_2024_Feb17_Memory_v3.pdf",
@@ -59543,7 +63169,17 @@ const dashboardData = {
           "text": "Figure (D)"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Feb16_v2/p4_img1.jpeg",
+        "./images/DPP_2024_Feb16_v2/p4_img2.png",
+        "./images/DPP_2024_Feb16_v2/p4_img3.png",
+        "./images/DPP_2024_Feb16_v2/p4_img4.png",
+        "./images/DPP_2024_Feb16_v2/p4_img5.png",
+        "./images/DPP_2024_Feb16_v2/p4_img6.png",
+        "./images/DPP_2024_Feb16_v2/p4_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2024_Feb17_Memory_v3.pdf",
@@ -59571,7 +63207,22 @@ const dashboardData = {
           "text": "Figure (D)"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img1.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img2.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img3.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img4.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img5.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img6.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img7.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img8.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img9.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img10.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img11.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img12.png"
+      ]
     },
     {
       "file_name": "AFCAT_2024_Feb17_Memory_v3.pdf",
@@ -59655,7 +63306,22 @@ const dashboardData = {
           "text": "162"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift2/p3_img1.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img2.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img3.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img4.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img5.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img6.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img7.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img8.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img9.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img10.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img11.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img12.png"
+      ]
     },
     {
       "file_name": "AFCAT_2024_Feb17_Memory_v3.pdf",
@@ -59739,7 +63405,17 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Feb16_v2/p4_img1.jpeg",
+        "./images/DPP_2024_Feb16_v2/p4_img2.png",
+        "./images/DPP_2024_Feb16_v2/p4_img3.png",
+        "./images/DPP_2024_Feb16_v2/p4_img4.png",
+        "./images/DPP_2024_Feb16_v2/p4_img5.png",
+        "./images/DPP_2024_Feb16_v2/p4_img6.png",
+        "./images/DPP_2024_Feb16_v2/p4_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT_2024_Feb17_Memory_v3.pdf",
@@ -59767,7 +63443,15 @@ const dashboardData = {
           "text": "V+VII"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2024_Feb17_Memory_v3/p3_img1.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p3_img2.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p3_img3.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p3_img4.jpeg",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p3_img5.png"
+      ]
     },
     {
       "file_name": "AFCAT_2024_Feb17_Memory_v3.pdf",
@@ -59836,19 +63520,19 @@ const dashboardData = {
       "choices": [
         {
           "key": "A",
-          "text": "200\u00b0"
+          "text": "200°"
         },
         {
           "key": "B",
-          "text": "220\u00b0"
+          "text": "220°"
         },
         {
           "key": "C",
-          "text": "110\u00b0"
+          "text": "110°"
         },
         {
           "key": "D",
-          "text": "95\u00b0"
+          "text": "95°"
         }
       ],
       "year": 2024
@@ -59984,7 +63668,7 @@ const dashboardData = {
         },
         {
           "key": "C",
-          "text": "a\u221ab, a^2b^2"
+          "text": "a√b, a^2b^2"
         },
         {
           "key": "D",
@@ -60080,7 +63764,7 @@ const dashboardData = {
     {
       "file_name": "DPP_2022_Aug26.pdf",
       "question_number": 5,
-      "question_text": "The difference between simple interest and compound interest on a certain sum of money for 2 years at 10% per annum is \u20b9 631. Find the sum",
+      "question_text": "The difference between simple interest and compound interest on a certain sum of money for 2 years at 10% per annum is ₹ 631. Find the sum",
       "section": "Numerical Ability",
       "topic": "Simple/Compound Int.",
       "difficulty": "Medium",
@@ -60640,7 +64324,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_Memory_Based_Paper_26_Aug_2022_Shift_1.pdf",
       "question_number": 5,
-      "question_text": "If P denotes \u2018Addition\u2019, Q denotes \u2018Division\u2019, R denotes \u2018Multiplication\u2019 and S denotes \u2018Subtraction\u2019, then which of the statements given below is/are correct. Statement I: 44 Q 11 P 6 S 2 R 2 = 16 Statement II: 36 Q 3 R 2 P 2 S 10 =16",
+      "question_text": "If P denotes ‘Addition’, Q denotes ‘Division’, R denotes ‘Multiplication’ and S denotes ‘Subtraction’, then which of the statements given below is/are correct. Statement I: 44 Q 11 P 6 S 2 R 2 = 16 Statement II: 36 Q 3 R 2 P 2 S 10 =16",
       "section": "Reasoning",
       "topic": "Mathematical Operations",
       "difficulty": "Medium",
@@ -60920,7 +64604,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_Memory_Based_Paper_26_Aug_2022_Shift_1.pdf",
       "question_number": 15,
-      "question_text": "If \u2018A\u2019 means \u2018+\u2019, \u2018B\u2019 means \u2018-\u2019, \u2018C\u2019 means \u2018x\u2019 and \u2018D\u2019 means \u2018\u00f7\u2019, then 81 D 9 C 5 D 15 A 8 B 11 = ?",
+      "question_text": "If ‘A’ means ‘+’, ‘B’ means ‘-’, ‘C’ means ‘x’ and ‘D’ means ‘÷’, then 81 D 9 C 5 D 15 A 8 B 11 = ?",
       "section": "Reasoning",
       "topic": "Mathematical Operations",
       "difficulty": "Medium",
@@ -60971,12 +64655,27 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img1.jpeg",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img2.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img3.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img4.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img5.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img6.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img7.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img8.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img9.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img10.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img11.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img12.png"
+      ]
     },
     {
       "file_name": "AFCAT_Memory_Based_Paper_26_Aug_2022_Shift_1.pdf",
       "question_number": 17,
-      "question_text": "In a certain code language, \u2019SAMPLE\u2019 is written as \u2018RYJLGY\u2019 and \u2018MAPLE\u2019 is written as \u2018LYMHZ\u2019. How will \u2018PEOPLE\u2019 be written in that language?",
+      "question_text": "In a certain code language, ’SAMPLE’ is written as ‘RYJLGY’ and ‘MAPLE’ is written as ‘LYMHZ’. How will ‘PEOPLE’ be written in that language?",
       "section": "Reasoning",
       "topic": "Coding-Decoding",
       "difficulty": "Medium",
@@ -61004,7 +64703,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_Memory_Based_Paper_26_Aug_2022_Shift_1.pdf",
       "question_number": 18,
-      "question_text": "Pointing towards a woman, Reena said, \u201c She is the only daughter of my father-in-law.\u201d How is the woman related to Reena?",
+      "question_text": "Pointing towards a woman, Reena said, “ She is the only daughter of my father-in-law.” How is the woman related to Reena?",
       "section": "Reasoning",
       "topic": "Blood Relations",
       "difficulty": "Easy",
@@ -61032,7 +64731,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_Memory_Based_Paper_26_Aug_2022_Shift_1.pdf",
       "question_number": 19,
-      "question_text": "Shivam is the son of the brother of Rani\u2019s mother. Anil is married to Aparna, who is Ana\u2019s mother. Ritu and Ana are the sisters of Shivam. How is Rani related to Ritu?",
+      "question_text": "Shivam is the son of the brother of Rani’s mother. Anil is married to Aparna, who is Ana’s mother. Ritu and Ana are the sisters of Shivam. How is Rani related to Ritu?",
       "section": "Reasoning",
       "topic": "Blood Relations",
       "difficulty": "Medium",
@@ -61139,7 +64838,22 @@ const dashboardData = {
           "text": "5"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift2/p3_img1.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img2.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img3.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img4.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img5.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img6.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img7.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img8.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img9.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img10.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img11.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img12.png"
+      ]
     },
     {
       "file_name": "AFCAT_Memory_Based_Paper_26_Aug_2022_Shift_1.pdf",
@@ -61195,7 +64909,17 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2022
+      "year": 2022,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img2.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img3.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img4.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img5.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img6.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img7.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_Memory_Based_Paper_26_Aug_2022_Shift_1.pdf",
@@ -61340,7 +65064,7 @@ const dashboardData = {
     {
       "file_name": "DPP_2022_Aug26_GA.pdf",
       "question_number": 5,
-      "question_text": "Which of the following is known as the \u2018lighthouse of the Mediterranean\u2019?",
+      "question_text": "Which of the following is known as the ‘lighthouse of the Mediterranean’?",
       "section": "General Awareness",
       "topic": "Geography (World)",
       "difficulty": "Easy",
@@ -62068,7 +65792,7 @@ const dashboardData = {
     {
       "file_name": "DPP_2022_Aug27.pdf",
       "question_number": 6,
-      "question_text": "Value of the expression: (2.25 - 1.25) / \u221a(2.25\u00b2 - 1.25\u00b2)",
+      "question_text": "Value of the expression: (2.25 - 1.25) / √(2.25² - 1.25²)",
       "section": "Numerical Ability",
       "topic": "Simplification",
       "difficulty": "Easy",
@@ -63328,7 +67052,7 @@ const dashboardData = {
     {
       "file_name": "Defence_AFCAT_Memory_Based_Paper_-13_Feb_2022_DPP.pdf",
       "question_number": 1,
-      "question_text": "In a \u0394ABC, \u2220A - \u2220B = 36\u00b0 and the average measure of angle \u2220A and \u2220B is 74\u00b0. Find the measure of \u2220C.",
+      "question_text": "In a ΔABC, ∠A - ∠B = 36° and the average measure of angle ∠A and ∠B is 74°. Find the measure of ∠C.",
       "section": "Numerical Ability",
       "topic": "Number System",
       "difficulty": "Medium",
@@ -63804,7 +67528,7 @@ const dashboardData = {
     {
       "file_name": "Defence_AFCAT_Memory_Based_Paper-13_Feb_2022_DPP.pdf",
       "question_number": 18,
-      "question_text": "The value of 18 \u00f7 [26 \u2212 25 \u2212 (15 \u2212 5) \u00f7 2] of 12 + 2 \u2212 2 \u00f7 4 \u00d7 16 is:",
+      "question_text": "The value of 18 ÷ [26 − 25 − (15 − 5) ÷ 2] of 12 + 2 − 2 ÷ 4 × 16 is:",
       "section": "Numerical Ability",
       "topic": "Simplification",
       "difficulty": "Medium",
@@ -64204,7 +67928,7 @@ const dashboardData = {
       "choices": [
         {
           "key": "A",
-          "text": "0\u00b0 longitude"
+          "text": "0° longitude"
         },
         {
           "key": "B",
@@ -64212,11 +67936,11 @@ const dashboardData = {
         },
         {
           "key": "C",
-          "text": "180\u00b0 longitude"
+          "text": "180° longitude"
         },
         {
           "key": "D",
-          "text": "90\u00b0 east longitude"
+          "text": "90° east longitude"
         }
       ],
       "year": 2022
@@ -65680,7 +69404,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT MBT 9 Aug 2024",
       "question_number": 20,
-      "question_text": "What is the value of 36 \u00f7 8 \u00d7 4 + 2 \u00f7 4 \u2013 1 + 5 of 3 \u00f7 (4 \u00d7 2 \u2013 3) \u2013 3 = ?",
+      "question_text": "What is the value of 36 ÷ 8 × 4 + 2 ÷ 4 – 1 + 5 of 3 ÷ (4 × 2 – 3) – 3 = ?",
       "section": "Numerical Ability",
       "topic": "Simplification",
       "difficulty": "Medium",
@@ -66128,7 +69852,7 @@ const dashboardData = {
     {
       "file_name": "DPP_2024_Aug09_Shift2.pdf",
       "question_number": 16,
-      "question_text": "A sum of \u20b9 8,400 is divided between Anuj and Brishesh such that Anuj 's share at the end of 2 years is equal to Brijesh 's share at the end of 2 2/3 years at 15% p.a., interest compounded 8 - monthly. What is Aunj's share (in \u20b9) in the given sum?",
+      "question_text": "A sum of ₹ 8,400 is divided between Anuj and Brishesh such that Anuj 's share at the end of 2 years is equal to Brijesh 's share at the end of 2 2/3 years at 15% p.a., interest compounded 8 - monthly. What is Aunj's share (in ₹) in the given sum?",
       "section": "Numerical Ability",
       "topic": "Simple/Compound Int.",
       "difficulty": "Hard",
@@ -66319,7 +70043,15 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift2/p1_img1.png",
+        "./images/DPP_2024_Aug10_Shift2/p1_img2.png",
+        "./images/DPP_2024_Aug10_Shift2/p1_img3.png",
+        "./images/DPP_2024_Aug10_Shift2/p1_img4.png",
+        "./images/DPP_2024_Aug10_Shift2/p1_img5.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug10_Shift1_v2.pdf",
@@ -66459,7 +70191,22 @@ const dashboardData = {
           "text": "42"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Feb13_Memory/p1_img1.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img2.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img3.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img4.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img5.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img2.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img3.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img4.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img5.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img6.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img7.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img8.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug10_Shift1_v2.pdf",
@@ -66515,7 +70262,29 @@ const dashboardData = {
           "text": "Mother"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Feb14_Memory/p1_img1.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img3.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img4.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img5.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img6.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img7.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img3.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img4.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img5.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img6.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img7.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img8.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img3.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img4.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img5.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img6.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug10_Shift1_v2.pdf",
@@ -66543,7 +70312,19 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift1_v2/p2_img1.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p2_img2.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p2_img3.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p2_img4.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p2_img5.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p2_img6.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p2_img7.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p2_img8.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p2_img9.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug10_Shift1_v2.pdf",
@@ -66571,7 +70352,38 @@ const dashboardData = {
           "text": "10"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift1_v2/p2_img1.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p2_img2.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p2_img3.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p2_img4.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p2_img5.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p2_img6.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p2_img7.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p2_img8.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p2_img9.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img1.jpeg",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img10.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img11.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img12.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img2.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img3.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img4.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img5.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img6.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img7.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img8.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img9.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p4_img1.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p4_img2.jpeg",
+        "./images/DPP_2024_Aug10_Shift1_v2/p4_img3.jpeg",
+        "./images/DPP_2024_Aug10_Shift1_v2/p4_img4.jpeg",
+        "./images/DPP_2024_Aug10_Shift1_v2/p4_img5.jpeg",
+        "./images/DPP_2024_Aug10_Shift1_v2/p4_img6.jpeg",
+        "./images/DPP_2024_Aug10_Shift1_v2/p4_img7.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug10_Shift1_v2.pdf",
@@ -66599,7 +70411,22 @@ const dashboardData = {
           "text": "198"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift2/p3_img1.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img2.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img3.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img4.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img5.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img6.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img7.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img8.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img9.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img10.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img11.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img12.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug10_Shift1_v2.pdf",
@@ -66627,7 +70454,22 @@ const dashboardData = {
           "text": "64"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img1.jpeg",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img2.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img3.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img4.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img5.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img6.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img7.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img8.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img9.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img10.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img11.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img12.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug10_Shift1_v2.pdf",
@@ -66683,7 +70525,22 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img1.jpeg",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img2.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img3.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img4.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img5.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img6.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img7.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img8.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img9.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img10.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img11.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p3_img12.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug10_Shift1_v2.pdf",
@@ -66711,7 +70568,20 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift2/p2_img1.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p2_img2.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img3.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img4.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p2_img5.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img6.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img7.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img8.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img9.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img10.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug10_Shift1_v2.pdf",
@@ -66879,7 +70749,17 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Feb16_v2/p4_img1.jpeg",
+        "./images/DPP_2024_Feb16_v2/p4_img2.png",
+        "./images/DPP_2024_Feb16_v2/p4_img3.png",
+        "./images/DPP_2024_Feb16_v2/p4_img4.png",
+        "./images/DPP_2024_Feb16_v2/p4_img5.png",
+        "./images/DPP_2024_Feb16_v2/p4_img6.png",
+        "./images/DPP_2024_Feb16_v2/p4_img7.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug10_Shift1_v2.pdf",
@@ -66907,7 +70787,17 @@ const dashboardData = {
           "text": "Figure B"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift1_v2/p4_img1.png",
+        "./images/DPP_2024_Aug10_Shift1_v2/p4_img2.jpeg",
+        "./images/DPP_2024_Aug10_Shift1_v2/p4_img3.jpeg",
+        "./images/DPP_2024_Aug10_Shift1_v2/p4_img4.jpeg",
+        "./images/DPP_2024_Aug10_Shift1_v2/p4_img5.jpeg",
+        "./images/DPP_2024_Aug10_Shift1_v2/p4_img6.jpeg",
+        "./images/DPP_2024_Aug10_Shift1_v2/p4_img7.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug10_Shift1_v2.pdf",
@@ -67024,7 +70914,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_MBT_10_Aug_shift-1_2024.pdf",
       "question_number": 3,
-      "question_text": "A company undertakes to supply 4000 pieces of a particular equipment at \u20b950 per piece. According to its estimates, even if 10% fail to pass the quality test, it will still make a gain of 25%. However, later it is found that 50% of the equipment has been rejected completely. What is the loss to the company?",
+      "question_text": "A company undertakes to supply 4000 pieces of a particular equipment at ₹50 per piece. According to its estimates, even if 10% fail to pass the quality test, it will still make a gain of 25%. However, later it is found that 50% of the equipment has been rejected completely. What is the loss to the company?",
       "section": "Numerical Ability",
       "topic": "Profit & Loss",
       "difficulty": "Hard",
@@ -67032,19 +70922,19 @@ const dashboardData = {
       "choices": [
         {
           "key": "A",
-          "text": "\u20b9 36000"
+          "text": "₹ 36000"
         },
         {
           "key": "B",
-          "text": "\u20b9 44000"
+          "text": "₹ 44000"
         },
         {
           "key": "C",
-          "text": "\u20b9 40000"
+          "text": "₹ 40000"
         },
         {
           "key": "D",
-          "text": "\u20b9 27000"
+          "text": "₹ 27000"
         }
       ],
       "year": 2024
@@ -67551,7 +71441,15 @@ const dashboardData = {
           "text": "Option D"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift2/p1_img1.png",
+        "./images/DPP_2024_Aug10_Shift2/p1_img2.png",
+        "./images/DPP_2024_Aug10_Shift2/p1_img3.png",
+        "./images/DPP_2024_Aug10_Shift2/p1_img4.png",
+        "./images/DPP_2024_Aug10_Shift2/p1_img5.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug09_Shift2_v3.pdf",
@@ -67803,7 +71701,16 @@ const dashboardData = {
           "text": "Option D"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug09_Shift2_v3/p1_img1.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p1_img2.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p1_img3.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p1_img4.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p1_img5.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p1_img6.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug09_Shift2_v3.pdf",
@@ -67831,7 +71738,22 @@ const dashboardData = {
           "text": "Option D"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img1.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img2.jpeg",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img3.jpeg",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img4.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img5.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img6.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img7.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img8.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img9.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img10.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img11.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img12.jpeg"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug09_Shift2_v3.pdf",
@@ -67859,7 +71781,22 @@ const dashboardData = {
           "text": "46"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img1.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img2.jpeg",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img3.jpeg",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img4.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img5.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img6.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img7.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img8.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img9.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img10.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img11.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img12.jpeg"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug09_Shift2_v3.pdf",
@@ -67971,7 +71908,22 @@ const dashboardData = {
           "text": "14"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img1.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img2.jpeg",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img3.jpeg",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img4.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img5.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img6.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img7.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img8.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img9.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img10.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img11.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img12.jpeg"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug09_Shift2_v3.pdf",
@@ -67999,7 +71951,22 @@ const dashboardData = {
           "text": "18"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img1.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img2.jpeg",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img3.jpeg",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img4.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img5.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img6.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img7.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img8.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img9.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img10.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img11.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img12.jpeg"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug09_Shift2_v3.pdf",
@@ -68195,7 +72162,17 @@ const dashboardData = {
           "text": "Option D"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Feb16_v2/p4_img1.jpeg",
+        "./images/DPP_2024_Feb16_v2/p4_img2.png",
+        "./images/DPP_2024_Feb16_v2/p4_img3.png",
+        "./images/DPP_2024_Feb16_v2/p4_img4.png",
+        "./images/DPP_2024_Feb16_v2/p4_img5.png",
+        "./images/DPP_2024_Feb16_v2/p4_img6.png",
+        "./images/DPP_2024_Feb16_v2/p4_img7.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug09_Shift2_v3.pdf",
@@ -68223,7 +72200,19 @@ const dashboardData = {
           "text": "Option D"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug09_Shift2_v3/p3_img1.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p3_img2.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p3_img3.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p3_img4.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p3_img5.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p3_img6.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p3_img7.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p3_img8.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p3_img9.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug10_Shift2.pdf",
@@ -68335,7 +72324,15 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift2/p1_img1.png",
+        "./images/DPP_2024_Aug10_Shift2/p1_img2.png",
+        "./images/DPP_2024_Aug10_Shift2/p1_img3.png",
+        "./images/DPP_2024_Aug10_Shift2/p1_img4.png",
+        "./images/DPP_2024_Aug10_Shift2/p1_img5.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug10_Shift2.pdf",
@@ -68419,7 +72416,22 @@ const dashboardData = {
           "text": "Father"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Feb13_Memory/p1_img1.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img2.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img3.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img4.png",
+        "./images/AFCAT_2022_Feb13_Memory/p1_img5.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img2.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img3.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img4.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img5.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img6.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img7.png",
+        "./images/AFCAT_2022_Feb13_Memory/p2_img8.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug10_Shift2.pdf",
@@ -68464,18 +72476,40 @@ const dashboardData = {
         },
         {
           "key": "B",
-          "text": "Mother\u2019s father"
+          "text": "Mother’s father"
         },
         {
           "key": "C",
-          "text": "Father\u2019s father"
+          "text": "Father’s father"
         },
         {
           "key": "D",
           "text": "Brother"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Feb14_Memory/p1_img1.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img3.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img4.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img5.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img6.png",
+        "./images/AFCAT_2022_Feb14_Memory/p1_img7.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img3.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img4.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img5.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img6.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img7.png",
+        "./images/AFCAT_2022_Feb14_Memory/p2_img8.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img2.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img3.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img4.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img5.png",
+        "./images/AFCAT_2022_Feb14_Memory/p3_img6.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug10_Shift2.pdf",
@@ -68503,7 +72537,20 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift2/p2_img1.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p2_img2.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img3.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img4.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p2_img5.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img6.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img7.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img8.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img9.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img10.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug10_Shift2.pdf",
@@ -68531,12 +72578,25 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift2/p2_img1.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p2_img2.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img3.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img4.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p2_img5.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img6.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img7.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img8.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img9.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img10.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug10_Shift2.pdf",
       "question_number": 12,
-      "question_text": "In the given figure, the circle stands for intelligence, square for hard - working, triangle for post\u2013graduate and the rectangle for loyal employees. Study the figure and indicate the number which represents post-graduate employees who are hard-working and intelligent but not loyal?",
+      "question_text": "In the given figure, the circle stands for intelligence, square for hard - working, triangle for post–graduate and the rectangle for loyal employees. Study the figure and indicate the number which represents post-graduate employees who are hard-working and intelligent but not loyal?",
       "section": "Reasoning",
       "topic": "Venn Diagrams",
       "difficulty": "Medium",
@@ -68559,7 +72619,20 @@ const dashboardData = {
           "text": "9"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift2/p2_img1.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p2_img2.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img3.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img4.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p2_img5.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img6.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img7.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img8.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img9.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img10.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug10_Shift2.pdf",
@@ -68615,7 +72688,20 @@ const dashboardData = {
           "text": "18"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift2/p2_img1.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p2_img2.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img3.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img4.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p2_img5.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img6.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img7.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img8.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img9.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img10.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug10_Shift2.pdf",
@@ -68727,7 +72813,20 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift2/p2_img1.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p2_img2.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img3.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img4.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p2_img5.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img6.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img7.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img8.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img9.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img10.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug10_Shift2.pdf",
@@ -68783,7 +72882,22 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift2/p3_img1.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img2.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img3.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img4.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img5.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img6.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img7.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img8.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img9.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img10.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img11.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img12.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug10_Shift2.pdf",
@@ -68867,7 +72981,22 @@ const dashboardData = {
           "text": "77"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift2/p3_img1.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img2.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img3.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img4.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img5.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img6.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img7.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img8.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img9.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img10.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img11.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img12.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Aug10_Shift2.pdf",
@@ -68923,7 +73052,22 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift2/p3_img1.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img2.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img3.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img4.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img5.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img6.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img7.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img8.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img9.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img10.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img11.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img12.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Feb16.pdf",
@@ -70323,7 +74467,11 @@ const dashboardData = {
           "text": "IV"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Feb16_v2/p1_img1.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Feb16_v2.pdf",
@@ -70476,7 +74624,7 @@ const dashboardData = {
       "choices": [
         {
           "key": "A",
-          "text": "\u00f7 and -"
+          "text": "÷ and -"
         },
         {
           "key": "B",
@@ -70519,7 +74667,21 @@ const dashboardData = {
           "text": "Figure (D)"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Feb16_v2/p2_img1.png",
+        "./images/DPP_2024_Feb16_v2/p2_img2.png",
+        "./images/DPP_2024_Feb16_v2/p2_img3.png",
+        "./images/DPP_2024_Feb16_v2/p2_img4.png",
+        "./images/DPP_2024_Feb16_v2/p2_img5.png",
+        "./images/DPP_2024_Feb16_v2/p2_img6.jpeg",
+        "./images/DPP_2024_Feb16_v2/p2_img7.jpeg",
+        "./images/DPP_2024_Feb16_v2/p2_img8.jpeg",
+        "./images/DPP_2024_Feb16_v2/p2_img9.jpeg",
+        "./images/DPP_2024_Feb16_v2/p2_img10.jpeg",
+        "./images/DPP_2024_Feb16_v2/p2_img11.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Feb16_v2.pdf",
@@ -70575,7 +74737,21 @@ const dashboardData = {
           "text": "Figure (D)"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Feb16_v2/p2_img1.png",
+        "./images/DPP_2024_Feb16_v2/p2_img2.png",
+        "./images/DPP_2024_Feb16_v2/p2_img3.png",
+        "./images/DPP_2024_Feb16_v2/p2_img4.png",
+        "./images/DPP_2024_Feb16_v2/p2_img5.png",
+        "./images/DPP_2024_Feb16_v2/p2_img6.jpeg",
+        "./images/DPP_2024_Feb16_v2/p2_img7.jpeg",
+        "./images/DPP_2024_Feb16_v2/p2_img8.jpeg",
+        "./images/DPP_2024_Feb16_v2/p2_img9.jpeg",
+        "./images/DPP_2024_Feb16_v2/p2_img10.jpeg",
+        "./images/DPP_2024_Feb16_v2/p2_img11.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Feb16_v2.pdf",
@@ -70603,7 +74779,21 @@ const dashboardData = {
           "text": "Figure (D)"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Feb16_v2/p2_img1.png",
+        "./images/DPP_2024_Feb16_v2/p2_img2.png",
+        "./images/DPP_2024_Feb16_v2/p2_img3.png",
+        "./images/DPP_2024_Feb16_v2/p2_img4.png",
+        "./images/DPP_2024_Feb16_v2/p2_img5.png",
+        "./images/DPP_2024_Feb16_v2/p2_img6.jpeg",
+        "./images/DPP_2024_Feb16_v2/p2_img7.jpeg",
+        "./images/DPP_2024_Feb16_v2/p2_img8.jpeg",
+        "./images/DPP_2024_Feb16_v2/p2_img9.jpeg",
+        "./images/DPP_2024_Feb16_v2/p2_img10.jpeg",
+        "./images/DPP_2024_Feb16_v2/p2_img11.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Feb16_v2.pdf",
@@ -70659,7 +74849,23 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Feb16_v2/p3_img1.png",
+        "./images/DPP_2024_Feb16_v2/p3_img2.png",
+        "./images/DPP_2024_Feb16_v2/p3_img3.png",
+        "./images/DPP_2024_Feb16_v2/p3_img4.png",
+        "./images/DPP_2024_Feb16_v2/p3_img5.png",
+        "./images/DPP_2024_Feb16_v2/p3_img6.png",
+        "./images/DPP_2024_Feb16_v2/p3_img7.png",
+        "./images/DPP_2024_Feb16_v2/p3_img8.png",
+        "./images/DPP_2024_Feb16_v2/p3_img9.png",
+        "./images/DPP_2024_Feb16_v2/p3_img10.png",
+        "./images/DPP_2024_Feb16_v2/p3_img11.png",
+        "./images/DPP_2024_Feb16_v2/p3_img12.png",
+        "./images/DPP_2024_Feb16_v2/p3_img13.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Feb16_v2.pdf",
@@ -70687,7 +74893,23 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Feb16_v2/p3_img1.png",
+        "./images/DPP_2024_Feb16_v2/p3_img2.png",
+        "./images/DPP_2024_Feb16_v2/p3_img3.png",
+        "./images/DPP_2024_Feb16_v2/p3_img4.png",
+        "./images/DPP_2024_Feb16_v2/p3_img5.png",
+        "./images/DPP_2024_Feb16_v2/p3_img6.png",
+        "./images/DPP_2024_Feb16_v2/p3_img7.png",
+        "./images/DPP_2024_Feb16_v2/p3_img8.png",
+        "./images/DPP_2024_Feb16_v2/p3_img9.png",
+        "./images/DPP_2024_Feb16_v2/p3_img10.png",
+        "./images/DPP_2024_Feb16_v2/p3_img11.png",
+        "./images/DPP_2024_Feb16_v2/p3_img12.png",
+        "./images/DPP_2024_Feb16_v2/p3_img13.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Feb16_v2.pdf",
@@ -70743,7 +74965,17 @@ const dashboardData = {
           "text": "4"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Feb16_v2/p4_img1.jpeg",
+        "./images/DPP_2024_Feb16_v2/p4_img2.png",
+        "./images/DPP_2024_Feb16_v2/p4_img3.png",
+        "./images/DPP_2024_Feb16_v2/p4_img4.png",
+        "./images/DPP_2024_Feb16_v2/p4_img5.png",
+        "./images/DPP_2024_Feb16_v2/p4_img6.png",
+        "./images/DPP_2024_Feb16_v2/p4_img7.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Feb16_v2.pdf",
@@ -70799,7 +75031,17 @@ const dashboardData = {
           "text": "10:45"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Feb16_v2/p4_img1.jpeg",
+        "./images/DPP_2024_Feb16_v2/p4_img2.png",
+        "./images/DPP_2024_Feb16_v2/p4_img3.png",
+        "./images/DPP_2024_Feb16_v2/p4_img4.png",
+        "./images/DPP_2024_Feb16_v2/p4_img5.png",
+        "./images/DPP_2024_Feb16_v2/p4_img6.png",
+        "./images/DPP_2024_Feb16_v2/p4_img7.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Feb16_v2.pdf",
@@ -70827,7 +75069,17 @@ const dashboardData = {
           "text": "Figure D"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Feb16_v2/p4_img1.jpeg",
+        "./images/DPP_2024_Feb16_v2/p4_img2.png",
+        "./images/DPP_2024_Feb16_v2/p4_img3.png",
+        "./images/DPP_2024_Feb16_v2/p4_img4.png",
+        "./images/DPP_2024_Feb16_v2/p4_img5.png",
+        "./images/DPP_2024_Feb16_v2/p4_img6.png",
+        "./images/DPP_2024_Feb16_v2/p4_img7.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Feb16_v2.pdf",
@@ -70855,7 +75107,17 @@ const dashboardData = {
           "text": "15"
         }
       ],
-      "year": 2024
+      "year": 2024,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Feb16_v2/p4_img1.jpeg",
+        "./images/DPP_2024_Feb16_v2/p4_img2.png",
+        "./images/DPP_2024_Feb16_v2/p4_img3.png",
+        "./images/DPP_2024_Feb16_v2/p4_img4.png",
+        "./images/DPP_2024_Feb16_v2/p4_img5.png",
+        "./images/DPP_2024_Feb16_v2/p4_img6.png",
+        "./images/DPP_2024_Feb16_v2/p4_img7.png"
+      ]
     },
     {
       "file_name": "DPP_2024_Feb16_v2.pdf",
@@ -72123,7 +76385,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_02_2025_Shift_2.pdf",
       "question_number": 1,
-      "question_text": "A retail fruit vendor buys a score of apples for \u20b9400 and retails them for \u20b9264 at a dozen. What was his loss/gain per cent? (a score = 20 no's)",
+      "question_text": "A retail fruit vendor buys a score of apples for ₹400 and retails them for ₹264 at a dozen. What was his loss/gain per cent? (a score = 20 no's)",
       "section": "Numerical Ability",
       "topic": "Profit & Loss",
       "difficulty": "Easy",
@@ -72179,7 +76441,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_02_2025_Shift_2.pdf",
       "question_number": 3,
-      "question_text": "The circumferential length of a circle of radius 7 cm is used to construct a square. The length of the side of the square is : (Take \u03c0 = 22/7.)",
+      "question_text": "The circumferential length of a circle of radius 7 cm is used to construct a square. The length of the side of the square is : (Take π = 22/7.)",
       "section": "Numerical Ability",
       "topic": "Area",
       "difficulty": "Medium",
@@ -72263,7 +76525,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_02_2025_Shift_2.pdf",
       "question_number": 6,
-      "question_text": "If a + b = 40 and a\u00b2 + b\u00b2 = 116, find the value of a\u00b3 + b\u00b3.",
+      "question_text": "If a + b = 40 and a² + b² = 116, find the value of a³ + b³.",
       "section": "Numerical Ability",
       "topic": "Algebra",
       "difficulty": "Medium",
@@ -72403,7 +76665,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_02_2025_Shift_2.pdf",
       "question_number": 11,
-      "question_text": "Simplify: 48 - 3 [ 5 + 8 { 4 - 4 (9 - 2) + 6 } - 12 ] \u00f7 3",
+      "question_text": "Simplify: 48 - 3 [ 5 + 8 { 4 - 4 (9 - 2) + 6 } - 12 ] ÷ 3",
       "section": "Numerical Ability",
       "topic": "Simplification",
       "difficulty": "Easy",
@@ -72962,17 +77224,17 @@ const dashboardData = {
     },
     {
       "key": "A",
-      "text": "273.15 \u00b0C",
+      "text": "273.15 °C",
       "topic_name": "Unknown"
     },
     {
       "key": "B",
-      "text": "0 \u00b0C",
+      "text": "0 °C",
       "topic_name": "Unknown"
     },
     {
       "key": "C",
-      "text": "-100 \u00b0C",
+      "text": "-100 °C",
       "topic_name": "Unknown"
     },
     {
@@ -73474,19 +77736,19 @@ const dashboardData = {
       "choices": [
         {
           "key": "A",
-          "text": "45\u00b0"
+          "text": "45°"
         },
         {
           "key": "B",
-          "text": "315\u00b0"
+          "text": "315°"
         },
         {
           "key": "C",
-          "text": "30\u00b0"
+          "text": "30°"
         },
         {
           "key": "D",
-          "text": "330\u00b0"
+          "text": "330°"
         }
       ],
       "year": 2025
@@ -73806,7 +78068,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_02_2025_Shift_2.pdf",
       "question_number": 62,
-      "question_text": "In a code language, \u2018FASHION\u2019 is coded as \u2018FAIHIED\u2019, then how will \u2018FAMOUS\u2019 be coded in the same code language?",
+      "question_text": "In a code language, ‘FASHION’ is coded as ‘FAIHIED’, then how will ‘FAMOUS’ be coded in the same code language?",
       "section": "Reasoning",
       "topic": "Coding-Decoding",
       "difficulty": "Medium",
@@ -73834,7 +78096,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_02_2025_Shift_2.pdf",
       "question_number": 63,
-      "question_text": "If \u2018p\u2019 means \u2018-\u2019, \u2018q\u2019 means \u2018+\u2019, \u2018r\u2019 means \u2018\u00f7\u2019 and \u2018s\u2019 means \u2018\u00d7\u2019, then 18 p 6 q 4 s 6 r 2 =?",
+      "question_text": "If ‘p’ means ‘-’, ‘q’ means ‘+’, ‘r’ means ‘÷’ and ‘s’ means ‘×’, then 18 p 6 q 4 s 6 r 2 =?",
       "section": "Reasoning",
       "topic": "Logical Reasoning (Verbal)",
       "difficulty": "Easy",
@@ -73913,7 +78175,22 @@ const dashboardData = {
           "text": "19"
         }
       ],
-      "year": 2025
+      "year": 2025,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img1.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img2.jpeg",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img3.jpeg",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img4.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img5.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img6.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img7.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img8.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img9.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img10.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img11.png",
+        "./images/DPP_2024_Aug09_Shift2_v3/p2_img12.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT_02_2025_Shift_2.pdf",
@@ -74030,7 +78307,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_02_2025_Shift_2.pdf",
       "question_number": 70,
-      "question_text": "Arun is facing North-West. He first turns 90\u00b0 in the clockwise direction and then another 180\u00b0 in the anticlockwise direction. Later he turns 90\u00b0 again in the anticlockwise direction. Which direction is he facing now?",
+      "question_text": "Arun is facing North-West. He first turns 90° in the clockwise direction and then another 180° in the anticlockwise direction. Later he turns 90° again in the anticlockwise direction. Which direction is he facing now?",
       "section": "Reasoning",
       "topic": "Logical Reasoning (Verbal)",
       "difficulty": "Medium",
@@ -77077,7 +81354,22 @@ const dashboardData = {
           "text": "42"
         }
       ],
-      "year": 2025
+      "year": 2025,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift2/p3_img1.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img2.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img3.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img4.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img5.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img6.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img7.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img8.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img9.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img10.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img11.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img12.png"
+      ]
     },
     {
       "file_name": "AFCAT-01_2025-Memory-Based-Paper-Held-On_-22-Jan-2025-Shift-1.pdf",
@@ -77245,7 +81537,13 @@ const dashboardData = {
           "text": "D"
         }
       ],
-      "year": 2025
+      "year": 2025,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p14_img4.png",
+        "./images/AFCAT_2023_01_Memory/p14_img5.png",
+        "./images/AFCAT_2023_01_Memory/p14_img6.png"
+      ]
     },
     {
       "file_name": "AFCAT-01_2025-Memory-Based-Paper-Held-On_-22-Jan-2025-Shift-1.pdf",
@@ -77553,7 +81851,15 @@ const dashboardData = {
           "text": "Figure 4"
         }
       ],
-      "year": 2025
+      "year": 2025,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2019_Memory/p16_img4.png",
+        "./images/AFCAT_2019_Memory/p16_img5.png",
+        "./images/AFCAT_2019_Memory/p16_img6.png",
+        "./images/AFCAT_2019_Memory/p16_img7.png",
+        "./images/AFCAT_2019_Memory/p16_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT-01_2025-Memory-Based-Paper-Held-On_-22-Jan-2025-Shift-1.pdf",
@@ -77945,7 +82251,22 @@ const dashboardData = {
           "text": "E"
         }
       ],
-      "year": 2025
+      "year": 2025,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img1.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img2.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img3.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img4.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img5.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img6.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img7.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img8.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img9.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img10.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img11.png",
+        "./images/AFCAT_2024_Feb17_Memory_v3/p2_img12.png"
+      ]
     },
     {
       "file_name": "AFCAT-02_2025_-24-August-2025-Shift-2-Memory-Based-Paper.pdf",
@@ -77973,7 +82294,20 @@ const dashboardData = {
           "text": "Figure 4"
         }
       ],
-      "year": 2025
+      "year": 2025,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift2/p2_img1.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p2_img2.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img3.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img4.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p2_img5.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img6.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img7.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img8.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img9.png",
+        "./images/DPP_2024_Aug10_Shift2/p2_img10.png"
+      ]
     },
     {
       "file_name": "AFCAT-02_2025_-24-August-2025-Shift-2-Memory-Based-Paper.pdf",
@@ -78062,7 +82396,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_02_2025_24_Aug_Shift_1.pdf",
       "question_number": 2,
-      "question_text": "Sohan borrows a sum of \u20b98,06,465 at the rate of 20% per annum simple interest. At the end of the first year, he repays \u20b925,590 towards return of principal amount borrowed. If Sohan clears all pending dues at the end of the second year, including interest payment that accrued during the first year, how much does he pay at the end of the second year?",
+      "question_text": "Sohan borrows a sum of ₹8,06,465 at the rate of 20% per annum simple interest. At the end of the first year, he repays ₹25,590 towards return of principal amount borrowed. If Sohan clears all pending dues at the end of the second year, including interest payment that accrued during the first year, how much does he pay at the end of the second year?",
       "section": "Numerical Ability",
       "topic": "Simple/Compound Int.",
       "difficulty": "Medium",
@@ -78070,19 +82404,19 @@ const dashboardData = {
       "choices": [
         {
           "key": "A",
-          "text": "\u20b910,91,479"
+          "text": "₹10,91,479"
         },
         {
           "key": "B",
-          "text": "\u20b910,98,343"
+          "text": "₹10,98,343"
         },
         {
           "key": "C",
-          "text": "\u20b911,07,314"
+          "text": "₹11,07,314"
         },
         {
           "key": "D",
-          "text": "\u20b910,95,423"
+          "text": "₹10,95,423"
         }
       ],
       "year": 2025
@@ -78146,7 +82480,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_02_2025_24_Aug_Shift_1.pdf",
       "question_number": 5,
-      "question_text": "The value of (17 + 15) \u00f7 2 - 11 + 16 \u00d7 4 - 28 + 13 (-16 + 13) is:",
+      "question_text": "The value of (17 + 15) ÷ 2 - 11 + 16 × 4 - 28 + 13 (-16 + 13) is:",
       "section": "Numerical Ability",
       "topic": "Simplification",
       "difficulty": "Easy",
@@ -78742,7 +83076,7 @@ const dashboardData = {
       "choices": [
         {
           "key": "A",
-          "text": "\u201clanguage shifts\u201d across languages."
+          "text": "“language shifts” across languages."
         },
         {
           "key": "B",
@@ -78774,7 +83108,7 @@ const dashboardData = {
         },
         {
           "key": "B",
-          "text": "languages can revive even after their speakers have gone through a \u201clanguage shift\u201d."
+          "text": "languages can revive even after their speakers have gone through a “language shift”."
         },
         {
           "key": "C",
@@ -79322,7 +83656,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_02_2025_24_Aug_Shift_1.pdf",
       "question_number": 47,
-      "question_text": "Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select \u2018No substitution required\u2019. I had to write a letter of mistake to my father for the blunder I made.",
+      "question_text": "Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution required’. I had to write a letter of mistake to my father for the blunder I made.",
       "section": "Verbal Ability",
       "topic": "Grammar",
       "difficulty": "Easy",
@@ -79406,7 +83740,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_02_2025_24_Aug_Shift_1.pdf",
       "question_number": 50,
-      "question_text": "Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select \u2018No substitution\u2019. He is feeding a male dog and female dog",
+      "question_text": "Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution’. He is feeding a male dog and female dog",
       "section": "Verbal Ability",
       "topic": "Grammar",
       "difficulty": "Easy",
@@ -79510,7 +83844,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_02_2025_24_Aug_Shift_1.pdf",
       "question_number": 54,
-      "question_text": "Which one among the following is the equivalent rank of \u201cLieutenant Commander\u201d of the Indian Navy in the Indian Air Force?",
+      "question_text": "Which one among the following is the equivalent rank of “Lieutenant Commander” of the Indian Navy in the Indian Air Force?",
       "section": "General Awareness",
       "topic": "Defence",
       "difficulty": "Easy",
@@ -79538,7 +83872,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_02_2025_24_Aug_Shift_1.pdf",
       "question_number": 55,
-      "question_text": "Which celebrity has been officially named as the \u2018Fit India Icon\u2019 during the inaugural ceremony of the Fit India Movement in New Delhi?",
+      "question_text": "Which celebrity has been officially named as the ‘Fit India Icon’ during the inaugural ceremony of the Fit India Movement in New Delhi?",
       "section": "General Awareness",
       "topic": "Personalities",
       "difficulty": "Medium",
@@ -79582,7 +83916,7 @@ const dashboardData = {
         },
         {
           "key": "C",
-          "text": "Krystyna Pyszkov\u00e1"
+          "text": "Krystyna Pyszková"
         },
         {
           "key": "D",
@@ -80014,7 +84348,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_02_2025_24_Aug_Shift_1.pdf",
       "question_number": 72,
-      "question_text": "Who among the following is associated with the formation of the \u2018Gadar Party\u2019?",
+      "question_text": "Who among the following is associated with the formation of the ‘Gadar Party’?",
       "section": "General Awareness",
       "topic": "History (Modern)",
       "difficulty": "Easy",
@@ -80238,7 +84572,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_02_2025_24_Aug_Shift_1.pdf",
       "question_number": 80,
-      "question_text": "Eight friends\u2014 P, Q, R, S, T, U, V and W are sitting around a square table facing the centre... Who is immediate right to the T?",
+      "question_text": "Eight friends— P, Q, R, S, T, U, V and W are sitting around a square table facing the centre... Who is immediate right to the T?",
       "section": "Reasoning",
       "topic": "Logical Reasoning",
       "difficulty": "Hard",
@@ -80317,12 +84651,22 @@ const dashboardData = {
           "text": "D"
         }
       ],
-      "year": 2025
+      "year": 2025,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img2.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img3.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img4.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img5.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img6.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img7.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_02_2025_24_Aug_Shift_1.pdf",
       "question_number": 83,
-      "question_text": "If 'I' stands for '+', 'J' stands for '\u00d7', 'K' stands for '\u00f7' and 'L' stands for '-', what will come in place of the question mark (?) in the following equation? (95 K 19) J 7 L 15 I (10 J 4) = ?",
+      "question_text": "If 'I' stands for '+', 'J' stands for '×', 'K' stands for '÷' and 'L' stands for '-', what will come in place of the question mark (?) in the following equation? (95 K 19) J 7 L 15 I (10 J 4) = ?",
       "section": "Reasoning",
       "topic": "Logical Reasoning",
       "difficulty": "Easy",
@@ -80429,7 +84773,17 @@ const dashboardData = {
           "text": "Option 4"
         }
       ],
-      "year": 2025
+      "year": 2025,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img2.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img3.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img4.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img5.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img6.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img7.png",
+        "./images/AFCAT_2022_Aug27_Memory_v2/p4_img8.png"
+      ]
     },
     {
       "file_name": "AFCAT_02_2025_24_Aug_Shift_1.pdf",
@@ -80798,7 +85152,7 @@ const dashboardData = {
     {
       "file_name": "AFCAT_02_2025_24_Aug_Shift_1.pdf",
       "question_number": 100,
-      "question_text": "In a certain code language, \u2018FLOAT\u2019 is written as \u2018WONZI\u2019 and \u2018TRIBE\u2019 is written as \u2018DUHEW\u2019. How will \u2018GARDEN\u2019 be written in that language?",
+      "question_text": "In a certain code language, ‘FLOAT’ is written as ‘WONZI’ and ‘TRIBE’ is written as ‘DUHEW’. How will ‘GARDEN’ be written in that language?",
       "section": "Reasoning",
       "topic": "Coding-Decoding",
       "difficulty": "Medium",
@@ -81409,7 +85763,13 @@ const dashboardData = {
           "text": "D"
         }
       ],
-      "year": 2025
+      "year": 2025,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p14_img4.png",
+        "./images/AFCAT_2023_01_Memory/p14_img5.png",
+        "./images/AFCAT_2023_01_Memory/p14_img6.png"
+      ]
     },
     {
       "file_name": "AFCAT-01_2025-Memory-Based-Paper-Held-On_-22-Jan-2025-Shift-1.pdf",
@@ -81633,7 +85993,14 @@ const dashboardData = {
           "text": "D"
         }
       ],
-      "year": 2025
+      "year": 2025,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_02_Memory/p17_img4.png",
+        "./images/AFCAT_2023_02_Memory/p17_img5.png",
+        "./images/AFCAT_2023_02_Memory/p17_img6.png",
+        "./images/AFCAT_2023_02_Memory/p17_img7.png"
+      ]
     },
     {
       "file_name": "AFCAT-01_2025-Memory-Based-Paper-Held-On_-22-Jan-2025-Shift-1.pdf",
@@ -83817,7 +88184,22 @@ const dashboardData = {
           "text": "42"
         }
       ],
-      "year": 2025
+      "year": 2025,
+      "has_figure": true,
+      "image_path": [
+        "./images/DPP_2024_Aug10_Shift2/p3_img1.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img2.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img3.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img4.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img5.jpeg",
+        "./images/DPP_2024_Aug10_Shift2/p3_img6.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img7.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img8.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img9.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img10.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img11.png",
+        "./images/DPP_2024_Aug10_Shift2/p3_img12.png"
+      ]
     },
     {
       "file_name": "AFCAT-01_2025-Memory-Based-Paper-Held-On_-22-Jan-2025-Shift-1.pdf",
@@ -83985,7 +88367,13 @@ const dashboardData = {
           "text": "D"
         }
       ],
-      "year": 2025
+      "year": 2025,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2023_01_Memory/p14_img4.png",
+        "./images/AFCAT_2023_01_Memory/p14_img5.png",
+        "./images/AFCAT_2023_01_Memory/p14_img6.png"
+      ]
     },
     {
       "file_name": "AFCAT-01_2025-Memory-Based-Paper-Held-On_-22-Jan-2025-Shift-1.pdf",
@@ -84293,7 +88681,15 @@ const dashboardData = {
           "text": "Figure 4"
         }
       ],
-      "year": 2025
+      "year": 2025,
+      "has_figure": true,
+      "image_path": [
+        "./images/AFCAT_2019_Memory/p16_img4.png",
+        "./images/AFCAT_2019_Memory/p16_img5.png",
+        "./images/AFCAT_2019_Memory/p16_img6.png",
+        "./images/AFCAT_2019_Memory/p16_img7.png",
+        "./images/AFCAT_2019_Memory/p16_img8.jpeg"
+      ]
     },
     {
       "file_name": "AFCAT-01_2025-Memory-Based-Paper-Held-On_-22-Jan-2025-Shift-1.pdf",
