@@ -2,6 +2,7 @@
   "name": "afcat-2026-mission-control",
   "version": "1.0.0",
   "description": "AI-powered AFCAT 2026 exam prep platform",
+  "type": "module",
   "main": "api/config.js",
   "scripts": {
     "dev": "python api_server.py",
