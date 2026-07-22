@@ -1,7 +1,6 @@
 {
   "buildCommand": "echo 'Build complete'",
   "outputDirectory": "output/predictions_2026",
-  "public": false,
   "rewrites": [
     {
       "source": "/api/:path*",
