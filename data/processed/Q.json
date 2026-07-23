@@ -19995,7 +19995,7 @@
       "data/images/AFCAT_2015_Official_Paper1/p14_q71_f4.png",
       "data/images/AFCAT_2015_Official_Paper1/p14_q71_f5.jpeg"
     ],
-    "image_dark": true
+    "image_dark": false
   },
   {
     "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -20035,7 +20035,7 @@
       "data/images/AFCAT_2015_Official_Paper1/p14_q72_f1.png",
       "data/images/AFCAT_2015_Official_Paper1/p14_q72_f2.png"
     ],
-    "image_dark": true
+    "image_dark": false
   },
   {
     "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -20080,7 +20080,7 @@
       "data/images/AFCAT_2015_Official_Paper1/p14_q73_f6.png",
       "data/images/AFCAT_2015_Official_Paper1/p14_q73_f7.png"
     ],
-    "image_dark": true
+    "image_dark": false
   },
   {
     "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -20125,7 +20125,7 @@
       "data/images/AFCAT_2015_Official_Paper1/p14_q74_f6.png",
       "data/images/AFCAT_2015_Official_Paper1/p14_q74_f7.png"
     ],
-    "image_dark": true
+    "image_dark": false
   },
   {
     "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -20170,7 +20170,7 @@
       "data/images/AFCAT_2015_Official_Paper1/p14_q75_f6.png",
       "data/images/AFCAT_2015_Official_Paper1/p14_q75_f7.png"
     ],
-    "image_dark": true
+    "image_dark": false
   },
   {
     "file_name": "AFCAT_2015_Official_Paper1.pdf",
@@ -38513,7 +38513,7 @@
       "image_count": 3,
       "q_y": 581.5699462890625
     },
-    "image_dark": true
+    "image_dark": false
   },
   {
     "file_name": "AFCAT_2020_Memory.pdf",
@@ -38555,7 +38555,7 @@
       "image_count": 3,
       "q_y": 581.5699462890625
     },
-    "image_dark": true
+    "image_dark": false
   },
   {
     "file_name": "AFCAT_2020_Memory.pdf",
@@ -38625,7 +38625,7 @@
       "image_count": 3,
       "q_y": 581.5699462890625
     },
-    "image_dark": true
+    "image_dark": false
   },
   {
     "file_name": "AFCAT_2020_Memory.pdf",
@@ -41044,7 +41044,7 @@
       "image_count": 4,
       "q_y": 107.1799545288086
     },
-    "image_dark": true
+    "image_dark": false
   },
   {
     "file_name": "AFCAT_2021_Memory.pdf",
@@ -41088,7 +41088,7 @@
       "image_count": 5,
       "q_y": 107.1799545288086
     },
-    "image_dark": true
+    "image_dark": false
   },
   {
     "file_name": "AFCAT_2021_Memory.pdf",
@@ -41132,7 +41132,7 @@
       "image_count": 5,
       "q_y": 107.1799545288086
     },
-    "image_dark": true
+    "image_dark": false
   },
   {
     "file_name": "AFCAT_2021_Memory.pdf",
@@ -41176,7 +41176,7 @@
       "image_count": 5,
       "q_y": 107.1799545288086
     },
-    "image_dark": true
+    "image_dark": false
   },
   {
     "file_name": "AFCAT_2021_Memory.pdf",
@@ -41894,7 +41894,7 @@
       "image_count": 1,
       "q_y": 325.41998291015625
     },
-    "image_dark": true
+    "image_dark": false
   },
   {
     "file_name": "AFCAT_2021_Memory.pdf",
@@ -41937,7 +41937,7 @@
       "image_count": 4,
       "q_y": 522.2599487304688
     },
-    "image_dark": true
+    "image_dark": false
   },
   {
     "file_name": "AFCAT_2021_Memory.pdf",
@@ -41980,7 +41980,7 @@
       "image_count": 4,
       "q_y": 108.61995697021484
     },
-    "image_dark": true
+    "image_dark": false
   },
   {
     "file_name": "AFCAT_2021_Memory.pdf",
