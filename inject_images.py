@@ -34,13 +34,17 @@ def main():
     print(f"    [OK] {img_count} images copied.")
 
     # 2. Build precise mapping from Q.json
-    #    Key: (question_number, file_name) -> {image_path, image_dark}
     print("\n  Building image mappings from Q.json...")
     with open(Q_JSON_PATH, "r", encoding="utf-8") as f:
         q_data = json.load(f)
 
-    # Map by (qnum, file_name) - most reliable unique key
-    img_map = {}
+    import re
+    def clean_text(t):
+        return re.sub(r'\W+', '', (t or '').lower())[:40]
+
+    # Map by multiple keys for robustness
+    img_map_by_file = {}
+    img_map_by_text = {}
     for q in q_data:
         if not q.get("has_figure"):
             continue
@@ -67,14 +71,20 @@ def main():
             continue
 
         # Primary key: (question_number, file_name)
-        key = (q.get("question_number"), q.get("file_name", ""))
-        img_map[key] = {
+        qnum = q.get("question_number")
+        key_file = (qnum, q.get("file_name", ""))
+        key_text = (qnum, clean_text(q.get("question_text")))
+        
+        match_data = {
             "has_figure": True,
             "image_path": new_paths,
             "image_dark": image_dark,
         }
+        img_map_by_file[key_file] = match_data
+        if key_text[1]:  # only use text key if there is actual text
+            img_map_by_text[key_text] = match_data
 
-    print(f"    [OK] {len(img_map)} image mappings built.")
+    print(f"    [OK] {len(img_map_by_file)} image mappings built.")
 
     # 3. Load data.js
     print("\n  Loading data.js...")
@@ -96,8 +106,11 @@ def main():
     qb_updated = 0
     qb_cleared = 0
     for q in qb:
-        key = (q.get("question_number"), q.get("file_name", ""))
-        match = img_map.get(key)
+        qnum = q.get("question_number")
+        key_file = (qnum, q.get("file_name", ""))
+        key_text = (qnum, clean_text(q.get("question_text") or q.get("question")))
+        
+        match = img_map_by_file.get(key_file) or img_map_by_text.get(key_text)
         if match:
             q["has_figure"] = match["has_figure"]
             q["image_path"] = match["image_path"]
@@ -119,8 +132,11 @@ def main():
     all_q = dash_data.get("mock_test", {}).get("all_questions", [])
     mt_updated = 0
     for q in all_q:
-        key = (q.get("question_number"), q.get("file_name", ""))
-        match = img_map.get(key)
+        qnum = q.get("question_number")
+        key_file = (qnum, q.get("file_name", ""))
+        key_text = (qnum, clean_text(q.get("question_text") or q.get("question")))
+        
+        match = img_map_by_file.get(key_file) or img_map_by_text.get(key_text)
         if match:
             q["has_figure"] = match["has_figure"]
             q["image_path"] = match["image_path"]
@@ -140,40 +156,6 @@ def main():
         f.write(new_content)
     size_mb = len(new_content) / 1024 / 1024
     print(f"\n  data.js written: {size_mb:.2f} MB")
-
-    # 7. Patch index.html — idempotent image rendering block
-    print("\n  Patching index.html...")
-    html_path = OUTPUT_DIR / "index.html"
-    with open(html_path, "r", encoding="utf-8") as f:
-        html = f.read()
-
-    # Remove any old image patch block
-    import re
-    html = re.sub(
-        r'/\* IMAGE_PATCH_START \*/.*?/\* IMAGE_PATCH_END \*/',
-        '',
-        html,
-        flags=re.DOTALL
-    )
-
-    IMG_SNIPPET = """/* IMAGE_PATCH_START */
-                ${(q.has_figure && q.image_path && q.image_path.length > 0) ? `
-                <div style="margin:12px 0 24px 0;padding:12px;background:#f8fafc;border-radius:12px;border:1px solid #e2e8f0;display:flex;flex-wrap:wrap;gap:10px;justify-content:center;align-items:center;">
-                    ${q.image_path.map((imgSrc,ii) => `<img src="${imgSrc}" alt="Figure ${ii+1}" loading="lazy" style="${q.image_dark ? 'filter:invert(1) brightness(0.85);background:#111;' : 'background:#fff;'} max-height:180px;max-width:100%;object-fit:contain;border-radius:8px;padding:4px;" onerror="this.style.display='none'"/>`).join('')}
-                </div>` : ''}/* IMAGE_PATCH_END */"""
-
-    TARGET = '<p class="text-xl font-bold text-brand-navy mb-10 leading-relaxed font-heading">${q.question_text || q.question}</p>'
-    if TARGET in html:
-        html = html.replace(TARGET, TARGET + "\n                " + IMG_SNIPPET)
-        with open(html_path, "w", encoding="utf-8") as f:
-            f.write(html)
-        print("    [OK] index.html patched with image rendering.")
-    else:
-        # already patched previously with slightly different spacing - search for q.question_text pattern
-        if "q.question_text || q.question" in html:
-            print("    [!] Could not find exact target - HTML may have been modified. Skipping HTML patch.")
-        else:
-            print("    [!] Target line not found in index.html.")
 
     print("\n  [DONE] Run: git add . ; git commit ; git push")
     print("=" * 70)
