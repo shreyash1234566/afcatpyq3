@@ -480,7 +480,7 @@
                 if(!appData) throw new Error("No Data");
 
                 if(document.getElementById('total-pyq-display')) {
-                    document.getElementById('total-pyq-display').textContent = (appData.meta?.total_questions_analyzed || 0) + " Questions";
+                    document.getElementById('total-pyq-display').textContent = (appData.question_bank?.length || 0) + " Questions";
                 }
 
                 renderDashboard();
@@ -530,7 +530,7 @@
             `}).join('');
 
             // TRENDS
-            const trending = appData.predictions?.rising || appData.predictions?.rising_topics || [];
+            const trending = appData.predictions?.rising_topics || [];
             document.getElementById('trending-list').innerHTML = trending.slice(0,5).map(t => {
                 const name = t.Topic || t.topic_name;
                 return `
@@ -540,7 +540,7 @@
                 </div>
             `}).join('');
 
-            const declining = appData.predictions?.declining || appData.predictions?.declining_topics || [];
+            const declining = appData.predictions?.declining_topics || [];
             document.getElementById('declining-list').innerHTML = declining.slice(0,5).map(t => {
                 const name = t.Topic || t.topic_name;
                 return `
@@ -664,14 +664,11 @@
             const slug = (str) => (str || '').toLowerCase().replace(/[^a-z0-9]/g, '');
             const target = slug(topicName);
 
-            const questions = (() => {
-                const pq = appData.practice_questions || {};
-                const flat = Object.entries(pq).flatMap(([topic, qs]) =>
-                    (qs||[]).map(q => ({...q, topic_name: topic})));
-                const slug = (str) => (str||'').toLowerCase().replace(/[^a-z0-9]/g,'');
-                const t = slug(topicName);
-                return flat.filter(q => slug(q.topic_name||'').includes(t) || t.includes(slug(q.topic_name||'')));
-            })();
+            const questions = (appData.question_bank || []).filter(q => {
+                const qt = slug(q.topic_name || q.topic || q.topic_display || '');
+                const qc = slug(q.topic_code || '');
+                return qt.includes(target) || target.includes(qt) || qc === target;
+            });
 
             if(questions.length === 0) {
                 container.innerHTML = `<div class="flex flex-col items-center justify-center py-32 text-center">
