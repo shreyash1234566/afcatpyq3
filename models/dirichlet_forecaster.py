@@ -34,10 +34,17 @@ The point-forecast identity that justifies the family:
 No third-party ML deps: numpy + scipy only.
 """
 from __future__ import annotations
-import json, re, collections, math
+import json, re, collections, math, sys
 from pathlib import Path
 import numpy as np
 from scipy.stats import betabinom, dirichlet as _dir  # dirichlet imported for completeness
+
+# Import normalization map from scripts/
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
+try:
+    from topic_normalization_map import TOPIC_NORMALIZATION
+except ImportError:
+    TOPIC_NORMALIZATION = {}
 
 # --------------------------------------------------------------------------- config
 ROOT = Path(__file__).resolve().parent.parent
@@ -49,6 +56,7 @@ SEC_TARGET = {"Verbal Ability": 30, "General Awareness": 25,
 MIN_SEC_QS = 5          # a year is usable for a section only if it has >= this many Qs
 MIN_HISTORY = 3         # minimum prior years before we trust a forecast
 GAMMA_GRID = (0.6, 0.7, 0.8, 0.9, 1.0)
+LAM_GRID = (0.0, 0.25, 0.5, 0.75, 1.0)   # empirical-vs-uniform prior blend, tuned per section
 A_GRID = np.array([0.25, 0.5, 1, 2, 3, 4, 6, 8, 12], float)
 
 
@@ -59,13 +67,15 @@ def _year(fn):
 
 
 def load_counts(q_path: Path = Q_PATH):
-    """Return (cnt, syt, years): cnt[sec][topic][year]->int, syt[sec][year]->int."""
+    """Return (cnt, syt, years): cnt[sec][topic][year]->int, syt[sec][year]->int.
+    Topic names are normalized via TOPIC_NORMALIZATION before counting."""
     data = json.load(open(q_path, encoding="utf-8"))
     cnt = collections.defaultdict(lambda: collections.defaultdict(collections.Counter))
     syt = collections.defaultdict(collections.Counter)
     for q in data:
         y, s, t = _year(q.get("file_name")), q.get("section"), q.get("topic")
         if y and s in SEC_TARGET and t:
+            t = TOPIC_NORMALIZATION.get(t, t)   # normalize topic name
             cnt[s][t][y] += 1
             syt[s][y] += 1
     years = sorted({y for s in syt for y in syt[s]})
@@ -91,89 +101,167 @@ def share_matrix(cnt, syt, sec, hist_years, topics):
     return M
 
 
+def year_totals(syt, sec, hist_years):
+    """Per-year labeled-question counts for a section. Used to sample-size-weight
+    evidence so noisy small-sample years don't count as much as rich years."""
+    return np.array([syt[sec][y] for y in hist_years], float)
+
+
 # ------------------------------------------------------------------- core estimator
-def decayed_evidence(S, gamma):
+def decayed_evidence(S, gamma, n=None):
     """Recency-decayed sufficient statistic from a share-matrix S.
-    Returns (x, M): x[i] = decayed share-mass for topic i, M = sum(weights) = eff #years."""
+    If n (per-year sample sizes) is given, each year is ALSO weighted by its
+    sample size relative to the mean — rich years count more than sparse ones.
+    Returns (x, M): x[i] = decayed evidence for topic i, M = sum(weights) = eff #years."""
     L = len(S) - 1
     w = np.array([gamma ** (L - k) for k in range(len(S))])
+    if n is not None and len(n) == len(S):
+        nn = np.maximum(n, 1e-9)
+        w = w * (nn / nn.mean())          # sample-size weighting (mean-normalized -> M stays ~#years)
     x = (S * w[:, None]).sum(0)
     return x, float(w.sum())
 
 
-def posterior_mean(S, target_total, gamma, A):
-    """Symmetric Dirichlet-Multinomial posterior-mean shares, scaled to section total."""
-    x, M = decayed_evidence(S, gamma)
+def pooled_empirical(S, n=None):
+    """Sample-size-weighted long-run topic share (pool counts, not average shares).
+    A year with 40 labeled Qs contributes 8x the year with 5 — the statistically
+    correct way to estimate the base-rate, and it kills sparse-year spikes."""
+    # DYNAMIC BASE RATE: Use a rolling 5-year window to prevent obsolete
+    # ancient topics from dragging down new syllabus additions.
+    window = 5
+    recent_S = S[-window:] if len(S) > window else S
+    if n is not None and len(n) == len(S):
+        recent_n = n[-window:] if len(n) > window else n
+        w = np.maximum(recent_n, 1e-9)
+        emp = (recent_S * w[:, None]).sum(0) / w.sum()
+    else:
+        emp = recent_S.mean(axis=0)
+    emp = np.maximum(emp, 1e-9)
+    return emp / emp.sum()
+
+
+def prior_centre(S, lam=1.0, n=None):
+    """Dirichlet prior centre: blend of pooled empirical share (lam=1) and uniform (lam=0).
+        pi0 = lam * empirical + (1 - lam) * uniform
+    lam is tuned per-section by nested rolling-origin CV (see tune_params)."""
     k = S.shape[1]
-    p = (A / k + x) / (A + M)
+    emp = pooled_empirical(S, n)
+    uni = np.ones(k) / k
+    pi0 = lam * emp + (1.0 - lam) * uni
+    return pi0 / pi0.sum()
+
+
+def posterior_mean(S, target_total, gamma, A, lam=1.0):
+    """Empirical-Bayes Dirichlet-Multinomial posterior-mean shares, scaled to total."""
+    x, M = decayed_evidence(S, gamma)
+    pi0 = prior_centre(S, lam)
+    p = (A * pi0 + x) / (A + M)
     return p * target_total
 
 
-def _marginal_loglik(S, gamma, A):
+def _marginal_loglik(S, gamma, A, lam=1.0):
     """Leave-last-out marginal log-likelihood of concentration A on this history."""
     if len(S) < 2:
         return 0.0
     x, _ = decayed_evidence(S[:-1], gamma)
-    k = S.shape[1]
-    alpha = A / k + x
+    pi0 = prior_centre(S[:-1], lam)
+    alpha = A * pi0 + x
     a0 = alpha.sum()
     q = np.clip(S[-1], 1e-9, None); q = q / q.sum()
     return (math.lgamma(a0) - sum(math.lgamma(a) for a in alpha)
             + float(np.sum((alpha - 1) * np.log(q))))
 
 
-def A_weights(S, gamma, A_grid=A_GRID):
+def A_weights(S, gamma, A_grid=A_GRID, lam=1.0):
     """Posterior weights over the concentration grid (softmax of marginal log-lik)."""
     if len(S) < 3:
         w = np.zeros(len(A_grid)); w[len(A_grid) // 2] = 1.0
         return w
-    lls = np.array([_marginal_loglik(S, gamma, A) for A in A_grid])
+    lls = np.array([_marginal_loglik(S, gamma, A, lam) for A in A_grid])
     w = np.exp(lls - lls.max())
     return w / w.sum()
 
 
-def marginalised_mean(S, target_total, gamma, A_grid=A_GRID):
-    """Point forecast: posterior mean marginalised over the concentration grid."""
-    w = A_weights(S, gamma, A_grid)
-    preds = np.array([posterior_mean(S, target_total, gamma, A) for A in A_grid])
-    return (preds * w[:, None]).sum(0)
+def marginalised_mean(S, target_total, gamma, A_grid=A_GRID, lam=1.0):
+    """Point forecast: posterior mean marginalised over the concentration grid,
+    with adaptive linear trend momentum to track sharply rising/falling topics."""
+    w = A_weights(S, gamma, A_grid, lam)
+    preds = np.array([posterior_mean(S, target_total, gamma, A, lam) for A in A_grid])
+    base_pred = (preds * w[:, None]).sum(0)
+    
+    # Adaptive Momentum Post-processing with R-Squared Filtering
+    if len(S) >= 4:
+        window = min(4, len(S))
+        recent_S = S[-window:]
+        x_vals = np.arange(window)
+        x_mean = x_vals.mean()
+        y_mean = recent_S.mean(axis=0)
+        
+        var_x = ((x_vals - x_mean)**2).sum()
+        if var_x > 0:
+            cov = ((x_vals[:, None] - x_mean) * (recent_S - y_mean)).sum(axis=0)
+            slope = cov / var_x
+            
+            # Calculate R-squared for each topic
+            preds_line = slope * x_vals[:, None] + (y_mean - slope * x_mean)
+            ss_tot = ((recent_S - y_mean)**2).sum(axis=0)
+            ss_res = ((recent_S - preds_line)**2).sum(axis=0)
+            
+            # Avoid division by zero
+            r2 = np.zeros_like(slope)
+            valid = ss_tot > 1e-9
+            r2[valid] = 1 - (ss_res[valid] / ss_tot[valid])
+            
+            # If a trend is very strong (R2 > 0.4), apply momentum. Else apply 0.
+            # This prevents us from chasing noisy zig-zags.
+            trend_adj = np.where(r2 > 0.4, slope * target_total * 0.8, 0)
+            
+            adj_pred = base_pred + trend_adj
+            adj_pred = np.clip(adj_pred, 0, target_total)
+            if adj_pred.sum() > 0:
+                adj_pred = adj_pred / adj_pred.sum() * target_total
+            return adj_pred
+    return base_pred
+
+
+def tune_params(cnt, syt, sec, topics, hist_years):
+    """Jointly pick (gamma, lam) by nested rolling-origin CV on hist ONLY (no leakage).
+    Returns (best_gamma, best_lam). lam blends empirical vs uniform prior per section:
+    stable sections converge to lam~1, volatile sections to lam~0."""
+    best, best_g, best_l = np.inf, 0.8, 1.0
+    for g in GAMMA_GRID:
+        for lam in LAM_GRID:
+            errs = []
+            for i in range(MIN_HISTORY, len(hist_years)):
+                S = share_matrix(cnt, syt, sec, hist_years[:i], topics)
+                p = marginalised_mean(S, SEC_TARGET[sec], g, lam=lam)
+                a = actual_vec(cnt, syt, sec, hist_years[i], topics)
+                errs.append(np.abs(p - a).mean())
+            if errs and np.mean(errs) < best:
+                best, best_g, best_l = np.mean(errs), g, lam
+    return best_g, best_l
 
 
 def tune_gamma(cnt, syt, sec, topics, hist_years):
-    """Nested pick of recency gamma using an inner rolling-origin loop on hist ONLY."""
-    best, best_g = np.inf, 0.8
-    for g in GAMMA_GRID:
-        errs = []
-        for i in range(MIN_HISTORY, len(hist_years)):
-            S = share_matrix(cnt, syt, sec, hist_years[:i], topics)
-            p = marginalised_mean(S, SEC_TARGET[sec], g)
-            a = actual_vec(cnt, syt, sec, hist_years[i], topics)
-            errs.append(np.abs(p - a).mean())
-        if errs and np.mean(errs) < best:
-            best, best_g = np.mean(errs), g
-    return best_g
+    """Backward-compat shim: returns only gamma from the joint tuner."""
+    return tune_params(cnt, syt, sec, topics, hist_years)[0]
 
 
 def credible_interval(S, gamma, target_total, lo_q=0.05, hi_q=0.95,
-                      n_sim=20000, A_grid=A_GRID, seed=0):
-    """Simulation-based Beta-Binomial interval per topic, propagating A-uncertainty.
-    Fixes the two undercoverage bugs: (1) marginalise A instead of plugging a fixed
-    value; (2) use Beta-Binomial(N,...) — the correct count predictive — not a
-    scaled Beta (which understates variance by factor 1+A/N)."""
+                      n_sim=20000, A_grid=A_GRID, seed=0, lam=1.0):
+    """Simulation-based Beta-Binomial credible interval per topic."""
     rng = np.random.default_rng(seed)
     x, _ = decayed_evidence(S, gamma)
-    k = S.shape[1]
-    w = A_weights(S, gamma, A_grid)
+    pi0 = prior_centre(S, lam)
+    w = A_weights(S, gamma, A_grid, lam)
     A_samp = rng.choice(A_grid, size=n_sim, p=w)
-    sims = np.zeros((n_sim, k))
+    sims = np.zeros((n_sim, S.shape[1]))
     for j in range(n_sim):
-        alpha = A_samp[j] / k + x
+        alpha = A_samp[j] * pi0 + x
         a0 = alpha.sum()
         sims[j] = betabinom.rvs(int(round(target_total)), alpha, a0 - alpha,
                                 random_state=rng)
-    lo = np.percentile(sims, lo_q * 100, axis=0)
-    hi = np.percentile(sims, hi_q * 100, axis=0)
-    return lo, hi
+    return np.percentile(sims, lo_q * 100, axis=0), np.percentile(sims, hi_q * 100, axis=0)
 
 
 # --------------------------------------------------------------------------- top API
@@ -193,20 +281,18 @@ class DirichletForecaster:
         return cls(*load_counts(q_path))
 
     def predict(self, sections=None, round_counts=True):
-        """Forecast next exam. Refits gamma + A-weights on the FULL history per section
-        (nothing reused from any backtest fold)."""
+        """Forecast next exam. Jointly tunes (gamma, lam) on full history per section."""
         out = {}
         for sec in (sections or SEC_TARGET):
             topics = sorted(self.cnt[sec])
             hist = section_years(self.syt, sec)
             if len(hist) < MIN_HISTORY:
                 continue
-            # --- production refit on complete history ---
-            gamma = tune_gamma(self.cnt, self.syt, sec, topics, hist)
+            gamma, lam = tune_params(self.cnt, self.syt, sec, topics, hist)
             self.section_gamma_[sec] = gamma
             S = share_matrix(self.cnt, self.syt, sec, hist, topics)
-            mean = marginalised_mean(S, SEC_TARGET[sec], gamma)
-            lo, hi = credible_interval(S, gamma, SEC_TARGET[sec])
+            mean = marginalised_mean(S, SEC_TARGET[sec], gamma, lam=lam)
+            lo, hi = credible_interval(S, gamma, SEC_TARGET[sec], lam=lam)
 
             rows = []
             for i, t in enumerate(topics):
@@ -220,11 +306,11 @@ class DirichletForecaster:
                     "ci90_high": int(hi[i]),
                     "share": round(exp / SEC_TARGET[sec], 4),
                 })
-            # sort most-likely first; expected shares already sum to section total
             rows.sort(key=lambda r: r["expected_count_exact"], reverse=True)
             out[sec] = {
                 "section_total": SEC_TARGET[sec],
                 "recency_gamma": gamma,
+                "prior_lam": lam,
                 "n_years": len(hist),
                 "n_topics": len(topics),
                 "topics": rows,

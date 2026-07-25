@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "exam": "AFCAT 2026 Mock Test",
+    "total_questions": 100,
+    "total_marks": 300,
+    "duration": "120 minutes",
+    "negative_marking": "-1 per wrong answer",
+    "passing_expected": "140-160 marks"
+  },
+  "instructions": [
+    "Total 100 questions carrying 300 marks",
+    "Each correct answer: +3 marks",
+    "Each wrong answer: -1 mark",
+    "No marks for unanswered questions",
+    "Recommended time per section provided",
+    "Attempt easier questions first in each section"
+  ],
+  "sections": [
+    {
+      "section": "Verbal Ability",
+      "total_questions": 30,
+      "total_marks": 90,
+      "time_suggested": "36 minutes",
+      "questions": []
+    },
+    {
+      "section": "General Awareness",
+      "total_questions": 25,
+      "total_marks": 75,
+      "time_suggested": "30 minutes",
+      "questions": []
+    },
+    {
+      "section": "Numerical Ability",
+      "total_questions": 20,
+      "total_marks": 60,
+      "time_suggested": "24 minutes",
+      "questions": []
+    },
+    {
+      "section": "Reasoning",
+      "total_questions": 25,
+      "total_marks": 75,
+      "time_suggested": "30 minutes",
+      "questions": []
+    }
+  ],
+  "time_strategy": {
+    "Verbal Ability": {
+      "questions": 30,
+      "suggested_time": "35 minutes",
+      "priority": "High accuracy"
+    },
+    "General Awareness": {
+      "questions": 25,
+      "suggested_time": "20 minutes",
+      "priority": "Speed"
+    },
+    "Numerical Ability": {
+      "questions": 20,
+      "suggested_time": "35 minutes",
+      "priority": "Careful calculation"
+    },
+    "Reasoning": {
+      "questions": 25,
+      "suggested_time": "30 minutes",
+      "priority": "Logical approach"
+    }
+  }
+}

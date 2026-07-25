@@ -1,0 +1,747 @@
+{
+  "metadata": {
+    "total_days": 20,
+    "hours_per_day": 6,
+    "total_hours": 120,
+    "phases": [
+      {
+        "name": "Concept Building",
+        "days": "1-8",
+        "focus": "Foundation & Basics"
+      },
+      {
+        "name": "Advanced Topics",
+        "days": "9-14",
+        "focus": "Complex Problems"
+      },
+      {
+        "name": "Mock Tests",
+        "days": "15-17",
+        "focus": "Full-length Practice"
+      },
+      {
+        "name": "Final Revision",
+        "days": "18-20",
+        "focus": "Quick Recap"
+      }
+    ]
+  },
+  "section_allocation": {
+    "Verbal Ability": {
+      "hours": 36,
+      "percentage": 30
+    },
+    "General Awareness": {
+      "hours": 30,
+      "percentage": 25
+    },
+    "Numerical Ability": {
+      "hours": 24,
+      "percentage": 20
+    },
+    "Reasoning": {
+      "hours": 30,
+      "percentage": 25
+    }
+  },
+  "daily_schedule": [
+    {
+      "day": 1,
+      "date": "Day 1",
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "Morning (2.5h)",
+          "section": "Verbal Ability",
+          "topics": [
+            "VA_ERR",
+            "VA_SYN"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Afternoon (2h)",
+          "section": "General Awareness",
+          "topics": [
+            "GA_DEF",
+            "GA_SCI"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Evening (1.5h)",
+          "section": "Mixed",
+          "topics": [
+            "Previous Day Revision",
+            "PYQ Practice"
+          ],
+          "activity": "Revision + PYQ"
+        }
+      ],
+      "phase": "Concept Building"
+    },
+    {
+      "day": 2,
+      "date": "Day 2",
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "Morning (2.5h)",
+          "section": "General Awareness",
+          "topics": [
+            "GA_DEF",
+            "GA_SCI"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Afternoon (2h)",
+          "section": "Numerical Ability",
+          "topics": [
+            "NA_PER",
+            "NA_PL"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Evening (1.5h)",
+          "section": "Mixed",
+          "topics": [
+            "Previous Day Revision",
+            "PYQ Practice"
+          ],
+          "activity": "Revision + PYQ"
+        }
+      ],
+      "phase": "Concept Building"
+    },
+    {
+      "day": 3,
+      "date": "Day 3",
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "Morning (2.5h)",
+          "section": "Numerical Ability",
+          "topics": [
+            "NA_PER",
+            "NA_PL"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Afternoon (2h)",
+          "section": "Reasoning",
+          "topics": [
+            "RM_VR_CODING",
+            "RM_VR_SERIES"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Evening (1.5h)",
+          "section": "Mixed",
+          "topics": [
+            "Previous Day Revision",
+            "PYQ Practice"
+          ],
+          "activity": "Revision + PYQ"
+        }
+      ],
+      "phase": "Concept Building"
+    },
+    {
+      "day": 4,
+      "date": "Day 4",
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "Morning (2.5h)",
+          "section": "Reasoning",
+          "topics": [
+            "RM_VR_CODING",
+            "RM_VR_SERIES"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Afternoon (2h)",
+          "section": "Verbal Ability",
+          "topics": [
+            "VA_ERR",
+            "VA_SYN"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Evening (1.5h)",
+          "section": "Mixed",
+          "topics": [
+            "Previous Day Revision",
+            "PYQ Practice"
+          ],
+          "activity": "Revision + PYQ"
+        }
+      ],
+      "phase": "Concept Building"
+    },
+    {
+      "day": 5,
+      "date": "Day 5",
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "Morning (2.5h)",
+          "section": "Verbal Ability",
+          "topics": [
+            "VA_ERR",
+            "VA_SYN"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Afternoon (2h)",
+          "section": "General Awareness",
+          "topics": [
+            "GA_DEF",
+            "GA_SCI"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Evening (1.5h)",
+          "section": "Mixed",
+          "topics": [
+            "Previous Day Revision",
+            "PYQ Practice"
+          ],
+          "activity": "Revision + PYQ"
+        }
+      ],
+      "phase": "Concept Building"
+    },
+    {
+      "day": 6,
+      "date": "Day 6",
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "Morning (2.5h)",
+          "section": "General Awareness",
+          "topics": [
+            "GA_DEF",
+            "GA_SCI"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Afternoon (2h)",
+          "section": "Numerical Ability",
+          "topics": [
+            "NA_PER",
+            "NA_PL"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Evening (1.5h)",
+          "section": "Mixed",
+          "topics": [
+            "Previous Day Revision",
+            "PYQ Practice"
+          ],
+          "activity": "Revision + PYQ"
+        }
+      ],
+      "phase": "Concept Building"
+    },
+    {
+      "day": 7,
+      "date": "Day 7",
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "Morning (2.5h)",
+          "section": "Numerical Ability",
+          "topics": [
+            "NA_PER",
+            "NA_PL"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Afternoon (2h)",
+          "section": "Reasoning",
+          "topics": [
+            "RM_VR_CODING",
+            "RM_VR_SERIES"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Evening (1.5h)",
+          "section": "Mixed",
+          "topics": [
+            "Previous Day Revision",
+            "PYQ Practice"
+          ],
+          "activity": "Revision + PYQ"
+        }
+      ],
+      "phase": "Concept Building"
+    },
+    {
+      "day": 8,
+      "date": "Day 8",
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "Morning (2.5h)",
+          "section": "Reasoning",
+          "topics": [
+            "RM_VR_CODING",
+            "RM_VR_SERIES"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Afternoon (2h)",
+          "section": "Verbal Ability",
+          "topics": [
+            "VA_ERR",
+            "VA_SYN"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Evening (1.5h)",
+          "section": "Mixed",
+          "topics": [
+            "Previous Day Revision",
+            "PYQ Practice"
+          ],
+          "activity": "Revision + PYQ"
+        }
+      ],
+      "phase": "Concept Building"
+    },
+    {
+      "day": 9,
+      "date": "Day 9",
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "Morning (2.5h)",
+          "section": "Verbal Ability",
+          "topics": [
+            "VA_CLOZE",
+            "VA_SENT"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Afternoon (2h)",
+          "section": "Numerical Ability",
+          "topics": [
+            "NA_CI",
+            "NA_AVG"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Evening (1.5h)",
+          "section": "All Sections",
+          "topics": [
+            "Weak Areas",
+            "Speed Practice"
+          ],
+          "activity": "Targeted Practice"
+        }
+      ],
+      "phase": "Advanced Topics"
+    },
+    {
+      "day": 10,
+      "date": "Day 10",
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "Morning (2.5h)",
+          "section": "General Awareness",
+          "topics": [
+            "GA_SPORTS",
+            "GA_GEO_IND"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Afternoon (2h)",
+          "section": "Reasoning",
+          "topics": [
+            "RM_VR_LOG",
+            "RM_NV_PATTERN"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Evening (1.5h)",
+          "section": "All Sections",
+          "topics": [
+            "Weak Areas",
+            "Speed Practice"
+          ],
+          "activity": "Targeted Practice"
+        }
+      ],
+      "phase": "Advanced Topics"
+    },
+    {
+      "day": 11,
+      "date": "Day 11",
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "Morning (2.5h)",
+          "section": "Numerical Ability",
+          "topics": [
+            "NA_CI",
+            "NA_AVG"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Afternoon (2h)",
+          "section": "Verbal Ability",
+          "topics": [
+            "VA_CLOZE",
+            "VA_SENT"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Evening (1.5h)",
+          "section": "All Sections",
+          "topics": [
+            "Weak Areas",
+            "Speed Practice"
+          ],
+          "activity": "Targeted Practice"
+        }
+      ],
+      "phase": "Advanced Topics"
+    },
+    {
+      "day": 12,
+      "date": "Day 12",
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "Morning (2.5h)",
+          "section": "Reasoning",
+          "topics": [
+            "RM_VR_LOG",
+            "RM_NV_PATTERN"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Afternoon (2h)",
+          "section": "General Awareness",
+          "topics": [
+            "GA_SPORTS",
+            "GA_GEO_IND"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Evening (1.5h)",
+          "section": "All Sections",
+          "topics": [
+            "Weak Areas",
+            "Speed Practice"
+          ],
+          "activity": "Targeted Practice"
+        }
+      ],
+      "phase": "Advanced Topics"
+    },
+    {
+      "day": 13,
+      "date": "Day 13",
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "Morning (2.5h)",
+          "section": "Verbal Ability",
+          "topics": [
+            "VA_CLOZE",
+            "VA_SENT"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Afternoon (2h)",
+          "section": "Numerical Ability",
+          "topics": [
+            "NA_CI",
+            "NA_AVG"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Evening (1.5h)",
+          "section": "All Sections",
+          "topics": [
+            "Weak Areas",
+            "Speed Practice"
+          ],
+          "activity": "Targeted Practice"
+        }
+      ],
+      "phase": "Advanced Topics"
+    },
+    {
+      "day": 14,
+      "date": "Day 14",
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "Morning (2.5h)",
+          "section": "General Awareness",
+          "topics": [
+            "GA_SPORTS",
+            "GA_GEO_IND"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Afternoon (2h)",
+          "section": "Reasoning",
+          "topics": [
+            "RM_VR_LOG",
+            "RM_NV_PATTERN"
+          ],
+          "activity": "Theory + Practice"
+        },
+        {
+          "time": "Evening (1.5h)",
+          "section": "All Sections",
+          "topics": [
+            "Weak Areas",
+            "Speed Practice"
+          ],
+          "activity": "Targeted Practice"
+        }
+      ],
+      "phase": "Advanced Topics"
+    },
+    {
+      "day": 15,
+      "date": "Day 15",
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "Morning (2h)",
+          "section": "Full Mock Test",
+          "topics": [
+            "100 Questions",
+            "2 Hours"
+          ],
+          "activity": "Simulation"
+        },
+        {
+          "time": "Afternoon (2.5h)",
+          "section": "Analysis",
+          "topics": [
+            "Error Analysis",
+            "Solution Review"
+          ],
+          "activity": "Mock Analysis"
+        },
+        {
+          "time": "Evening (1.5h)",
+          "section": "Weak Areas",
+          "topics": [
+            "Identified Gaps"
+          ],
+          "activity": "Targeted Practice"
+        }
+      ],
+      "phase": "Mock Tests"
+    },
+    {
+      "day": 16,
+      "date": "Day 16",
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "Morning (2h)",
+          "section": "Full Mock Test",
+          "topics": [
+            "100 Questions",
+            "2 Hours"
+          ],
+          "activity": "Simulation"
+        },
+        {
+          "time": "Afternoon (2.5h)",
+          "section": "Analysis",
+          "topics": [
+            "Error Analysis",
+            "Solution Review"
+          ],
+          "activity": "Mock Analysis"
+        },
+        {
+          "time": "Evening (1.5h)",
+          "section": "Weak Areas",
+          "topics": [
+            "Identified Gaps"
+          ],
+          "activity": "Targeted Practice"
+        }
+      ],
+      "phase": "Mock Tests"
+    },
+    {
+      "day": 17,
+      "date": "Day 17",
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "Morning (2h)",
+          "section": "Full Mock Test",
+          "topics": [
+            "100 Questions",
+            "2 Hours"
+          ],
+          "activity": "Simulation"
+        },
+        {
+          "time": "Afternoon (2.5h)",
+          "section": "Analysis",
+          "topics": [
+            "Error Analysis",
+            "Solution Review"
+          ],
+          "activity": "Mock Analysis"
+        },
+        {
+          "time": "Evening (1.5h)",
+          "section": "Weak Areas",
+          "topics": [
+            "Identified Gaps"
+          ],
+          "activity": "Targeted Practice"
+        }
+      ],
+      "phase": "Mock Tests"
+    },
+    {
+      "day": 18,
+      "date": "Day 18",
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "Morning (2.5h)",
+          "section": "Verbal Ability",
+          "topics": [
+            "High Priority Topics",
+            "Quick Notes"
+          ],
+          "activity": "Rapid Revision"
+        },
+        {
+          "time": "Afternoon (2h)",
+          "section": "General Awareness",
+          "topics": [
+            "Key Formulas",
+            "Important Facts"
+          ],
+          "activity": "Rapid Revision"
+        },
+        {
+          "time": "Evening (1.5h)",
+          "section": "Relaxation",
+          "topics": [
+            "Light Reading",
+            "Early Sleep"
+          ],
+          "activity": "Rest & Prepare"
+        }
+      ],
+      "phase": "Final Revision"
+    },
+    {
+      "day": 19,
+      "date": "Day 19",
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "Morning (2.5h)",
+          "section": "Numerical Ability",
+          "topics": [
+            "High Priority Topics",
+            "Quick Notes"
+          ],
+          "activity": "Rapid Revision"
+        },
+        {
+          "time": "Afternoon (2h)",
+          "section": "Reasoning",
+          "topics": [
+            "Key Formulas",
+            "Important Facts"
+          ],
+          "activity": "Rapid Revision"
+        },
+        {
+          "time": "Evening (1.5h)",
+          "section": "Relaxation",
+          "topics": [
+            "Light Reading",
+            "Early Sleep"
+          ],
+          "activity": "Rest & Prepare"
+        }
+      ],
+      "phase": "Final Revision"
+    },
+    {
+      "day": 20,
+      "date": "Day 20",
+      "total_hours": 6,
+      "sessions": [
+        {
+          "time": "Morning (2.5h)",
+          "section": "Quick Revision",
+          "topics": [
+            "High Priority Topics",
+            "Quick Notes"
+          ],
+          "activity": "Rapid Revision"
+        },
+        {
+          "time": "Afternoon (2h)",
+          "section": "Formulas & Facts",
+          "topics": [
+            "Key Formulas",
+            "Important Facts"
+          ],
+          "activity": "Rapid Revision"
+        },
+        {
+          "time": "Evening (1.5h)",
+          "section": "Relaxation",
+          "topics": [
+            "Light Reading",
+            "Early Sleep"
+          ],
+          "activity": "Rest & Prepare"
+        }
+      ],
+      "phase": "Final Revision"
+    }
+  ],
+  "topic_wise_hours": {}
+}
