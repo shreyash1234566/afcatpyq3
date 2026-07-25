@@ -1,0 +1,5407 @@
+{
+  "metadata": {
+    "exam": "AFCAT 2026 Mock Test (ML-Predicted)",
+    "total_questions": 100,
+    "total_marks": 300,
+    "duration": "120 minutes",
+    "generated_from": "ML Ensemble Predictions + Actual PYQ"
+  },
+  "sections": [
+    {
+      "section": "Verbal Ability",
+      "questions": [
+        {
+          "q_no": 1,
+          "text": "The most appropriate title for the above passage would be : (Context: Change of nature when suddenly confronted with terrible danger)",
+          "options": [
+            {
+              "key": "A",
+              "text": "The will to fight"
+            },
+            {
+              "key": "B",
+              "text": "The miracle of confronting danger"
+            },
+            {
+              "key": "C",
+              "text": "The change of nature"
+            },
+            {
+              "key": "D",
+              "text": "Courage and panic"
+            }
+          ],
+          "answer": "",
+          "topic": "Reading Comprehension",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 2,
+          "text": "The author names three different ways in which a man may react to sudden danger. What are they?",
+          "options": [
+            {
+              "key": "A",
+              "text": "He may flee in panic, or fight back or stand still."
+            },
+            {
+              "key": "B",
+              "text": "He may be paralysed with fear; seized with panic or act like an inferior animal."
+            },
+            {
+              "key": "C",
+              "text": "He may be paralysed with fear, or seized with panic, or as if by miracle, become possessed of the necessary courage, and face the danger."
+            },
+            {
+              "key": "D",
+              "text": "He may be paralysed with fear, run away or fight."
+            }
+          ],
+          "answer": "",
+          "topic": "Reading Comprehension",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 3,
+          "text": "The distinction between 'inferior animals' and 'rational beings' is that :",
+          "options": [
+            {
+              "key": "A",
+              "text": "The former are incapable of fighting."
+            },
+            {
+              "key": "B",
+              "text": "The latter are clever."
+            },
+            {
+              "key": "C",
+              "text": "The latter are stronger."
+            },
+            {
+              "key": "D",
+              "text": "The latter are capable of reasoning things out whereas the former cannot do so."
+            }
+          ],
+          "answer": "",
+          "topic": "Reading Comprehension",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 4,
+          "text": "Select the most appropriate option to fill in the blank and complete the expression. I begin to pronounce the sequence of words and numbers that will prevent her from giving him a piece of her _________.",
+          "options": [
+            {
+              "key": "A",
+              "text": "mind"
+            },
+            {
+              "key": "B",
+              "text": "cake"
+            },
+            {
+              "key": "C",
+              "text": "art"
+            },
+            {
+              "key": "D",
+              "text": "music"
+            }
+          ],
+          "answer": "",
+          "topic": "Idioms & Phrases",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 5,
+          "text": "Select the most appropriate meaning of the given idiom. Carry the day",
+          "options": [
+            {
+              "key": "A",
+              "text": "Win a victory"
+            },
+            {
+              "key": "B",
+              "text": "Bear the burden"
+            },
+            {
+              "key": "C",
+              "text": "Lead an army"
+            },
+            {
+              "key": "D",
+              "text": "Lift a heavy load"
+            }
+          ],
+          "answer": "",
+          "topic": "Idioms & Phrases",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 6,
+          "text": "Select the most appropriate meaning of the given idiom. Kick the bucket",
+          "options": [
+            {
+              "key": "A",
+              "text": "To pass away"
+            },
+            {
+              "key": "B",
+              "text": "To retire from work"
+            },
+            {
+              "key": "C",
+              "text": "To complete a task"
+            },
+            {
+              "key": "D",
+              "text": "To start a new journey"
+            }
+          ],
+          "answer": "",
+          "topic": "Idioms & Phrases",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 7,
+          "text": "Select the most appropriate synonym for the given word: NULLIFY",
+          "options": [
+            {
+              "key": "A",
+              "text": "Perturb"
+            },
+            {
+              "key": "B",
+              "text": "Obstruct"
+            },
+            {
+              "key": "C",
+              "text": "Cancel"
+            },
+            {
+              "key": "D",
+              "text": "Oblige"
+            }
+          ],
+          "answer": "",
+          "topic": "Synonyms",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 8,
+          "text": "Select the most appropriate ANTONYM of the given word: RECKLESS",
+          "options": [
+            {
+              "key": "A",
+              "text": "brash"
+            },
+            {
+              "key": "B",
+              "text": "heedless"
+            },
+            {
+              "key": "C",
+              "text": "daring"
+            },
+            {
+              "key": "D",
+              "text": "cautious"
+            }
+          ],
+          "answer": "",
+          "topic": "Synonyms",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 9,
+          "text": "Select the most appropriate synonym of the given word: Congenial",
+          "options": [
+            {
+              "key": "A",
+              "text": "Trivial"
+            },
+            {
+              "key": "B",
+              "text": "Pleasant"
+            },
+            {
+              "key": "C",
+              "text": "Ignorant"
+            },
+            {
+              "key": "D",
+              "text": "Ethical"
+            }
+          ],
+          "answer": "",
+          "topic": "Synonyms",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 10,
+          "text": "Select the most appropriate option to fill in blank number 5: (Context: Animal behavior and predictions of natural calamities)",
+          "options": [
+            {
+              "key": "A",
+              "text": "However"
+            },
+            {
+              "key": "B",
+              "text": "Nevertheless"
+            },
+            {
+              "key": "C",
+              "text": "Moreover"
+            },
+            {
+              "key": "D",
+              "text": "Therefore"
+            }
+          ],
+          "answer": "",
+          "topic": "Cloze Test",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 11,
+          "text": "Select the most appropriate option to fill in blank number 4: (Context: Animal behavior and predictions of natural calamities)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Besides"
+            },
+            {
+              "key": "B",
+              "text": "Secondly"
+            },
+            {
+              "key": "C",
+              "text": "Therefore"
+            },
+            {
+              "key": "D",
+              "text": "Despite"
+            }
+          ],
+          "answer": "",
+          "topic": "Cloze Test",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 12,
+          "text": "Select the most appropriate option to fill in blank number 3: (Context: Animal behavior and predictions of natural calamities)",
+          "options": [
+            {
+              "key": "A",
+              "text": "Therefore"
+            },
+            {
+              "key": "B",
+              "text": "Moreover"
+            },
+            {
+              "key": "C",
+              "text": "Nevertheless"
+            },
+            {
+              "key": "D",
+              "text": "However"
+            }
+          ],
+          "answer": "",
+          "topic": "Cloze Test",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 13,
+          "text": "In the following question, out of the four alternatives, select the alternative which is the best substitute of the phrase: A critical judge of any art and craft",
+          "options": [
+            {
+              "key": "A",
+              "text": "Kennel"
+            },
+            {
+              "key": "B",
+              "text": "Linguist"
+            },
+            {
+              "key": "C",
+              "text": "Connoisseur"
+            },
+            {
+              "key": "D",
+              "text": "Fervent"
+            }
+          ],
+          "answer": "",
+          "topic": "One Word Substitution",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 14,
+          "text": "Select the option that can be used as a one-word substitute for the given group of words: The study of skin",
+          "options": [
+            {
+              "key": "A",
+              "text": "Dermatology"
+            },
+            {
+              "key": "B",
+              "text": "Cytology"
+            },
+            {
+              "key": "C",
+              "text": "Congenital"
+            },
+            {
+              "key": "D",
+              "text": "Dementia"
+            }
+          ],
+          "answer": "",
+          "topic": "One Word Substitution",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 15,
+          "text": "Choose the incorrectly spelt word.",
+          "options": [
+            {
+              "key": "1",
+              "text": "Brinjal"
+            },
+            {
+              "key": "2",
+              "text": "Mouse"
+            },
+            {
+              "key": "3",
+              "text": "Sliede"
+            },
+            {
+              "key": "4",
+              "text": "Blink"
+            }
+          ],
+          "answer": "",
+          "topic": "Grammar",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 16,
+          "text": "Choose the correctly spelt word.",
+          "options": [
+            {
+              "key": "1",
+              "text": "HEIRARCHY"
+            },
+            {
+              "key": "2",
+              "text": "APPAULLING"
+            },
+            {
+              "key": "3",
+              "text": "PESTILLENTIAL"
+            },
+            {
+              "key": "4",
+              "text": "MALODOROUS"
+            }
+          ],
+          "answer": "",
+          "topic": "Grammar",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 17,
+          "text": "Select the one which is most nearly the same as the given idiom or phrase: Hit the hay",
+          "options": [
+            {
+              "key": "A",
+              "text": "Feed the cattle"
+            },
+            {
+              "key": "B",
+              "text": "Go to sleep"
+            },
+            {
+              "key": "C",
+              "text": "Burn the hay"
+            },
+            {
+              "key": "D",
+              "text": "Lose the sheep"
+            }
+          ],
+          "answer": "",
+          "topic": "Idioms & Phrases",
+          "year": 2022,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 18,
+          "text": "Each question consists of two words which have a certain relationship to each other followed by four pairs of related words. Select the pair which has the same relationship.\n\nDog: Dalmatian :: Finch: _____",
+          "options": [
+            {
+              "key": "A",
+              "text": "Squirrel"
+            },
+            {
+              "key": "B",
+              "text": "Canary"
+            },
+            {
+              "key": "C",
+              "text": "Cat"
+            },
+            {
+              "key": "D",
+              "text": "Parrot"
+            }
+          ],
+          "answer": "",
+          "topic": "Verbal Analogy",
+          "year": 2024,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 19,
+          "text": "\"The use of more words than necessary to express an idea\"",
+          "options": [
+            {
+              "key": "A",
+              "text": "Conciseness"
+            },
+            {
+              "key": "B",
+              "text": "Eloquence"
+            },
+            {
+              "key": "C",
+              "text": "Verbosity"
+            },
+            {
+              "key": "D",
+              "text": "Clarity"
+            }
+          ],
+          "answer": "",
+          "topic": "One Word Substitution",
+          "year": 2023,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 20,
+          "text": "Select the option that can be used as a one-word substitute for the given group of words.\n\nThe study of fruit",
+          "options": [
+            {
+              "key": "A",
+              "text": "Oology"
+            },
+            {
+              "key": "B",
+              "text": "Pomology"
+            },
+            {
+              "key": "C",
+              "text": "Horticulture"
+            },
+            {
+              "key": "D",
+              "text": "Dendrology"
+            }
+          ],
+          "answer": "",
+          "topic": "One Word Substitution",
+          "year": 2024,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 21,
+          "text": "You must ______ to the rules followed by our company.",
+          "options": [
+            {
+              "key": "A",
+              "text": "obey"
+            },
+            {
+              "key": "B",
+              "text": "adhere"
+            },
+            {
+              "key": "C",
+              "text": "ought"
+            },
+            {
+              "key": "D",
+              "text": "pursue"
+            }
+          ],
+          "answer": "",
+          "topic": "Fill in the Blanks",
+          "year": 2022,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 22,
+          "text": "Directions: Mark the option with the correct arrangement of the words (A), (B), (C), and (D). No one is trying to denigrate (A) the crucial (B) of a good education but we all know that it is importance (C) for success (D).",
+          "options": [
+            {
+              "key": "A",
+              "text": "A-B"
+            },
+            {
+              "key": "B",
+              "text": "B-C"
+            },
+            {
+              "key": "C",
+              "text": "C-D"
+            },
+            {
+              "key": "D",
+              "text": "B-D"
+            }
+          ],
+          "answer": "",
+          "topic": "Para Jumbles",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 23,
+          "text": "Find out which part of the sentence has an error: He was (a) / congratulated for(b) / his success in (c) / the 100 m race(d)",
+          "options": [
+            {
+              "key": "A",
+              "text": "He was"
+            },
+            {
+              "key": "B",
+              "text": "congratulated for"
+            },
+            {
+              "key": "C",
+              "text": "his success in"
+            },
+            {
+              "key": "D",
+              "text": "the 100 m race"
+            }
+          ],
+          "answer": "",
+          "topic": "Spotting Errors",
+          "year": 2012,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 24,
+          "text": "Read the passage and answer: Which word, mentioned in the passage, can replace the description 'The art of speaking or writing effectively'?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Rhetoric"
+            },
+            {
+              "key": "B",
+              "text": "Reinforcing"
+            },
+            {
+              "key": "C",
+              "text": "Idiographic"
+            },
+            {
+              "key": "D",
+              "text": "Kinship"
+            }
+          ],
+          "answer": "",
+          "topic": "Reading Comprehension",
+          "year": 2022,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 25,
+          "text": "Dismal",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sad"
+            },
+            {
+              "key": "B",
+              "text": "Cheerful"
+            },
+            {
+              "key": "C",
+              "text": "Happy"
+            },
+            {
+              "key": "D",
+              "text": "Sorrow"
+            }
+          ],
+          "answer": "",
+          "topic": "Synonyms",
+          "year": 2019,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 26,
+          "text": "Select the most appropriate option for blank no. 3: India has a rich history of employing ART, (7) _________ the initial years went officially undocumented at that time.",
+          "options": [
+            {
+              "key": "A",
+              "text": "through"
+            },
+            {
+              "key": "B",
+              "text": "thorough"
+            },
+            {
+              "key": "C",
+              "text": "thoroughly"
+            },
+            {
+              "key": "D",
+              "text": "though"
+            }
+          ],
+          "answer": "",
+          "topic": "Cloze Test",
+          "year": 2021,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 27,
+          "text": "Which of the following is an example of a psycho motor test?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Solving math problems"
+            },
+            {
+              "key": "B",
+              "text": "Throwing and catching a ball"
+            },
+            {
+              "key": "C",
+              "text": "Reading a story"
+            },
+            {
+              "key": "D",
+              "text": "Listening to music"
+            }
+          ],
+          "answer": "",
+          "topic": "Reading Comprehension",
+          "year": 2024,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 28,
+          "text": "The alpha and the omega",
+          "options": [
+            {
+              "key": "a",
+              "text": "The begining and the end"
+            },
+            {
+              "key": "b",
+              "text": "A nice act"
+            },
+            {
+              "key": "c",
+              "text": "The starts and the moon"
+            },
+            {
+              "key": "d",
+              "text": "Very costly"
+            }
+          ],
+          "answer": "",
+          "topic": "Idioms & Phrases",
+          "year": 2015,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 29,
+          "text": "Fill in the blank: Landslides ___(X)____ reported in several parts of the state. Select the most appropriate word from the options against _____(X)______.",
+          "options": [
+            {
+              "key": "A",
+              "text": "were"
+            },
+            {
+              "key": "B",
+              "text": "was"
+            },
+            {
+              "key": "C",
+              "text": "is"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "",
+          "topic": "Cloze Test",
+          "year": 2022,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 30,
+          "text": "Choose the alternative which best expresses the meaning of the idiom/phrase given in bold: Hit below the belt",
+          "options": [
+            {
+              "key": "a",
+              "text": "To do something thoroughly"
+            },
+            {
+              "key": "b",
+              "text": "To strike unfairly"
+            },
+            {
+              "key": "c",
+              "text": "To end up in an awkward situation"
+            },
+            {
+              "key": "d",
+              "text": "To let someone commit mistakes"
+            }
+          ],
+          "answer": "",
+          "topic": "Idioms & Phrases",
+          "year": 2020,
+          "marks": 3,
+          "negative": -1
+        }
+      ],
+      "total_questions": 30,
+      "total_marks": 90
+    },
+    {
+      "section": "General Awareness",
+      "questions": [
+        {
+          "q_no": 31,
+          "text": "Who is hosting Exercise Desert Flag-10, which involves the participation of the Indian Air Force and several other countries' air forces?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Saudi Arabia"
+            },
+            {
+              "key": "B",
+              "text": "Qatar"
+            },
+            {
+              "key": "C",
+              "text": "United Arab Emirates"
+            },
+            {
+              "key": "D",
+              "text": "United Kingdom"
+            }
+          ],
+          "answer": "",
+          "topic": "Defence",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 32,
+          "text": "Consider the following statements : (A) International Day are designated by the UN General Assembly . (B) Proposal for designation of International Day can be made only by the permanent members of the UN Security Council . Choose the correct answer from the codes given below :",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only (A) is correct ."
+            },
+            {
+              "key": "B",
+              "text": "Only (B) is correct ."
+            },
+            {
+              "key": "C",
+              "text": "Both (A) and (B) ' are correct ."
+            },
+            {
+              "key": "D",
+              "text": "Neither (A) nor (B) is correct ."
+            }
+          ],
+          "answer": "",
+          "topic": "Defence",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 33,
+          "text": "Who was recently appointed as a part-time member of the 16th Finance Commission, after Ajay Narayan Jha resignation?",
+          "options": [
+            {
+              "key": "A",
+              "text": "NK Singh"
+            },
+            {
+              "key": "B",
+              "text": "YV Reddy"
+            },
+            {
+              "key": "C",
+              "text": "Arvind Panagariya"
+            },
+            {
+              "key": "D",
+              "text": "T Rabi Sankar"
+            }
+          ],
+          "answer": "",
+          "topic": "Current Affairs",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 34,
+          "text": "Who was the first person to conduct a systematic study of chromosomes during division and called this process mitosis?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Antonie van Leeuwenhoek"
+            },
+            {
+              "key": "B",
+              "text": "Thomas Hunt Morgan"
+            },
+            {
+              "key": "C",
+              "text": "Walther Flemming"
+            },
+            {
+              "key": "D",
+              "text": "Friedrich Miescher"
+            }
+          ],
+          "answer": "",
+          "topic": "General Science",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 35,
+          "text": "Which of the following statements regarding the Comptroller Auditor General is INCORRECT?",
+          "options": [
+            {
+              "key": "A",
+              "text": "He certifies the net proceeds of any tax or duty, which is final."
+            },
+            {
+              "key": "B",
+              "text": "He conducts audits of expenditure on behalf of the parliament."
+            },
+            {
+              "key": "C",
+              "text": "His legal and regulatory audits are discretionary, but his propriety audit is obligatory."
+            },
+            {
+              "key": "D",
+              "text": "Secret services expenditure is outside the purview of CAG."
+            }
+          ],
+          "answer": "",
+          "topic": "Indian Polity",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 36,
+          "text": "MNREGA stands for",
+          "options": [
+            {
+              "key": "A",
+              "text": "Mahatma Gandhi National Revenue Engagement Guarantee Association"
+            },
+            {
+              "key": "B",
+              "text": "Maharaja National Revenue Employment Guarantee Act"
+            },
+            {
+              "key": "C",
+              "text": "Mahanagar National Rural Employment Guarantee Act"
+            },
+            {
+              "key": "D",
+              "text": "Mahatma Gandhi National Rural Employment Guarantee Act"
+            }
+          ],
+          "answer": "",
+          "topic": "Economics",
+          "year": 2012,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 37,
+          "text": "Where is the Air Force Academy (AFA) located in India?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Dehradun"
+            },
+            {
+              "key": "B",
+              "text": "Pune"
+            },
+            {
+              "key": "C",
+              "text": "Hyderabad"
+            },
+            {
+              "key": "D",
+              "text": "Chennai"
+            }
+          ],
+          "answer": "",
+          "topic": "Defence",
+          "year": 2024,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 38,
+          "text": "What was the name of the Indian Air Force (IAF) before World War II?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Indian National Air Force"
+            },
+            {
+              "key": "B",
+              "text": "Imperial Indian Air Force"
+            },
+            {
+              "key": "C",
+              "text": "Royal Indian Air Force"
+            },
+            {
+              "key": "D",
+              "text": "Indian Flying Corps"
+            }
+          ],
+          "answer": "",
+          "topic": "Defence",
+          "year": 2024,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 39,
+          "text": "Which of the following Indian freedom fighters was given a death sentence by the British colonial authorities?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Bal Gangadhar Tilak"
+            },
+            {
+              "key": "B",
+              "text": "Mahatma Gandhi"
+            },
+            {
+              "key": "C",
+              "text": "Jawaharlal Nehru"
+            },
+            {
+              "key": "D",
+              "text": "Bhagat Singh"
+            }
+          ],
+          "answer": "",
+          "topic": "History (Modern)",
+          "year": 2024,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 40,
+          "text": "The first war of Indian Independence began on 10 May 1857 at",
+          "options": [
+            {
+              "key": "A",
+              "text": "Meerut"
+            },
+            {
+              "key": "B",
+              "text": "Jhansi"
+            },
+            {
+              "key": "C",
+              "text": "Barrackpore"
+            },
+            {
+              "key": "D",
+              "text": "Delhi"
+            }
+          ],
+          "answer": "",
+          "topic": "History (Modern)",
+          "year": 2012,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 41,
+          "text": "Term 'Prime Vertical' in astronomy is defined as",
+          "options": [
+            {
+              "key": "A",
+              "text": "the vertical circle which passes through the east and west point of the horizon and is at right angles to the meridian of the place."
+            },
+            {
+              "key": "B",
+              "text": "the vertical circle which passes through the north and south pain of he horizon and is at right angles to the meridian of the place."
+            },
+            {
+              "key": "C",
+              "text": "the vertical circle which passes through the east and west pain of the horizon and is parallel to the meridian of the place."
+            },
+            {
+              "key": "D",
+              "text": "the vertical circle which passes through the north and south point of the horizon and is parallel to the meridian of the place."
+            }
+          ],
+          "answer": "",
+          "topic": "General Science",
+          "year": 2012,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 42,
+          "text": "Which of the following lake is the largest salt lake in India?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Wular Lake"
+            },
+            {
+              "key": "B",
+              "text": "Sambhar lake"
+            },
+            {
+              "key": "C",
+              "text": "Kolleru Lake"
+            },
+            {
+              "key": "D",
+              "text": "Vembanad Lake"
+            }
+          ],
+          "answer": "",
+          "topic": "Geography (India)",
+          "year": 2024,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 43,
+          "text": "Match List-I with List-II and select the correct answer using the code given below:\nList-I (Military Exercise) List-II (Countries)\nA. VARUNA 1. India and Thailand\nB. INDRA 2. India and Russia\nC. MAITRI 3. India and Indonesia\nD. GARUDA SHAKTI 4. India and France",
+          "options": [
+            {
+              "key": "A",
+              "text": "A - 4, B - 2, C - 1, D - 3"
+            },
+            {
+              "key": "B",
+              "text": "A - 1, B - 2, C - 3, D - 4"
+            },
+            {
+              "key": "C",
+              "text": "A - 1, B - 2, C - 4, D - 3"
+            },
+            {
+              "key": "D",
+              "text": "A - 3, B - 2, C - 4, D - 1"
+            }
+          ],
+          "answer": "",
+          "topic": "Defence",
+          "year": 2022,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 44,
+          "text": "The sport which requires the largest field is",
+          "options": [
+            {
+              "key": "A",
+              "text": "Football"
+            },
+            {
+              "key": "B",
+              "text": "Cricket"
+            },
+            {
+              "key": "C",
+              "text": "Hockey"
+            },
+            {
+              "key": "D",
+              "text": "Polo"
+            }
+          ],
+          "answer": "",
+          "topic": "Static GK",
+          "year": 2012,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 45,
+          "text": "Where is headquarter of World Health Organization (WHO) located?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hague"
+            },
+            {
+              "key": "B",
+              "text": "Washington"
+            },
+            {
+              "key": "C",
+              "text": "Geneva"
+            },
+            {
+              "key": "D",
+              "text": "Beijing"
+            }
+          ],
+          "answer": "",
+          "topic": "Organizations",
+          "year": 2017,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 46,
+          "text": "Who is also known as Deshbandhu ?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Chittaranjan Das"
+            },
+            {
+              "key": "B",
+              "text": "Rabindranath Tagore"
+            },
+            {
+              "key": "C",
+              "text": "Dadabhai Naoroji"
+            },
+            {
+              "key": "D",
+              "text": "Khan Abdul Ghaffar Khan"
+            }
+          ],
+          "answer": "",
+          "topic": "Personalities",
+          "year": 2021,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 47,
+          "text": "Which of the following is a Legal Tender in India?",
+          "options": [
+            {
+              "key": "1",
+              "text": "Government security"
+            },
+            {
+              "key": "2",
+              "text": "Commercial bills"
+            },
+            {
+              "key": "3",
+              "text": "Coins issued by the Government of India"
+            },
+            {
+              "key": "4",
+              "text": "Cheques issued by a recognised company"
+            }
+          ],
+          "answer": "",
+          "topic": "Economy",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 48,
+          "text": "Which of the following does not come under Ministry of Defence?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Department Of Defence Production"
+            },
+            {
+              "key": "B",
+              "text": "Department Of Border Management"
+            },
+            {
+              "key": "C",
+              "text": "Defence Research and Development Organisation (DRDO)"
+            },
+            {
+              "key": "D",
+              "text": "Department Of Ex-servicemen welfare"
+            }
+          ],
+          "answer": "",
+          "topic": "Defence",
+          "year": 2022,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 49,
+          "text": "The sun rises in Arunachal Pradesh two hours before it does in Dwaraka in Gujarat. This is because the former is",
+          "options": [
+            {
+              "key": "A",
+              "text": "higher in elevation than Dwaraka and the earth rotates from West to East."
+            },
+            {
+              "key": "B",
+              "text": "situated further North than Dwaraka and the earth rotates from West to East."
+            },
+            {
+              "key": "C",
+              "text": "situated further East (about 30° Longitude) than Dwarka and the earth rotates from West to East."
+            },
+            {
+              "key": "D",
+              "text": "situated about 30º East of Dwaraka and the earth rotates from West to East."
+            }
+          ],
+          "answer": "",
+          "topic": "Geography (India)",
+          "year": 2012,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 50,
+          "text": "Which woman was the first to win a gold medal in boxing at the Commonwealth Games?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Lovlina Borgohain"
+            },
+            {
+              "key": "B",
+              "text": "Nikhat Zareen"
+            },
+            {
+              "key": "C",
+              "text": "MC Mary Kom"
+            },
+            {
+              "key": "D",
+              "text": "Jaismine Lamboria"
+            }
+          ],
+          "answer": "",
+          "topic": "Static GK",
+          "year": 2024,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 51,
+          "text": "What is the basic difference between Fundamental rights and DPSPs?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Judicial Protection"
+            },
+            {
+              "key": "B",
+              "text": "Political Protection"
+            },
+            {
+              "key": "C",
+              "text": "Constitutional Protection"
+            },
+            {
+              "key": "D",
+              "text": "None of the above"
+            }
+          ],
+          "answer": "",
+          "topic": "Indian Polity",
+          "year": 2024,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 52,
+          "text": "Who is the author of the book Ignited Minds, which discusses the vision of a developed India?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Jawaharlal Nehru"
+            },
+            {
+              "key": "B",
+              "text": "Mahatma Gandhi"
+            },
+            {
+              "key": "C",
+              "text": "Dr. APJ Abdul Kalam"
+            },
+            {
+              "key": "D",
+              "text": "S. Radhakrishnan"
+            }
+          ],
+          "answer": "",
+          "topic": "Books & Authors",
+          "year": 2024,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 53,
+          "text": "Which of the following countries is a member of OPEC (Organization of the Petroleum Exporting Countries)?",
+          "options": [
+            {
+              "key": "1",
+              "text": "Brazil"
+            },
+            {
+              "key": "2",
+              "text": "India"
+            },
+            {
+              "key": "3",
+              "text": "The Democratic Republic of the Congo"
+            },
+            {
+              "key": "4",
+              "text": "Japan"
+            }
+          ],
+          "answer": "",
+          "topic": "International Organizations",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 54,
+          "text": "Who was the first cricketer to take hat trick in the test cricket?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Fred Spofforth"
+            },
+            {
+              "key": "b",
+              "text": "Bapu Nandikarni"
+            },
+            {
+              "key": "c",
+              "text": "Sir Ian Botham"
+            },
+            {
+              "key": "d",
+              "text": "Wally Hammond"
+            }
+          ],
+          "answer": "",
+          "topic": "Static GK",
+          "year": 2020,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 55,
+          "text": "NREGA stands for",
+          "options": [
+            {
+              "key": "A",
+              "text": "National Revenue Engagement Guarantee Association"
+            },
+            {
+              "key": "B",
+              "text": "National Revenue Employment Guarantee Act"
+            },
+            {
+              "key": "C",
+              "text": "National Rural Employment Guarantee Association"
+            },
+            {
+              "key": "D",
+              "text": "National Rural Employment Guarantee Act"
+            }
+          ],
+          "answer": "",
+          "topic": "Economy",
+          "year": 2013,
+          "marks": 3,
+          "negative": -1
+        }
+      ],
+      "total_questions": 25,
+      "total_marks": 75
+    },
+    {
+      "section": "Numerical Ability",
+      "questions": [
+        {
+          "q_no": 56,
+          "text": "Aman, Binni, Chitra and Dinesh are four friends. Average age of Aman and Chitra is 35 yr and that of Binni and Dinesh is 40 yr. Average age of Binni, Chitra and Dinesh is 40 yr. The sum of the ages of Aman and Dinesh is equal to that of Binni and Chitra. Find out the ages (in yr) of Aman, Binni, Chitra and Dinesh.",
+          "options": [
+            {
+              "key": "A",
+              "text": "20, 30, 40, 50"
+            },
+            {
+              "key": "B",
+              "text": "20, 25, 30, 35"
+            },
+            {
+              "key": "C",
+              "text": "30, 35, 40, 45"
+            },
+            {
+              "key": "D",
+              "text": "30, 40, 50, 60"
+            }
+          ],
+          "answer": "",
+          "topic": "Average",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 57,
+          "text": "In a class of 45 students, the ratio of the number of boys and girls is 4: 5. The average score of boys in mathematics is 78. If the average score of all the students in the class in mathematics is 76, then what is the average score of girls in mathematics?",
+          "options": [
+            {
+              "key": "1",
+              "text": "73.6"
+            },
+            {
+              "key": "2",
+              "text": "71.8"
+            },
+            {
+              "key": "3",
+              "text": "72.4"
+            },
+            {
+              "key": "4",
+              "text": "74.4"
+            }
+          ],
+          "answer": "",
+          "topic": "Average",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 58,
+          "text": "A number is increased by 30% and then decreased by 30%. Finally, the number:",
+          "options": [
+            {
+              "key": "A",
+              "text": "is decreased by 10%"
+            },
+            {
+              "key": "B",
+              "text": "is increased by 9%"
+            },
+            {
+              "key": "C",
+              "text": "does not change"
+            },
+            {
+              "key": "D",
+              "text": "is decreased by 9%"
+            }
+          ],
+          "answer": "",
+          "topic": "Percentage",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 59,
+          "text": "Anu spends 90% of her income. If her expenditure increase by 25% and saving increase by 30%, then by what percent does her salary increase?",
+          "options": [
+            {
+              "key": "1",
+              "text": "20%"
+            },
+            {
+              "key": "2",
+              "text": "22.5%"
+            },
+            {
+              "key": "3",
+              "text": "24%"
+            },
+            {
+              "key": "4",
+              "text": "25.5%"
+            }
+          ],
+          "answer": "",
+          "topic": "Percentage",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 60,
+          "text": "If the difference between the compound interest and the simple interest on sum of money for 1 year compounded half - yearly at the rate of 8% per annum is Rs. 30, then find the sum.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Rs. 17580"
+            },
+            {
+              "key": "B",
+              "text": "Rs. 18750"
+            },
+            {
+              "key": "C",
+              "text": "Rs. 17850"
+            },
+            {
+              "key": "D",
+              "text": "Rs. 78570"
+            }
+          ],
+          "answer": "",
+          "topic": "Simple Interest",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 61,
+          "text": "A sum of money becomes 3 times of itself in 5 year at compound interest, then find in how many years this sum becomes 9 times at the same rate of interest?",
+          "options": [
+            {
+              "key": "1",
+              "text": "5 years"
+            },
+            {
+              "key": "2",
+              "text": "10 years"
+            },
+            {
+              "key": "3",
+              "text": "6 years"
+            },
+            {
+              "key": "4",
+              "text": "9 years"
+            }
+          ],
+          "answer": "",
+          "topic": "Simple Interest",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 62,
+          "text": "Simplify: 48 - 3 [ 5 + 8 { 4 - 4 (9 - 2) + 6 } - 12 ] ÷ 3",
+          "options": [
+            {
+              "key": "A",
+              "text": "160"
+            },
+            {
+              "key": "B",
+              "text": "216"
+            },
+            {
+              "key": "C",
+              "text": "199"
+            },
+            {
+              "key": "D",
+              "text": "276"
+            }
+          ],
+          "answer": "",
+          "topic": "Simplification",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 63,
+          "text": "A is 50% more efficient than B. Working together, they can complete a job in 20 days. How long would B alone take to complete the same job?",
+          "options": [
+            {
+              "key": "A",
+              "text": "60 days"
+            },
+            {
+              "key": "B",
+              "text": "40 days"
+            },
+            {
+              "key": "C",
+              "text": "45 days"
+            },
+            {
+              "key": "D",
+              "text": "50 days"
+            }
+          ],
+          "answer": "",
+          "topic": "Time & Work",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 64,
+          "text": "If x : y = 12 : 5 and z : y = 21 : 16, then find the value of x : z.",
+          "options": [
+            {
+              "key": "A",
+              "text": "20 : 63"
+            },
+            {
+              "key": "B",
+              "text": "63 : 20"
+            },
+            {
+              "key": "C",
+              "text": "64 : 35"
+            },
+            {
+              "key": "D",
+              "text": "48 : 35"
+            }
+          ],
+          "answer": "",
+          "topic": "Ratio & Proportion",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 65,
+          "text": "A candidate was asked to multiply a number by 25. He mistakenly multiplied it by 52. His answer was 324 more than the expected answer. So which number was the candidate asked to multiply?",
+          "options": [
+            {
+              "key": "A",
+              "text": "12"
+            },
+            {
+              "key": "B",
+              "text": "15"
+            },
+            {
+              "key": "C",
+              "text": "25"
+            },
+            {
+              "key": "D",
+              "text": "32"
+            }
+          ],
+          "answer": "",
+          "topic": "Number System",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 66,
+          "text": "A retail fruit vendor buys a score of apples for ₹400 and retails them for ₹264 at a dozen. What was his loss/gain per cent? (a score = 20 no's)",
+          "options": [
+            {
+              "key": "A",
+              "text": "10% profit"
+            },
+            {
+              "key": "B",
+              "text": "20% profit"
+            },
+            {
+              "key": "C",
+              "text": "10% loss"
+            },
+            {
+              "key": "D",
+              "text": "5% loss"
+            }
+          ],
+          "answer": "",
+          "topic": "Profit & Loss",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 67,
+          "text": "If a + b = 40 and a² + b² = 116, find the value of a³ + b³.",
+          "options": [
+            {
+              "key": "A",
+              "text": "-1890"
+            },
+            {
+              "key": "B",
+              "text": "-25040"
+            },
+            {
+              "key": "C",
+              "text": "-25480"
+            },
+            {
+              "key": "D",
+              "text": "248"
+            }
+          ],
+          "answer": "",
+          "topic": "Algebra",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 68,
+          "text": "A cuboidal water tank contains 256 litres of water. Its depth is half of its length and its breadth is 1/4 of the difference between its length and depth. The length of the tank is ___________.",
+          "options": [
+            {
+              "key": "A",
+              "text": "16 cm"
+            },
+            {
+              "key": "B",
+              "text": "18 cm"
+            },
+            {
+              "key": "C",
+              "text": "14 cm"
+            },
+            {
+              "key": "D",
+              "text": "12 cm"
+            }
+          ],
+          "answer": "",
+          "topic": "Mensuration",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 69,
+          "text": "In a 56 litres mixture, milk and water are in ratio 5: 2. Some amount of milk is added to that mixture so that the ratio of milk and water becomes 7: 2. Find the amount of milk in the final mixture.",
+          "options": [
+            {
+              "key": "1",
+              "text": "56 litre"
+            },
+            {
+              "key": "2",
+              "text": "48 liter"
+            },
+            {
+              "key": "3",
+              "text": "64 litre"
+            },
+            {
+              "key": "4",
+              "text": "72 litre"
+            }
+          ],
+          "answer": "",
+          "topic": "Mixture & Alligation",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 70,
+          "text": "The circumferential length of a circle of radius 7 cm is used to construct a square. The length of the side of the square is : (Take π = 22/7.)",
+          "options": [
+            {
+              "key": "A",
+              "text": "7 cm"
+            },
+            {
+              "key": "B",
+              "text": "11 cm"
+            },
+            {
+              "key": "C",
+              "text": "15 cm"
+            },
+            {
+              "key": "D",
+              "text": "22 cm"
+            }
+          ],
+          "answer": "",
+          "topic": "LCM & HCF",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 71,
+          "text": "There are two bags. One contains 4 white & 5 Black balls, another contains 4 white & 3 black balls. If one ball is drawn from the first bag and kept in another bag unseen then the probability of choosing a black ball from the second bag is:",
+          "options": [
+            {
+              "key": "A",
+              "text": "15/324"
+            },
+            {
+              "key": "B",
+              "text": "25/324"
+            },
+            {
+              "key": "C",
+              "text": "4/9"
+            },
+            {
+              "key": "D",
+              "text": "None of the above"
+            }
+          ],
+          "answer": "",
+          "topic": "Statistics and Probability",
+          "year": 2022,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 72,
+          "text": "18 buckets of water fill a tank when the capacity of each bucket is 8 litres. How many buckets will be needed to fill the same tank, if the capacity of the bucket is 12 litres?",
+          "options": [
+            {
+              "key": "A",
+              "text": "12"
+            },
+            {
+              "key": "B",
+              "text": "13.5"
+            },
+            {
+              "key": "C",
+              "text": "24"
+            },
+            {
+              "key": "D",
+              "text": "cannot be determined due to insufficient data"
+            }
+          ],
+          "answer": "",
+          "topic": "Ratio & Proportion",
+          "year": 2013,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 73,
+          "text": "Two persons A and B are travelling with the speeds of ratio 3: 4. A takes 30 minutes more time than B to reach the distance. Then find the time taken by A to reach the distance.",
+          "options": [
+            {
+              "key": "1",
+              "text": "2 Hours"
+            },
+            {
+              "key": "2",
+              "text": "1 Hour"
+            },
+            {
+              "key": "3",
+              "text": "4 Hours"
+            },
+            {
+              "key": "4",
+              "text": "3 Hours"
+            }
+          ],
+          "answer": "",
+          "topic": "Speed, Distance, Time",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 74,
+          "text": "A train passes a pole in 15 seconds , while the same train crosses a platform in 47 seconds if platform length is 640m, then find the length of the train?",
+          "options": [
+            {
+              "key": "A",
+              "text": "300m"
+            },
+            {
+              "key": "B",
+              "text": "225m"
+            },
+            {
+              "key": "C",
+              "text": "375m"
+            },
+            {
+              "key": "D",
+              "text": "400m"
+            }
+          ],
+          "answer": "",
+          "topic": "Speed, Distance, Time",
+          "year": 2021,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 75,
+          "text": "A Library has an average of 510 visitors on Sundays and 240 on other days. The average number of visitors per day in a month of 30 days beginning with a Sunday is",
+          "options": [
+            {
+              "key": "A",
+              "text": "250"
+            },
+            {
+              "key": "B",
+              "text": "285"
+            },
+            {
+              "key": "C",
+              "text": "275"
+            },
+            {
+              "key": "D",
+              "text": "255"
+            }
+          ],
+          "answer": "",
+          "topic": "Average",
+          "year": 2024,
+          "marks": 3,
+          "negative": -1
+        }
+      ],
+      "total_questions": 20,
+      "total_marks": 60
+    },
+    {
+      "section": "Reasoning",
+      "questions": [
+        {
+          "q_no": 76,
+          "text": "Select the jumbled word which is different from the three other alternatives.",
+          "options": [
+            {
+              "key": "A",
+              "text": "BURAD"
+            },
+            {
+              "key": "B",
+              "text": "LESTEN"
+            },
+            {
+              "key": "C",
+              "text": "SGKOLLEG"
+            },
+            {
+              "key": "D",
+              "text": "NAMZAO"
+            }
+          ],
+          "answer": "",
+          "topic": "Verbal Classification",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 77,
+          "text": "In the question given find the odd word from the given alternatives. 1. Nephrology 2. Astrology 3. Ornithology 4. Entomology",
+          "options": [
+            {
+              "key": "1",
+              "text": "Nephrology"
+            },
+            {
+              "key": "2",
+              "text": "Astrology"
+            },
+            {
+              "key": "3",
+              "text": "Ornithology"
+            },
+            {
+              "key": "4",
+              "text": "Entomology"
+            }
+          ],
+          "answer": "",
+          "topic": "Verbal Classification",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 78,
+          "text": "Identify the term that does not fit into the group - 1. Kalahari 2. Sahara 3. Gobi 4. Sunderban",
+          "options": [
+            {
+              "key": "1",
+              "text": "Kalahari"
+            },
+            {
+              "key": "2",
+              "text": "Sahara"
+            },
+            {
+              "key": "3",
+              "text": "Gobi"
+            },
+            {
+              "key": "4",
+              "text": "Sunderban"
+            }
+          ],
+          "answer": "",
+          "topic": "Verbal Classification",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 79,
+          "text": "In the following question, select the related word from the given alternatives. Impartial : Unbiased :: Apathetic : ?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Uninterested"
+            },
+            {
+              "key": "B",
+              "text": "Passionate"
+            },
+            {
+              "key": "C",
+              "text": "Enthusiastic"
+            },
+            {
+              "key": "D",
+              "text": "Peculiar"
+            }
+          ],
+          "answer": "",
+          "topic": "Verbal Analogy",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 80,
+          "text": "Select the related letters from the given alternatives. ACFJ : DFIM :: GILP : ?",
+          "options": [
+            {
+              "key": "A",
+              "text": "IKNR"
+            },
+            {
+              "key": "B",
+              "text": "JLOS"
+            },
+            {
+              "key": "C",
+              "text": "JKOR"
+            },
+            {
+              "key": "D",
+              "text": "ILNS"
+            }
+          ],
+          "answer": "",
+          "topic": "Verbal Analogy",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 81,
+          "text": "Identify the diagram that best represents the relationship among the classes given below : Liquid, Milk, River's Water",
+          "options": [
+            {
+              "key": "A",
+              "text": "Three concentric circles"
+            },
+            {
+              "key": "B",
+              "text": "Two separate circles inside a larger one"
+            },
+            {
+              "key": "C",
+              "text": "Two intersecting circles inside a larger one"
+            },
+            {
+              "key": "D",
+              "text": "Three intersecting circles"
+            }
+          ],
+          "answer": "",
+          "topic": "Venn Diagrams",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 82,
+          "text": "Which of the following diagram denotes the group of mother-nurse-teacher?",
+          "options": [
+            {
+              "key": "1",
+              "text": "Figure 1"
+            },
+            {
+              "key": "2",
+              "text": "Figure 2"
+            },
+            {
+              "key": "3",
+              "text": "Figure 3"
+            },
+            {
+              "key": "4",
+              "text": "Figure 4"
+            }
+          ],
+          "answer": "",
+          "topic": "Venn Diagrams",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 83,
+          "text": "In a certain code, EDUCATION is written as DUETACNIO. How is KNOWLEDGE written in that code language?",
+          "options": [
+            {
+              "key": "A",
+              "text": "OKNELWEDG"
+            },
+            {
+              "key": "B",
+              "text": "OKNLEWEGD"
+            },
+            {
+              "key": "C",
+              "text": "NOKELWEDG"
+            },
+            {
+              "key": "D",
+              "text": "NOKWLEGED"
+            }
+          ],
+          "answer": "",
+          "topic": "Coding-Decoding",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 84,
+          "text": "In a code language, ‘FASHION’ is coded as ‘FAIHIED’, then how will ‘FAMOUS’ be coded in the same code language?",
+          "options": [
+            {
+              "key": "A",
+              "text": "FACEBI"
+            },
+            {
+              "key": "B",
+              "text": "GMRSAC"
+            },
+            {
+              "key": "C",
+              "text": "LFWORE"
+            },
+            {
+              "key": "D",
+              "text": "EKCFDB"
+            }
+          ],
+          "answer": "",
+          "topic": "Coding-Decoding",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 85,
+          "text": "DIRECTIONS: The following question figures follow a series pattern. Identify the correct figure among answer figure which completes the series of the question figure.",
+          "options": [
+            {
+              "key": "1",
+              "text": "A"
+            },
+            {
+              "key": "2",
+              "text": "B"
+            },
+            {
+              "key": "3",
+              "text": "C"
+            },
+            {
+              "key": "4",
+              "text": "D"
+            }
+          ],
+          "answer": "",
+          "topic": "Non-Verbal Series",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 86,
+          "text": "Select the figure from among the given options that can logically replace the question mark (?) in the following series.",
+          "options": [
+            {
+              "key": "1",
+              "text": "Figure 1"
+            },
+            {
+              "key": "2",
+              "text": "Figure 2"
+            },
+            {
+              "key": "3",
+              "text": "Figure 3"
+            },
+            {
+              "key": "4",
+              "text": "Figure 4"
+            }
+          ],
+          "answer": "",
+          "topic": "Non-Verbal Series",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 87,
+          "text": "Two statements are given followed by two conclusions numbered I and II. Statements: 1) All games are tournaments. 2) Some tournaments are matches. Conclusions: I. All games are matches. II. No game is a tournament.",
+          "options": [
+            {
+              "key": "1",
+              "text": "Only Conclusion I follows."
+            },
+            {
+              "key": "2",
+              "text": "Neither Conclusion I nor II follows."
+            },
+            {
+              "key": "3",
+              "text": "Both Conclusions I and II follow."
+            },
+            {
+              "key": "4",
+              "text": "Only Conclusion II follows."
+            }
+          ],
+          "answer": "",
+          "topic": "Syllogism",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 88,
+          "text": "X introduces Y saying, \"He is the husband of the grand daughter of the father of my father.\" How is Y related to X?",
+          "options": [
+            {
+              "key": "1",
+              "text": "Brother"
+            },
+            {
+              "key": "2",
+              "text": "Son"
+            },
+            {
+              "key": "3",
+              "text": "Brother - in - law"
+            },
+            {
+              "key": "4",
+              "text": "Nephew"
+            }
+          ],
+          "answer": "",
+          "topic": "Blood Relations",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 89,
+          "text": "Ram walks 15 m towards west and turns to left, walks 5m and turns to left, walks 4m and again turns to left, walks 2m and turns to right, runs 7m and finally turns to left and runs 3m. Now in which direction is he facing and how far is he from its initial position?",
+          "options": [
+            {
+              "key": "A",
+              "text": "North; 4 m"
+            },
+            {
+              "key": "B",
+              "text": "South; 4 m"
+            },
+            {
+              "key": "C",
+              "text": "North; 2 m"
+            },
+            {
+              "key": "D",
+              "text": "South; 2 m"
+            }
+          ],
+          "answer": "",
+          "topic": "Direction Sense",
+          "year": 2022,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 90,
+          "text": "Look at the series 22, 21, 23, 22, 24, 23 ..... what number should come next?",
+          "options": [
+            {
+              "key": "A",
+              "text": "22"
+            },
+            {
+              "key": "B",
+              "text": "24"
+            },
+            {
+              "key": "C",
+              "text": "25"
+            },
+            {
+              "key": "D",
+              "text": "26"
+            }
+          ],
+          "answer": "",
+          "topic": "Verbal Series",
+          "year": 2011,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 91,
+          "text": "If MUSTARD is written as 132119201184, how is PROFUSE written in that code?",
+          "options": [
+            {
+              "key": "A",
+              "text": "161815621195"
+            },
+            {
+              "key": "B",
+              "text": "161816621195"
+            },
+            {
+              "key": "C",
+              "text": "161815620195"
+            },
+            {
+              "key": "D",
+              "text": "162015621195"
+            }
+          ],
+          "answer": "",
+          "topic": "Coding-Decoding",
+          "year": 2021,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 92,
+          "text": "Which of the given option will complete the given figure? (Pattern Completion)",
+          "options": [
+            {
+              "key": "a",
+              "text": "Figure (a)"
+            },
+            {
+              "key": "b",
+              "text": "Figure (b)"
+            },
+            {
+              "key": "c",
+              "text": "Figure (c)"
+            },
+            {
+              "key": "d",
+              "text": "Figure (d)"
+            }
+          ],
+          "answer": "",
+          "topic": "Non-Verbal Pattern",
+          "year": 2020,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 93,
+          "text": "Identify the term that does not fit into the group -",
+          "options": [
+            {
+              "key": "1",
+              "text": "Kalahari"
+            },
+            {
+              "key": "2",
+              "text": "Sahara"
+            },
+            {
+              "key": "3",
+              "text": "Gobi"
+            },
+            {
+              "key": "4",
+              "text": "Sunderban"
+            }
+          ],
+          "answer": "",
+          "topic": "Verbal Classification",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 94,
+          "text": "Ajay is the father of Om. Mahi is the granddaughter of Sanjay. Vaishali is the sister-in-law of Sanjay, who is only brother of Ajay. Madhuri is niece of Ajay and mother of Mahi. There are three male and three female members in the family. How is Om related to Mahi?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cousin"
+            },
+            {
+              "key": "B",
+              "text": "Uncle"
+            },
+            {
+              "key": "C",
+              "text": "Brother-in-law"
+            },
+            {
+              "key": "D",
+              "text": "Son-in-law"
+            }
+          ],
+          "answer": "",
+          "topic": "Logical Reasoning",
+          "year": 2025,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 95,
+          "text": "Choose the figure which is different from the rest.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Figure (a)"
+            },
+            {
+              "key": "b",
+              "text": "Figure (b)"
+            },
+            {
+              "key": "c",
+              "text": "Figure (c)"
+            },
+            {
+              "key": "d",
+              "text": "Figure (d)"
+            }
+          ],
+          "answer": "",
+          "topic": "Figural Visuals",
+          "year": 2015,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 96,
+          "text": "Pick the odd man out: 154, 235, 352, 460, 324",
+          "options": [
+            {
+              "key": "A",
+              "text": "234"
+            },
+            {
+              "key": "B",
+              "text": "324"
+            },
+            {
+              "key": "C",
+              "text": "154"
+            },
+            {
+              "key": "D",
+              "text": "460"
+            }
+          ],
+          "answer": "",
+          "topic": "Verbal Classification",
+          "year": 2019,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 97,
+          "text": "If A = Z, B = Y and so on, code the following: ‘EDITOR’",
+          "options": [
+            {
+              "key": "A",
+              "text": "VWRGLI"
+            },
+            {
+              "key": "B",
+              "text": "VWRGVI"
+            },
+            {
+              "key": "C",
+              "text": "VWVGLI"
+            },
+            {
+              "key": "D",
+              "text": "VWRLLI"
+            }
+          ],
+          "answer": "",
+          "topic": "Coding-Decoding",
+          "year": 2014,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 98,
+          "text": "Which figure best represent the relationship among Men, Vegetables and Cow?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Option (a)"
+            },
+            {
+              "key": "B",
+              "text": "Option (b)"
+            },
+            {
+              "key": "C",
+              "text": "Option (c)"
+            },
+            {
+              "key": "D",
+              "text": "Option (d)"
+            }
+          ],
+          "answer": "",
+          "topic": "Venn Diagrams",
+          "year": 2021,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 99,
+          "text": "Rearrange the jumble letters to form a meaningful word and find the odd one out.",
+          "options": [
+            {
+              "key": "A",
+              "text": "ARCHM"
+            },
+            {
+              "key": "B",
+              "text": "BMERNVOE"
+            },
+            {
+              "key": "C",
+              "text": "GUASUT"
+            },
+            {
+              "key": "D",
+              "text": "NAJRAUY"
+            }
+          ],
+          "answer": "",
+          "topic": "Verbal Classification",
+          "year": 2022,
+          "marks": 3,
+          "negative": -1
+        },
+        {
+          "q_no": 100,
+          "text": "Identify the figure that completes the pattern.",
+          "options": [],
+          "answer": "",
+          "topic": "Pattern",
+          "year": 2017,
+          "marks": 3,
+          "negative": -1
+        }
+      ],
+      "total_questions": 25,
+      "total_marks": 75
+    }
+  ],
+  "all_questions": [
+    {
+      "q_no": 1,
+      "text": "The most appropriate title for the above passage would be : (Context: Change of nature when suddenly confronted with terrible danger)",
+      "options": [
+        {
+          "key": "A",
+          "text": "The will to fight"
+        },
+        {
+          "key": "B",
+          "text": "The miracle of confronting danger"
+        },
+        {
+          "key": "C",
+          "text": "The change of nature"
+        },
+        {
+          "key": "D",
+          "text": "Courage and panic"
+        }
+      ],
+      "answer": "",
+      "topic": "Reading Comprehension",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 2,
+      "text": "The author names three different ways in which a man may react to sudden danger. What are they?",
+      "options": [
+        {
+          "key": "A",
+          "text": "He may flee in panic, or fight back or stand still."
+        },
+        {
+          "key": "B",
+          "text": "He may be paralysed with fear; seized with panic or act like an inferior animal."
+        },
+        {
+          "key": "C",
+          "text": "He may be paralysed with fear, or seized with panic, or as if by miracle, become possessed of the necessary courage, and face the danger."
+        },
+        {
+          "key": "D",
+          "text": "He may be paralysed with fear, run away or fight."
+        }
+      ],
+      "answer": "",
+      "topic": "Reading Comprehension",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 3,
+      "text": "The distinction between 'inferior animals' and 'rational beings' is that :",
+      "options": [
+        {
+          "key": "A",
+          "text": "The former are incapable of fighting."
+        },
+        {
+          "key": "B",
+          "text": "The latter are clever."
+        },
+        {
+          "key": "C",
+          "text": "The latter are stronger."
+        },
+        {
+          "key": "D",
+          "text": "The latter are capable of reasoning things out whereas the former cannot do so."
+        }
+      ],
+      "answer": "",
+      "topic": "Reading Comprehension",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 4,
+      "text": "Select the most appropriate option to fill in the blank and complete the expression. I begin to pronounce the sequence of words and numbers that will prevent her from giving him a piece of her _________.",
+      "options": [
+        {
+          "key": "A",
+          "text": "mind"
+        },
+        {
+          "key": "B",
+          "text": "cake"
+        },
+        {
+          "key": "C",
+          "text": "art"
+        },
+        {
+          "key": "D",
+          "text": "music"
+        }
+      ],
+      "answer": "",
+      "topic": "Idioms & Phrases",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 5,
+      "text": "Select the most appropriate meaning of the given idiom. Carry the day",
+      "options": [
+        {
+          "key": "A",
+          "text": "Win a victory"
+        },
+        {
+          "key": "B",
+          "text": "Bear the burden"
+        },
+        {
+          "key": "C",
+          "text": "Lead an army"
+        },
+        {
+          "key": "D",
+          "text": "Lift a heavy load"
+        }
+      ],
+      "answer": "",
+      "topic": "Idioms & Phrases",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 6,
+      "text": "Select the most appropriate meaning of the given idiom. Kick the bucket",
+      "options": [
+        {
+          "key": "A",
+          "text": "To pass away"
+        },
+        {
+          "key": "B",
+          "text": "To retire from work"
+        },
+        {
+          "key": "C",
+          "text": "To complete a task"
+        },
+        {
+          "key": "D",
+          "text": "To start a new journey"
+        }
+      ],
+      "answer": "",
+      "topic": "Idioms & Phrases",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 7,
+      "text": "Select the most appropriate synonym for the given word: NULLIFY",
+      "options": [
+        {
+          "key": "A",
+          "text": "Perturb"
+        },
+        {
+          "key": "B",
+          "text": "Obstruct"
+        },
+        {
+          "key": "C",
+          "text": "Cancel"
+        },
+        {
+          "key": "D",
+          "text": "Oblige"
+        }
+      ],
+      "answer": "",
+      "topic": "Synonyms",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 8,
+      "text": "Select the most appropriate ANTONYM of the given word: RECKLESS",
+      "options": [
+        {
+          "key": "A",
+          "text": "brash"
+        },
+        {
+          "key": "B",
+          "text": "heedless"
+        },
+        {
+          "key": "C",
+          "text": "daring"
+        },
+        {
+          "key": "D",
+          "text": "cautious"
+        }
+      ],
+      "answer": "",
+      "topic": "Synonyms",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 9,
+      "text": "Select the most appropriate synonym of the given word: Congenial",
+      "options": [
+        {
+          "key": "A",
+          "text": "Trivial"
+        },
+        {
+          "key": "B",
+          "text": "Pleasant"
+        },
+        {
+          "key": "C",
+          "text": "Ignorant"
+        },
+        {
+          "key": "D",
+          "text": "Ethical"
+        }
+      ],
+      "answer": "",
+      "topic": "Synonyms",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 10,
+      "text": "Select the most appropriate option to fill in blank number 5: (Context: Animal behavior and predictions of natural calamities)",
+      "options": [
+        {
+          "key": "A",
+          "text": "However"
+        },
+        {
+          "key": "B",
+          "text": "Nevertheless"
+        },
+        {
+          "key": "C",
+          "text": "Moreover"
+        },
+        {
+          "key": "D",
+          "text": "Therefore"
+        }
+      ],
+      "answer": "",
+      "topic": "Cloze Test",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 11,
+      "text": "Select the most appropriate option to fill in blank number 4: (Context: Animal behavior and predictions of natural calamities)",
+      "options": [
+        {
+          "key": "A",
+          "text": "Besides"
+        },
+        {
+          "key": "B",
+          "text": "Secondly"
+        },
+        {
+          "key": "C",
+          "text": "Therefore"
+        },
+        {
+          "key": "D",
+          "text": "Despite"
+        }
+      ],
+      "answer": "",
+      "topic": "Cloze Test",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 12,
+      "text": "Select the most appropriate option to fill in blank number 3: (Context: Animal behavior and predictions of natural calamities)",
+      "options": [
+        {
+          "key": "A",
+          "text": "Therefore"
+        },
+        {
+          "key": "B",
+          "text": "Moreover"
+        },
+        {
+          "key": "C",
+          "text": "Nevertheless"
+        },
+        {
+          "key": "D",
+          "text": "However"
+        }
+      ],
+      "answer": "",
+      "topic": "Cloze Test",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 13,
+      "text": "In the following question, out of the four alternatives, select the alternative which is the best substitute of the phrase: A critical judge of any art and craft",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kennel"
+        },
+        {
+          "key": "B",
+          "text": "Linguist"
+        },
+        {
+          "key": "C",
+          "text": "Connoisseur"
+        },
+        {
+          "key": "D",
+          "text": "Fervent"
+        }
+      ],
+      "answer": "",
+      "topic": "One Word Substitution",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 14,
+      "text": "Select the option that can be used as a one-word substitute for the given group of words: The study of skin",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dermatology"
+        },
+        {
+          "key": "B",
+          "text": "Cytology"
+        },
+        {
+          "key": "C",
+          "text": "Congenital"
+        },
+        {
+          "key": "D",
+          "text": "Dementia"
+        }
+      ],
+      "answer": "",
+      "topic": "One Word Substitution",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 15,
+      "text": "Choose the incorrectly spelt word.",
+      "options": [
+        {
+          "key": "1",
+          "text": "Brinjal"
+        },
+        {
+          "key": "2",
+          "text": "Mouse"
+        },
+        {
+          "key": "3",
+          "text": "Sliede"
+        },
+        {
+          "key": "4",
+          "text": "Blink"
+        }
+      ],
+      "answer": "",
+      "topic": "Grammar",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 16,
+      "text": "Choose the correctly spelt word.",
+      "options": [
+        {
+          "key": "1",
+          "text": "HEIRARCHY"
+        },
+        {
+          "key": "2",
+          "text": "APPAULLING"
+        },
+        {
+          "key": "3",
+          "text": "PESTILLENTIAL"
+        },
+        {
+          "key": "4",
+          "text": "MALODOROUS"
+        }
+      ],
+      "answer": "",
+      "topic": "Grammar",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 17,
+      "text": "Select the one which is most nearly the same as the given idiom or phrase: Hit the hay",
+      "options": [
+        {
+          "key": "A",
+          "text": "Feed the cattle"
+        },
+        {
+          "key": "B",
+          "text": "Go to sleep"
+        },
+        {
+          "key": "C",
+          "text": "Burn the hay"
+        },
+        {
+          "key": "D",
+          "text": "Lose the sheep"
+        }
+      ],
+      "answer": "",
+      "topic": "Idioms & Phrases",
+      "year": 2022,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 18,
+      "text": "Each question consists of two words which have a certain relationship to each other followed by four pairs of related words. Select the pair which has the same relationship.\n\nDog: Dalmatian :: Finch: _____",
+      "options": [
+        {
+          "key": "A",
+          "text": "Squirrel"
+        },
+        {
+          "key": "B",
+          "text": "Canary"
+        },
+        {
+          "key": "C",
+          "text": "Cat"
+        },
+        {
+          "key": "D",
+          "text": "Parrot"
+        }
+      ],
+      "answer": "",
+      "topic": "Verbal Analogy",
+      "year": 2024,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 19,
+      "text": "\"The use of more words than necessary to express an idea\"",
+      "options": [
+        {
+          "key": "A",
+          "text": "Conciseness"
+        },
+        {
+          "key": "B",
+          "text": "Eloquence"
+        },
+        {
+          "key": "C",
+          "text": "Verbosity"
+        },
+        {
+          "key": "D",
+          "text": "Clarity"
+        }
+      ],
+      "answer": "",
+      "topic": "One Word Substitution",
+      "year": 2023,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 20,
+      "text": "Select the option that can be used as a one-word substitute for the given group of words.\n\nThe study of fruit",
+      "options": [
+        {
+          "key": "A",
+          "text": "Oology"
+        },
+        {
+          "key": "B",
+          "text": "Pomology"
+        },
+        {
+          "key": "C",
+          "text": "Horticulture"
+        },
+        {
+          "key": "D",
+          "text": "Dendrology"
+        }
+      ],
+      "answer": "",
+      "topic": "One Word Substitution",
+      "year": 2024,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 21,
+      "text": "You must ______ to the rules followed by our company.",
+      "options": [
+        {
+          "key": "A",
+          "text": "obey"
+        },
+        {
+          "key": "B",
+          "text": "adhere"
+        },
+        {
+          "key": "C",
+          "text": "ought"
+        },
+        {
+          "key": "D",
+          "text": "pursue"
+        }
+      ],
+      "answer": "",
+      "topic": "Fill in the Blanks",
+      "year": 2022,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 22,
+      "text": "Directions: Mark the option with the correct arrangement of the words (A), (B), (C), and (D). No one is trying to denigrate (A) the crucial (B) of a good education but we all know that it is importance (C) for success (D).",
+      "options": [
+        {
+          "key": "A",
+          "text": "A-B"
+        },
+        {
+          "key": "B",
+          "text": "B-C"
+        },
+        {
+          "key": "C",
+          "text": "C-D"
+        },
+        {
+          "key": "D",
+          "text": "B-D"
+        }
+      ],
+      "answer": "",
+      "topic": "Para Jumbles",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 23,
+      "text": "Find out which part of the sentence has an error: He was (a) / congratulated for(b) / his success in (c) / the 100 m race(d)",
+      "options": [
+        {
+          "key": "A",
+          "text": "He was"
+        },
+        {
+          "key": "B",
+          "text": "congratulated for"
+        },
+        {
+          "key": "C",
+          "text": "his success in"
+        },
+        {
+          "key": "D",
+          "text": "the 100 m race"
+        }
+      ],
+      "answer": "",
+      "topic": "Spotting Errors",
+      "year": 2012,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 24,
+      "text": "Read the passage and answer: Which word, mentioned in the passage, can replace the description 'The art of speaking or writing effectively'?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rhetoric"
+        },
+        {
+          "key": "B",
+          "text": "Reinforcing"
+        },
+        {
+          "key": "C",
+          "text": "Idiographic"
+        },
+        {
+          "key": "D",
+          "text": "Kinship"
+        }
+      ],
+      "answer": "",
+      "topic": "Reading Comprehension",
+      "year": 2022,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 25,
+      "text": "Dismal",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sad"
+        },
+        {
+          "key": "B",
+          "text": "Cheerful"
+        },
+        {
+          "key": "C",
+          "text": "Happy"
+        },
+        {
+          "key": "D",
+          "text": "Sorrow"
+        }
+      ],
+      "answer": "",
+      "topic": "Synonyms",
+      "year": 2019,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 26,
+      "text": "Select the most appropriate option for blank no. 3: India has a rich history of employing ART, (7) _________ the initial years went officially undocumented at that time.",
+      "options": [
+        {
+          "key": "A",
+          "text": "through"
+        },
+        {
+          "key": "B",
+          "text": "thorough"
+        },
+        {
+          "key": "C",
+          "text": "thoroughly"
+        },
+        {
+          "key": "D",
+          "text": "though"
+        }
+      ],
+      "answer": "",
+      "topic": "Cloze Test",
+      "year": 2021,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 27,
+      "text": "Which of the following is an example of a psycho motor test?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Solving math problems"
+        },
+        {
+          "key": "B",
+          "text": "Throwing and catching a ball"
+        },
+        {
+          "key": "C",
+          "text": "Reading a story"
+        },
+        {
+          "key": "D",
+          "text": "Listening to music"
+        }
+      ],
+      "answer": "",
+      "topic": "Reading Comprehension",
+      "year": 2024,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 28,
+      "text": "The alpha and the omega",
+      "options": [
+        {
+          "key": "a",
+          "text": "The begining and the end"
+        },
+        {
+          "key": "b",
+          "text": "A nice act"
+        },
+        {
+          "key": "c",
+          "text": "The starts and the moon"
+        },
+        {
+          "key": "d",
+          "text": "Very costly"
+        }
+      ],
+      "answer": "",
+      "topic": "Idioms & Phrases",
+      "year": 2015,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 29,
+      "text": "Fill in the blank: Landslides ___(X)____ reported in several parts of the state. Select the most appropriate word from the options against _____(X)______.",
+      "options": [
+        {
+          "key": "A",
+          "text": "were"
+        },
+        {
+          "key": "B",
+          "text": "was"
+        },
+        {
+          "key": "C",
+          "text": "is"
+        },
+        {
+          "key": "D",
+          "text": "have"
+        }
+      ],
+      "answer": "",
+      "topic": "Cloze Test",
+      "year": 2022,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 30,
+      "text": "Choose the alternative which best expresses the meaning of the idiom/phrase given in bold: Hit below the belt",
+      "options": [
+        {
+          "key": "a",
+          "text": "To do something thoroughly"
+        },
+        {
+          "key": "b",
+          "text": "To strike unfairly"
+        },
+        {
+          "key": "c",
+          "text": "To end up in an awkward situation"
+        },
+        {
+          "key": "d",
+          "text": "To let someone commit mistakes"
+        }
+      ],
+      "answer": "",
+      "topic": "Idioms & Phrases",
+      "year": 2020,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 31,
+      "text": "Who is hosting Exercise Desert Flag-10, which involves the participation of the Indian Air Force and several other countries' air forces?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Saudi Arabia"
+        },
+        {
+          "key": "B",
+          "text": "Qatar"
+        },
+        {
+          "key": "C",
+          "text": "United Arab Emirates"
+        },
+        {
+          "key": "D",
+          "text": "United Kingdom"
+        }
+      ],
+      "answer": "",
+      "topic": "Defence",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 32,
+      "text": "Consider the following statements : (A) International Day are designated by the UN General Assembly . (B) Proposal for designation of International Day can be made only by the permanent members of the UN Security Council . Choose the correct answer from the codes given below :",
+      "options": [
+        {
+          "key": "A",
+          "text": "Only (A) is correct ."
+        },
+        {
+          "key": "B",
+          "text": "Only (B) is correct ."
+        },
+        {
+          "key": "C",
+          "text": "Both (A) and (B) ' are correct ."
+        },
+        {
+          "key": "D",
+          "text": "Neither (A) nor (B) is correct ."
+        }
+      ],
+      "answer": "",
+      "topic": "Defence",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 33,
+      "text": "Who was recently appointed as a part-time member of the 16th Finance Commission, after Ajay Narayan Jha resignation?",
+      "options": [
+        {
+          "key": "A",
+          "text": "NK Singh"
+        },
+        {
+          "key": "B",
+          "text": "YV Reddy"
+        },
+        {
+          "key": "C",
+          "text": "Arvind Panagariya"
+        },
+        {
+          "key": "D",
+          "text": "T Rabi Sankar"
+        }
+      ],
+      "answer": "",
+      "topic": "Current Affairs",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 34,
+      "text": "Who was the first person to conduct a systematic study of chromosomes during division and called this process mitosis?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Antonie van Leeuwenhoek"
+        },
+        {
+          "key": "B",
+          "text": "Thomas Hunt Morgan"
+        },
+        {
+          "key": "C",
+          "text": "Walther Flemming"
+        },
+        {
+          "key": "D",
+          "text": "Friedrich Miescher"
+        }
+      ],
+      "answer": "",
+      "topic": "General Science",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 35,
+      "text": "Which of the following statements regarding the Comptroller Auditor General is INCORRECT?",
+      "options": [
+        {
+          "key": "A",
+          "text": "He certifies the net proceeds of any tax or duty, which is final."
+        },
+        {
+          "key": "B",
+          "text": "He conducts audits of expenditure on behalf of the parliament."
+        },
+        {
+          "key": "C",
+          "text": "His legal and regulatory audits are discretionary, but his propriety audit is obligatory."
+        },
+        {
+          "key": "D",
+          "text": "Secret services expenditure is outside the purview of CAG."
+        }
+      ],
+      "answer": "",
+      "topic": "Indian Polity",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 36,
+      "text": "MNREGA stands for",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mahatma Gandhi National Revenue Engagement Guarantee Association"
+        },
+        {
+          "key": "B",
+          "text": "Maharaja National Revenue Employment Guarantee Act"
+        },
+        {
+          "key": "C",
+          "text": "Mahanagar National Rural Employment Guarantee Act"
+        },
+        {
+          "key": "D",
+          "text": "Mahatma Gandhi National Rural Employment Guarantee Act"
+        }
+      ],
+      "answer": "",
+      "topic": "Economics",
+      "year": 2012,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 37,
+      "text": "Where is the Air Force Academy (AFA) located in India?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dehradun"
+        },
+        {
+          "key": "B",
+          "text": "Pune"
+        },
+        {
+          "key": "C",
+          "text": "Hyderabad"
+        },
+        {
+          "key": "D",
+          "text": "Chennai"
+        }
+      ],
+      "answer": "",
+      "topic": "Defence",
+      "year": 2024,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 38,
+      "text": "What was the name of the Indian Air Force (IAF) before World War II?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Indian National Air Force"
+        },
+        {
+          "key": "B",
+          "text": "Imperial Indian Air Force"
+        },
+        {
+          "key": "C",
+          "text": "Royal Indian Air Force"
+        },
+        {
+          "key": "D",
+          "text": "Indian Flying Corps"
+        }
+      ],
+      "answer": "",
+      "topic": "Defence",
+      "year": 2024,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 39,
+      "text": "Which of the following Indian freedom fighters was given a death sentence by the British colonial authorities?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bal Gangadhar Tilak"
+        },
+        {
+          "key": "B",
+          "text": "Mahatma Gandhi"
+        },
+        {
+          "key": "C",
+          "text": "Jawaharlal Nehru"
+        },
+        {
+          "key": "D",
+          "text": "Bhagat Singh"
+        }
+      ],
+      "answer": "",
+      "topic": "History (Modern)",
+      "year": 2024,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 40,
+      "text": "The first war of Indian Independence began on 10 May 1857 at",
+      "options": [
+        {
+          "key": "A",
+          "text": "Meerut"
+        },
+        {
+          "key": "B",
+          "text": "Jhansi"
+        },
+        {
+          "key": "C",
+          "text": "Barrackpore"
+        },
+        {
+          "key": "D",
+          "text": "Delhi"
+        }
+      ],
+      "answer": "",
+      "topic": "History (Modern)",
+      "year": 2012,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 41,
+      "text": "Term 'Prime Vertical' in astronomy is defined as",
+      "options": [
+        {
+          "key": "A",
+          "text": "the vertical circle which passes through the east and west point of the horizon and is at right angles to the meridian of the place."
+        },
+        {
+          "key": "B",
+          "text": "the vertical circle which passes through the north and south pain of he horizon and is at right angles to the meridian of the place."
+        },
+        {
+          "key": "C",
+          "text": "the vertical circle which passes through the east and west pain of the horizon and is parallel to the meridian of the place."
+        },
+        {
+          "key": "D",
+          "text": "the vertical circle which passes through the north and south point of the horizon and is parallel to the meridian of the place."
+        }
+      ],
+      "answer": "",
+      "topic": "General Science",
+      "year": 2012,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 42,
+      "text": "Which of the following lake is the largest salt lake in India?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Wular Lake"
+        },
+        {
+          "key": "B",
+          "text": "Sambhar lake"
+        },
+        {
+          "key": "C",
+          "text": "Kolleru Lake"
+        },
+        {
+          "key": "D",
+          "text": "Vembanad Lake"
+        }
+      ],
+      "answer": "",
+      "topic": "Geography (India)",
+      "year": 2024,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 43,
+      "text": "Match List-I with List-II and select the correct answer using the code given below:\nList-I (Military Exercise) List-II (Countries)\nA. VARUNA 1. India and Thailand\nB. INDRA 2. India and Russia\nC. MAITRI 3. India and Indonesia\nD. GARUDA SHAKTI 4. India and France",
+      "options": [
+        {
+          "key": "A",
+          "text": "A - 4, B - 2, C - 1, D - 3"
+        },
+        {
+          "key": "B",
+          "text": "A - 1, B - 2, C - 3, D - 4"
+        },
+        {
+          "key": "C",
+          "text": "A - 1, B - 2, C - 4, D - 3"
+        },
+        {
+          "key": "D",
+          "text": "A - 3, B - 2, C - 4, D - 1"
+        }
+      ],
+      "answer": "",
+      "topic": "Defence",
+      "year": 2022,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 44,
+      "text": "The sport which requires the largest field is",
+      "options": [
+        {
+          "key": "A",
+          "text": "Football"
+        },
+        {
+          "key": "B",
+          "text": "Cricket"
+        },
+        {
+          "key": "C",
+          "text": "Hockey"
+        },
+        {
+          "key": "D",
+          "text": "Polo"
+        }
+      ],
+      "answer": "",
+      "topic": "Static GK",
+      "year": 2012,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 45,
+      "text": "Where is headquarter of World Health Organization (WHO) located?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hague"
+        },
+        {
+          "key": "B",
+          "text": "Washington"
+        },
+        {
+          "key": "C",
+          "text": "Geneva"
+        },
+        {
+          "key": "D",
+          "text": "Beijing"
+        }
+      ],
+      "answer": "",
+      "topic": "Organizations",
+      "year": 2017,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 46,
+      "text": "Who is also known as Deshbandhu ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Chittaranjan Das"
+        },
+        {
+          "key": "B",
+          "text": "Rabindranath Tagore"
+        },
+        {
+          "key": "C",
+          "text": "Dadabhai Naoroji"
+        },
+        {
+          "key": "D",
+          "text": "Khan Abdul Ghaffar Khan"
+        }
+      ],
+      "answer": "",
+      "topic": "Personalities",
+      "year": 2021,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 47,
+      "text": "Which of the following is a Legal Tender in India?",
+      "options": [
+        {
+          "key": "1",
+          "text": "Government security"
+        },
+        {
+          "key": "2",
+          "text": "Commercial bills"
+        },
+        {
+          "key": "3",
+          "text": "Coins issued by the Government of India"
+        },
+        {
+          "key": "4",
+          "text": "Cheques issued by a recognised company"
+        }
+      ],
+      "answer": "",
+      "topic": "Economy",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 48,
+      "text": "Which of the following does not come under Ministry of Defence?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Department Of Defence Production"
+        },
+        {
+          "key": "B",
+          "text": "Department Of Border Management"
+        },
+        {
+          "key": "C",
+          "text": "Defence Research and Development Organisation (DRDO)"
+        },
+        {
+          "key": "D",
+          "text": "Department Of Ex-servicemen welfare"
+        }
+      ],
+      "answer": "",
+      "topic": "Defence",
+      "year": 2022,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 49,
+      "text": "The sun rises in Arunachal Pradesh two hours before it does in Dwaraka in Gujarat. This is because the former is",
+      "options": [
+        {
+          "key": "A",
+          "text": "higher in elevation than Dwaraka and the earth rotates from West to East."
+        },
+        {
+          "key": "B",
+          "text": "situated further North than Dwaraka and the earth rotates from West to East."
+        },
+        {
+          "key": "C",
+          "text": "situated further East (about 30° Longitude) than Dwarka and the earth rotates from West to East."
+        },
+        {
+          "key": "D",
+          "text": "situated about 30º East of Dwaraka and the earth rotates from West to East."
+        }
+      ],
+      "answer": "",
+      "topic": "Geography (India)",
+      "year": 2012,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 50,
+      "text": "Which woman was the first to win a gold medal in boxing at the Commonwealth Games?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Lovlina Borgohain"
+        },
+        {
+          "key": "B",
+          "text": "Nikhat Zareen"
+        },
+        {
+          "key": "C",
+          "text": "MC Mary Kom"
+        },
+        {
+          "key": "D",
+          "text": "Jaismine Lamboria"
+        }
+      ],
+      "answer": "",
+      "topic": "Static GK",
+      "year": 2024,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 51,
+      "text": "What is the basic difference between Fundamental rights and DPSPs?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Judicial Protection"
+        },
+        {
+          "key": "B",
+          "text": "Political Protection"
+        },
+        {
+          "key": "C",
+          "text": "Constitutional Protection"
+        },
+        {
+          "key": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": "",
+      "topic": "Indian Polity",
+      "year": 2024,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 52,
+      "text": "Who is the author of the book Ignited Minds, which discusses the vision of a developed India?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Jawaharlal Nehru"
+        },
+        {
+          "key": "B",
+          "text": "Mahatma Gandhi"
+        },
+        {
+          "key": "C",
+          "text": "Dr. APJ Abdul Kalam"
+        },
+        {
+          "key": "D",
+          "text": "S. Radhakrishnan"
+        }
+      ],
+      "answer": "",
+      "topic": "Books & Authors",
+      "year": 2024,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 53,
+      "text": "Which of the following countries is a member of OPEC (Organization of the Petroleum Exporting Countries)?",
+      "options": [
+        {
+          "key": "1",
+          "text": "Brazil"
+        },
+        {
+          "key": "2",
+          "text": "India"
+        },
+        {
+          "key": "3",
+          "text": "The Democratic Republic of the Congo"
+        },
+        {
+          "key": "4",
+          "text": "Japan"
+        }
+      ],
+      "answer": "",
+      "topic": "International Organizations",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 54,
+      "text": "Who was the first cricketer to take hat trick in the test cricket?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Fred Spofforth"
+        },
+        {
+          "key": "b",
+          "text": "Bapu Nandikarni"
+        },
+        {
+          "key": "c",
+          "text": "Sir Ian Botham"
+        },
+        {
+          "key": "d",
+          "text": "Wally Hammond"
+        }
+      ],
+      "answer": "",
+      "topic": "Static GK",
+      "year": 2020,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 55,
+      "text": "NREGA stands for",
+      "options": [
+        {
+          "key": "A",
+          "text": "National Revenue Engagement Guarantee Association"
+        },
+        {
+          "key": "B",
+          "text": "National Revenue Employment Guarantee Act"
+        },
+        {
+          "key": "C",
+          "text": "National Rural Employment Guarantee Association"
+        },
+        {
+          "key": "D",
+          "text": "National Rural Employment Guarantee Act"
+        }
+      ],
+      "answer": "",
+      "topic": "Economy",
+      "year": 2013,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 56,
+      "text": "Aman, Binni, Chitra and Dinesh are four friends. Average age of Aman and Chitra is 35 yr and that of Binni and Dinesh is 40 yr. Average age of Binni, Chitra and Dinesh is 40 yr. The sum of the ages of Aman and Dinesh is equal to that of Binni and Chitra. Find out the ages (in yr) of Aman, Binni, Chitra and Dinesh.",
+      "options": [
+        {
+          "key": "A",
+          "text": "20, 30, 40, 50"
+        },
+        {
+          "key": "B",
+          "text": "20, 25, 30, 35"
+        },
+        {
+          "key": "C",
+          "text": "30, 35, 40, 45"
+        },
+        {
+          "key": "D",
+          "text": "30, 40, 50, 60"
+        }
+      ],
+      "answer": "",
+      "topic": "Average",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 57,
+      "text": "In a class of 45 students, the ratio of the number of boys and girls is 4: 5. The average score of boys in mathematics is 78. If the average score of all the students in the class in mathematics is 76, then what is the average score of girls in mathematics?",
+      "options": [
+        {
+          "key": "1",
+          "text": "73.6"
+        },
+        {
+          "key": "2",
+          "text": "71.8"
+        },
+        {
+          "key": "3",
+          "text": "72.4"
+        },
+        {
+          "key": "4",
+          "text": "74.4"
+        }
+      ],
+      "answer": "",
+      "topic": "Average",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 58,
+      "text": "A number is increased by 30% and then decreased by 30%. Finally, the number:",
+      "options": [
+        {
+          "key": "A",
+          "text": "is decreased by 10%"
+        },
+        {
+          "key": "B",
+          "text": "is increased by 9%"
+        },
+        {
+          "key": "C",
+          "text": "does not change"
+        },
+        {
+          "key": "D",
+          "text": "is decreased by 9%"
+        }
+      ],
+      "answer": "",
+      "topic": "Percentage",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 59,
+      "text": "Anu spends 90% of her income. If her expenditure increase by 25% and saving increase by 30%, then by what percent does her salary increase?",
+      "options": [
+        {
+          "key": "1",
+          "text": "20%"
+        },
+        {
+          "key": "2",
+          "text": "22.5%"
+        },
+        {
+          "key": "3",
+          "text": "24%"
+        },
+        {
+          "key": "4",
+          "text": "25.5%"
+        }
+      ],
+      "answer": "",
+      "topic": "Percentage",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 60,
+      "text": "If the difference between the compound interest and the simple interest on sum of money for 1 year compounded half - yearly at the rate of 8% per annum is Rs. 30, then find the sum.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Rs. 17580"
+        },
+        {
+          "key": "B",
+          "text": "Rs. 18750"
+        },
+        {
+          "key": "C",
+          "text": "Rs. 17850"
+        },
+        {
+          "key": "D",
+          "text": "Rs. 78570"
+        }
+      ],
+      "answer": "",
+      "topic": "Simple Interest",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 61,
+      "text": "A sum of money becomes 3 times of itself in 5 year at compound interest, then find in how many years this sum becomes 9 times at the same rate of interest?",
+      "options": [
+        {
+          "key": "1",
+          "text": "5 years"
+        },
+        {
+          "key": "2",
+          "text": "10 years"
+        },
+        {
+          "key": "3",
+          "text": "6 years"
+        },
+        {
+          "key": "4",
+          "text": "9 years"
+        }
+      ],
+      "answer": "",
+      "topic": "Simple Interest",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 62,
+      "text": "Simplify: 48 - 3 [ 5 + 8 { 4 - 4 (9 - 2) + 6 } - 12 ] ÷ 3",
+      "options": [
+        {
+          "key": "A",
+          "text": "160"
+        },
+        {
+          "key": "B",
+          "text": "216"
+        },
+        {
+          "key": "C",
+          "text": "199"
+        },
+        {
+          "key": "D",
+          "text": "276"
+        }
+      ],
+      "answer": "",
+      "topic": "Simplification",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 63,
+      "text": "A is 50% more efficient than B. Working together, they can complete a job in 20 days. How long would B alone take to complete the same job?",
+      "options": [
+        {
+          "key": "A",
+          "text": "60 days"
+        },
+        {
+          "key": "B",
+          "text": "40 days"
+        },
+        {
+          "key": "C",
+          "text": "45 days"
+        },
+        {
+          "key": "D",
+          "text": "50 days"
+        }
+      ],
+      "answer": "",
+      "topic": "Time & Work",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 64,
+      "text": "If x : y = 12 : 5 and z : y = 21 : 16, then find the value of x : z.",
+      "options": [
+        {
+          "key": "A",
+          "text": "20 : 63"
+        },
+        {
+          "key": "B",
+          "text": "63 : 20"
+        },
+        {
+          "key": "C",
+          "text": "64 : 35"
+        },
+        {
+          "key": "D",
+          "text": "48 : 35"
+        }
+      ],
+      "answer": "",
+      "topic": "Ratio & Proportion",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 65,
+      "text": "A candidate was asked to multiply a number by 25. He mistakenly multiplied it by 52. His answer was 324 more than the expected answer. So which number was the candidate asked to multiply?",
+      "options": [
+        {
+          "key": "A",
+          "text": "12"
+        },
+        {
+          "key": "B",
+          "text": "15"
+        },
+        {
+          "key": "C",
+          "text": "25"
+        },
+        {
+          "key": "D",
+          "text": "32"
+        }
+      ],
+      "answer": "",
+      "topic": "Number System",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 66,
+      "text": "A retail fruit vendor buys a score of apples for ₹400 and retails them for ₹264 at a dozen. What was his loss/gain per cent? (a score = 20 no's)",
+      "options": [
+        {
+          "key": "A",
+          "text": "10% profit"
+        },
+        {
+          "key": "B",
+          "text": "20% profit"
+        },
+        {
+          "key": "C",
+          "text": "10% loss"
+        },
+        {
+          "key": "D",
+          "text": "5% loss"
+        }
+      ],
+      "answer": "",
+      "topic": "Profit & Loss",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 67,
+      "text": "If a + b = 40 and a² + b² = 116, find the value of a³ + b³.",
+      "options": [
+        {
+          "key": "A",
+          "text": "-1890"
+        },
+        {
+          "key": "B",
+          "text": "-25040"
+        },
+        {
+          "key": "C",
+          "text": "-25480"
+        },
+        {
+          "key": "D",
+          "text": "248"
+        }
+      ],
+      "answer": "",
+      "topic": "Algebra",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 68,
+      "text": "A cuboidal water tank contains 256 litres of water. Its depth is half of its length and its breadth is 1/4 of the difference between its length and depth. The length of the tank is ___________.",
+      "options": [
+        {
+          "key": "A",
+          "text": "16 cm"
+        },
+        {
+          "key": "B",
+          "text": "18 cm"
+        },
+        {
+          "key": "C",
+          "text": "14 cm"
+        },
+        {
+          "key": "D",
+          "text": "12 cm"
+        }
+      ],
+      "answer": "",
+      "topic": "Mensuration",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 69,
+      "text": "In a 56 litres mixture, milk and water are in ratio 5: 2. Some amount of milk is added to that mixture so that the ratio of milk and water becomes 7: 2. Find the amount of milk in the final mixture.",
+      "options": [
+        {
+          "key": "1",
+          "text": "56 litre"
+        },
+        {
+          "key": "2",
+          "text": "48 liter"
+        },
+        {
+          "key": "3",
+          "text": "64 litre"
+        },
+        {
+          "key": "4",
+          "text": "72 litre"
+        }
+      ],
+      "answer": "",
+      "topic": "Mixture & Alligation",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 70,
+      "text": "The circumferential length of a circle of radius 7 cm is used to construct a square. The length of the side of the square is : (Take π = 22/7.)",
+      "options": [
+        {
+          "key": "A",
+          "text": "7 cm"
+        },
+        {
+          "key": "B",
+          "text": "11 cm"
+        },
+        {
+          "key": "C",
+          "text": "15 cm"
+        },
+        {
+          "key": "D",
+          "text": "22 cm"
+        }
+      ],
+      "answer": "",
+      "topic": "LCM & HCF",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 71,
+      "text": "There are two bags. One contains 4 white & 5 Black balls, another contains 4 white & 3 black balls. If one ball is drawn from the first bag and kept in another bag unseen then the probability of choosing a black ball from the second bag is:",
+      "options": [
+        {
+          "key": "A",
+          "text": "15/324"
+        },
+        {
+          "key": "B",
+          "text": "25/324"
+        },
+        {
+          "key": "C",
+          "text": "4/9"
+        },
+        {
+          "key": "D",
+          "text": "None of the above"
+        }
+      ],
+      "answer": "",
+      "topic": "Statistics and Probability",
+      "year": 2022,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 72,
+      "text": "18 buckets of water fill a tank when the capacity of each bucket is 8 litres. How many buckets will be needed to fill the same tank, if the capacity of the bucket is 12 litres?",
+      "options": [
+        {
+          "key": "A",
+          "text": "12"
+        },
+        {
+          "key": "B",
+          "text": "13.5"
+        },
+        {
+          "key": "C",
+          "text": "24"
+        },
+        {
+          "key": "D",
+          "text": "cannot be determined due to insufficient data"
+        }
+      ],
+      "answer": "",
+      "topic": "Ratio & Proportion",
+      "year": 2013,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 73,
+      "text": "Two persons A and B are travelling with the speeds of ratio 3: 4. A takes 30 minutes more time than B to reach the distance. Then find the time taken by A to reach the distance.",
+      "options": [
+        {
+          "key": "1",
+          "text": "2 Hours"
+        },
+        {
+          "key": "2",
+          "text": "1 Hour"
+        },
+        {
+          "key": "3",
+          "text": "4 Hours"
+        },
+        {
+          "key": "4",
+          "text": "3 Hours"
+        }
+      ],
+      "answer": "",
+      "topic": "Speed, Distance, Time",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 74,
+      "text": "A train passes a pole in 15 seconds , while the same train crosses a platform in 47 seconds if platform length is 640m, then find the length of the train?",
+      "options": [
+        {
+          "key": "A",
+          "text": "300m"
+        },
+        {
+          "key": "B",
+          "text": "225m"
+        },
+        {
+          "key": "C",
+          "text": "375m"
+        },
+        {
+          "key": "D",
+          "text": "400m"
+        }
+      ],
+      "answer": "",
+      "topic": "Speed, Distance, Time",
+      "year": 2021,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 75,
+      "text": "A Library has an average of 510 visitors on Sundays and 240 on other days. The average number of visitors per day in a month of 30 days beginning with a Sunday is",
+      "options": [
+        {
+          "key": "A",
+          "text": "250"
+        },
+        {
+          "key": "B",
+          "text": "285"
+        },
+        {
+          "key": "C",
+          "text": "275"
+        },
+        {
+          "key": "D",
+          "text": "255"
+        }
+      ],
+      "answer": "",
+      "topic": "Average",
+      "year": 2024,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 76,
+      "text": "Select the jumbled word which is different from the three other alternatives.",
+      "options": [
+        {
+          "key": "A",
+          "text": "BURAD"
+        },
+        {
+          "key": "B",
+          "text": "LESTEN"
+        },
+        {
+          "key": "C",
+          "text": "SGKOLLEG"
+        },
+        {
+          "key": "D",
+          "text": "NAMZAO"
+        }
+      ],
+      "answer": "",
+      "topic": "Verbal Classification",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 77,
+      "text": "In the question given find the odd word from the given alternatives. 1. Nephrology 2. Astrology 3. Ornithology 4. Entomology",
+      "options": [
+        {
+          "key": "1",
+          "text": "Nephrology"
+        },
+        {
+          "key": "2",
+          "text": "Astrology"
+        },
+        {
+          "key": "3",
+          "text": "Ornithology"
+        },
+        {
+          "key": "4",
+          "text": "Entomology"
+        }
+      ],
+      "answer": "",
+      "topic": "Verbal Classification",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 78,
+      "text": "Identify the term that does not fit into the group - 1. Kalahari 2. Sahara 3. Gobi 4. Sunderban",
+      "options": [
+        {
+          "key": "1",
+          "text": "Kalahari"
+        },
+        {
+          "key": "2",
+          "text": "Sahara"
+        },
+        {
+          "key": "3",
+          "text": "Gobi"
+        },
+        {
+          "key": "4",
+          "text": "Sunderban"
+        }
+      ],
+      "answer": "",
+      "topic": "Verbal Classification",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 79,
+      "text": "In the following question, select the related word from the given alternatives. Impartial : Unbiased :: Apathetic : ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Uninterested"
+        },
+        {
+          "key": "B",
+          "text": "Passionate"
+        },
+        {
+          "key": "C",
+          "text": "Enthusiastic"
+        },
+        {
+          "key": "D",
+          "text": "Peculiar"
+        }
+      ],
+      "answer": "",
+      "topic": "Verbal Analogy",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 80,
+      "text": "Select the related letters from the given alternatives. ACFJ : DFIM :: GILP : ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "IKNR"
+        },
+        {
+          "key": "B",
+          "text": "JLOS"
+        },
+        {
+          "key": "C",
+          "text": "JKOR"
+        },
+        {
+          "key": "D",
+          "text": "ILNS"
+        }
+      ],
+      "answer": "",
+      "topic": "Verbal Analogy",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 81,
+      "text": "Identify the diagram that best represents the relationship among the classes given below : Liquid, Milk, River's Water",
+      "options": [
+        {
+          "key": "A",
+          "text": "Three concentric circles"
+        },
+        {
+          "key": "B",
+          "text": "Two separate circles inside a larger one"
+        },
+        {
+          "key": "C",
+          "text": "Two intersecting circles inside a larger one"
+        },
+        {
+          "key": "D",
+          "text": "Three intersecting circles"
+        }
+      ],
+      "answer": "",
+      "topic": "Venn Diagrams",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 82,
+      "text": "Which of the following diagram denotes the group of mother-nurse-teacher?",
+      "options": [
+        {
+          "key": "1",
+          "text": "Figure 1"
+        },
+        {
+          "key": "2",
+          "text": "Figure 2"
+        },
+        {
+          "key": "3",
+          "text": "Figure 3"
+        },
+        {
+          "key": "4",
+          "text": "Figure 4"
+        }
+      ],
+      "answer": "",
+      "topic": "Venn Diagrams",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 83,
+      "text": "In a certain code, EDUCATION is written as DUETACNIO. How is KNOWLEDGE written in that code language?",
+      "options": [
+        {
+          "key": "A",
+          "text": "OKNELWEDG"
+        },
+        {
+          "key": "B",
+          "text": "OKNLEWEGD"
+        },
+        {
+          "key": "C",
+          "text": "NOKELWEDG"
+        },
+        {
+          "key": "D",
+          "text": "NOKWLEGED"
+        }
+      ],
+      "answer": "",
+      "topic": "Coding-Decoding",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 84,
+      "text": "In a code language, ‘FASHION’ is coded as ‘FAIHIED’, then how will ‘FAMOUS’ be coded in the same code language?",
+      "options": [
+        {
+          "key": "A",
+          "text": "FACEBI"
+        },
+        {
+          "key": "B",
+          "text": "GMRSAC"
+        },
+        {
+          "key": "C",
+          "text": "LFWORE"
+        },
+        {
+          "key": "D",
+          "text": "EKCFDB"
+        }
+      ],
+      "answer": "",
+      "topic": "Coding-Decoding",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 85,
+      "text": "DIRECTIONS: The following question figures follow a series pattern. Identify the correct figure among answer figure which completes the series of the question figure.",
+      "options": [
+        {
+          "key": "1",
+          "text": "A"
+        },
+        {
+          "key": "2",
+          "text": "B"
+        },
+        {
+          "key": "3",
+          "text": "C"
+        },
+        {
+          "key": "4",
+          "text": "D"
+        }
+      ],
+      "answer": "",
+      "topic": "Non-Verbal Series",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 86,
+      "text": "Select the figure from among the given options that can logically replace the question mark (?) in the following series.",
+      "options": [
+        {
+          "key": "1",
+          "text": "Figure 1"
+        },
+        {
+          "key": "2",
+          "text": "Figure 2"
+        },
+        {
+          "key": "3",
+          "text": "Figure 3"
+        },
+        {
+          "key": "4",
+          "text": "Figure 4"
+        }
+      ],
+      "answer": "",
+      "topic": "Non-Verbal Series",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 87,
+      "text": "Two statements are given followed by two conclusions numbered I and II. Statements: 1) All games are tournaments. 2) Some tournaments are matches. Conclusions: I. All games are matches. II. No game is a tournament.",
+      "options": [
+        {
+          "key": "1",
+          "text": "Only Conclusion I follows."
+        },
+        {
+          "key": "2",
+          "text": "Neither Conclusion I nor II follows."
+        },
+        {
+          "key": "3",
+          "text": "Both Conclusions I and II follow."
+        },
+        {
+          "key": "4",
+          "text": "Only Conclusion II follows."
+        }
+      ],
+      "answer": "",
+      "topic": "Syllogism",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 88,
+      "text": "X introduces Y saying, \"He is the husband of the grand daughter of the father of my father.\" How is Y related to X?",
+      "options": [
+        {
+          "key": "1",
+          "text": "Brother"
+        },
+        {
+          "key": "2",
+          "text": "Son"
+        },
+        {
+          "key": "3",
+          "text": "Brother - in - law"
+        },
+        {
+          "key": "4",
+          "text": "Nephew"
+        }
+      ],
+      "answer": "",
+      "topic": "Blood Relations",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 89,
+      "text": "Ram walks 15 m towards west and turns to left, walks 5m and turns to left, walks 4m and again turns to left, walks 2m and turns to right, runs 7m and finally turns to left and runs 3m. Now in which direction is he facing and how far is he from its initial position?",
+      "options": [
+        {
+          "key": "A",
+          "text": "North; 4 m"
+        },
+        {
+          "key": "B",
+          "text": "South; 4 m"
+        },
+        {
+          "key": "C",
+          "text": "North; 2 m"
+        },
+        {
+          "key": "D",
+          "text": "South; 2 m"
+        }
+      ],
+      "answer": "",
+      "topic": "Direction Sense",
+      "year": 2022,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 90,
+      "text": "Look at the series 22, 21, 23, 22, 24, 23 ..... what number should come next?",
+      "options": [
+        {
+          "key": "A",
+          "text": "22"
+        },
+        {
+          "key": "B",
+          "text": "24"
+        },
+        {
+          "key": "C",
+          "text": "25"
+        },
+        {
+          "key": "D",
+          "text": "26"
+        }
+      ],
+      "answer": "",
+      "topic": "Verbal Series",
+      "year": 2011,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 91,
+      "text": "If MUSTARD is written as 132119201184, how is PROFUSE written in that code?",
+      "options": [
+        {
+          "key": "A",
+          "text": "161815621195"
+        },
+        {
+          "key": "B",
+          "text": "161816621195"
+        },
+        {
+          "key": "C",
+          "text": "161815620195"
+        },
+        {
+          "key": "D",
+          "text": "162015621195"
+        }
+      ],
+      "answer": "",
+      "topic": "Coding-Decoding",
+      "year": 2021,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 92,
+      "text": "Which of the given option will complete the given figure? (Pattern Completion)",
+      "options": [
+        {
+          "key": "a",
+          "text": "Figure (a)"
+        },
+        {
+          "key": "b",
+          "text": "Figure (b)"
+        },
+        {
+          "key": "c",
+          "text": "Figure (c)"
+        },
+        {
+          "key": "d",
+          "text": "Figure (d)"
+        }
+      ],
+      "answer": "",
+      "topic": "Non-Verbal Pattern",
+      "year": 2020,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 93,
+      "text": "Identify the term that does not fit into the group -",
+      "options": [
+        {
+          "key": "1",
+          "text": "Kalahari"
+        },
+        {
+          "key": "2",
+          "text": "Sahara"
+        },
+        {
+          "key": "3",
+          "text": "Gobi"
+        },
+        {
+          "key": "4",
+          "text": "Sunderban"
+        }
+      ],
+      "answer": "",
+      "topic": "Verbal Classification",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 94,
+      "text": "Ajay is the father of Om. Mahi is the granddaughter of Sanjay. Vaishali is the sister-in-law of Sanjay, who is only brother of Ajay. Madhuri is niece of Ajay and mother of Mahi. There are three male and three female members in the family. How is Om related to Mahi?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cousin"
+        },
+        {
+          "key": "B",
+          "text": "Uncle"
+        },
+        {
+          "key": "C",
+          "text": "Brother-in-law"
+        },
+        {
+          "key": "D",
+          "text": "Son-in-law"
+        }
+      ],
+      "answer": "",
+      "topic": "Logical Reasoning",
+      "year": 2025,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 95,
+      "text": "Choose the figure which is different from the rest.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Figure (a)"
+        },
+        {
+          "key": "b",
+          "text": "Figure (b)"
+        },
+        {
+          "key": "c",
+          "text": "Figure (c)"
+        },
+        {
+          "key": "d",
+          "text": "Figure (d)"
+        }
+      ],
+      "answer": "",
+      "topic": "Figural Visuals",
+      "year": 2015,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 96,
+      "text": "Pick the odd man out: 154, 235, 352, 460, 324",
+      "options": [
+        {
+          "key": "A",
+          "text": "234"
+        },
+        {
+          "key": "B",
+          "text": "324"
+        },
+        {
+          "key": "C",
+          "text": "154"
+        },
+        {
+          "key": "D",
+          "text": "460"
+        }
+      ],
+      "answer": "",
+      "topic": "Verbal Classification",
+      "year": 2019,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 97,
+      "text": "If A = Z, B = Y and so on, code the following: ‘EDITOR’",
+      "options": [
+        {
+          "key": "A",
+          "text": "VWRGLI"
+        },
+        {
+          "key": "B",
+          "text": "VWRGVI"
+        },
+        {
+          "key": "C",
+          "text": "VWVGLI"
+        },
+        {
+          "key": "D",
+          "text": "VWRLLI"
+        }
+      ],
+      "answer": "",
+      "topic": "Coding-Decoding",
+      "year": 2014,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 98,
+      "text": "Which figure best represent the relationship among Men, Vegetables and Cow?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Option (a)"
+        },
+        {
+          "key": "B",
+          "text": "Option (b)"
+        },
+        {
+          "key": "C",
+          "text": "Option (c)"
+        },
+        {
+          "key": "D",
+          "text": "Option (d)"
+        }
+      ],
+      "answer": "",
+      "topic": "Venn Diagrams",
+      "year": 2021,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 99,
+      "text": "Rearrange the jumble letters to form a meaningful word and find the odd one out.",
+      "options": [
+        {
+          "key": "A",
+          "text": "ARCHM"
+        },
+        {
+          "key": "B",
+          "text": "BMERNVOE"
+        },
+        {
+          "key": "C",
+          "text": "GUASUT"
+        },
+        {
+          "key": "D",
+          "text": "NAJRAUY"
+        }
+      ],
+      "answer": "",
+      "topic": "Verbal Classification",
+      "year": 2022,
+      "marks": 3,
+      "negative": -1
+    },
+    {
+      "q_no": 100,
+      "text": "Identify the figure that completes the pattern.",
+      "options": [],
+      "answer": "",
+      "topic": "Pattern",
+      "year": 2017,
+      "marks": 3,
+      "negative": -1
+    }
+  ]
+}

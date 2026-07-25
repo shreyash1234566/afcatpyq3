@@ -1,0 +1,433 @@
+{
+  "rising": [
+    {
+      "topic_code": "RM_MISC",
+      "topic_name": "Non-Verbal Dot Situation",
+      "slope": 7.906,
+      "recent_avg": 45.3,
+      "growth": 790.6
+    },
+    {
+      "topic_code": "GA_MISC",
+      "topic_name": "Defence",
+      "slope": 6.0,
+      "recent_avg": 34.7,
+      "growth": 600.0
+    },
+    {
+      "topic_code": "VA_REARR",
+      "topic_name": "Para Jumbles",
+      "slope": 5.9,
+      "recent_avg": 15.7,
+      "growth": 590.0
+    },
+    {
+      "topic_code": "VA_GRAM",
+      "topic_name": "Grammar",
+      "slope": 3.0,
+      "recent_avg": 2.5,
+      "growth": 300.0
+    },
+    {
+      "topic_code": "RM_VR_ORDER",
+      "topic_name": "Order & Ranking",
+      "slope": 3.0,
+      "recent_avg": 2.5,
+      "growth": 300.0
+    },
+    {
+      "topic_code": "VA_SYN",
+      "topic_name": "Synonyms",
+      "slope": 2.774,
+      "recent_avg": 24.3,
+      "growth": 277.4
+    },
+    {
+      "topic_code": "VA_COMP",
+      "topic_name": "Reading Comprehension",
+      "slope": 2.463,
+      "recent_avg": 14.7,
+      "growth": 246.3
+    },
+    {
+      "topic_code": "VA_ERR",
+      "topic_name": "Spotting Errors",
+      "slope": 2.342,
+      "recent_avg": 16.7,
+      "growth": 234.2
+    },
+    {
+      "topic_code": "NA_MISC",
+      "topic_name": "LCM & HCF",
+      "slope": 2.294,
+      "recent_avg": 13.0,
+      "growth": 229.4
+    },
+    {
+      "topic_code": "VA_CLOZE",
+      "topic_name": "Cloze Test",
+      "slope": 1.803,
+      "recent_avg": 11.7,
+      "growth": 180.3
+    }
+  ],
+  "declining": [
+    {
+      "topic_code": "RM_NV_FIG",
+      "topic_name": "Figural Visuals",
+      "slope": -0.6,
+      "recent_avg": 2.0,
+      "decline": 60.0
+    },
+    {
+      "topic_code": "GA_CURR",
+      "topic_name": "Current Affairs",
+      "slope": -0.4,
+      "recent_avg": 5.7,
+      "decline": 40.0
+    }
+  ],
+  "ml_predictions": [
+    {
+      "topic_code": "VA_COMP",
+      "topic_name": "Reading Comprehension",
+      "section": "Verbal Ability",
+      "predicted_count": 2.751,
+      "confidence": 0.95,
+      "historical_avg": 7.071428571428571,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 8
+    },
+    {
+      "topic_code": "VA_IDIOM",
+      "topic_name": "Idioms & Phrases",
+      "section": "Verbal Ability",
+      "predicted_count": 2.68,
+      "confidence": 0.95,
+      "historical_avg": 8.916666666666666,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 8
+    },
+    {
+      "topic_code": "VA_SYN",
+      "topic_name": "Synonyms",
+      "section": "Verbal Ability",
+      "predicted_count": 2.618,
+      "confidence": 0.95,
+      "historical_avg": 12.933333333333334,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 8
+    },
+    {
+      "topic_code": "VA_CLOZE",
+      "topic_name": "Cloze Test",
+      "section": "Verbal Ability",
+      "predicted_count": 2.579,
+      "confidence": 0.95,
+      "historical_avg": 8.4,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 8
+    },
+    {
+      "topic_code": "VA_OWS",
+      "topic_name": "One Word Substitution",
+      "section": "Verbal Ability",
+      "predicted_count": 2.366,
+      "confidence": 0.95,
+      "historical_avg": 5.857142857142857,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 8
+    },
+    {
+      "topic_code": "VA_GRAM",
+      "topic_name": "Grammar",
+      "section": "Verbal Ability",
+      "predicted_count": 2.302,
+      "confidence": 0.95,
+      "historical_avg": 4.4,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 7
+    },
+    {
+      "topic_code": "GA_MISC",
+      "topic_name": "Defence",
+      "section": "General Awareness",
+      "predicted_count": 2.099,
+      "confidence": 0.95,
+      "historical_avg": 13.933333333333334,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 6
+    },
+    {
+      "topic_code": "GA_CURR",
+      "topic_name": "Current Affairs",
+      "section": "General Awareness",
+      "predicted_count": 0.814,
+      "confidence": 0.95,
+      "historical_avg": 3.875,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 4
+    },
+    {
+      "topic_code": "GA_SCI",
+      "topic_name": "General Science",
+      "section": "General Awareness",
+      "predicted_count": 0.672,
+      "confidence": 0.95,
+      "historical_avg": 5.769230769230769,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 3
+    },
+    {
+      "topic_code": "GA_POLITY",
+      "topic_name": "Indian Polity",
+      "section": "General Awareness",
+      "predicted_count": 0.245,
+      "confidence": 0.95,
+      "historical_avg": 2.5714285714285716,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 2
+    },
+    {
+      "topic_code": "GA_ECON",
+      "topic_name": "Economics",
+      "section": "General Awareness",
+      "predicted_count": 0.072,
+      "confidence": 0.95,
+      "historical_avg": 1.0,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 0
+    },
+    {
+      "topic_code": "RM_VR_CLASS",
+      "topic_name": "Verbal Classification",
+      "section": "Reasoning",
+      "predicted_count": 2.614,
+      "confidence": 0.95,
+      "historical_avg": 8.133333333333333,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 10
+    },
+    {
+      "topic_code": "VA_ANALOGY",
+      "topic_name": "Verbal Analogy",
+      "section": "Reasoning",
+      "predicted_count": 2.19,
+      "confidence": 0.95,
+      "historical_avg": 11.666666666666666,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 9
+    },
+    {
+      "topic_code": "RM_VR_VENN",
+      "topic_name": "Venn Diagrams",
+      "section": "Reasoning",
+      "predicted_count": 2.177,
+      "confidence": 0.95,
+      "historical_avg": 6.636363636363637,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 9
+    },
+    {
+      "topic_code": "RM_VR_CODING",
+      "topic_name": "Coding-Decoding",
+      "section": "Reasoning",
+      "predicted_count": 2.164,
+      "confidence": 0.95,
+      "historical_avg": 7.25,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 9
+    },
+    {
+      "topic_code": "RM_NV_SERIES",
+      "topic_name": "Non-Verbal Series",
+      "section": "Reasoning",
+      "predicted_count": 1.642,
+      "confidence": 0.95,
+      "historical_avg": 5.928571428571429,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 7
+    },
+    {
+      "topic_code": "RM_VR_SYLL",
+      "topic_name": "Syllogism",
+      "section": "Reasoning",
+      "predicted_count": 0.973,
+      "confidence": 0.95,
+      "historical_avg": 2.8,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 5
+    },
+    {
+      "topic_code": "RM_VR_BLOOD",
+      "topic_name": "Blood Relations",
+      "section": "Reasoning",
+      "predicted_count": 0.898,
+      "confidence": 0.95,
+      "historical_avg": 2.6666666666666665,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 5
+    },
+    {
+      "topic_code": "RM_VR_DIR",
+      "topic_name": "Direction Sense",
+      "section": "Reasoning",
+      "predicted_count": 0.881,
+      "confidence": 0.95,
+      "historical_avg": 1.5,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 5
+    },
+    {
+      "topic_code": "NA_AVG",
+      "topic_name": "Average",
+      "section": "Numerical Ability",
+      "predicted_count": 2.0,
+      "confidence": 0.95,
+      "historical_avg": 3.6666666666666665,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 6
+    },
+    {
+      "topic_code": "NA_PER",
+      "topic_name": "Percentage",
+      "section": "Numerical Ability",
+      "predicted_count": 1.73,
+      "confidence": 0.95,
+      "historical_avg": 4.333333333333333,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 5
+    },
+    {
+      "topic_code": "NA_SI",
+      "topic_name": "Simple Interest",
+      "section": "Numerical Ability",
+      "predicted_count": 1.548,
+      "confidence": 0.95,
+      "historical_avg": 4.4,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 5
+    },
+    {
+      "topic_code": "NA_SIM",
+      "topic_name": "Simplification",
+      "section": "Numerical Ability",
+      "predicted_count": 0.692,
+      "confidence": 0.95,
+      "historical_avg": 2.3,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 3
+    },
+    {
+      "topic_code": "NA_TW",
+      "topic_name": "Time & Work",
+      "section": "Numerical Ability",
+      "predicted_count": 0.551,
+      "confidence": 0.95,
+      "historical_avg": 4.5,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 3
+    },
+    {
+      "topic_code": "NA_RAT",
+      "topic_name": "Ratio & Proportion",
+      "section": "Numerical Ability",
+      "predicted_count": 0.527,
+      "confidence": 0.95,
+      "historical_avg": 4.538461538461538,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 3
+    },
+    {
+      "topic_code": "NA_NUM",
+      "topic_name": "Number System",
+      "section": "Numerical Ability",
+      "predicted_count": 0.482,
+      "confidence": 0.95,
+      "historical_avg": 2.0,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 2
+    },
+    {
+      "topic_code": "NA_PL",
+      "topic_name": "Profit & Loss",
+      "section": "Numerical Ability",
+      "predicted_count": 0.478,
+      "confidence": 0.95,
+      "historical_avg": 4.142857142857143,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 2
+    },
+    {
+      "topic_code": "NA_ALG",
+      "topic_name": "Algebra",
+      "section": "Numerical Ability",
+      "predicted_count": 0.407,
+      "confidence": 0.95,
+      "historical_avg": 2.0,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 2
+    },
+    {
+      "topic_code": "NA_MENSA",
+      "topic_name": "Mensuration",
+      "section": "Numerical Ability",
+      "predicted_count": 0.234,
+      "confidence": 0.95,
+      "historical_avg": 4.0,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 2
+    },
+    {
+      "topic_code": "NA_MIX",
+      "topic_name": "Mixture & Alligation",
+      "section": "Numerical Ability",
+      "predicted_count": 0.212,
+      "confidence": 0.95,
+      "historical_avg": 1.6666666666666667,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 1
+    },
+    {
+      "topic_code": "NA_MISC",
+      "topic_name": "LCM & HCF",
+      "section": "Numerical Ability",
+      "predicted_count": 0.09,
+      "confidence": 0.95,
+      "historical_avg": 6.181818181818182,
+      "trend": "stable",
+      "ci90_low": 0,
+      "ci90_high": 1
+    }
+  ]
+}
