@@ -750,11 +750,16 @@ def main():
     with open(DATA_DIR / "Q.json", 'r', encoding='utf-8') as f:
         pyq_data = json.load(f)
         
-    # Normalize topics for frontend
+    # Normalize topics and image paths for frontend
     for q in pyq_data:
         raw_topic = q.get('topic')
         if raw_topic:
             q['topic'] = TOPIC_NORMALIZATION.get(raw_topic, raw_topic)
+        
+        # Dashboard serves images from /images directly, so strip data/ prefix
+        img_paths = q.get('image_path')
+        if img_paths:
+            q['image_path'] = [img.replace('data/', '', 1) if img.startswith('data/') else img for img in img_paths]
     
     print(f"   ✓ Loaded {len(pyq_data)} PYQ questions")
     
