@@ -530,7 +530,7 @@
             `}).join('');
 
             // TRENDS
-            const trending = appData.predictions?.rising_topics || [];
+            const trending = appData.predictions?.rising || appData.predictions?.rising_topics || [];
             document.getElementById('trending-list').innerHTML = trending.slice(0,5).map(t => {
                 const name = t.Topic || t.topic_name;
                 return `
@@ -540,7 +540,7 @@
                 </div>
             `}).join('');
 
-            const declining = appData.predictions?.declining_topics || [];
+            const declining = appData.predictions?.declining || appData.predictions?.declining_topics || [];
             document.getElementById('declining-list').innerHTML = declining.slice(0,5).map(t => {
                 const name = t.Topic || t.topic_name;
                 return `
