@@ -726,6 +726,15 @@
                     <span class="bg-brand-navy/5 text-brand-navy text-[10px] font-black px-3 py-1.5 rounded-lg uppercase tracking-widest border border-brand-navy/10">${q.year || 'PYQ'}</span>
                 </div>
 
+                ${q.passage ? `
+                <div class="mb-6 p-5 bg-slate-50 border border-slate-200 rounded-2xl text-slate-700 text-sm leading-relaxed whitespace-pre-wrap font-medium shadow-sm">
+                    <div class="flex items-center gap-2 mb-3 text-slate-500 font-bold text-xs uppercase tracking-widest">
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+                        Passage
+                    </div>
+                    ${q.passage}
+                </div>` : ''}
+
                 <p class="text-xl font-bold text-brand-navy mb-10 leading-relaxed font-heading">${q.question_text || q.question}</p>
 
                 ${(q.has_figure && q.image_path && q.image_path.length > 0) ? `
