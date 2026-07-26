@@ -10,6 +10,7 @@ import json
 from pathlib import Path
 from collections import defaultdict
 import random
+from topic_normalization_map import TOPIC_NORMALIZATION
 
 # Paths
 DATA_DIR = Path("data/processed")
@@ -748,6 +749,12 @@ def main():
     # Load PYQ data
     with open(DATA_DIR / "Q.json", 'r', encoding='utf-8') as f:
         pyq_data = json.load(f)
+        
+    # Normalize topics for frontend
+    for q in pyq_data:
+        raw_topic = q.get('topic')
+        if raw_topic:
+            q['topic'] = TOPIC_NORMALIZATION.get(raw_topic, raw_topic)
     
     print(f"   ✓ Loaded {len(pyq_data)} PYQ questions")
     
