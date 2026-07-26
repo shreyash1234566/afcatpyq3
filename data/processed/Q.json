@@ -75238,24 +75238,6 @@
     "test_name": "AFCAT 2025 Aug 23 Shift 2"
   },
   {
-    "key": "A",
-    "text": "273.15 °C",
-    "has_figure": false,
-    "test_name": "Unknown"
-  },
-  {
-    "key": "B",
-    "text": "0 °C",
-    "has_figure": false,
-    "test_name": "Unknown"
-  },
-  {
-    "key": "C",
-    "text": "-100 °C",
-    "has_figure": false,
-    "test_name": "Unknown"
-  },
-  {
     "file_name": "AFCAT_2025_Aug23_Shift2_Memory.pdf",
     "question_number": 32,
     "question_text": "Under whose presidency was the 11th BRICS Labour & Employment Ministers' Meeting 2025 held?",
@@ -75312,54 +75294,6 @@
     ],
     "has_figure": false,
     "test_name": "AFCAT 2025 Aug 23 Shift 2"
-  },
-  {
-    "key": "A",
-    "text": "National Commission for Scheduled Castes",
-    "has_figure": false,
-    "test_name": "Unknown"
-  },
-  {
-    "key": "B",
-    "text": "National Human Rights Commission",
-    "has_figure": false,
-    "test_name": "Unknown"
-  },
-  {
-    "key": "C",
-    "text": "National Commission for Women",
-    "has_figure": false,
-    "test_name": "Unknown"
-  },
-  {
-    "key": "D",
-    "text": "National Commission for Minorities",
-    "has_figure": false,
-    "test_name": "Unknown"
-  },
-  {
-    "key": "A",
-    "text": "Western Ghats",
-    "has_figure": false,
-    "test_name": "Unknown"
-  },
-  {
-    "key": "B",
-    "text": "Indo-Gangetic Plain",
-    "has_figure": false,
-    "test_name": "Unknown"
-  },
-  {
-    "key": "C",
-    "text": "Thar Desert",
-    "has_figure": false,
-    "test_name": "Unknown"
-  },
-  {
-    "key": "D",
-    "text": "Malabar",
-    "has_figure": false,
-    "test_name": "Unknown"
   },
   {
     "file_name": "AFCAT_2025_Aug23_Shift2_Memory.pdf",
@@ -82106,30 +82040,6 @@
     "test_name": "AFCAT 2025 Aug 24 Shift 1"
   },
   {
-    "key": "A",
-    "text": "Border Security Force",
-    "has_figure": false,
-    "test_name": "Unknown"
-  },
-  {
-    "key": "B",
-    "text": "Indian Air Force",
-    "has_figure": false,
-    "test_name": "Unknown"
-  },
-  {
-    "key": "C",
-    "text": "National Security Guard",
-    "has_figure": false,
-    "test_name": "Unknown"
-  },
-  {
-    "key": "D",
-    "text": "Sikh Light Infantry",
-    "has_figure": false,
-    "test_name": "Unknown"
-  },
-  {
     "file_name": "AFCAT_2025_Aug24_Shift1_Memory.pdf",
     "question_number": 52,
     "question_text": "Where is the Southern Command of Indian Army is headquartered at?",
@@ -83356,35 +83266,6 @@
       {
         "key": "D",
         "text": "CIGPFC"
-      }
-    ],
-    "has_figure": false,
-    "test_name": "AFCAT 2025 Aug 24 Shift 1"
-  },
-  {
-    "file_name": "AFCAT_2025_Aug24_Shift1_Memory.pdf",
-    "question_number": 94,
-    "push_text": "Select the related letters from the given alternatives. PEACE : NHDAH :: OTHER : ?",
-    "section": "Reasoning",
-    "topic": "Coding-Decoding",
-    "difficulty": "Medium",
-    "topic_code": "RM_VR_CODING",
-    "choices": [
-      {
-        "key": "A",
-        "text": "RRFGP"
-      },
-      {
-        "key": "B",
-        "text": "RRFHP"
-      },
-      {
-        "key": "C",
-        "text": "RREHP"
-      },
-      {
-        "key": "D",
-        "text": "RRFHQ"
       }
     ],
     "has_figure": false,
