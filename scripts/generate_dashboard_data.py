@@ -787,6 +787,14 @@ const mockBlueprintData = {json.dumps(mock_blueprint, ensure_ascii=True)};
 
 const aiSampleQuestions = {json.dumps(ai_samples, ensure_ascii=True)};
 
+window.dashboardData = {{
+    predictions: predictionsData,
+    question_bank: pyqData,
+    study_plan: studyPlanData,
+    mock_test: mockBlueprintData,
+    ai_samples: aiSampleQuestions
+}};
+
 console.log('Dashboard data loaded successfully!');
 console.log('PYQ Questions:', pyqData.length);
 console.log('AI Sample Questions:', Object.values(aiSampleQuestions.sections).flat().length);
