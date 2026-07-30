@@ -293,6 +293,7 @@ IMPORTANT GUIDELINES:
 4. Use realistic Indian context (Rs., km, Indian places, etc.)
 5. Numbers should be reasonable and computationally manageable
 6. Each question must have exactly ONE correct answer
+7. Provide a deep, step-by-step solution explanation, especially for numerical ability (math) and reasoning questions.
 
 OUTPUT FORMAT:
 Return questions in this exact JSON format:
@@ -302,7 +303,7 @@ Return questions in this exact JSON format:
             "question": "Full question text here?",
             "options": ["(A) option1", "(B) option2", "(C) option3", "(D) option4"],
             "correct": "A",
-            "explanation": "Brief solution explanation"
+            "explanation": "Deep, step-by-step solution explanation"
         }
     ]
 }"""
