@@ -1,0 +1,562 @@
+{
+  "Verbal Ability": [
+    {
+      "actual": "Read the sentence to find out whether there is any grammatical error in it. The error, if any, will be part of the sentence. Spot the error from the given options.\nThe chairperson of the ethics committee, (a)/ as well as several senior advisors, were present (b)/ during the confidential deliberations that followed the inquiry. (c)/ No error (d)",
+      "topic": "Spotting Errors",
+      "best_generated_match": "Read the sentence to find out whether there is any grammatical error in it. Spot the error from the given options. The teacher gave (a) / the student's (b) / a lot of homework (c) / to complete over the break. (d)",
+      "score": 1.0
+    },
+    {
+      "actual": "Select the option that best completes the analogy.\nCONSTITUTION : GOVERNANCE :: ________ : INTERPRETATION",
+      "topic": "Verbal Analogy",
+      "best_generated_match": "Select the option that is related to the third word in the same way as the second word is related to the first word. Painter : Brush :: Writer: ?",
+      "score": 0.888
+    },
+    {
+      "actual": "Select the correct one-word substitute for the given group of words.\nA remedy or solution believed to cure all diseases or resolve all problems.",
+      "topic": "One Word Substitution",
+      "best_generated_match": "Select the option that can be used as a one-word substitute for the given group of words: The study of the structure, behavior, and evolution of the universe",
+      "score": 0.7
+    },
+    {
+      "actual": "An idiom is given below, followed by four possible meanings. Select the option that best conveys the meaning of the idiom.\nTo throw the helve after the hatchet",
+      "topic": "Idioms & Phrases",
+      "best_generated_match": "Choose the one which best expresses the meaning of the given idiom: Cost an arm and a leg",
+      "score": 0.7
+    },
+    {
+      "actual": "The following question consists of an incomplete sentence with a fixed beginning and a fixed ending. The middle portion of the sentence is divided into four parts labelled P, Q, R and S. These four parts are given in a jumbled order. Arrange P, Q, R and S in the correct sequence to form a meaningful and grammatically correct sentence. Choose the correct combination from the options given.\nTo address the reviewer's concerns,________________________________________________ coherence of the dissertation significantly.\nP) too many theoretical directions\nQ) the scholar revised two core arguments,\nR) simultaneously could weaken the overall\nS) yet acknowledged that pursuing",
+      "topic": "Para Jumbles",
+      "best_generated_match": "Rearrange the parts of the sentence in correct order. P. despite economic downturns, the Q. governments of the United States and China facilitated interactions R. Boeing a binding contract on 15 March 2022 S. between Airbus and Boeing which allowed Airbus to submit to",
+      "score": 0.7
+    },
+    {
+      "actual": "In the following sentence, choose the option that expresses the antonym of the underlined word.\nThe narrative presents an archetypal hero whose journey conforms precisely to established mythic patterns rather than deviating into idiosyncratic or experimental forms of characterisation.",
+      "topic": "Synonyms/Antonyms",
+      "best_generated_match": "Select the most appropriate ANTONYM of the given word: SERENE",
+      "score": 0.7
+    },
+    {
+      "actual": "In the following question, a complex sentence is given. Choose the option that best transforms it into a simple sentence without altering its meaning, logical emphasis, or syntactic correctness.\nThough the theoretical framework appeared robust, anomalies in empirical observations necessitated a reassessment of the underlying assumptions and methodological approach.",
+      "topic": "Grammar",
+      "best_generated_match": "Select the option that will improve the underlined part of the given sentence. The company will have to lay off hundreds of employees due to the financial allusion.",
+      "score": 0.7
+    },
+    {
+      "actual": "Choose the option which best replaces the given group of words.\nThe practice of gaining advantage through flattery or excessive compliance",
+      "topic": "One Word Substitution",
+      "best_generated_match": "Select the option that can be used as a one-word substitute for the given group of words: The study of the structure, behavior, and evolution of the universe",
+      "score": 0.7
+    },
+    {
+      "actual": "Select the best one word substitute for the given group of words.\nSomeone who demands strict compliance with rules even when it is unnecessary",
+      "topic": "One Word Substitution",
+      "best_generated_match": "Select the option that can be used as a one-word substitute for the given group of words: The study of the structure, behavior, and evolution of the universe",
+      "score": 0.7
+    },
+    {
+      "actual": "The following question consists of an incomplete sentence. The missing part of the sentence has been split into four parts. All four parts are jumbled up and labelled P, Q, R, S. Arrange the jumbled parts of the sentence and find out which of the four combinations from the given options will correctly complete the sentence.\nPostcolonial literary criticism has repeatedly challenged the neutrality of narrative voice _______________________________________________ within texts long regarded as formally objective.\nP. revealing how stylistic transparency can function as ideological concealment\nQ. when imperial epistemologies are naturalised as universal experience\nR. through close attention to perspective, silence, and narrative authority\nS. rather than as an absence of mediation",
+      "topic": "Para Jumbles",
+      "best_generated_match": "Rearrange the parts of the sentence in correct order. P. despite economic downturns, the Q. governments of the United States and China facilitated interactions R. Boeing a binding contract on 15 March 2022 S. between Airbus and Boeing which allowed Airbus to submit to",
+      "score": 0.7
+    },
+    {
+      "actual": "Read the sentence to find out whether there is any error in it. The error, if any, will be in one part of the sentence. Spot the error from the given options.\nThe analyst cautioned against excessive (A) reliance on anecdotal indicators masquerading (B) as statistically representative evidence. (C) No Error (D)",
+      "topic": "Spotting Errors",
+      "best_generated_match": "Read the sentence to find out whether there is any grammatical error in it. Spot the error from the given options. The teacher gave (a) / the student's (b) / a lot of homework (c) / to complete over the break. (d)",
+      "score": 1.0
+    },
+    {
+      "actual": "An idiom is given below, followed by four possible meanings. Select the option that best conveys the meaning of the idiom.\nTo ride on Shank's mare",
+      "topic": "Idioms & Phrases",
+      "best_generated_match": "Choose the one which best expresses the meaning of the given idiom: Cost an arm and a leg",
+      "score": 0.7
+    },
+    {
+      "actual": "Read the sentence carefully to find out whether there is any grammatical error in it. The error, if any, will be in one part of the sentence. Spot the error from the given options.\nThe supervisor disapproved of the researcher submitting sensitive data (a)/ without proper authorisation (b)/ during the preliminary phase of the study. (c)/ no error (d)/",
+      "topic": "Spotting Errors",
+      "best_generated_match": "Read the sentence to find out whether there is any grammatical error in it. Spot the error from the given options. The teacher gave (a) / the student's (b) / a lot of homework (c) / to complete over the break. (d)",
+      "score": 0.7
+    },
+    {
+      "actual": "In the following question, out of the given alternatives, choose the best one which expresses the synonym of the underlined word.\nThe tribunal dismissed the preliminary indictment after the emergence of exculpatory evidence, whose probative force effectively dismantled the prosecution's circumstantial narrative and undermined its inferential coherence.",
+      "topic": "Synonyms/Antonyms",
+      "best_generated_match": "Select the most appropriate synonym of the given word: ENNUI",
+      "score": 0.7
+    },
+    {
+      "actual": "The following question consists of an incomplete sentence. The missing part of the sentence has been split into four parts. All four parts are jumbled up and labelled P, Q, R, S. Arrange the jumbled parts of the sentence and find out which of the four combinations from the given options will correctly complete the sentence.\nIn policy debates on artificial intelligence, ethical oversight is frequently invoked ______________________________________ that lack both enforcement authority and democratic accountability.\nP. as a compensatory gesture for rapid technological deployment\nQ. that remains largely procedural rather than substantively transformative\nR. allowing innovation to proceed without structural restraint\nS. while responsibility is dispersed across advisory frameworks",
+      "topic": "Para Jumbles",
+      "best_generated_match": "Rearrange the parts of the sentence in correct order. P. despite economic downturns, the Q. governments of the United States and China facilitated interactions R. Boeing a binding contract on 15 March 2022 S. between Airbus and Boeing which allowed Airbus to submit to",
+      "score": 0.7
+    },
+    {
+      "actual": "In the following sentence, a phrase has been underlined. You are required to replace it with the most appropriate idiom.\nExcessive justification in the report threatened entirely to spoil what was already attractive during the final evaluation process.",
+      "topic": "Idioms & Phrases",
+      "best_generated_match": "Select the most appropriate meaning of the given idiom. Cut to the chase",
+      "score": 0.7
+    },
+    {
+      "actual": "Read the sentence carefully and choose the option that best completes both blanks. Only one option results in grammatically correct subject verb concord throughout.\nAn understanding of how competing theoretical paradigms intersect, rather than their individual merits alone, ______ shaped the committee's evaluation and ______ decisive in determining the final recommendation.",
+      "topic": "Grammar",
+      "best_generated_match": "Select the option that will improve the underlined part of the given sentence. The company will have to lay off hundreds of employees due to the financial allusion.",
+      "score": 0.7
+    },
+    {
+      "actual": "Choose the option that correctly transforms the given complex sentence into a simple sentence without changing its meaning.\nWhen the researcher realised that the data were inconsistent, she revised the analytical framework.",
+      "topic": "Grammar",
+      "best_generated_match": "Select the option that will improve the underlined part of the given sentence. The company will have to lay off hundreds of employees due to the financial allusion.",
+      "score": 0.7
+    },
+    {
+      "actual": "In the following sentence, choose the option that expresses the antonym of the underlined word.\nThe researcher responded with notable alacrity to methodological criticism, demonstrating an eagerness that contrasted sharply with the usual deliberative pace of academic revision.",
+      "topic": "Synonyms/Antonyms",
+      "best_generated_match": "Select the most appropriate ANTONYM of the given word: SERENE",
+      "score": 0.7
+    },
+    {
+      "actual": "Choose the most appropriate one-word substitute for the given phrase from the options provided.\nStudy of election trends",
+      "topic": "One Word Substitution",
+      "best_generated_match": "Choose the most appropriate word: Having a strong and unpleasant smell; foul-smelling",
+      "score": 0.807
+    },
+    {
+      "actual": "Comprehension: In the following passage, some words have been deleted. Fill in the blanks with the most appropriate word from the options given for each number.\nColonial administrations often __________ (1) indigenous customs, imposing foreign ideologies that __________ (2) existing social structures. These policies frequently __________ (3) nationalist movements, leaving enduring legacies of both resistance and adaptation throughout the subcontinent's complex historical landscape, affecting generations in cultural, political, and social spheres.\nSelect the most appropriate option to fill in blank (1).",
+      "topic": "Cloze Test",
+      "best_generated_match": "Select the most appropriate option to fill in blank number 8: (Context: Economic implications of sustainable development)",
+      "score": 0.7
+    },
+    {
+      "actual": "Comprehension: In the following passage, some words have been deleted. Fill in the blanks with the most appropriate word from the options given for each number.\nColonial administrations often __________ (1) indigenous customs, imposing foreign ideologies that __________ (2) existing social structures. These policies frequently __________ (3) nationalist movements, leaving enduring legacies of both resistance and adaptation throughout the subcontinent's complex historical landscape, affecting generations in cultural, political, and social spheres.\nSelect the most appropriate option to fill in blank (2).",
+      "topic": "Cloze Test",
+      "best_generated_match": "Select the most appropriate option to fill in blank number 8: (Context: Economic implications of sustainable development)",
+      "score": 0.7
+    },
+    {
+      "actual": "Comprehension: In the following passage, some words have been deleted. Fill in the blanks with the most appropriate word from the options given for each number.\nColonial administrations often __________ (1) indigenous customs, imposing foreign ideologies that __________ (2) existing social structures. These policies frequently __________ (3) nationalist movements, leaving enduring legacies of both resistance and adaptation throughout the subcontinent's complex historical landscape, affecting generations in cultural, political, and social spheres.\nSelect the most appropriate option to fill in blank (3).",
+      "topic": "Cloze Test",
+      "best_generated_match": "Select the most appropriate option to fill in blank number 8: (Context: Economic implications of sustainable development)",
+      "score": 0.7
+    },
+    {
+      "actual": "Comprehension: Read the given passage carefully and answer the questions that follow (passage on Confidence and Determination). Two statements labelled Assertion (A) and Reason (R) are given below. Read the statements carefully and select the correct option.\nAssertion (A): Confidence, as described in the passage, is compatible with the presence of doubt rather than dependent on its elimination.\nReason (R): Confidence is presented as a regulated form of self-judgment that enables action even when certainty is incomplete.",
+      "topic": "Reading Comprehension",
+      "best_generated_match": "Read the passage and answer: Which word, mentioned in the passage, can replace the description 'The process of learning through experience'?",
+      "score": 0.7
+    },
+    {
+      "actual": "Comprehension: Read the given passage carefully and answer the questions that follow (passage on Confidence and Determination). How do confidence and determination function together within the framework outlined in the passage?",
+      "topic": "Reading Comprehension",
+      "best_generated_match": "Read the passage and answer: Which word, mentioned in the passage, can replace the description 'The process of learning through experience'?",
+      "score": 0.7
+    },
+    {
+      "actual": "Comprehension: Read the given passage carefully and answer the questions that follow (passage on Confidence and Determination). Why does the passage reject the idea that confidence and determination inherently guarantee success?",
+      "topic": "Reading Comprehension",
+      "best_generated_match": "Read the passage and answer: Which word, mentioned in the passage, can replace the description 'The process of learning through experience'?",
+      "score": 0.7
+    }
+  ],
+  "General Awareness": [
+    {
+      "actual": "With reference to Flying Officer Nirmal Jit Singh Sekhon and the Param Vir Chakra, consider the following statements.\n1. He was the first individual from the Indian Air Force to be awarded India's highest gallantry award, the Param Vir Chakra.\n2. The Param Vir Chakra is octagonal in shape, made of silver, and bears a single Vajra with the Ashoka Chakra embossed at the centre.\nWhich of the statements given above is/are correct?",
+      "topic": "Defence",
+      "best_generated_match": "Consider the following statements regarding the Tejas-MK2 fighter jets: 1. The Tejas-MK2 is a fifth-generation fighter aircraft designed for air-based operations. 2. The Tejas-MK2 jets are capable of carrying out air-to-air missions but cannot deliver nuclear payloads. Which of the statements given above is/are correct?",
+      "score": 0.7
+    },
+    {
+      "actual": "The Sumi tribe's energetic war dance, performed to celebrate victory in battle, and the Lotha women's Mungyanta harvest dance, performed during the Tokhu Emong festival, are mainly associated with which Indian state?",
+      "topic": "Art & Culture",
+      "best_generated_match": "To which region is the Kalbelia folk dance related?",
+      "score": 0.7
+    },
+    {
+      "actual": "Which of the following is the primary function of AILA, the AI agent introduced by IIT (Indian Institute of Technology) Delhi in 2025?",
+      "topic": "Current Affairs",
+      "best_generated_match": "Who among the following is appointed as the head of the National Disaster Management Authority?",
+      "score": 0.7
+    },
+    {
+      "actual": "With reference to Aero India, Asia's Largest Air Show, consider the following statements.\n1. Aero India is an annual air show and aviation exhibition held in Bengaluru and is organised by the Defence Exhibition Organisation under the Department of Defence Production, Ministry of Defence.\n2. Aero India 2025, the 15th edition of the event, had a broad theme, \"The Runway to a Billion Opportunities\".\nWhich of the statements given above is/are correct?",
+      "topic": "Defence",
+      "best_generated_match": "Consider the following statements regarding the Tejas-MK2 fighter jets: 1. The Tejas-MK2 is a fifth-generation fighter aircraft designed for air-based operations. 2. The Tejas-MK2 jets are capable of carrying out air-to-air missions but cannot deliver nuclear payloads. Which of the statements given above is/are correct?",
+      "score": 0.7
+    },
+    {
+      "actual": "Siliserh Lake, which has been designated as a Ramsar site and recognised as India's 96th wetland of international importance, is located in which State?",
+      "topic": "Geography (India)",
+      "best_generated_match": "Pangsau Pass in the Himalayas joins",
+      "score": 0.7
+    },
+    {
+      "actual": "The battle of Stalingrad was famously associated with which of the following events?",
+      "topic": "History (Modern)",
+      "best_generated_match": "Who was the founder of the Indian National Army?",
+      "score": 0.7
+    },
+    {
+      "actual": "Which of the following is a cartilaginous organ in the human body that helps in sound production and hence called the sound box?",
+      "topic": "General Science",
+      "best_generated_match": "Which of the following is true about a black hole?",
+      "score": 1.0
+    },
+    {
+      "actual": "The 22nd ASEAN\u2013India Summit held in 2025 declared the year 2026 as which of the following?",
+      "topic": "Current Affairs",
+      "best_generated_match": "Who among the following is appointed as the head of the National Disaster Management Authority?",
+      "score": 0.7
+    },
+    {
+      "actual": "Which institution set up in 1990 under an Act of the Indian Parliament, acts as the principal financial institution for promotion, financing and development of the Micro, Small and Medium Enterprise (MSME) sector?",
+      "topic": "Economy",
+      "best_generated_match": "Which of the following is NOT a key component of India's fiscal policy?",
+      "score": 0.7
+    },
+    {
+      "actual": "What are the regions called that lie between the Tropic of Cancer and the Arctic Circle in the Northern Hemisphere, and between the Tropic of Capricorn and the Antarctic Circle in the Southern Hemisphere?",
+      "topic": "Geography (World)",
+      "best_generated_match": "Which of the following rivers is the longest in South America?",
+      "score": 0.7
+    },
+    {
+      "actual": "Which of the following ocean relief features has pointed summits that rise from the seafloor but do not reach the ocean's surface, often attaining heights of 3,000\u20134,500 metres?",
+      "topic": "Geography (World)",
+      "best_generated_match": "Which of the following rivers is the longest in South America?",
+      "score": 1.0
+    },
+    {
+      "actual": "With reference to India's legacy in United Nations peacekeeping operations, consider the following statements.\n1. The term Blue Helmets for UN peacekeepers is derived from the light blue colour of the United Nations flag.\n2. In 2023, the Dag Hammarskj\u00f6ld Medal was posthumously awarded to Indian peacekeepers Shishupal Singh and Sanwala Ram Vishnoi, and civilian UN worker Shaber Taher Ali for their sacrifice in the Democratic Republic of the Congo.\n3. Major Radhika Sen was named the UN's \"Military Gender Advocate of the Year 2023\".\nWhich of the statements given above are correct?",
+      "topic": "Defence",
+      "best_generated_match": "Consider the following statements regarding the Tejas-MK2 fighter jets: 1. The Tejas-MK2 is a fifth-generation fighter aircraft designed for air-based operations. 2. The Tejas-MK2 jets are capable of carrying out air-to-air missions but cannot deliver nuclear payloads. Which of the statements given above is/are correct?",
+      "score": 0.7
+    },
+    {
+      "actual": "Which famous sports personality was awarded the Laureus World Comeback of the Year award in 2025?",
+      "topic": "Awards",
+      "best_generated_match": "Who won the 2024 Bharat Ratna Award?",
+      "score": 0.7
+    },
+    {
+      "actual": "Match List-I (Air Exercise) with List-II (Participating Countries) and select the correct option.\nList-I (Air Exercise) List-II (Participating Countries)\n(A) Exercise Indradhanush (I) India and Japan\n(B) Exercise Desert Knight (II) India and Oman\n(C) Exercise Eastern Bridge (III) India and United Kingdom\n(D) Exercise Veer Guardian (IV) India, France and United Arab Emirates",
+      "topic": "Defence",
+      "best_generated_match": "Who is the 31st Chief of the Naval Staff of India?",
+      "score": 0.7
+    },
+    {
+      "actual": "Consider the following statements about the Rowlatt Satyagraha.\n(1) The Rowlatt Act authorized the British Government to arrest and imprison any Indian without trial.\n(2) In April 1917, Gandhiji gave a call for a satyagraha against the Rowlatt Act.\nWhich of the above given statements is/are correct?",
+      "topic": "History (Modern)",
+      "best_generated_match": "Who was the founder of the Indian National Army?",
+      "score": 0.7
+    },
+    {
+      "actual": "How does the Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India (SHANTI) Bill, 2025, affect the involvement of private sector in India's nuclear industry?",
+      "topic": "Current Affairs",
+      "best_generated_match": "Who among the following is appointed as the head of the National Disaster Management Authority?",
+      "score": 0.7
+    },
+    {
+      "actual": "Which Indian Navy vessel, an indigenously built traditional stitched sailing ship, undertook its maiden overseas voyage from Porbandar to Muscat in December 2025 to revive and celebrate India's ancient maritime heritage?",
+      "topic": "Defence",
+      "best_generated_match": "Which of the following is a SUB-SONIC cruise missile?",
+      "score": 0.7
+    },
+    {
+      "actual": "World Polio Day is observed every year on October 24 to raise awareness about polio eradication. Which theme was selected for World Polio Day in 2025?",
+      "topic": "Current Affairs",
+      "best_generated_match": "Who among the following is appointed as the head of the National Disaster Management Authority?",
+      "score": 0.7
+    },
+    {
+      "actual": "In the context of India's maritime capability development, consider the following statements regarding Indian Coast Guard Ship (ICGS) Samudra Pratap.\n1. ICGS Samudra Pratap is India's first indigenously designed pollution control vessel, with more than 60% indigenous content.\n2. It is the largest ship in the Indian Coast Guard fleet and was built by Goa Shipyard Limited.\nWhich of the statements given above is/are correct?",
+      "topic": "Defence",
+      "best_generated_match": "Consider the following statements regarding the Tejas-MK2 fighter jets: 1. The Tejas-MK2 is a fifth-generation fighter aircraft designed for air-based operations. 2. The Tejas-MK2 jets are capable of carrying out air-to-air missions but cannot deliver nuclear payloads. Which of the statements given above is/are correct?",
+      "score": 0.7
+    },
+    {
+      "actual": "In August 2025, a former Governor of the Reserve Bank of India was appointed as an Executive Director at the International Monetary Fund for a three-year term. Identify the person among the following.",
+      "topic": "Personalities",
+      "best_generated_match": "Who is known as the Father of the Indian Constitution?",
+      "score": 0.7
+    },
+    {
+      "actual": "In January 2026, Bulgaria became the 21st member of the eurozone. Which of the following European Union countries have NOT adopted the euro by January 2026?",
+      "topic": "Current Affairs",
+      "best_generated_match": "Who among the following is appointed as the head of the National Disaster Management Authority?",
+      "score": 0.7
+    },
+    {
+      "actual": "In December 2025, during a ceremony at Rashtrapati Bhavan, the President of India released a new edition of the Constitution written in the Ol Chiki script. In which language was this edition of the Constitution published?",
+      "topic": "Current Affairs",
+      "best_generated_match": "Who among the following is appointed as the head of the National Disaster Management Authority?",
+      "score": 0.7
+    },
+    {
+      "actual": "Select the correct option based on the given Assertion (A) and Reason (R).\nAssertion (A): The 43rd Constitutional Amendment Act introduced the concept of Fundamental Duties into the Indian Constitution.\nReason (R): Fundamental Duties were added to promote responsible citizenship and encourage individuals to contribute to national development.",
+      "topic": "Indian Polity",
+      "best_generated_match": "Article 356 of the Indian Constitution provides for how many types of President's rule in a state?",
+      "score": 0.7
+    },
+    {
+      "actual": "Which two states secured the top two ranks at the Sixth National Water Awards in 2025?",
+      "topic": "Awards",
+      "best_generated_match": "Who won the 2024 Bharat Ratna Award?",
+      "score": 0.7
+    }
+  ],
+  "Numerical Ability": [
+    {
+      "actual": "A car covers a distance of 750 km at a constant speed. Had the car increased the speed by 10 kmph, it would have taken 2.5 hours less to cover the same distance. Find the original speed of the car.",
+      "topic": "Time, Speed & Dist.",
+      "best_generated_match": "The speed of a boat in still water is 20 km/h. The speed of the stream is 2 km/h. Let the boat take a total of x hours to travel 96 km downstream and then 32 km upstream, and the boat takes a total y hours to travel 96 km upstream and then 32 km downstream. Find the value of x + y in hours.",
+      "score": 0.7
+    },
+    {
+      "actual": "Mehul buys an antique vase for \u20b94,800. He sells it to Raghav at a loss of 20%. Raghav repairs it for \u20b9600 and then sells it to Farhan at a profit of 25% on his total cost. What is the final selling price?",
+      "topic": "Profit & Loss",
+      "best_generated_match": "A fruit juice vendor purchases pure juice at Rs. 15 per litre. The dishonest vendor mixes the 200ml of water for every one litre of pure juice. Find the percentage gain if he sells the mixture at Rs. 18 per litre.",
+      "score": 0.7
+    },
+    {
+      "actual": "If 12 workers can build a wall in 15 days, working 6 hours per day, then in how many days can 10 workers build two such walls, if they work for 4 hours per day?",
+      "topic": "Time & Work",
+      "best_generated_match": "X can do a piece of work in 8 days. He works at it for 3 days and then Y finishes it in 10 days, in how many days can X and Y together finish the work?",
+      "score": 0.7
+    },
+    {
+      "actual": "A bakery sources flour from two mills; one supplies flour with 2% impurity, and the other with 8%. After mixing flour from both mills, the combined impurity rate is found to be 6.5%. What percentage of the total mixture of the flour came from the second mill?",
+      "topic": "Mixture & Alligation",
+      "best_generated_match": "In a 72 litres mixture, juice and water are in ratio 4: 3. Some amount of juice is added to that mixture so that the ratio of juice and water becomes 5: 3. Find the amount of juice in the final mixture.",
+      "score": 0.7
+    },
+    {
+      "actual": "A mixture of two sugar solutions contains 26% sugar in the first solution and 60% sugar in the second solution. The overall sugar concentration in the mixture is 43%. If 150 liters of the mixture is prepared, what is the quantity (in liters) of the second solution used? If the sugar concentration of the mixture was 55%, what would have been the quantity (in liters) of the second sugar solution in the mixture? (Round off your answer to the nearest integer.)",
+      "topic": "Mixture & Alligation",
+      "best_generated_match": "In a 72 litres mixture, juice and water are in ratio 4: 3. Some amount of juice is added to that mixture so that the ratio of juice and water becomes 5: 3. Find the amount of juice in the final mixture.",
+      "score": 0.7
+    },
+    {
+      "actual": "A researcher has a median \"p\" for the data set 15, 12, 14, 28, 16, 28, 32, 36, 13, 12, 34, 39. If the 16 is replaced by 19, and 13 by 31 in the above data set, then the median of the resulting data set is \"q\". The arithmetic mean of \"p\" and \"q\" is:",
+      "topic": "Statistics",
+      "best_generated_match": "A box contains 8 white, 10 black balls and 12 green balls. A ball is drawn at random from the box. Find the probability that the ball drawn is white or green.",
+      "score": 0.7
+    },
+    {
+      "actual": "The cost price of 6 articles is equal to the selling price of 10 articles. Find the gain or loss per cent.",
+      "topic": "Profit & Loss",
+      "best_generated_match": "A fruit juice vendor purchases pure juice at Rs. 15 per litre. The dishonest vendor mixes the 200ml of water for every one litre of pure juice. Find the percentage gain if he sells the mixture at Rs. 18 per litre.",
+      "score": 0.7
+    },
+    {
+      "actual": "The simplified value of (7.2 \u00d7 0.28 \u00d7 5) / (0.8 \u00d7 0.12 \u00d7 0.25) is:",
+      "topic": "Simplification",
+      "best_generated_match": "Simplify: 72 - 2 [ 8 + 12 { 6 - 6 (15 - 5) + 9 } - 15 ] \u00f7 5",
+      "score": 0.7
+    },
+    {
+      "actual": "A solid cuboid of dimensions 20 cm \u00d7 15 cm \u00d7 10 cm is melted and recast into small cubes of side 2.5 cm each. If 10% of the material is lost during recasting, the number of whole (complete) cubes cast is:",
+      "topic": "Mensuration",
+      "best_generated_match": "The rectangular park with a length and breadth of 200 m & 150 m respectively, is maintained in a circular field. The area of the circular field excluding the park is 50000 metre square. Find the radius of the field.",
+      "score": 0.7
+    },
+    {
+      "actual": "A bag contains 3 red, 5 blue, and 2 green balls. Two balls are drawn one after another without replacement. Find the probability that both balls are blue.",
+      "topic": "Statistics",
+      "best_generated_match": "A box contains 8 white, 10 black balls and 12 green balls. A ball is drawn at random from the box. Find the probability that the ball drawn is white or green.",
+      "score": 0.7
+    },
+    {
+      "actual": "Three numbers are in the ratio 2 : 3 : 4. If their LCM is 480, then their HCF is _______.",
+      "topic": "Number System",
+      "best_generated_match": "What is the least number added to 3172 so that it is completely divisible by 3, 4, 5 and 6?",
+      "score": 0.7
+    },
+    {
+      "actual": "An amount of \u20b95,000 is invested at 8% per annum for 2 years. If the investment is made under both compound interest and simple interest at the same rate and for the same period, what is the difference between the compound interest and the simple interest?",
+      "topic": "Simple/Compound Int.",
+      "best_generated_match": "The difference between the compound interest and the simple interest on a certain sum at 6% per annum for 3 yrs is Rs 9.3. The sum is",
+      "score": 0.7
+    },
+    {
+      "actual": "The sum of two natural numbers, x and y, is 324, and the HCF of x and y is 18. If x < y, how many such possible pairs of x and y are there?",
+      "topic": "Number System",
+      "best_generated_match": "What is the least number added to 3172 so that it is completely divisible by 3, 4, 5 and 6?",
+      "score": 0.7
+    },
+    {
+      "actual": "A can complete a piece of work in 10 days, and B can do the same work in 15 days. They work together for 5 days, and then C finishes the remaining work in 2 days. How long would C alone take to complete the entire work?",
+      "topic": "Time & Work",
+      "best_generated_match": "X can do a piece of work in 8 days. He works at it for 3 days and then Y finishes it in 10 days, in how many days can X and Y together finish the work?",
+      "score": 0.7
+    },
+    {
+      "actual": "A tower stands vertically on the ground. From a point on the ground, the angle of elevation of the top of the tower is observed [angle value obscured in source document]. If the distance from the point to the foot of tower is 27 m, find the height of the tower.",
+      "topic": "Mensuration",
+      "best_generated_match": "The rectangular park with a length and breadth of 200 m & 150 m respectively, is maintained in a circular field. The area of the circular field excluding the park is 50000 metre square. Find the radius of the field.",
+      "score": 0.7
+    },
+    {
+      "actual": "If a\u00b2 + b\u00b2 = 50 and a \u00d7 b = 7, find (a \u2212 b)/(a + b), where a > b > 0",
+      "topic": "Algebra",
+      "best_generated_match": "If x + y = 25 and x\u00b2 + y\u00b2 = 221, find the value of x\u00b3 + y\u00b3.",
+      "score": 0.7
+    },
+    {
+      "actual": "A person spends 70% of his income in a month. In the next month, if his income increases by 40% and his expenditure increases by 30%, then his savings increase by \u20b91,216. What is the person's original income?",
+      "topic": "Percentage",
+      "best_generated_match": "A company spends 85% of its budget. If its expenditure increases by 20% and savings increase by 25%, then by what percent does its budget increase?",
+      "score": 0.7
+    },
+    {
+      "actual": "Among three partners A, B and C in a business, the capital of B is equal to half the difference between thrice the capital of C and twice the capital of A. If at the end of the year, they received a profit of \u20b927,460, what is the share of C (in \u20b9)?",
+      "topic": "Ratio & Proportion",
+      "best_generated_match": "The ratio of the ages of the mother and daughter is 9 : 5. If we multiply her age by the answer, we get 945. What will be the ratio of the ages of the mother and the daughter after 8 years?",
+      "score": 0.7
+    },
+    {
+      "actual": "A regular hexagon has the same perimeter as a square whose side is 36 m. Find the area (in m\u00b2) of the hexagon.",
+      "topic": "Mensuration",
+      "best_generated_match": "The rectangular park with a length and breadth of 200 m & 150 m respectively, is maintained in a circular field. The area of the circular field excluding the park is 50000 metre square. Find the radius of the field.",
+      "score": 0.7
+    }
+  ],
+  "Reasoning": [
+    {
+      "actual": "A dice has its faces named by two letters (P, Z), two numbers (2, 7) and two symbols (\u00b5, \u03a9). Two positions of the same dice are given below (dice net images showing: Position 1 has faces 7 (top), P (front-left), \u03a9 (front-right), \u00b5 (bottom-front, obscured), G (front); Position 2 has faces Z (top), 7 (front-left), 2 (front-right)). Which face is opposite to face \u00b5?",
+      "topic": "Non-Verbal Pattern",
+      "best_generated_match": "If a mirror is placed on the line MN, then which of the answer figures is the right image of the given figure?",
+      "score": 0.7
+    },
+    {
+      "actual": "In a certain code language, 'camera angle reverse settings' is coded as 'p6 a5 q7 y4' and 'methods shown before work' is coded as 'u3 z5 k6 q4'. What is the probable code for 'venn diagram'?",
+      "topic": "Coding-Decoding",
+      "best_generated_match": "In a certain code language, if FLIGHT is coded as 'THGILF' and CLOUD is coded as 'DUOLC', then what will STORM be coded as?",
+      "score": 1.0
+    },
+    {
+      "actual": "Identify the figure given in the options which when put in place of the question mark (?) will logically complete the series. (A series of four 4x4 grid figures is shown, each containing letters/symbols like \u00b5, G, arrows, and diamonds in rotating positions along the border; the fifth figure in the series is a question mark.)",
+      "topic": "Non-Verbal Pattern",
+      "best_generated_match": "DIRECTIONS: The following question figures follow a series pattern. Identify the correct figure among answer figure which completes the series of the question figure.",
+      "score": 0.7
+    },
+    {
+      "actual": "A dice has its faces marked by digits 1, 2, 5, 6, 8 and 9. Three positions of the dice are given below. One of the faces in the second image of the dice is masked by '#'.\nPosition 1: 9 (top), 1 (front-left), 2 (front-right)\nPosition 2: 8 (top), 2 (front-left), # (front-right)\nPosition 3: 6 (top), 9 (front-left), 8 (front-right)\nWhich of the following statements is/are true?\nI) The product of the values of '#' and the side opposite to it is 54.\nII) The sum of the values of '#' and the side opposite to '6' is a prime number.\nIII) The square root of the sum of all the sides adjacent to '#' gives a rational number.",
+      "topic": "Non-Verbal Pattern",
+      "best_generated_match": "If a mirror is placed on the line MN, then which of the answer figures is the right image of the given figure?",
+      "score": 0.7
+    },
+    {
+      "actual": "Study the given pattern carefully and select the number that is the product of P and Q. (Different operations when performed on the two numbers given in each of the sectors in figure X yield the same result P: outer sectors 25,5,13,2,6,27 surrounding P. Similarly, in figure Y, outer sectors 49,6,17,3,8,64 surrounding Q.)",
+      "topic": "Non-Verbal Pattern",
+      "best_generated_match": "From amongst the figures marked (A), (B), (C) and (D), select the figure which satisfies the same conditions of placement of dots as in figure (X).",
+      "score": 0.7
+    },
+    {
+      "actual": "Which of the given options correctly defines the relationship between x and y, if '\u00d7 means \u00f7', '\u00f7 means +', '+ means \u2212', and '\u2212 means \u00d7'?\nx= 40 \u00d7 5 \u00f7 12 \u2212 2 + 22\ny= 60 \u00d7 10 \u00f7 2 \u2212 3 + 4",
+      "topic": "Logical Reasoning",
+      "best_generated_match": "What is the smaller angle between both the hands when it is 25 minutes past 9?",
+      "score": 0.7
+    },
+    {
+      "actual": "Four groups of letters are given in jumbled form in the options. In each of them, a meaningful English word can be made by rearranging the letters. Find the odd one out after making the meaningful words.",
+      "topic": "Verbal Classification",
+      "best_generated_match": "Four words are given, three of which are alike in a certain way while one is not. Select the odd one out. ",
+      "score": 0.7
+    },
+    {
+      "actual": "In a certain code language,\nF @ G means 'F is greater than G',\nF % G means 'F is less than G' and\nF & G means 'F is equal to G'.\nIf:\nP = 14 \u00d7 5 \u2212 (10 \u00d7 4) \u00f7 8\nQ = 120 \u00f7 3 \u2212 40 + 15 \u00d7 2\nR = 6 \u00d7 4 \u2212 20 + 27 \u00f7 3\nWhich of the following statements is/are true?\nStatement I: P & 2Q % 5R\nStatement II: P % 3Q % 7R",
+      "topic": "Coding-Decoding",
+      "best_generated_match": "In a certain code language, if FLIGHT is coded as 'THGILF' and CLOUD is coded as 'DUOLC', then what will STORM be coded as?",
+      "score": 1.0
+    },
+    {
+      "actual": "Study the given pattern carefully and select the letters that can replace the symbols in the last figure. (Circular figures divided into quadrants with letter pairs: P/Y/F, R/V/I, T/S/L, and the last with $ /% /@ to be determined.)",
+      "topic": "Non-Verbal Pattern",
+      "best_generated_match": "Out of the following five figures, four are alike in some manner and one differs from these in that manner. Select the odd figure.",
+      "score": 0.7
+    },
+    {
+      "actual": "A malfunctioning analogue clock gains 5 minutes per hour of operation. Given that it was initially accurately set to 8:00 AM and subsequently shows 6:00 AM the following day, determine the additional angle traversed by the hour hand of the clock.",
+      "topic": "Logical Reasoning",
+      "best_generated_match": "What is the smaller angle between both the hands when it is 25 minutes past 9?",
+      "score": 0.7
+    },
+    {
+      "actual": "J is the father of L. N is the daughter of K. Z is the son of P. J is married to K. L is the brother of O. P is married to N. Which of the following statements is/are true?\n(I) J is the father-in-law of P.\n(II) Z is the niece of O.\n(III) K is the grandmother of Z.",
+      "topic": "Logical Reasoning",
+      "best_generated_match": "Point F is 5m East of point G. Point H is 4m North of point F. Point I is 3m West of point H. Point J is 2m South of point I. In which of the following directions is point J, with reference to point G?",
+      "score": 0.7
+    },
+    {
+      "actual": "This question contains three categories. These categories may or may not be linked to one another. Each category may fit into one of the diagrams given below in the options. Select the diagram which most aptly represents the relationship among the given categories.\nPrime numbers, Even numbers, Perfect squares",
+      "topic": "Venn Diagrams",
+      "best_generated_match": "Identify the diagram that best represents the relationship among the classes given below : Planet, Earth, Moon",
+      "score": 0.7
+    },
+    {
+      "actual": "In a code language, 'TIMBER' is coded as \"2064141121\" and \"JUNGLE\" is coded as \"7139152311\". Which of the following are correct matches as per the given code language?\nWORD - CODE\n(i) STAR - (X) 2220715\n(ii) NEST - (Y) 616413\n(iii) LAND - (Z) 2022220",
+      "topic": "Coding-Decoding",
+      "best_generated_match": "In a certain code language, if FLIGHT is coded as 'THGILF' and CLOUD is coded as 'DUOLC', then what will STORM be coded as?",
+      "score": 0.7
+    },
+    {
+      "actual": "In a row of students facing north, Rahul is 22nd from the left end and Diya is 16th from the right end. If there are exactly 8 people sitting between them, what are the maximum (x) and minimum (y) possible numbers of students in the row?",
+      "topic": "Logical Reasoning",
+      "best_generated_match": "Five friends - A, B, C, D and E are sitting in a row at equal distances facing towards west. Neither B nor C is sitting at any of the extreme ends. D is sitting fourth to the left of E. Neither D nor E is an immediate neighbour of A. C is sitting fourth to the right of B. Only one person is sitting in the immediate left of D. Who among the following are sitting at the extreme ends?",
+      "score": 0.7
+    },
+    {
+      "actual": "SILENT is related to ROCMGT in a certain way based on the English alphabetical order. In the same way, FRIDGE is related to CHBJPG. To which of the following is SHADOW related, following the same logic?",
+      "topic": "Coding-Decoding",
+      "best_generated_match": "Select the option that is related to the fifth letter cluster in the same way as the second letter cluster is related to the first... SHADOW: WODAHS CONCEPT: TPECNOC:: GENERATE:?",
+      "score": 0.7
+    },
+    {
+      "actual": "Three of the following four figures are alike in a certain way and thus form a group. Which figure DOES NOT belong to that group? (Four boxed figures labelled A, B, C, D each containing letter/symbol pairs like '\u03c1' and mirrored shapes in the corners.)",
+      "topic": "Non-Verbal Pattern",
+      "best_generated_match": "Out of the following five figures, four are alike in some manner and one differs from these in that manner. Select the odd figure.",
+      "score": 0.7
+    },
+    {
+      "actual": "From the given options, select the option in which the dots can be placed in the same way as shown in the question figure below. (Question figure shows a square, triangle, and ellipse overlapping with 3 dots placed within specific overlapping regions.)",
+      "topic": "Non-Verbal Pattern",
+      "best_generated_match": "In the following question, select the number which can be placed at the sign of question mark (?) from the given alternatives. [Triangle number puzzle]",
+      "score": 0.7
+    },
+    {
+      "actual": "In the given diagram, the square represents Technicians, the triangle represents Botanists, the circle represents Managers, and the pentagon represents Physicists.\nA research institute plans to recruit personnel for various positions based on the following criteria.\n(i) Managers who are also Botanists but not Technicians\n(ii) Technicians who are either Botanists or Physicists but not Managers.\nFind the number of people in the Venn diagram who are eligible according to the criteria.",
+      "topic": "Venn Diagrams",
+      "best_generated_match": "Identify the diagram that best represents the relationship among the classes given below : Planet, Earth, Moon",
+      "score": 0.7
+    },
+    {
+      "actual": "P + Q means P is the brother of Q,\nP % Q means P is the son of Q,\nP & Q means P is the wife of Q,\nP = Q means P is the husband of Q and\nP @ Q means P is the daughter of Q.\nIf 'S & T + U @ V = W @ X', then which of the following statements is not correct?",
+      "topic": "Coding-Decoding",
+      "best_generated_match": "Select the option that is related to the fifth letter cluster in the same way as the second letter cluster is related to the first... SHADOW: WODAHS CONCEPT: TPECNOC:: GENERATE:?",
+      "score": 0.7
+    },
+    {
+      "actual": "Choose the option which is related to the third word in the same way as the second word is related to the first word and the sixth word is related to the fifth word.\nLove : Tennis : : Chukker : ? : : Offside : Football",
+      "topic": "Verbal Analogy",
+      "best_generated_match": "Select the option that is related to the third word in the same way as the second word is related to the first word. Painter : Brush :: Writer: ?",
+      "score": 0.7
+    },
+    {
+      "actual": "Select the option figure that will replace the question mark (?) in the figure given below to complete the pattern. (Series of boxed figures with diagonal stripes, wavy arrows, and note-like symbols progressively rotating/shifting.)",
+      "topic": "Non-Verbal Pattern",
+      "best_generated_match": "DIRECTIONS: The following question figures follow a series pattern. Identify the correct figure among answer figure which completes the series of the question figure.",
+      "score": 0.7
+    },
+    {
+      "actual": "If 14 November 1989 was a Tuesday, then what was the day of the week on 26 April 2013?",
+      "topic": "Logical Reasoning",
+      "best_generated_match": "What is the smaller angle between both the hands when it is 25 minutes past 9?",
+      "score": 0.7
+    },
+    {
+      "actual": "In the following triads, each group of letters is related to the subsequent one following a certain logic.\nREST - THOO - PKMP\nFARM - HDNH - DGLI\nWhich of the following are correct matches as per the given code language?\n(i) TRIM - (W) VVFI, (X) JMJP, (Y) JLJO, (Z) VUEH - (A) FOGQ, (B) RXCI, (C) QYCJ, (D) FOHP\n(ii) HINT - matched similarly across the (W/X/Y/Z) and (A/B/C/D) columns",
+      "topic": "Coding-Decoding",
+      "best_generated_match": "Select the option that is related to the fifth letter cluster in the same way as the second letter cluster is related to the first... SHADOW: WODAHS CONCEPT: TPECNOC:: GENERATE:?",
+      "score": 0.7
+    }
+  ]
+}

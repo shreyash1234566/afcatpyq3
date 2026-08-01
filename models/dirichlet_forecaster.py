@@ -48,14 +48,17 @@ except ImportError:
 
 # --------------------------------------------------------------------------- config
 ROOT = Path(__file__).resolve().parent.parent
-Q_PATH = ROOT / "data" / "processed" / "Q.json"
+# Use cleaned/normalised topic labels by default; fall back to raw Q.json if missing
+_Q_CLEAN = ROOT / "data" / "processed" / "Q_clean.json"
+_Q_RAW   = ROOT / "data" / "processed" / "Q.json"
+Q_PATH = _Q_CLEAN if _Q_CLEAN.exists() else _Q_RAW
 
 # AFCAT 2026 fixed section sizes (known constants, NOT forecast).
 SEC_TARGET = {"Verbal Ability": 30, "General Awareness": 25,
               "Reasoning": 25, "Numerical Ability": 20}
 MIN_SEC_QS = 5          # a year is usable for a section only if it has >= this many Qs
 MIN_HISTORY = 3         # minimum prior years before we trust a forecast
-GAMMA_GRID = (0.6, 0.7, 0.8, 0.9, 1.0)
+GAMMA_GRID = (0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0)
 LAM_GRID = (0.0, 0.25, 0.5, 0.75, 1.0)   # empirical-vs-uniform prior blend, tuned per section
 A_GRID = np.array([0.25, 0.5, 1, 2, 3, 4, 6, 8, 12], float)
 
@@ -128,7 +131,7 @@ def pooled_empirical(S, n=None):
     correct way to estimate the base-rate, and it kills sparse-year spikes."""
     # DYNAMIC BASE RATE: Use a rolling 5-year window to prevent obsolete
     # ancient topics from dragging down new syllabus additions.
-    window = 5
+    window = 4
     recent_S = S[-window:] if len(S) > window else S
     if n is not None and len(n) == len(S):
         recent_n = n[-window:] if len(n) > window else n
@@ -277,7 +280,10 @@ class DirichletForecaster:
         self.section_gamma_ = {}       # filled during predict(): the refit gammas
 
     @classmethod
-    def from_repo(cls, q_path: Path = Q_PATH):
+    def from_repo(cls, q_path: Path = None):
+        """Load from Q_clean.json if available (normalised topics), else Q.json."""
+        if q_path is None:
+            q_path = Q_PATH
         return cls(*load_counts(q_path))
 
     def predict(self, sections=None, round_counts=True):

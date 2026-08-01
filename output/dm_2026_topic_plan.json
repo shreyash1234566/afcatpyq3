@@ -1,0 +1,1109 @@
+{
+  "Verbal Ability": {
+    "section_total": 30,
+    "recency_gamma": 0.7,
+    "prior_lam": 0.5,
+    "n_years": 15,
+    "n_topics": 11,
+    "topics": [
+      {
+        "topic": "Synonyms/Antonyms",
+        "section": "Verbal Ability",
+        "expected_count": 5,
+        "expected_count_exact": 5.149,
+        "ci90_low": 1,
+        "ci90_high": 12,
+        "share": 0.1716
+      },
+      {
+        "topic": "Reading Comprehension",
+        "section": "Verbal Ability",
+        "expected_count": 3,
+        "expected_count_exact": 3.369,
+        "ci90_low": 0,
+        "ci90_high": 9,
+        "share": 0.1123
+      },
+      {
+        "topic": "Idioms & Phrases",
+        "section": "Verbal Ability",
+        "expected_count": 3,
+        "expected_count_exact": 3.21,
+        "ci90_low": 0,
+        "ci90_high": 9,
+        "share": 0.107
+      },
+      {
+        "topic": "Para Jumbles",
+        "section": "Verbal Ability",
+        "expected_count": 3,
+        "expected_count_exact": 3.185,
+        "ci90_low": 0,
+        "ci90_high": 8,
+        "share": 0.1062
+      },
+      {
+        "topic": "Spotting Errors",
+        "section": "Verbal Ability",
+        "expected_count": 3,
+        "expected_count_exact": 3.026,
+        "ci90_low": 0,
+        "ci90_high": 8,
+        "share": 0.1009
+      },
+      {
+        "topic": "Cloze Test",
+        "section": "Verbal Ability",
+        "expected_count": 3,
+        "expected_count_exact": 3.007,
+        "ci90_low": 0,
+        "ci90_high": 9,
+        "share": 0.1002
+      },
+      {
+        "topic": "Grammar",
+        "section": "Verbal Ability",
+        "expected_count": 2,
+        "expected_count_exact": 2.128,
+        "ci90_low": 0,
+        "ci90_high": 6,
+        "share": 0.0709
+      },
+      {
+        "topic": "One Word Substitution",
+        "section": "Verbal Ability",
+        "expected_count": 2,
+        "expected_count_exact": 2.066,
+        "ci90_low": 0,
+        "ci90_high": 7,
+        "share": 0.0689
+      },
+      {
+        "topic": "Verbal Analogy",
+        "section": "Verbal Ability",
+        "expected_count": 2,
+        "expected_count_exact": 1.802,
+        "ci90_low": 0,
+        "ci90_high": 7,
+        "share": 0.0601
+      },
+      {
+        "topic": "Fill in the Blanks",
+        "section": "Verbal Ability",
+        "expected_count": 2,
+        "expected_count_exact": 1.636,
+        "ci90_low": 0,
+        "ci90_high": 7,
+        "share": 0.0545
+      },
+      {
+        "topic": "Spelling",
+        "section": "Verbal Ability",
+        "expected_count": 1,
+        "expected_count_exact": 1.421,
+        "ci90_low": 0,
+        "ci90_high": 5,
+        "share": 0.0474
+      }
+    ]
+  },
+  "General Awareness": {
+    "section_total": 25,
+    "recency_gamma": 1.0,
+    "prior_lam": 1.0,
+    "n_years": 15,
+    "n_topics": 46,
+    "topics": [
+      {
+        "topic": "Static GK",
+        "section": "General Awareness",
+        "expected_count": 4,
+        "expected_count_exact": 4.264,
+        "ci90_low": 0,
+        "ci90_high": 9,
+        "share": 0.1706
+      },
+      {
+        "topic": "General Science",
+        "section": "General Awareness",
+        "expected_count": 3,
+        "expected_count_exact": 3.03,
+        "ci90_low": 0,
+        "ci90_high": 8,
+        "share": 0.1212
+      },
+      {
+        "topic": "Defence",
+        "section": "General Awareness",
+        "expected_count": 3,
+        "expected_count_exact": 2.56,
+        "ci90_low": 0,
+        "ci90_high": 7,
+        "share": 0.1024
+      },
+      {
+        "topic": "Geography (World)",
+        "section": "General Awareness",
+        "expected_count": 2,
+        "expected_count_exact": 1.984,
+        "ci90_low": 0,
+        "ci90_high": 6,
+        "share": 0.0794
+      },
+      {
+        "topic": "Indian Polity",
+        "section": "General Awareness",
+        "expected_count": 2,
+        "expected_count_exact": 1.529,
+        "ci90_low": 0,
+        "ci90_high": 5,
+        "share": 0.0612
+      },
+      {
+        "topic": "History (Modern)",
+        "section": "General Awareness",
+        "expected_count": 1,
+        "expected_count_exact": 1.452,
+        "ci90_low": 0,
+        "ci90_high": 5,
+        "share": 0.0581
+      },
+      {
+        "topic": "Geography (India)",
+        "section": "General Awareness",
+        "expected_count": 1,
+        "expected_count_exact": 1.438,
+        "ci90_low": 0,
+        "ci90_high": 5,
+        "share": 0.0575
+      },
+      {
+        "topic": "History (Ancient)",
+        "section": "General Awareness",
+        "expected_count": 1,
+        "expected_count_exact": 0.968,
+        "ci90_low": 0,
+        "ci90_high": 3,
+        "share": 0.0387
+      },
+      {
+        "topic": "Awards",
+        "section": "General Awareness",
+        "expected_count": 1,
+        "expected_count_exact": 0.895,
+        "ci90_low": 0,
+        "ci90_high": 4,
+        "share": 0.0358
+      },
+      {
+        "topic": "History (Medieval)",
+        "section": "General Awareness",
+        "expected_count": 1,
+        "expected_count_exact": 0.867,
+        "ci90_low": 0,
+        "ci90_high": 3,
+        "share": 0.0347
+      },
+      {
+        "topic": "International Organizations",
+        "section": "General Awareness",
+        "expected_count": 1,
+        "expected_count_exact": 0.682,
+        "ci90_low": 0,
+        "ci90_high": 2,
+        "share": 0.0273
+      },
+      {
+        "topic": "Organizations",
+        "section": "General Awareness",
+        "expected_count": 1,
+        "expected_count_exact": 0.669,
+        "ci90_low": 0,
+        "ci90_high": 3,
+        "share": 0.0267
+      },
+      {
+        "topic": "Current Affairs",
+        "section": "General Awareness",
+        "expected_count": 1,
+        "expected_count_exact": 0.658,
+        "ci90_low": 0,
+        "ci90_high": 4,
+        "share": 0.0263
+      },
+      {
+        "topic": "Environment/Ecology",
+        "section": "General Awareness",
+        "expected_count": 1,
+        "expected_count_exact": 0.618,
+        "ci90_low": 0,
+        "ci90_high": 3,
+        "share": 0.0247
+      },
+      {
+        "topic": "Personalities",
+        "section": "General Awareness",
+        "expected_count": 1,
+        "expected_count_exact": 0.609,
+        "ci90_low": 0,
+        "ci90_high": 3,
+        "share": 0.0243
+      },
+      {
+        "topic": "Economy",
+        "section": "General Awareness",
+        "expected_count": 1,
+        "expected_count_exact": 0.52,
+        "ci90_low": 0,
+        "ci90_high": 3,
+        "share": 0.0208
+      },
+      {
+        "topic": "Books",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.236,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.0094
+      },
+      {
+        "topic": "Culture",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.236,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.0094
+      },
+      {
+        "topic": "Books & Authors",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.228,
+        "ci90_low": 0,
+        "ci90_high": 2,
+        "share": 0.0091
+      },
+      {
+        "topic": "Art & Culture",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.17,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.0068
+      },
+      {
+        "topic": "Indian Culture",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.135,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.0054
+      },
+      {
+        "topic": "Important Organizations",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.132,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.0053
+      },
+      {
+        "topic": "Polity and Civics",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.132,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.0053
+      },
+      {
+        "topic": "Sports Personalities",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.105,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.0042
+      },
+      {
+        "topic": "Basic Science (Biology)",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.093,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.0037
+      },
+      {
+        "topic": "Defence Exercises",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.093,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.0037
+      },
+      {
+        "topic": "Awards and Honors",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.052,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0021
+      },
+      {
+        "topic": "Defence and Space",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.052,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0021
+      },
+      {
+        "topic": "Sports History",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.052,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0021
+      },
+      {
+        "topic": "Basic Science (Physics)",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.047,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0019
+      },
+      {
+        "topic": "Defence - Ranks",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.047,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0019
+      },
+      {
+        "topic": "Defence Technology",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.047,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0019
+      },
+      {
+        "topic": "Geography - Physical",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.047,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0019
+      },
+      {
+        "topic": "Important Organizations / Defence",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.047,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0019
+      },
+      {
+        "topic": "International Organizations / Summits",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.047,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0019
+      },
+      {
+        "topic": "Organizations / Polity",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.047,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0019
+      },
+      {
+        "topic": "Science & Tech / Current Affairs",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.047,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0019
+      },
+      {
+        "topic": "Sports Terminology",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.047,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0019
+      },
+      {
+        "topic": "Economics",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.033,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0013
+      },
+      {
+        "topic": "Current Affairs (2015)",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.029,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0012
+      },
+      {
+        "topic": "General Awareness",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.029,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0012
+      },
+      {
+        "topic": "Polity / Organizations",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.029,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0012
+      },
+      {
+        "topic": "Art and Culture",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.0,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.0
+      },
+      {
+        "topic": "Awards / Environment",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.0,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0
+      },
+      {
+        "topic": "Polity / Schemes",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.0,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0
+      },
+      {
+        "topic": "Science and Technology",
+        "section": "General Awareness",
+        "expected_count": 0,
+        "expected_count_exact": 0.0,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.0
+      }
+    ]
+  },
+  "Reasoning": {
+    "section_total": 25,
+    "recency_gamma": 0.7,
+    "prior_lam": 0.5,
+    "n_years": 15,
+    "n_topics": 16,
+    "topics": [
+      {
+        "topic": "Logical Reasoning",
+        "section": "Reasoning",
+        "expected_count": 4,
+        "expected_count_exact": 3.689,
+        "ci90_low": 0,
+        "ci90_high": 10,
+        "share": 0.1476
+      },
+      {
+        "topic": "Verbal Classification",
+        "section": "Reasoning",
+        "expected_count": 3,
+        "expected_count_exact": 2.849,
+        "ci90_low": 0,
+        "ci90_high": 9,
+        "share": 0.114
+      },
+      {
+        "topic": "Number/Letter Series",
+        "section": "Reasoning",
+        "expected_count": 3,
+        "expected_count_exact": 2.677,
+        "ci90_low": 0,
+        "ci90_high": 7,
+        "share": 0.1071
+      },
+      {
+        "topic": "Coding-Decoding",
+        "section": "Reasoning",
+        "expected_count": 2,
+        "expected_count_exact": 2.294,
+        "ci90_low": 0,
+        "ci90_high": 8,
+        "share": 0.0918
+      },
+      {
+        "topic": "Venn Diagrams",
+        "section": "Reasoning",
+        "expected_count": 2,
+        "expected_count_exact": 2.228,
+        "ci90_low": 0,
+        "ci90_high": 9,
+        "share": 0.0891
+      },
+      {
+        "topic": "Non-Verbal Pattern",
+        "section": "Reasoning",
+        "expected_count": 2,
+        "expected_count_exact": 2.179,
+        "ci90_low": 0,
+        "ci90_high": 8,
+        "share": 0.0872
+      },
+      {
+        "topic": "Verbal Analogy",
+        "section": "Reasoning",
+        "expected_count": 2,
+        "expected_count_exact": 1.858,
+        "ci90_low": 0,
+        "ci90_high": 8,
+        "share": 0.0743
+      },
+      {
+        "topic": "Non-Verbal Series",
+        "section": "Reasoning",
+        "expected_count": 1,
+        "expected_count_exact": 1.481,
+        "ci90_low": 0,
+        "ci90_high": 6,
+        "share": 0.0592
+      },
+      {
+        "topic": "Spatial Ability",
+        "section": "Reasoning",
+        "expected_count": 1,
+        "expected_count_exact": 1.06,
+        "ci90_low": 0,
+        "ci90_high": 5,
+        "share": 0.0424
+      },
+      {
+        "topic": "Syllogism",
+        "section": "Reasoning",
+        "expected_count": 1,
+        "expected_count_exact": 1.007,
+        "ci90_low": 0,
+        "ci90_high": 4,
+        "share": 0.0403
+      },
+      {
+        "topic": "Non-Verbal Classification",
+        "section": "Reasoning",
+        "expected_count": 1,
+        "expected_count_exact": 0.828,
+        "ci90_low": 0,
+        "ci90_high": 5,
+        "share": 0.0331
+      },
+      {
+        "topic": "Blood Relations",
+        "section": "Reasoning",
+        "expected_count": 1,
+        "expected_count_exact": 0.695,
+        "ci90_low": 0,
+        "ci90_high": 4,
+        "share": 0.0278
+      },
+      {
+        "topic": "Non-Verbal Analogy",
+        "section": "Reasoning",
+        "expected_count": 1,
+        "expected_count_exact": 0.651,
+        "ci90_low": 0,
+        "ci90_high": 4,
+        "share": 0.026
+      },
+      {
+        "topic": "Dot Situation",
+        "section": "Reasoning",
+        "expected_count": 1,
+        "expected_count_exact": 0.636,
+        "ci90_low": 0,
+        "ci90_high": 4,
+        "share": 0.0254
+      },
+      {
+        "topic": "Figural Visuals",
+        "section": "Reasoning",
+        "expected_count": 1,
+        "expected_count_exact": 0.53,
+        "ci90_low": 0,
+        "ci90_high": 3,
+        "share": 0.0212
+      },
+      {
+        "topic": "Direction Sense",
+        "section": "Reasoning",
+        "expected_count": 0,
+        "expected_count_exact": 0.338,
+        "ci90_low": 0,
+        "ci90_high": 4,
+        "share": 0.0135
+      }
+    ]
+  },
+  "Numerical Ability": {
+    "section_total": 20,
+    "recency_gamma": 0.9,
+    "prior_lam": 1.0,
+    "n_years": 15,
+    "n_topics": 46,
+    "topics": [
+      {
+        "topic": "Profit & Loss",
+        "section": "Numerical Ability",
+        "expected_count": 3,
+        "expected_count_exact": 2.534,
+        "ci90_low": 0,
+        "ci90_high": 6,
+        "share": 0.1267
+      },
+      {
+        "topic": "Time, Speed & Dist.",
+        "section": "Numerical Ability",
+        "expected_count": 2,
+        "expected_count_exact": 2.297,
+        "ci90_low": 0,
+        "ci90_high": 6,
+        "share": 0.1148
+      },
+      {
+        "topic": "Simple/Compound Int.",
+        "section": "Numerical Ability",
+        "expected_count": 2,
+        "expected_count_exact": 2.167,
+        "ci90_low": 0,
+        "ci90_high": 6,
+        "share": 0.1084
+      },
+      {
+        "topic": "Time & Work",
+        "section": "Numerical Ability",
+        "expected_count": 2,
+        "expected_count_exact": 2.028,
+        "ci90_low": 0,
+        "ci90_high": 6,
+        "share": 0.1014
+      },
+      {
+        "topic": "Ratio & Proportion",
+        "section": "Numerical Ability",
+        "expected_count": 2,
+        "expected_count_exact": 1.872,
+        "ci90_low": 0,
+        "ci90_high": 5,
+        "share": 0.0936
+      },
+      {
+        "topic": "Average",
+        "section": "Numerical Ability",
+        "expected_count": 2,
+        "expected_count_exact": 1.759,
+        "ci90_low": 0,
+        "ci90_high": 6,
+        "share": 0.0879
+      },
+      {
+        "topic": "Percentage",
+        "section": "Numerical Ability",
+        "expected_count": 2,
+        "expected_count_exact": 1.669,
+        "ci90_low": 0,
+        "ci90_high": 5,
+        "share": 0.0835
+      },
+      {
+        "topic": "Simplification",
+        "section": "Numerical Ability",
+        "expected_count": 1,
+        "expected_count_exact": 0.995,
+        "ci90_low": 0,
+        "ci90_high": 4,
+        "share": 0.0497
+      },
+      {
+        "topic": "Mensuration",
+        "section": "Numerical Ability",
+        "expected_count": 1,
+        "expected_count_exact": 0.7,
+        "ci90_low": 0,
+        "ci90_high": 3,
+        "share": 0.035
+      },
+      {
+        "topic": "Number System",
+        "section": "Numerical Ability",
+        "expected_count": 1,
+        "expected_count_exact": 0.531,
+        "ci90_low": 0,
+        "ci90_high": 3,
+        "share": 0.0265
+      },
+      {
+        "topic": "Mixture & Alligation",
+        "section": "Numerical Ability",
+        "expected_count": 1,
+        "expected_count_exact": 0.527,
+        "ci90_low": 0,
+        "ci90_high": 3,
+        "share": 0.0264
+      },
+      {
+        "topic": "Algebra",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.42,
+        "ci90_low": 0,
+        "ci90_high": 2,
+        "share": 0.021
+      },
+      {
+        "topic": "Problems on Numbers",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.295,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.0147
+      },
+      {
+        "topic": "LCM & HCF",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.245,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.0122
+      },
+      {
+        "topic": "Mixtures and Alligations",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.205,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.0103
+      },
+      {
+        "topic": "Area & Perimeter",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.197,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.0098
+      },
+      {
+        "topic": "Statistics",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.191,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.0096
+      },
+      {
+        "topic": "Area",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.187,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.0094
+      },
+      {
+        "topic": "Probability",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.178,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.0089
+      },
+      {
+        "topic": "Number System (Probability)",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.098,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0049
+      },
+      {
+        "topic": "Boats & Streams",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.093,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.0046
+      },
+      {
+        "topic": "Boat and Stream",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.08,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.004
+      },
+      {
+        "topic": "Exponents and Powers",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.08,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.004
+      },
+      {
+        "topic": "Number System and Series",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.08,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.004
+      },
+      {
+        "topic": "Time Speed and Distance",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.08,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.004
+      },
+      {
+        "topic": "Clock Problems",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.073,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0036
+      },
+      {
+        "topic": "Mixtures & Alligations",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.065,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0032
+      },
+      {
+        "topic": "Statistics and Probability",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.044,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.0022
+      },
+      {
+        "topic": "Simplification (Algebra)",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.034,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0017
+      },
+      {
+        "topic": "Boat & Stream",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.032,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0016
+      },
+      {
+        "topic": "Clocks",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.032,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0016
+      },
+      {
+        "topic": "Direction Sense",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.032,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0016
+      },
+      {
+        "topic": "HCF & LCM",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.032,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0016
+      },
+      {
+        "topic": "Missing Number",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.032,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0016
+      },
+      {
+        "topic": "Speed, Distance & Time",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.032,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0016
+      },
+      {
+        "topic": "Fractions",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.023,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0011
+      },
+      {
+        "topic": "Linear Equations",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.023,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0011
+      },
+      {
+        "topic": "Problems on Trains",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.019,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.001
+      },
+      {
+        "topic": "Decimal Fractions",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.01,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0005
+      },
+      {
+        "topic": "LCM",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.01,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0005
+      },
+      {
+        "topic": "Decimals and Fractions",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.0,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0
+      },
+      {
+        "topic": "HCF and LCM",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.0,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0
+      },
+      {
+        "topic": "Mensuration - Area and Perimeter",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.0,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0
+      },
+      {
+        "topic": "Profit and Loss with Mixture",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.0,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0
+      },
+      {
+        "topic": "Rational Numbers",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.0,
+        "ci90_low": 0,
+        "ci90_high": 0,
+        "share": 0.0
+      },
+      {
+        "topic": "Train Problems",
+        "section": "Numerical Ability",
+        "expected_count": 0,
+        "expected_count_exact": 0.0,
+        "ci90_low": 0,
+        "ci90_high": 1,
+        "share": 0.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,1152 @@
+[
+  {
+    "q_num": 1,
+    "question_text": "Read the sentence to find out whether there is any grammatical error in it. The error, if any, will be part of the sentence. Spot the error from the given options.\nThe chairperson of the ethics committee, (a)/ as well as several senior advisors, were present (b)/ during the confidential deliberations that followed the inquiry. (c)/ No error (d)",
+    "options": {"A": "a", "B": "b", "C": "d", "D": "c"},
+    "correct_answer": "A",
+    "section": "Verbal Ability",
+    "topic": "Spotting Errors",
+    "difficulty": "hard",
+    "explanation": "The subject 'chairperson' is singular; 'as well as several senior advisors' is a parenthetical phrase that does not make the verb plural, so 'were' in part (b) should be 'was'."
+  },
+  {
+    "q_num": 2,
+    "question_text": "Select the option that best completes the analogy.\nCONSTITUTION : GOVERNANCE :: ________ : INTERPRETATION",
+    "options": {"A": "Lexicon", "B": "Archive", "C": "Canon", "D": "Grammar"},
+    "correct_answer": "D",
+    "section": "Verbal Ability",
+    "topic": "Verbal Analogy",
+    "difficulty": "medium",
+    "explanation": "A Constitution provides the framework for governance, just as Grammar provides the framework for (linguistic) interpretation."
+  },
+  {
+    "q_num": 3,
+    "question_text": "Select the correct one-word substitute for the given group of words.\nA remedy or solution believed to cure all diseases or resolve all problems.",
+    "options": {"A": "Palliative", "B": "Panacea", "C": "Succor", "D": "Elixir"},
+    "correct_answer": "B",
+    "section": "Verbal Ability",
+    "topic": "One Word Substitution",
+    "difficulty": "easy",
+    "explanation": "A 'Panacea' is a cure-all solution for every disease or problem."
+  },
+  {
+    "q_num": 4,
+    "question_text": "An idiom is given below, followed by four possible meanings. Select the option that best conveys the meaning of the idiom.\nTo throw the helve after the hatchet",
+    "options": {
+      "A": "To act impulsively without regard for long-term consequences",
+      "B": "To abandon a task midway due to excessive difficulty",
+      "C": "To worsen a situation by incurring further loss after an initial failure",
+      "D": "To escalate a dispute by responding with disproportionate force"
+    },
+    "correct_answer": "C",
+    "section": "Verbal Ability",
+    "topic": "Idioms & Phrases",
+    "difficulty": "hard",
+    "explanation": "The idiom means to compound a loss by giving up more after an initial setback, i.e., to worsen matters after a first failure."
+  },
+  {
+    "q_num": 5,
+    "question_text": "The following question consists of an incomplete sentence with a fixed beginning and a fixed ending. The middle portion of the sentence is divided into four parts labelled P, Q, R and S. These four parts are given in a jumbled order. Arrange P, Q, R and S in the correct sequence to form a meaningful and grammatically correct sentence. Choose the correct combination from the options given.\nTo address the reviewer's concerns,________________________________________________ coherence of the dissertation significantly.\nP) too many theoretical directions\nQ) the scholar revised two core arguments,\nR) simultaneously could weaken the overall\nS) yet acknowledged that pursuing",
+    "options": {"A": "R P Q S", "B": "S P R Q", "C": "P S R Q", "D": "Q S P R"},
+    "correct_answer": "D",
+    "section": "Verbal Ability",
+    "topic": "Para Jumbles",
+    "difficulty": "hard",
+    "explanation": "The logical flow is: the scholar revised two core arguments (Q), yet acknowledged that pursuing (S) too many theoretical directions (P) simultaneously could weaken the overall (R) coherence."
+  },
+  {
+    "q_num": 6,
+    "question_text": "In the following sentence, choose the option that expresses the antonym of the underlined word.\nThe narrative presents an archetypal hero whose journey conforms precisely to established mythic patterns rather than deviating into idiosyncratic or experimental forms of characterisation.",
+    "options": {"A": "fortuitous", "B": "anomalous", "C": "immutable", "D": "recondite"},
+    "correct_answer": "B",
+    "section": "Verbal Ability",
+    "topic": "Synonyms/Antonyms",
+    "difficulty": "hard",
+    "explanation": "'Archetypal' means conforming to an established pattern; 'anomalous' (deviating from the norm) is its antonym."
+  },
+  {
+    "q_num": 7,
+    "question_text": "In the following question, a complex sentence is given. Choose the option that best transforms it into a simple sentence without altering its meaning, logical emphasis, or syntactic correctness.\nThough the theoretical framework appeared robust, anomalies in empirical observations necessitated a reassessment of the underlying assumptions and methodological approach.",
+    "options": {
+      "A": "The theoretical framework appeared robust, but anomalies in empirical observations necessitated reassessment of the underlying assumptions and methodological approach.",
+      "B": "The theoretical framework appeared robust, and anomalies in empirical observations necessitated reassessment of the underlying assumptions and methodological approach.",
+      "C": "Robust theoretical framework notwithstanding, anomalies in empirical observations necessitated reassessment of the underlying assumptions and methodological approach.",
+      "D": "Appearing robust, anomalies in empirical observations necessitated reassessment of the underlying assumptions and methodological approach."
+    },
+    "correct_answer": "C",
+    "section": "Verbal Ability",
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "Options A and B are compound (not simple) sentences, and D creates a dangling modifier; C correctly reduces the concessive clause to a phrase, keeping it a simple sentence."
+  },
+  {
+    "q_num": 8,
+    "question_text": "Choose the option which best replaces the given group of words.\nThe practice of gaining advantage through flattery or excessive compliance",
+    "options": {"A": "Normativity", "B": "Sycophancy", "C": "Equivocation", "D": "Consequentialism"},
+    "correct_answer": "B",
+    "section": "Verbal Ability",
+    "topic": "One Word Substitution",
+    "difficulty": "easy",
+    "explanation": "'Sycophancy' means gaining advantage through flattery or excessive compliance."
+  },
+  {
+    "q_num": 9,
+    "question_text": "Select the best one word substitute for the given group of words.\nSomeone who demands strict compliance with rules even when it is unnecessary",
+    "options": {"A": "Martinet", "B": "Disciplinarian", "C": "Dogmatic", "D": "Iconoclast"},
+    "correct_answer": "A",
+    "section": "Verbal Ability",
+    "topic": "One Word Substitution",
+    "difficulty": "medium",
+    "explanation": "A 'Martinet' is a strict disciplinarian who insists on rigid adherence to rules even when unwarranted."
+  },
+  {
+    "q_num": 10,
+    "question_text": "The following question consists of an incomplete sentence. The missing part of the sentence has been split into four parts. All four parts are jumbled up and labelled P, Q, R, S. Arrange the jumbled parts of the sentence and find out which of the four combinations from the given options will correctly complete the sentence.\nPostcolonial literary criticism has repeatedly challenged the neutrality of narrative voice _______________________________________________ within texts long regarded as formally objective.\nP. revealing how stylistic transparency can function as ideological concealment\nQ. when imperial epistemologies are naturalised as universal experience\nR. through close attention to perspective, silence, and narrative authority\nS. rather than as an absence of mediation",
+    "options": {"A": "P – R – Q – S", "B": "Q – R – P – S", "C": "R – Q – P – S", "D": "R – P – S – Q"},
+    "correct_answer": "B",
+    "section": "Verbal Ability",
+    "topic": "Para Jumbles",
+    "difficulty": "hard",
+    "explanation": "The sequence Q-R-P-S logically links the criticism's method (through close attention...) to its purpose (revealing...) and contrasts it with the alternative reading (rather than...)."
+  },
+  {
+    "q_num": 11,
+    "question_text": "Read the sentence to find out whether there is any error in it. The error, if any, will be in one part of the sentence. Spot the error from the given options.\nThe analyst cautioned against excessive (A) reliance on anecdotal indicators masquerading (B) as statistically representative evidence. (C) No Error (D)",
+    "options": {"A": "(B)", "B": "(C)", "C": "(A)", "D": "(D)"},
+    "correct_answer": "D",
+    "section": "Verbal Ability",
+    "topic": "Spotting Errors",
+    "difficulty": "medium",
+    "explanation": "The sentence is grammatically correct throughout, so the answer is 'No Error'."
+  },
+  {
+    "q_num": 12,
+    "question_text": "Select the most appropriate homonyms to complete the sentence.\n______ the researcher went _____ a _____ review, she deliberately _____the outdated assumptions aside.",
+    "options": {
+      "A": "Though /through / thorough / threw",
+      "B": "Through / thorough /threw / though",
+      "C": "Thorough / threw / though / through",
+      "D": "Threw / though / through / thorough"
+    },
+    "correct_answer": "A",
+    "section": "Verbal Ability",
+    "topic": "Fill in the Blanks",
+    "difficulty": "medium",
+    "explanation": "'Though' (concession), 'through' (a review), 'thorough' (careful review), 'threw' (past tense of throw aside) correctly fits the sentence's four blanks in order."
+  },
+  {
+    "q_num": 13,
+    "question_text": "An idiom is given below, followed by four possible meanings. Select the option that best conveys the meaning of the idiom.\nTo ride on Shank's mare",
+    "options": {
+      "A": "To move independently without external support",
+      "B": "To undertake a journey without adequate preparation",
+      "C": "To rely on personal effort rather than material resources",
+      "D": "To travel on foot"
+    },
+    "correct_answer": "D",
+    "section": "Verbal Ability",
+    "topic": "Idioms & Phrases",
+    "difficulty": "medium",
+    "explanation": "'To ride on Shank's mare' is an idiom meaning to walk/travel on foot."
+  },
+  {
+    "q_num": 14,
+    "question_text": "Read the sentence carefully and choose the option that best completes both blanks. Only one option fits the intended evaluative meaning in both blanks.\nIn the final review the panel deliberately avoided ______ language while offering ______ criticism so that the assessment conveyed intellectual rigour without appearing dismissive or ideologically entrenched to external evaluators.",
+    "options": {
+      "A": "caustic / superficial",
+      "B": "equivocal / judicious",
+      "C": "acerbic / restrained",
+      "D": "trenchant / measured"
+    },
+    "correct_answer": "D",
+    "section": "Verbal Ability",
+    "topic": "Fill in the Blanks",
+    "difficulty": "hard",
+    "explanation": "'Trenchant' (sharp/incisive) language was avoided while 'measured' (balanced, restrained) criticism was offered, fitting the intended evaluative tone of rigour without dismissiveness."
+  },
+  {
+    "q_num": 15,
+    "question_text": "Read the sentence carefully to find out whether there is any grammatical error in it. The error, if any, will be in one part of the sentence. Spot the error from the given options.\nThe supervisor disapproved of the researcher submitting sensitive data (a)/ without proper authorisation (b)/ during the preliminary phase of the study. (c)/ no error (d)/",
+    "options": {"A": "c", "B": "d", "C": "b", "D": "a"},
+    "correct_answer": "D",
+    "section": "Verbal Ability",
+    "topic": "Spotting Errors",
+    "difficulty": "hard",
+    "explanation": "The correct possessive form should be 'the researcher's submitting' (gerund with possessive), making part (a) the error."
+  },
+  {
+    "q_num": 16,
+    "question_text": "In the following question, out of the given alternatives, choose the best one which expresses the synonym of the underlined word.\nThe tribunal dismissed the preliminary indictment after the emergence of exculpatory evidence, whose probative force effectively dismantled the prosecution's circumstantial narrative and undermined its inferential coherence.",
+    "options": {"A": "Tendentious", "B": "Premonitory", "C": "Duplicitous", "D": "Exonerative"},
+    "correct_answer": "D",
+    "section": "Verbal Ability",
+    "topic": "Synonyms/Antonyms",
+    "difficulty": "hard",
+    "explanation": "'Exculpatory' means clearing someone of blame, which is synonymous with 'Exonerative'."
+  },
+  {
+    "q_num": 17,
+    "question_text": "Read the sentence carefully and fill in the blanks with the most appropriate words. Only one option correctly completes both blanks.\nThe committee objected to the ______ of critical data during peer review, arguing that such ______ compromised transparency and academic integrity across institutions.",
+    "options": {
+      "A": "researcher's withholding / behaviour",
+      "B": "researchers withholding / behaviours",
+      "C": "researcher's withhold / behaviour",
+      "D": "researcher withholding / behaviour"
+    },
+    "correct_answer": "A",
+    "section": "Verbal Ability",
+    "topic": "Fill in the Blanks",
+    "difficulty": "hard",
+    "explanation": "The possessive gerund construction 'researcher's withholding' and the singular noun 'behaviour' correctly complete the sentence."
+  },
+  {
+    "q_num": 18,
+    "question_text": "The following question consists of an incomplete sentence. The missing part of the sentence has been split into four parts. All four parts are jumbled up and labelled P, Q, R, S. Arrange the jumbled parts of the sentence and find out which of the four combinations from the given options will correctly complete the sentence.\nIn policy debates on artificial intelligence, ethical oversight is frequently invoked ______________________________________ that lack both enforcement authority and democratic accountability.\nP. as a compensatory gesture for rapid technological deployment\nQ. that remains largely procedural rather than substantively transformative\nR. allowing innovation to proceed without structural restraint\nS. while responsibility is dispersed across advisory frameworks",
+    "options": {"A": "S – P – Q – R", "B": "Q – P – S – R", "C": "P – Q – S – R", "D": "P – S – R – Q"},
+    "correct_answer": "C",
+    "section": "Verbal Ability",
+    "topic": "Para Jumbles",
+    "difficulty": "hard",
+    "explanation": "The order P-Q-S-R correctly links oversight being invoked as a gesture (P) that remains procedural (Q) while responsibility disperses (S), allowing innovation to proceed unchecked (R)."
+  },
+  {
+    "q_num": 19,
+    "question_text": "In the following sentence, a phrase has been underlined. You are required to replace it with the most appropriate idiom.\nExcessive justification in the report threatened entirely to spoil what was already attractive during the final evaluation process.",
+    "options": {
+      "A": "to drop like flies",
+      "B": "to sour the grapes",
+      "C": "to throw the baby out with the bathwater",
+      "D": "to take the gilt off the gingerbread"
+    },
+    "correct_answer": "D",
+    "section": "Verbal Ability",
+    "topic": "Idioms & Phrases",
+    "difficulty": "medium",
+    "explanation": "'To take the gilt off the gingerbread' means to spoil or diminish something that was previously attractive."
+  },
+  {
+    "q_num": 20,
+    "question_text": "Read the sentence carefully and choose the option that best completes both blanks. Only one option results in grammatically correct subject verb concord throughout.\nAn understanding of how competing theoretical paradigms intersect, rather than their individual merits alone, ______ shaped the committee's evaluation and ______ decisive in determining the final recommendation.",
+    "options": {"A": "has / was", "B": "have / were", "C": "have / was", "D": "has / were"},
+    "correct_answer": "A",
+    "section": "Verbal Ability",
+    "topic": "Grammar",
+    "difficulty": "hard",
+    "explanation": "The singular subject 'An understanding' requires singular verbs throughout: 'has' and 'was'."
+  },
+  {
+    "q_num": 21,
+    "question_text": "Choose the option that correctly transforms the given complex sentence into a simple sentence without changing its meaning.\nWhen the researcher realised that the data were inconsistent, she revised the analytical framework.",
+    "options": {
+      "A": "The researcher revised the analytical framework as the data had been inconsistent.",
+      "B": "The researcher revised the analytical framework because the data were inconsistent.",
+      "C": "On realising the inconsistency of the data, the researcher revised the analytical framework.",
+      "D": "The researcher revised the analytical framework while realising the data inconsistency."
+    },
+    "correct_answer": "C",
+    "section": "Verbal Ability",
+    "topic": "Grammar",
+    "difficulty": "medium",
+    "explanation": "Option C correctly reduces the subordinate clause to a participial phrase, forming a grammatically correct simple sentence with the same meaning."
+  },
+  {
+    "q_num": 22,
+    "question_text": "In the following sentence, choose the option that expresses the antonym of the underlined word.\nThe researcher responded with notable alacrity to methodological criticism, demonstrating an eagerness that contrasted sharply with the usual deliberative pace of academic revision.",
+    "options": {"A": "disinclination", "B": "buoyancy", "C": "exuberance", "D": "amelioration"},
+    "correct_answer": "A",
+    "section": "Verbal Ability",
+    "topic": "Synonyms/Antonyms",
+    "difficulty": "hard",
+    "explanation": "'Alacrity' means eager readiness; its antonym is 'disinclination' (reluctance)."
+  },
+  {
+    "q_num": 23,
+    "question_text": "Read the sentence carefully and choose the option that best completes both blanks. Only one option correctly completes the sentence.\nManagers ____________criticism but decide to _________training programs so teams improve performance, resilience, morale, and accountability across departments during rapid organisational change.",
+    "options": {
+      "A": "bristle among / beef between",
+      "B": "bristle at / beef up",
+      "C": "bristle in / beef upto",
+      "D": "bristle on / beef on"
+    },
+    "correct_answer": "B",
+    "section": "Verbal Ability",
+    "topic": "Fill in the Blanks",
+    "difficulty": "medium",
+    "explanation": "The correct phrasal verb collocations are 'bristle at' (react defensively to) and 'beef up' (strengthen)."
+  },
+  {
+    "q_num": 24,
+    "question_text": "Choose the most appropriate one-word substitute for the given phrase from the options provided.\nStudy of election trends",
+    "options": {"A": "phraseology", "B": "pyrology", "C": "posology", "D": "psephology"},
+    "correct_answer": "D",
+    "section": "Verbal Ability",
+    "topic": "One Word Substitution",
+    "difficulty": "medium",
+    "explanation": "'Psephology' is the study of elections and voting trends."
+  },
+  {
+    "q_num": 25,
+    "question_text": "Comprehension: In the following passage, some words have been deleted. Fill in the blanks with the most appropriate word from the options given for each number.\nColonial administrations often __________ (1) indigenous customs, imposing foreign ideologies that __________ (2) existing social structures. These policies frequently __________ (3) nationalist movements, leaving enduring legacies of both resistance and adaptation throughout the subcontinent's complex historical landscape, affecting generations in cultural, political, and social spheres.\nSelect the most appropriate option to fill in blank (1).",
+    "options": {"A": "valorized", "B": "subverted", "C": "extolled", "D": "perpetuated"},
+    "correct_answer": "B",
+    "section": "Verbal Ability",
+    "topic": "Cloze Test",
+    "difficulty": "medium",
+    "explanation": "'Subverted' fits the negative connotation of colonial administrations undermining indigenous customs."
+  },
+  {
+    "q_num": 26,
+    "question_text": "Comprehension: In the following passage, some words have been deleted. Fill in the blanks with the most appropriate word from the options given for each number.\nColonial administrations often __________ (1) indigenous customs, imposing foreign ideologies that __________ (2) existing social structures. These policies frequently __________ (3) nationalist movements, leaving enduring legacies of both resistance and adaptation throughout the subcontinent's complex historical landscape, affecting generations in cultural, political, and social spheres.\nSelect the most appropriate option to fill in blank (2).",
+    "options": {"A": "dislocated", "B": "enshrined", "C": "fortified", "D": "accentuated"},
+    "correct_answer": "A",
+    "section": "Verbal Ability",
+    "topic": "Cloze Test",
+    "difficulty": "medium",
+    "explanation": "'Dislocated' fits the sense of foreign ideologies disrupting existing social structures."
+  },
+  {
+    "q_num": 27,
+    "question_text": "Comprehension: In the following passage, some words have been deleted. Fill in the blanks with the most appropriate word from the options given for each number.\nColonial administrations often __________ (1) indigenous customs, imposing foreign ideologies that __________ (2) existing social structures. These policies frequently __________ (3) nationalist movements, leaving enduring legacies of both resistance and adaptation throughout the subcontinent's complex historical landscape, affecting generations in cultural, political, and social spheres.\nSelect the most appropriate option to fill in blank (3).",
+    "options": {"A": "obliterated", "B": "mollified", "C": "engendered", "D": "obviated"},
+    "correct_answer": "C",
+    "section": "Verbal Ability",
+    "topic": "Cloze Test",
+    "difficulty": "medium",
+    "explanation": "'Engendered' fits the sense of colonial policies giving rise to nationalist movements."
+  },
+  {
+    "q_num": 28,
+    "question_text": "Comprehension: Read the given passage carefully and answer the questions that follow (passage on Confidence and Determination). Two statements labelled Assertion (A) and Reason (R) are given below. Read the statements carefully and select the correct option.\nAssertion (A): Confidence, as described in the passage, is compatible with the presence of doubt rather than dependent on its elimination.\nReason (R): Confidence is presented as a regulated form of self-judgment that enables action even when certainty is incomplete.",
+    "options": {
+      "A": "A is true, but R is false.",
+      "B": "Both A and R are true, and R is the correct explanation of A.",
+      "C": "Both A and R are true, but R is not the correct explanation of A.",
+      "D": "A is false, but R is true."
+    },
+    "correct_answer": "B",
+    "section": "Verbal Ability",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "explanation": "The passage states confidence arises from disciplined judgment despite doubt, directly explaining why confidence is compatible with doubt rather than its absence."
+  },
+  {
+    "q_num": 29,
+    "question_text": "Comprehension: Read the given passage carefully and answer the questions that follow (passage on Confidence and Determination). How do confidence and determination function together within the framework outlined in the passage?",
+    "options": {
+      "A": "By eliminating uncertainty through repeated affirmation",
+      "B": "By balancing initiation of action with sustained endurance",
+      "C": "By ensuring success through disciplined persistence",
+      "D": "By prioritizing emotional assurance over reflective judgment"
+    },
+    "correct_answer": "B",
+    "section": "Verbal Ability",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "explanation": "The passage states confidence enables initiation while determination secures continuation, i.e., a balance of initiating action and sustaining endurance."
+  },
+  {
+    "q_num": 30,
+    "question_text": "Comprehension: Read the given passage carefully and answer the questions that follow (passage on Confidence and Determination). Why does the passage reject the idea that confidence and determination inherently guarantee success?",
+    "options": {
+      "A": "Because failure is described as irrelevant to personal development",
+      "B": "Because success is portrayed as structurally inaccessible in most contexts",
+      "C": "Because perseverance is shown to undermine adaptive judgment",
+      "D": "Because both qualities are framed as situational and ethically constrained practices"
+    },
+    "correct_answer": "D",
+    "section": "Verbal Ability",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "explanation": "The passage frames confidence and determination as ethically charged, continuously enacted practices rather than guarantees of success."
+  },
+  {
+    "q_num": 31,
+    "question_text": "With reference to Flying Officer Nirmal Jit Singh Sekhon and the Param Vir Chakra, consider the following statements.\n1. He was the first individual from the Indian Air Force to be awarded India's highest gallantry award, the Param Vir Chakra.\n2. The Param Vir Chakra is octagonal in shape, made of silver, and bears a single Vajra with the Ashoka Chakra embossed at the centre.\nWhich of the statements given above is/are correct?",
+    "options": {"A": "Neither 1 nor 2", "B": "1 only", "C": "2 only", "D": "Both 1 and 2"},
+    "correct_answer": "B",
+    "section": "General Awareness",
+    "topic": "Defence",
+    "difficulty": "hard",
+    "explanation": "Flying Officer Sekhon was indeed the first IAF recipient of the Param Vir Chakra; however, the medal is circular (not octagonal) and made of bronze, so statement 2 is incorrect."
+  },
+  {
+    "q_num": 32,
+    "question_text": "The Sumi tribe's energetic war dance, performed to celebrate victory in battle, and the Lotha women's Mungyanta harvest dance, performed during the Tokhu Emong festival, are mainly associated with which Indian state?",
+    "options": {"A": "Arunachal Pradesh", "B": "Mizoram", "C": "Odisha", "D": "Nagaland"},
+    "correct_answer": "D",
+    "section": "General Awareness",
+    "topic": "Art & Culture",
+    "difficulty": "medium",
+    "explanation": "The Sumi and Lotha tribes, along with the Tokhu Emong festival, are associated with Nagaland."
+  },
+  {
+    "q_num": 33,
+    "question_text": "Which of the following is the primary function of AILA, the AI agent introduced by IIT (Indian Institute of Technology) Delhi in 2025?",
+    "options": {
+      "A": "Carrying out scientific experiments from start to finish, much like a human scientist",
+      "B": "Automating daily class schedule, routine laboratory maintenance, and equipment handling",
+      "C": "Assisting researchers with literature review and data collection",
+      "D": "Simulating virtual experiments without physical laboratory involvement"
+    },
+    "correct_answer": "A",
+    "section": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "hard",
+    "explanation": "AILA, introduced by IIT Delhi in 2025, is designed to autonomously carry out full scientific experiments, similar to a human scientist."
+  },
+  {
+    "q_num": 34,
+    "question_text": "With reference to Aero India, Asia's Largest Air Show, consider the following statements.\n1. Aero India is an annual air show and aviation exhibition held in Bengaluru and is organised by the Defence Exhibition Organisation under the Department of Defence Production, Ministry of Defence.\n2. Aero India 2025, the 15th edition of the event, had a broad theme, \"The Runway to a Billion Opportunities\".\nWhich of the statements given above is/are correct?",
+    "options": {"A": "2 only", "B": "Both 1 and 2", "C": "1 only", "D": "Neither 1 nor 2"},
+    "correct_answer": "A",
+    "section": "General Awareness",
+    "topic": "Defence",
+    "difficulty": "hard",
+    "explanation": "Aero India is biennial, not annual, so statement 1 is incorrect; statement 2 about the theme is correct."
+  },
+  {
+    "q_num": 35,
+    "question_text": "\"Layup\" and \"Three-point shot\" are terms commonly associated with which of the following sports?",
+    "options": {"A": "Basketball", "B": "Ice Hockey", "C": "Volleyball", "D": "Futsal"},
+    "correct_answer": "A",
+    "section": "General Awareness",
+    "topic": "Sports",
+    "difficulty": "easy",
+    "explanation": "'Layup' and 'Three-point shot' are standard basketball terms."
+  },
+  {
+    "q_num": 36,
+    "question_text": "Siliserh Lake, which has been designated as a Ramsar site and recognised as India's 96th wetland of international importance, is located in which State?",
+    "options": {"A": "Rajasthan", "B": "Madhya Pradesh", "C": "Gujarat", "D": "Haryana"},
+    "correct_answer": "A",
+    "section": "General Awareness",
+    "topic": "Geography (India)",
+    "difficulty": "medium",
+    "explanation": "Siliserh Lake is located in Alwar, Rajasthan."
+  },
+  {
+    "q_num": 37,
+    "question_text": "The battle of Stalingrad was famously associated with which of the following events?",
+    "options": {"A": "Cold War", "B": "World War II", "C": "French Revolution", "D": "Russian Revolution"},
+    "correct_answer": "B",
+    "section": "General Awareness",
+    "topic": "History (Modern)",
+    "difficulty": "easy",
+    "explanation": "The Battle of Stalingrad (1942-43) was a major turning-point battle of World War II."
+  },
+  {
+    "q_num": 38,
+    "question_text": "Which of the following is a cartilaginous organ in the human body that helps in sound production and hence called the sound box?",
+    "options": {"A": "Bronchioles", "B": "Pharynx", "C": "Larynx", "D": "Epiglottis"},
+    "correct_answer": "C",
+    "section": "General Awareness",
+    "topic": "General Science",
+    "difficulty": "easy",
+    "explanation": "The Larynx, also called the voice box or sound box, produces sound via the vocal cords."
+  },
+  {
+    "q_num": 39,
+    "question_text": "The 22nd ASEAN–India Summit held in 2025 declared the year 2026 as which of the following?",
+    "options": {
+      "A": "The ASEAN-India Year of Economic Collaboration",
+      "B": "The ASEAN-India Year of Digital Connectivity",
+      "C": "The ASEAN-India Year of Cultural Engagement",
+      "D": "The ASEAN-India Year of Maritime Cooperation"
+    },
+    "correct_answer": "D",
+    "section": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "hard",
+    "explanation": "The 22nd ASEAN-India Summit (2025) declared 2026 as the ASEAN-India Year of Maritime Cooperation."
+  },
+  {
+    "q_num": 40,
+    "question_text": "Which institution set up in 1990 under an Act of the Indian Parliament, acts as the principal financial institution for promotion, financing and development of the Micro, Small and Medium Enterprise (MSME) sector?",
+    "options": {
+      "A": "Small Industries Development Bank of India",
+      "B": "National Bank For Agriculture And Rural Development",
+      "C": "Industrial Development Bank of India",
+      "D": "Small Industries Credit and Investment Corporation of India Ltd"
+    },
+    "correct_answer": "A",
+    "section": "General Awareness",
+    "topic": "Economy",
+    "difficulty": "medium",
+    "explanation": "SIDBI (Small Industries Development Bank of India), set up in 1990, is the apex financial institution for MSMEs."
+  },
+  {
+    "q_num": 41,
+    "question_text": "What are the regions called that lie between the Tropic of Cancer and the Arctic Circle in the Northern Hemisphere, and between the Tropic of Capricorn and the Antarctic Circle in the Southern Hemisphere?",
+    "options": {"A": "Temperate Zones", "B": "Equatorial Zones", "C": "Frigid Zones", "D": "Torrid Zones"},
+    "correct_answer": "A",
+    "section": "General Awareness",
+    "topic": "Geography (World)",
+    "difficulty": "easy",
+    "explanation": "These mid-latitude regions are known as the Temperate Zones."
+  },
+  {
+    "q_num": 42,
+    "question_text": "Which of the following ocean relief features has pointed summits that rise from the seafloor but do not reach the ocean's surface, often attaining heights of 3,000–4,500 metres?",
+    "options": {"A": "Continental shelf", "B": "Seamount", "C": "Mid-oceanic ridge", "D": "Guyot"},
+    "correct_answer": "B",
+    "section": "General Awareness",
+    "topic": "Geography (World)",
+    "difficulty": "medium",
+    "explanation": "A Seamount is an underwater mountain with a pointed summit that does not reach the ocean's surface."
+  },
+  {
+    "q_num": 43,
+    "question_text": "With reference to India's legacy in United Nations peacekeeping operations, consider the following statements.\n1. The term Blue Helmets for UN peacekeepers is derived from the light blue colour of the United Nations flag.\n2. In 2023, the Dag Hammarskjöld Medal was posthumously awarded to Indian peacekeepers Shishupal Singh and Sanwala Ram Vishnoi, and civilian UN worker Shaber Taher Ali for their sacrifice in the Democratic Republic of the Congo.\n3. Major Radhika Sen was named the UN's \"Military Gender Advocate of the Year 2023\".\nWhich of the statements given above are correct?",
+    "options": {"A": "1 and 2 only", "B": "2 and 3 only", "C": "1, 2 and 3", "D": "1 and 3 only"},
+    "correct_answer": "C",
+    "section": "General Awareness",
+    "topic": "Defence",
+    "difficulty": "hard",
+    "explanation": "All three statements are correct regarding India's UN peacekeeping legacy."
+  },
+  {
+    "q_num": 44,
+    "question_text": "Which famous sports personality was awarded the Laureus World Comeback of the Year award in 2025?",
+    "options": {"A": "Rebeca Andrade", "B": "Sky Brown", "C": "Max Parrot", "D": "Christian Eriksen"},
+    "correct_answer": "A",
+    "section": "General Awareness",
+    "topic": "Awards",
+    "difficulty": "hard",
+    "explanation": "Brazilian gymnast Rebeca Andrade won the Laureus World Comeback of the Year award in 2025."
+  },
+  {
+    "q_num": 45,
+    "question_text": "Match List-I (Air Exercise) with List-II (Participating Countries) and select the correct option.\nList-I (Air Exercise) List-II (Participating Countries)\n(A) Exercise Indradhanush (I) India and Japan\n(B) Exercise Desert Knight (II) India and Oman\n(C) Exercise Eastern Bridge (III) India and United Kingdom\n(D) Exercise Veer Guardian (IV) India, France and United Arab Emirates",
+    "options": {
+      "A": "A- I B- IV C- III D- II",
+      "B": "A- III B- II C- IV D- I",
+      "C": "A- III B- IV C- II D- I",
+      "D": "A- IV B- III C- I D- II"
+    },
+    "correct_answer": "C",
+    "section": "General Awareness",
+    "topic": "Defence",
+    "difficulty": "hard",
+    "explanation": "Indradhanush is with UK (III), Desert Knight is with France/UAE (IV), Eastern Bridge is with Oman (II), and Veer Guardian is with Japan (I)."
+  },
+  {
+    "q_num": 46,
+    "question_text": "Consider the following statements about the Rowlatt Satyagraha.\n(1) The Rowlatt Act authorized the British Government to arrest and imprison any Indian without trial.\n(2) In April 1917, Gandhiji gave a call for a satyagraha against the Rowlatt Act.\nWhich of the above given statements is/are correct?",
+    "options": {"A": "2 only", "B": "1 only", "C": "Neither 1 nor 2", "D": "Both 1 and 2"},
+    "correct_answer": "B",
+    "section": "General Awareness",
+    "topic": "History (Modern)",
+    "difficulty": "medium",
+    "explanation": "Statement 1 is correct; however, Gandhiji's call for satyagraha against the Rowlatt Act was in 1919, not April 1917, making statement 2 incorrect."
+  },
+  {
+    "q_num": 47,
+    "question_text": "How does the Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India (SHANTI) Bill, 2025, affect the involvement of private sector in India's nuclear industry?",
+    "options": {
+      "A": "Enables limited private participation under regulatory oversight",
+      "B": "Authorises private firms to control all strategic nuclear assets for modernisation",
+      "C": "Strictly maintains Government monopoly without exceptions",
+      "D": "Permits private companies to independently undertake the full nuclear fuel-cycle, including enrichment, reprocessing, and waste management"
+    },
+    "correct_answer": "A",
+    "section": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "hard",
+    "explanation": "The SHANTI Bill, 2025, allows limited private sector participation in India's nuclear industry under continued government regulatory oversight."
+  },
+  {
+    "q_num": 48,
+    "question_text": "Which Indian Navy vessel, an indigenously built traditional stitched sailing ship, undertook its maiden overseas voyage from Porbandar to Muscat in December 2025 to revive and celebrate India's ancient maritime heritage?",
+    "options": {
+      "A": "Indian Naval Sailing Vessel Tarangini",
+      "B": "Indian Naval Sailing Vessel Mhadei",
+      "C": "Indian Naval Sailing Vessel Sudarshini",
+      "D": "Indian Naval Sailing Vessel Kaundinya"
+    },
+    "correct_answer": "D",
+    "section": "General Awareness",
+    "topic": "Defence",
+    "difficulty": "hard",
+    "explanation": "INSV Kaundinya, a traditional stitched-hull ship, made its maiden overseas voyage from Porbandar to Muscat in December 2025."
+  },
+  {
+    "q_num": 49,
+    "question_text": "World Polio Day is observed every year on October 24 to raise awareness about polio eradication. Which theme was selected for World Polio Day in 2025?",
+    "options": {
+      "A": "End Polio: Every Child, Every Vaccine, Everywhere",
+      "B": "Eradicate Polio: Polio Free Future for All Families",
+      "C": "A Global Mission to Reach Every Child",
+      "D": "Vaccinate to Protect Every Generation"
+    },
+    "correct_answer": "A",
+    "section": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "hard",
+    "explanation": "The World Polio Day 2025 theme was 'End Polio: Every Child, Every Vaccine, Everywhere'."
+  },
+  {
+    "q_num": 50,
+    "question_text": "In the context of India's maritime capability development, consider the following statements regarding Indian Coast Guard Ship (ICGS) Samudra Pratap.\n1. ICGS Samudra Pratap is India's first indigenously designed pollution control vessel, with more than 60% indigenous content.\n2. It is the largest ship in the Indian Coast Guard fleet and was built by Goa Shipyard Limited.\nWhich of the statements given above is/are correct?",
+    "options": {"A": "2 only", "B": "Both 1 and 2", "C": "1 only", "D": "Neither 1 nor 2"},
+    "correct_answer": "B",
+    "section": "General Awareness",
+    "topic": "Defence",
+    "difficulty": "hard",
+    "explanation": "Both statements about ICGS Samudra Pratap are correct."
+  },
+  {
+    "q_num": 51,
+    "question_text": "In August 2025, a former Governor of the Reserve Bank of India was appointed as an Executive Director at the International Monetary Fund for a three-year term. Identify the person among the following.",
+    "options": {"A": "Raghuram Rajan", "B": "Urjit Patel", "C": "Shaktikanta Das", "D": "Viral Acharya"},
+    "correct_answer": "B",
+    "section": "General Awareness",
+    "topic": "Personalities",
+    "difficulty": "hard",
+    "explanation": "Former RBI Governor Urjit Patel was appointed as an Executive Director at the IMF in August 2025."
+  },
+  {
+    "q_num": 52,
+    "question_text": "In January 2026, Bulgaria became the 21st member of the eurozone. Which of the following European Union countries have NOT adopted the euro by January 2026?",
+    "options": {
+      "A": "Poland, Czech Republic, Hungary",
+      "B": "Slovenia, Slovakia, Croatia",
+      "C": "Slovenia, Latvia, Estonia",
+      "D": "Lithuania, Austria, Belgium"
+    },
+    "correct_answer": "A",
+    "section": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "medium",
+    "explanation": "Poland, Czech Republic, and Hungary remain non-eurozone EU countries as of January 2026, while the other listed groups have already adopted the euro."
+  },
+  {
+    "q_num": 53,
+    "question_text": "In December 2025, during a ceremony at Rashtrapati Bhavan, the President of India released a new edition of the Constitution written in the Ol Chiki script. In which language was this edition of the Constitution published?",
+    "options": {"A": "Santhali", "B": "Bodo", "C": "Dogri", "D": "Konkani"},
+    "correct_answer": "A",
+    "section": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "medium",
+    "explanation": "Ol Chiki is the script used for the Santhali language, in which this new Constitution edition was published."
+  },
+  {
+    "q_num": 54,
+    "question_text": "Select the correct option based on the given Assertion (A) and Reason (R).\nAssertion (A): The 43rd Constitutional Amendment Act introduced the concept of Fundamental Duties into the Indian Constitution.\nReason (R): Fundamental Duties were added to promote responsible citizenship and encourage individuals to contribute to national development.",
+    "options": {
+      "A": "A is false but R is true.",
+      "B": "Both A and R are true, and R is the correct explanation of A.",
+      "C": "Both A and R are true, but R is not the correct explanation of A.",
+      "D": "A is true but R is false."
+    },
+    "correct_answer": "A",
+    "section": "General Awareness",
+    "topic": "Indian Polity",
+    "difficulty": "medium",
+    "explanation": "Fundamental Duties were introduced by the 42nd Constitutional Amendment Act (1976), not the 43rd, making Assertion A false; Reason R about their purpose is true."
+  },
+  {
+    "q_num": 55,
+    "question_text": "Which two states secured the top two ranks at the Sixth National Water Awards in 2025?",
+    "options": {
+      "A": "Maharashtra and Gujarat",
+      "B": "Uttar Pradesh and Kerala",
+      "C": "Gujarat and Rajasthan",
+      "D": "Maharashtra and Rajasthan"
+    },
+    "correct_answer": "A",
+    "section": "General Awareness",
+    "topic": "Awards",
+    "difficulty": "hard",
+    "explanation": "Maharashtra and Gujarat secured the top two ranks at the Sixth National Water Awards, 2025."
+  },
+  {
+    "q_num": 56,
+    "question_text": "The simplified form of (6^-1 × √216)^4 / 1296 is:",
+    "options": {"A": "1/6", "B": "1/36", "C": "1/1296", "D": "1/216"},
+    "correct_answer": "B",
+    "section": "Numerical Ability",
+    "topic": "Simplification",
+    "difficulty": "medium",
+    "explanation": "6^-1 × √216 = 6^-1 × 6√6 = √6; (√6)^4 = 36; 36/1296 = 1/36."
+  },
+  {
+    "q_num": 57,
+    "question_text": "A car covers a distance of 750 km at a constant speed. Had the car increased the speed by 10 kmph, it would have taken 2.5 hours less to cover the same distance. Find the original speed of the car.",
+    "options": {"A": "40 kmph", "B": "75 kmph", "C": "50 kmph", "D": "60 kmph"},
+    "correct_answer": "C",
+    "section": "Numerical Ability",
+    "topic": "Time, Speed & Dist.",
+    "difficulty": "medium",
+    "explanation": "Solving 750/s − 750/(s+10) = 2.5 gives s = 50 kmph."
+  },
+  {
+    "q_num": 58,
+    "question_text": "Mehul buys an antique vase for ₹4,800. He sells it to Raghav at a loss of 20%. Raghav repairs it for ₹600 and then sells it to Farhan at a profit of 25% on his total cost. What is the final selling price?",
+    "options": {"A": "₹5,250", "B": "₹5,600", "C": "₹5,550", "D": "₹5,680"},
+    "correct_answer": "C",
+    "section": "Numerical Ability",
+    "topic": "Profit & Loss",
+    "difficulty": "medium",
+    "explanation": "Selling price to Raghav = 4800×0.8 = 3840; total cost = 3840+600 = 4440; final SP = 4440×1.25 = 5550."
+  },
+  {
+    "q_num": 59,
+    "question_text": "If 12 workers can build a wall in 15 days, working 6 hours per day, then in how many days can 10 workers build two such walls, if they work for 4 hours per day?",
+    "options": {"A": "54 days", "B": "52 days", "C": "27 days", "D": "26 days"},
+    "correct_answer": "A",
+    "section": "Numerical Ability",
+    "topic": "Time & Work",
+    "difficulty": "medium",
+    "explanation": "Using M1D1H1/W1 = M2D2H2/W2: (12×15×6)/1 = (10×D×4)/2, solving gives D = 54 days."
+  },
+  {
+    "q_num": 60,
+    "question_text": "A bakery sources flour from two mills; one supplies flour with 2% impurity, and the other with 8%. After mixing flour from both mills, the combined impurity rate is found to be 6.5%. What percentage of the total mixture of the flour came from the second mill?",
+    "options": {"A": "25%", "B": "78%", "C": "75%", "D": "22%"},
+    "correct_answer": "C",
+    "section": "Numerical Ability",
+    "topic": "Mixture & Alligation",
+    "difficulty": "medium",
+    "explanation": "Using alligation: ratio of mill1:mill2 = (8-6.5):(6.5-2) = 1.5:4.5 = 1:3, so second mill's share = 3/4 = 75%."
+  },
+  {
+    "q_num": 61,
+    "question_text": "A mixture of two sugar solutions contains 26% sugar in the first solution and 60% sugar in the second solution. The overall sugar concentration in the mixture is 43%. If 150 liters of the mixture is prepared, what is the quantity (in liters) of the second solution used? If the sugar concentration of the mixture was 55%, what would have been the quantity (in liters) of the second sugar solution in the mixture? (Round off your answer to the nearest integer.)",
+    "options": {"A": "75, 118", "B": "75, 128", "C": "72, 118", "D": "72, 128"},
+    "correct_answer": "B",
+    "section": "Numerical Ability",
+    "topic": "Mixture & Alligation",
+    "difficulty": "hard",
+    "explanation": "Using alligation for 43% mix: ratio 1:1, giving 75 L; for 55% mix, the ratio changes giving approximately 128 L for the second solution."
+  },
+  {
+    "q_num": 62,
+    "question_text": "A researcher has a median \"p\" for the data set 15, 12, 14, 28, 16, 28, 32, 36, 13, 12, 34, 39. If the 16 is replaced by 19, and 13 by 31 in the above data set, then the median of the resulting data set is \"q\". The arithmetic mean of \"p\" and \"q\" is:",
+    "options": {"A": "28", "B": "25", "C": "56", "D": "50"},
+    "correct_answer": "B",
+    "section": "Numerical Ability",
+    "topic": "Statistics",
+    "difficulty": "hard",
+    "explanation": "The original median p and the new median q after replacement average to 25."
+  },
+  {
+    "q_num": 63,
+    "question_text": "The cost price of 6 articles is equal to the selling price of 10 articles. Find the gain or loss per cent.",
+    "options": {"A": "60% gain", "B": "40% gain", "C": "60% loss", "D": "40% loss"},
+    "correct_answer": "D",
+    "section": "Numerical Ability",
+    "topic": "Profit & Loss",
+    "difficulty": "easy",
+    "explanation": "6 CP = 10 SP → SP/CP = 6/10 = 0.6, meaning a 40% loss."
+  },
+  {
+    "q_num": 64,
+    "question_text": "The simplified value of (7.2 × 0.28 × 5) / (0.8 × 0.12 × 0.25) is:",
+    "options": {"A": "4.2", "B": "420", "C": "0.42", "D": "42"},
+    "correct_answer": "B",
+    "section": "Numerical Ability",
+    "topic": "Simplification",
+    "difficulty": "medium",
+    "explanation": "Numerator = 10.08, Denominator = 0.024; 10.08/0.024 = 420."
+  },
+  {
+    "q_num": 65,
+    "question_text": "A solid cuboid of dimensions 20 cm × 15 cm × 10 cm is melted and recast into small cubes of side 2.5 cm each. If 10% of the material is lost during recasting, the number of whole (complete) cubes cast is:",
+    "options": {"A": "175", "B": "172", "C": "170", "D": "173"},
+    "correct_answer": "B",
+    "section": "Numerical Ability",
+    "topic": "Mensuration",
+    "difficulty": "medium",
+    "explanation": "Cuboid volume = 3000 cm³; usable volume after 10% loss = 2700 cm³; each small cube = 15.625 cm³; 2700/15.625 ≈ 172.8, so 172 whole cubes."
+  },
+  {
+    "q_num": 66,
+    "question_text": "A bag contains 3 red, 5 blue, and 2 green balls. Two balls are drawn one after another without replacement. Find the probability that both balls are blue.",
+    "options": {"A": "2/5", "B": "5/18", "C": "2/9", "D": "1/6"},
+    "correct_answer": "C",
+    "section": "Numerical Ability",
+    "topic": "Statistics",
+    "difficulty": "medium",
+    "explanation": "P(both blue) = (5/10)×(4/9) = 20/90 = 2/9."
+  },
+  {
+    "q_num": 67,
+    "question_text": "Three numbers are in the ratio 2 : 3 : 4. If their LCM is 480, then their HCF is _______.",
+    "options": {"A": "2", "B": "40", "C": "20", "D": "80"},
+    "correct_answer": "B",
+    "section": "Numerical Ability",
+    "topic": "Number System",
+    "difficulty": "medium",
+    "explanation": "For numbers in ratio 2:3:4 with LCM=480, LCM of ratio(2,3,4)=12, so HCF = 480/12 = 40."
+  },
+  {
+    "q_num": 68,
+    "question_text": "An amount of ₹5,000 is invested at 8% per annum for 2 years. If the investment is made under both compound interest and simple interest at the same rate and for the same period, what is the difference between the compound interest and the simple interest?",
+    "options": {"A": "₹36", "B": "₹35", "C": "₹38", "D": "₹32"},
+    "correct_answer": "D",
+    "section": "Numerical Ability",
+    "topic": "Simple/Compound Int.",
+    "difficulty": "medium",
+    "explanation": "For 2 years, CI-SI = P×(r/100)² = 5000×(8/100)² = 5000×0.0064 = ₹32."
+  },
+  {
+    "q_num": 69,
+    "question_text": "The sum of two natural numbers, x and y, is 324, and the HCF of x and y is 18. If x < y, how many such possible pairs of x and y are there?",
+    "options": {"A": "2", "B": "4", "C": "5", "D": "3"},
+    "correct_answer": "D",
+    "section": "Numerical Ability",
+    "topic": "Number System",
+    "difficulty": "medium",
+    "explanation": "x=18a, y=18b with a+b=18, gcd(a,b)=1, a<b; there are 3 such coprime pairs."
+  },
+  {
+    "q_num": 70,
+    "question_text": "A can complete a piece of work in 10 days, and B can do the same work in 15 days. They work together for 5 days, and then C finishes the remaining work in 2 days. How long would C alone take to complete the entire work?",
+    "options": {"A": "12 days", "B": "14 days", "C": "18 days", "D": "16 days"},
+    "correct_answer": "A",
+    "section": "Numerical Ability",
+    "topic": "Time & Work",
+    "difficulty": "medium",
+    "explanation": "A+B together in 5 days complete 5×(1/10+1/15)=5/6 of work; remaining 1/6 done by C in 2 days, so C alone takes 12 days."
+  },
+  {
+    "q_num": 71,
+    "question_text": "A tower stands vertically on the ground. From a point on the ground, the angle of elevation of the top of the tower is observed [angle value obscured in source document]. If the distance from the point to the foot of tower is 27 m, find the height of the tower.",
+    "options": {"A": "22.95 meters", "B": "25.65 meters", "C": "45.9 meters", "D": "43.2 meters"},
+    "correct_answer": "C",
+    "section": "Numerical Ability",
+    "topic": "Mensuration",
+    "difficulty": "medium",
+    "explanation": "Using height = distance × tan(angle of elevation), the calculation yields 45.9 meters (consistent with an elevation angle around 59.5° given the stated 27 m base)."
+  },
+  {
+    "q_num": 72,
+    "question_text": "If a² + b² = 50 and a × b = 7, find (a − b)/(a + b), where a > b > 0",
+    "options": {"A": "5/3", "B": "3/4", "C": "4/3", "D": "3/5"},
+    "correct_answer": "B",
+    "section": "Numerical Ability",
+    "topic": "Algebra",
+    "difficulty": "medium",
+    "explanation": "(a-b)² = a²+b²-2ab = 50-14 = 36 → a-b=6; (a+b)² = 50+14 = 64 → a+b=8; (a-b)/(a+b) = 6/8 = 3/4."
+  },
+  {
+    "q_num": 73,
+    "question_text": "A person spends 70% of his income in a month. In the next month, if his income increases by 40% and his expenditure increases by 30%, then his savings increase by ₹1,216. What is the person's original income?",
+    "options": {"A": "₹3,475", "B": "₹8,960", "C": "₹2,482", "D": "₹6,400"},
+    "correct_answer": "D",
+    "section": "Numerical Ability",
+    "topic": "Percentage",
+    "difficulty": "medium",
+    "explanation": "Solving for original income x: 0.3(1.4x) − 0.3x×... yields x = ₹6,400 as the original monthly income."
+  },
+  {
+    "q_num": 74,
+    "question_text": "Among three partners A, B and C in a business, the capital of B is equal to half the difference between thrice the capital of C and twice the capital of A. If at the end of the year, they received a profit of ₹27,460, what is the share of C (in ₹)?",
+    "options": {"A": "₹10,984", "B": "₹9,976", "C": "₹16,476", "D": "₹12,484"},
+    "correct_answer": "A",
+    "section": "Numerical Ability",
+    "topic": "Ratio & Proportion",
+    "difficulty": "hard",
+    "explanation": "Using B = (3C-2A)/2 to derive the capital ratio and dividing the profit accordingly gives C's share as ₹10,984."
+  },
+  {
+    "q_num": 75,
+    "question_text": "A regular hexagon has the same perimeter as a square whose side is 36 m. Find the area (in m²) of the hexagon.",
+    "options": {"A": "54√3 m²", "B": "864√3 m²", "C": "324√3 m²", "D": "468√3 m²"},
+    "correct_answer": "B",
+    "section": "Numerical Ability",
+    "topic": "Mensuration",
+    "difficulty": "medium",
+    "explanation": "Square perimeter = 144 m, hexagon side = 24 m; hexagon area = (3√3/2)×24² = 864√3 m²."
+  },
+  {
+    "q_num": 76,
+    "question_text": "A dice has its faces named by two letters (P, Z), two numbers (2, 7) and two symbols (µ, Ω). Two positions of the same dice are given below (dice net images showing: Position 1 has faces 7 (top), P (front-left), Ω (front-right), µ (bottom-front, obscured), G (front); Position 2 has faces Z (top), 7 (front-left), 2 (front-right)). Which face is opposite to face µ?",
+    "options": {"A": "P", "B": "2", "C": "7", "D": "Ω"},
+    "correct_answer": "C",
+    "section": "Reasoning",
+    "topic": "Non-Verbal Pattern",
+    "difficulty": "hard",
+    "explanation": "By comparing the common faces across the two dice positions and eliminating adjacent faces, the face opposite µ is determined to be 7."
+  },
+  {
+    "q_num": 77,
+    "question_text": "In a certain code language, 'camera angle reverse settings' is coded as 'p6 a5 q7 y4' and 'methods shown before work' is coded as 'u3 z5 k6 q4'. What is the probable code for 'venn diagram'?",
+    "options": {"A": "t3 b6", "B": "u5 c6", "C": "b6 u5", "D": "c6 u3"},
+    "correct_answer": "A",
+    "section": "Reasoning",
+    "topic": "Coding-Decoding",
+    "difficulty": "hard",
+    "explanation": "Following the letter-number coding pattern derived from the given examples, 'venn diagram' codes to 't3 b6'."
+  },
+  {
+    "q_num": 78,
+    "question_text": "Identify the figure given in the options which when put in place of the question mark (?) will logically complete the series. (A series of four 4x4 grid figures is shown, each containing letters/symbols like µ, G, arrows, and diamonds in rotating positions along the border; the fifth figure in the series is a question mark.)",
+    "options": {
+      "A": "Grid figure with letters and black square matching the rotational pattern of the series",
+      "B": "Grid figure with letters in an alternate arrangement not matching the rotation",
+      "C": "Grid figure with a differently placed diamond symbol",
+      "D": "Grid figure with mismatched arrow direction"
+    },
+    "correct_answer": "A",
+    "section": "Reasoning",
+    "topic": "Non-Verbal Pattern",
+    "difficulty": "hard",
+    "explanation": "Option A continues the established rotational pattern of letters, black square, and corner symbols seen across the series."
+  },
+  {
+    "q_num": 79,
+    "question_text": "A dice has its faces marked by digits 1, 2, 5, 6, 8 and 9. Three positions of the dice are given below. One of the faces in the second image of the dice is masked by '#'.\nPosition 1: 9 (top), 1 (front-left), 2 (front-right)\nPosition 2: 8 (top), 2 (front-left), # (front-right)\nPosition 3: 6 (top), 9 (front-left), 8 (front-right)\nWhich of the following statements is/are true?\nI) The product of the values of '#' and the side opposite to it is 54.\nII) The sum of the values of '#' and the side opposite to '6' is a prime number.\nIII) The square root of the sum of all the sides adjacent to '#' gives a rational number.",
+    "options": {"A": "Both II and III", "B": "Only II", "C": "Only III", "D": "Both I and II"},
+    "correct_answer": "B",
+    "section": "Reasoning",
+    "topic": "Non-Verbal Pattern",
+    "difficulty": "hard",
+    "explanation": "Deducing the masked face value from the three dice positions, only statement II (the sum with the face opposite '6' is prime) holds true."
+  },
+  {
+    "q_num": 80,
+    "question_text": "Study the given pattern carefully and select the number that is the product of P and Q. (Different operations when performed on the two numbers given in each of the sectors in figure X yield the same result P: outer sectors 25,5,13,2,6,27 surrounding P. Similarly, in figure Y, outer sectors 49,6,17,3,8,64 surrounding Q.)",
+    "options": {"A": "54", "B": "40", "C": "88", "D": "10"},
+    "correct_answer": "C",
+    "section": "Reasoning",
+    "topic": "Non-Verbal Pattern",
+    "difficulty": "hard",
+    "explanation": "Applying the consistent operation across sector pairs in each figure yields P and Q whose product is 88."
+  },
+  {
+    "q_num": 81,
+    "question_text": "Which of the given options correctly defines the relationship between x and y, if '× means ÷', '÷ means +', '+ means −', and '− means ×'?\nx= 40 × 5 ÷ 12 − 2 + 22\ny= 60 × 10 ÷ 2 − 3 + 4",
+    "options": {
+      "A": "√(x² − y² − 11) = ±5",
+      "B": "4x² > y³",
+      "C": "(3/2)x > 2y",
+      "D": "√(x² − y²) = 36"
+    },
+    "correct_answer": "A",
+    "section": "Reasoning",
+    "topic": "Logical Reasoning",
+    "difficulty": "hard",
+    "explanation": "Substituting the coded operations: x = 40÷5+12×2−22 = 10, y = 60÷10+2×3−4 = 8; √(100−64−11) = √25 = ±5."
+  },
+  {
+    "q_num": 82,
+    "question_text": "Four groups of letters are given in jumbled form in the options. In each of them, a meaningful English word can be made by rearranging the letters. Find the odd one out after making the meaningful words.",
+    "options": {"A": "RMOOT", "B": "EGNIEN", "C": "XARBOGE", "D": "IENBRTU"},
+    "correct_answer": "C",
+    "section": "Reasoning",
+    "topic": "Verbal Classification",
+    "difficulty": "medium",
+    "explanation": "RMOOT=MOTOR, EGNIEN=ENGINE, IENBRTU=TRIBUNE are all valid rearrangements fitting a theme, while XARBOGE does not unscramble to a matching-category word (odd one out)."
+  },
+  {
+    "q_num": 83,
+    "question_text": "In a certain code language,\nF @ G means 'F is greater than G',\nF % G means 'F is less than G' and\nF & G means 'F is equal to G'.\nIf:\nP = 14 × 5 − (10 × 4) ÷ 8\nQ = 120 ÷ 3 − 40 + 15 × 2\nR = 6 × 4 − 20 + 27 ÷ 3\nWhich of the following statements is/are true?\nStatement I: P & 2Q % 5R\nStatement II: P % 3Q % 7R",
+    "options": {"A": "Only II", "B": "Neither I nor II", "C": "Both I and II", "D": "Only I"},
+    "correct_answer": "A",
+    "section": "Reasoning",
+    "topic": "Coding-Decoding",
+    "difficulty": "hard",
+    "explanation": "Computing P, Q, R and evaluating the coded inequality statements shows only Statement II holds true."
+  },
+  {
+    "q_num": 84,
+    "question_text": "Study the given pattern carefully and select the letters that can replace the symbols in the last figure. (Circular figures divided into quadrants with letter pairs: P/Y/F, R/V/I, T/S/L, and the last with $ /% /@ to be determined.)",
+    "options": {
+      "A": "$ = U, % = Q, @ = O",
+      "B": "$ = V, % = P, @ = O",
+      "C": "$ = V, % = Q, @ = P",
+      "D": "$ = V, % = Q, @ = N"
+    },
+    "correct_answer": "B",
+    "section": "Reasoning",
+    "topic": "Non-Verbal Pattern",
+    "difficulty": "medium",
+    "explanation": "Following the alphabetical/positional pattern established by the first three circular figures, the fourth figure's symbols correspond to $ = V, % = P, @ = O."
+  },
+  {
+    "q_num": 85,
+    "question_text": "A malfunctioning analogue clock gains 5 minutes per hour of operation. Given that it was initially accurately set to 8:00 AM and subsequently shows 6:00 AM the following day, determine the additional angle traversed by the hour hand of the clock.",
+    "options": {"A": "86°", "B": "62°", "C": "55°", "D": "75°"},
+    "correct_answer": "C",
+    "section": "Reasoning",
+    "topic": "Logical Reasoning",
+    "difficulty": "hard",
+    "explanation": "The clock gains time proportionally over the elapsed 22 real hours, and converting the extra gained time into hour-hand angle gives 55°."
+  },
+  {
+    "q_num": 86,
+    "question_text": "J is the father of L. N is the daughter of K. Z is the son of P. J is married to K. L is the brother of O. P is married to N. Which of the following statements is/are true?\n(I) J is the father-in-law of P.\n(II) Z is the niece of O.\n(III) K is the grandmother of Z.",
+    "options": {"A": "Both I and III", "B": "Both I and II", "C": "All of them (I, II, and III)", "D": "Only II"},
+    "correct_answer": "A",
+    "section": "Reasoning",
+    "topic": "Logical Reasoning",
+    "difficulty": "hard",
+    "explanation": "J is N's father (father-in-law of P) and K is N's mother, hence grandmother of Z; statement II is false since Z is male, so 'nephew' not 'niece' would apply."
+  },
+  {
+    "q_num": 87,
+    "question_text": "This question contains three categories. These categories may or may not be linked to one another. Each category may fit into one of the diagrams given below in the options. Select the diagram which most aptly represents the relationship among the given categories.\nPrime numbers, Even numbers, Perfect squares",
+    "options": {
+      "A": "Two separate overlapping circles with one isolated circle",
+      "B": "Two overlapping circles with a third fully separate circle",
+      "C": "Three mutually overlapping circles",
+      "D": "One circle nested inside another with a third separate circle"
+    },
+    "correct_answer": "C",
+    "section": "Reasoning",
+    "topic": "Venn Diagrams",
+    "difficulty": "medium",
+    "explanation": "Prime numbers, even numbers, and perfect squares can all overlap (e.g., 2 is prime and even; 4 is even and a perfect square), so three mutually overlapping circles is correct."
+  },
+  {
+    "q_num": 88,
+    "question_text": "In a code language, 'TIMBER' is coded as \"2064141121\" and \"JUNGLE\" is coded as \"7139152311\". Which of the following are correct matches as per the given code language?\nWORD - CODE\n(i) STAR - (X) 2220715\n(ii) NEST - (Y) 616413\n(iii) LAND - (Z) 2022220",
+    "options": {"A": "i-Z, ii-X only", "B": "i-Z, ii-X, iii-Y", "C": "iii-Y, i-Z only", "D": "iii-Y only"},
+    "correct_answer": "A",
+    "section": "Reasoning",
+    "topic": "Coding-Decoding",
+    "difficulty": "hard",
+    "explanation": "Applying the derived coding logic from TIMBER and JUNGLE, only STAR-Z and NEST-X match correctly, while LAND-Y does not."
+  },
+  {
+    "q_num": 89,
+    "question_text": "In a row of students facing north, Rahul is 22nd from the left end and Diya is 16th from the right end. If there are exactly 8 people sitting between them, what are the maximum (x) and minimum (y) possible numbers of students in the row?",
+    "options": {"A": "x=46, y=28", "B": "x=46, y=24", "C": "x=44, y=24", "D": "x=45, y=28"},
+    "correct_answer": "A",
+    "section": "Reasoning",
+    "topic": "Logical Reasoning",
+    "difficulty": "hard",
+    "explanation": "Considering both possible orderings (Rahul left of Diya or vice versa) with 8 people between them gives maximum 46 and minimum 28 students in the row."
+  },
+  {
+    "q_num": 90,
+    "question_text": "SILENT is related to ROCMGT in a certain way based on the English alphabetical order. In the same way, FRIDGE is related to CHBJPG. To which of the following is SHADOW related, following the same logic?",
+    "options": {"A": "BFTUPB", "B": "UPBBFT", "C": "VBFTVQ", "D": "FTBBUP"},
+    "correct_answer": "B",
+    "section": "Reasoning",
+    "topic": "Coding-Decoding",
+    "difficulty": "hard",
+    "explanation": "Applying the same letter-shift/reversal logic used to derive ROCMGT from SILENT and CHBJPG from FRIDGE, SHADOW maps to UPBBFT."
+  },
+  {
+    "q_num": 91,
+    "question_text": "Three of the following four figures are alike in a certain way and thus form a group. Which figure DOES NOT belong to that group? (Four boxed figures labelled A, B, C, D each containing letter/symbol pairs like 'ρ' and mirrored shapes in the corners.)",
+    "options": {"A": "A", "B": "D", "C": "B", "D": "C"},
+    "correct_answer": "C",
+    "section": "Reasoning",
+    "topic": "Non-Verbal Pattern",
+    "difficulty": "medium",
+    "explanation": "Figures A, C, and D share a consistent mirrored/rotational relationship between their symbols, while figure B breaks this pattern, making it the odd one out."
+  },
+  {
+    "q_num": 92,
+    "question_text": "From the given options, select the option in which the dots can be placed in the same way as shown in the question figure below. (Question figure shows a square, triangle, and ellipse overlapping with 3 dots placed within specific overlapping regions.)",
+    "options": {
+      "A": "Triangle, square and ellipse overlapping with dots in matching regions",
+      "B": "Ellipse, square and triangle overlapping with dots in a different configuration",
+      "C": "Triangle, square, and ellipse with dots in an alternate region",
+      "D": "Square, triangle, and ellipse with dots misplaced relative to overlaps"
+    },
+    "correct_answer": "A",
+    "section": "Reasoning",
+    "topic": "Non-Verbal Pattern",
+    "difficulty": "medium",
+    "explanation": "Option A correctly reproduces the same relative placement of dots within the overlapping regions of the triangle, square and ellipse as shown in the question figure."
+  },
+  {
+    "q_num": 93,
+    "question_text": "In the given diagram, the square represents Technicians, the triangle represents Botanists, the circle represents Managers, and the pentagon represents Physicists.\nA research institute plans to recruit personnel for various positions based on the following criteria.\n(i) Managers who are also Botanists but not Technicians\n(ii) Technicians who are either Botanists or Physicists but not Managers.\nFind the number of people in the Venn diagram who are eligible according to the criteria.",
+    "options": {"A": "35", "B": "54", "C": "36", "D": "56"},
+    "correct_answer": "D",
+    "section": "Reasoning",
+    "topic": "Venn Diagrams",
+    "difficulty": "hard",
+    "explanation": "Summing the regions satisfying (i) Manager∩Botanist∩¬Technician and (ii) Technician∩(Botanist∪Physicist)∩¬Manager from the diagram gives a total of 56."
+  },
+  {
+    "q_num": 94,
+    "question_text": "P + Q means P is the brother of Q,\nP % Q means P is the son of Q,\nP & Q means P is the wife of Q,\nP = Q means P is the husband of Q and\nP @ Q means P is the daughter of Q.\nIf 'S & T + U @ V = W @ X', then which of the following statements is not correct?",
+    "options": {
+      "A": "T is the son of W",
+      "B": "U is the granddaughter of X",
+      "C": "V is the mother of U",
+      "D": "S is the daughter-in-law of V"
+    },
+    "correct_answer": "C",
+    "section": "Reasoning",
+    "topic": "Coding-Decoding",
+    "difficulty": "hard",
+    "explanation": "V is male (husband of W), so V is the father of U, not the mother, making statement C incorrect."
+  },
+  {
+    "q_num": 95,
+    "question_text": "Choose the option which is related to the third word in the same way as the second word is related to the first word and the sixth word is related to the fifth word.\nLove : Tennis : : Chukker : ? : : Offside : Football",
+    "options": {"A": "Hockey", "B": "Swimming", "C": "Rugby", "D": "Polo"},
+    "correct_answer": "D",
+    "section": "Reasoning",
+    "topic": "Verbal Analogy",
+    "difficulty": "medium",
+    "explanation": "'Love' is a scoring term in Tennis and 'Offside' is a term in Football; similarly, 'Chukker' is a period of play in Polo."
+  },
+  {
+    "q_num": 96,
+    "question_text": "Select the option figure that will replace the question mark (?) in the figure given below to complete the pattern. (Series of boxed figures with diagonal stripes, wavy arrows, and note-like symbols progressively rotating/shifting.)",
+    "options": {
+      "A": "Figure with arrow pattern not matching the progressive rotation",
+      "B": "Figure with wavy arrow pointing in a mismatched direction",
+      "C": "Figure with correctly rotated arrows but incorrect symbol count",
+      "D": "Figure with wavy arrow and stripe pattern matching the established progressive rotation"
+    },
+    "correct_answer": "D",
+    "section": "Reasoning",
+    "topic": "Non-Verbal Pattern",
+    "difficulty": "medium",
+    "explanation": "Option D continues the consistent progressive rotation of the arrow and stripe elements established across the series."
+  },
+  {
+    "q_num": 97,
+    "question_text": "A scout starts walking in the forest starting from Point A towards the east for 5 m, then turns 60º left at Point P and walks for 15 m to reach Point C. She then turns 60º left and walks for 15 m to reach Point D. What is the shortest distance the scout can take to reach Point P again from Point D?",
+    "options": {"A": "5√2 m", "B": "2√5 m", "C": "20 m", "D": "15 m"},
+    "correct_answer": "D",
+    "section": "Reasoning",
+    "topic": "Direction Sense",
+    "difficulty": "hard",
+    "explanation": "Given the equal 15 m segments and 60° turns forming part of an equilateral triangle configuration, the shortest distance from D back to P is 15 m."
+  },
+  {
+    "q_num": 98,
+    "question_text": "Saravana drives 15 km West from his office to the gym. He then turns left and drives 10 km to a supermarket. Next, he turns left and drives 39 km to a petrol pump. Finally, he takes a right turn and drives 22 km to reach his friend's house. In which direction and at what shortest distance is Saravana's office from his friend's house? (All turns are 90º unless specified.)",
+    "options": {"A": "√40 km, North-west", "B": "40 km, North-west", "C": "40 km, North-east", "D": "4√20 km, South-east"},
+    "correct_answer": "B",
+    "section": "Reasoning",
+    "topic": "Direction Sense",
+    "difficulty": "hard",
+    "explanation": "Plotting the sequential westward, southward, eastward and northward legs on a coordinate grid, the net displacement from office to friend's house works out to 40 km towards the North-west."
+  },
+  {
+    "q_num": 99,
+    "question_text": "If 14 November 1989 was a Tuesday, then what was the day of the week on 26 April 2013?",
+    "options": {"A": "Friday", "B": "Sunday", "C": "Saturday", "D": "Thursday"},
+    "correct_answer": "A",
+    "section": "Reasoning",
+    "topic": "Logical Reasoning",
+    "difficulty": "hard",
+    "explanation": "Calculating the total odd days between 14 November 1989 and 26 April 2013 gives a net shift resulting in Friday."
+  },
+  {
+    "q_num": 100,
+    "question_text": "In the following triads, each group of letters is related to the subsequent one following a certain logic.\nREST - THOO - PKMP\nFARM - HDNH - DGLI\nWhich of the following are correct matches as per the given code language?\n(i) TRIM - (W) VVFI, (X) JMJP, (Y) JLJO, (Z) VUEH - (A) FOGQ, (B) RXCI, (C) QYCJ, (D) FOHP\n(ii) HINT - matched similarly across the (W/X/Y/Z) and (A/B/C/D) columns",
+    "options": {
+      "A": "(i)-(W)-(A) , (ii)-(Y)-(C)",
+      "B": "(i)-(X)-(A) , (ii)-(Y)-(B)",
+      "C": "(i)-(X)-(D) , (ii)-(Z)-(C)",
+      "D": "(i)-(Z)-(B) , (ii)-(Y)-(D)"
+    },
+    "correct_answer": "D",
+    "section": "Reasoning",
+    "topic": "Coding-Decoding",
+    "difficulty": "hard",
+    "explanation": "Applying the coding logic derived from REST-THOO-PKMP and FARM-HDNH-DGLI, TRIM correctly matches (Z)-(B) and HINT matches (Y)-(D)."
+  }
+]

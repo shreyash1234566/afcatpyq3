@@ -1,0 +1,2714 @@
+{
+  "metric": "BM25(0.7) + TemplateMatch(0.3), topic-filtered",
+  "sections": {
+    "Verbal Ability": {
+      "average_score": 0.7326,
+      "questions": [
+        {
+          "actual": "Which of the following statements best describes the role of developing nations in global arms control efforts?",
+          "topic": "Reading Comprehension",
+          "best_generated_match": "Which of the following statements is the most appropriate description of the character's behavior?",
+          "score": 1.0
+        },
+        {
+          "actual": "According to the passage, which of the following is NOT a consequence of unchecked arms proliferation?",
+          "topic": "Reading Comprehension",
+          "best_generated_match": "Which of the following statements is the most appropriate description of the character's behavior?",
+          "score": 0.7
+        },
+        {
+          "actual": "Based on the passage, which of the following statements is/are true about developing nations' stance on global arms control?\n1. Developing nations only focus on curbing the supply of weapons.\n2. They advocate for arms reduction treaties that address the root causes of conflict.\n3. Developing nations oppose international support for strengthening national arms control systems.",
+          "topic": "Reading Comprehension",
+          "best_generated_match": "Which of the following statements is the most appropriate description of the character's behavior?",
+          "score": 0.7
+        },
+        {
+          "actual": "Read the sentence to find out whether there is any grammatical error in it. Spot the error from the given options.\nThe team meet at least once a year (a) / to set goals for the next school year and to assess (b) / progress on already established goals. (c) / No error (d)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The new policy (A)/ are intended to (B)/ help the employees (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "Read the sentence to find out whether there is any grammatical error in it. Spot the error from the given options.\nI am not hungry; (a) / beside, I neither (b) / like eggs nor chicken. (c) / No error (d)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The new policy (A)/ are intended to (B)/ help the employees (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "Read the sentence to find out whether there is any grammatical error in it. Spot the error from the given options.\nAs soon as I will (a)/ reach Mumbai I will send you (b)/ the money you have asked for. (c) / No error (d)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The new policy (A)/ are intended to (B)/ help the employees (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "Read the sentence to find out whether there is any grammatical error in it. Spot the error from the given options.\nIf I was you (a) / in this situation, I would (b) / not lose my temper. (c) / No error (d)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The new policy (A)/ are intended to (B)/ help the employees (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "Fill in the blank with the most appropriate word from the given options.\nThe whole house was beautifully light and .",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate word from the options against ____X____: The manager oversees all the financial operations _____X______ the company.",
+          "score": 0.7
+        },
+        {
+          "actual": "Fill in the blank with the most appropriate word from the given options.\nShe will not let her personal grief __________ his professional life.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate word from the options against ____X____: The manager oversees all the financial operations _____X______ the company.",
+          "score": 0.7
+        },
+        {
+          "actual": "Fill in the blank with the most appropriate word from the given options.\nIt's a fallacy that the ________________ give relatively more to charity than the less prosperous.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate word from the options against ____X____: The manager oversees all the financial operations _____X______ the company.",
+          "score": 0.7
+        },
+        {
+          "actual": "Fill in the blank with the most appropriate word from the given options.\n_____ is the act or process of returning something to its original condition by repairing it, cleaning it, etc.",
+          "topic": "One Word Substitution",
+          "best_generated_match": "Choose the most appropriate word: Giving a false appearance of being sincere; insincere.",
+          "score": 0.7
+        },
+        {
+          "actual": "In the following question, out of the given alternatives, choose the best one which expresses the meaning of the given word.\nGrotesque",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the best one which expresses the meaning of the given word: Ennui",
+          "score": 0.7
+        },
+        {
+          "actual": "In the following question, out of the given alternatives, choose the best one which expresses the meaning of the given word.\nWaggish",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the best one which expresses the meaning of the given word: Ennui",
+          "score": 0.7
+        },
+        {
+          "actual": "In the following question, out of the given alternatives, choose the best one which expresses the meaning of the given word.\nSublime",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the best one which expresses the meaning of the given word: Ennui",
+          "score": 0.7
+        },
+        {
+          "actual": "In the following question, choose the word which is opposite in meaning to the given word.\nShrivel",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the word which is opposite in meaning to the given word: Vigilant",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the most appropriate antonym of the given word.\nFetter",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Select the most appropriate ANTONYM of the given word: Fastidious",
+          "score": 1.0
+        },
+        {
+          "actual": "Select the most appropriate ANTONYM of the given word.\nPensive",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Select the most appropriate ANTONYM of the given word: Fastidious",
+          "score": 1.0
+        },
+        {
+          "actual": "Select the most appropriate option to fill in the blank X in the passage provided.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate word from the options against ____X____: The manager oversees all the financial operations _____X______ the company.",
+          "score": 1.0
+        },
+        {
+          "actual": "Select the most appropriate option to fill in the blank Y in the passage provided.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate option for blank no. 1: The new policy aims _________ (reduce) the company's carbon footprint by 50% in the next five years.",
+          "score": 1.0
+        },
+        {
+          "actual": "Select the most appropriate option to fill in the blank Z in the passage provided.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate option for blank no. 1: The new policy aims _________ (reduce) the company's carbon footprint by 50% in the next five years.",
+          "score": 1.0
+        },
+        {
+          "actual": "Select the option that best expresses the meaning of the idiom/phrase: On the ball",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the alternative which best expresses the meaning of the idiom/phrase given in bold: **Bite off more than you can chew**",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the option that best expresses the meaning of the idiom/phrase: To give someone the cold shoulder",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the alternative which best expresses the meaning of the idiom/phrase given in bold: **Bite off more than you can chew**",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the most appropriate idiom ( in the context) to fill in the sentence.\nPallavi worked really hard for the examination and _________________ to gain success.",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the alternative which best expresses the meaning of the idiom/phrase given in bold: **Bite off more than you can chew**",
+          "score": 0.7
+        },
+        {
+          "actual": "Rearrange the jumbled parts of the sentence marked P, Q, R, and S.\nA gang of ______________ asleep.\nP: the property of villagers\nQ: at night and stole\nR: robbers entered the village\nS: while they were fast",
+          "topic": "Para Jumbles",
+          "best_generated_match": "Arrange the jumbled parts of the sentence: P. to launch a new satellite. Q. that the space agency R. is planning and S. Dr. Kasturirangan confirmed",
+          "score": 0.7
+        },
+        {
+          "actual": "Rearrange the jumbled parts of the sentence marked P, Q, R, and S.\nVenezuela’s move to ______________between the South American nations.\nP: exercise sovereignty over Essequibo, a vast, oil-rich disputed\nQ: hold a referendum on whether it should\nR: has cut open old wounds and inflamed tensions\nS: region that is now part of neighbouring Guyana,",
+          "topic": "Para Jumbles",
+          "best_generated_match": "Arrange the jumbled parts of the sentence: P. to launch a new satellite. Q. that the space agency R. is planning and S. Dr. Kasturirangan confirmed",
+          "score": 0.7
+        },
+        {
+          "actual": "Choose from the four options, the word that best defines/substitutes the given phrase.\nEasy to forgive",
+          "topic": "One Word Substitution",
+          "best_generated_match": "Choose the most appropriate word: Giving a false appearance of being sincere; insincere.",
+          "score": 0.7
+        },
+        {
+          "actual": "Choose the word that best defines/substitutes the given phrase:\nA fight between two persons",
+          "topic": "One Word Substitution",
+          "best_generated_match": "Choose the most appropriate word: Giving a false appearance of being sincere; insincere.",
+          "score": 0.7
+        },
+        {
+          "actual": "Choose the word that best defines/substitutes the given phrase:\nPain or suffering",
+          "topic": "One Word Substitution",
+          "best_generated_match": "Choose the most appropriate word: Giving a false appearance of being sincere; insincere.",
+          "score": 0.7
+        },
+        {
+          "actual": "Read each sentence part to find out whether there is any error... Neither of the (a)/ men are (b)/ available here. (c)/ No error (d)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The new policy (A)/ are intended to (B)/ help the employees (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "Read each sentence part to find out whether there is any error... The students are eagerly (a)/ awaiting for the results (b)/ of their final exams. (c)/ No error (d)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The new policy (A)/ are intended to (B)/ help the employees (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "Read each sentence part to find out whether there is any error... Childrens of schools and colleges (a)/ are expected to follow (b)/ certain rules and regulations. (c)/ No error (d)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The manager of the company (A)/ expect all employees (B)/ to follow the rules (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "Read each sentence part to find out whether there is any error... He has bought (a)/ a scissors to shave (b)/ his moustache. (c)/ No error (d)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The new policy (A)/ are intended to (B)/ help the employees (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "How are you ____ in your new job? Are you enjoying it?",
+          "topic": "Cloze Test",
+          "best_generated_match": "Fill in the blank with the most appropriate option: The new employee is not only skilled _______ also very experienced.",
+          "score": 0.7
+        },
+        {
+          "actual": "I would like to go to the concert ____ I can find a babysitter.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Fill in the blank with the most appropriate option: If I _______ studied harder, I would have passed the exam.",
+          "score": 0.7
+        },
+        {
+          "actual": "I ____ what it would be like to be inside a chocolate factory.",
+          "topic": "Grammar",
+          "best_generated_match": "If he _______ his homework carefully, he would have gotten a better grade.",
+          "score": 0.7
+        },
+        {
+          "actual": "His ____ comments about the murder made me shiver.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate word from the options against ____X____: The manager oversees all the financial operations _____X______ the company.",
+          "score": 0.7
+        },
+        {
+          "actual": "Choose the synonym of: Dilemma",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the best one which expresses the meaning of the given word: Ennui",
+          "score": 0.7
+        },
+        {
+          "actual": "Choose the synonym of: Blare",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the best one which expresses the meaning of the given word: Ennui",
+          "score": 0.7
+        },
+        {
+          "actual": "Choose the synonym of: Decrepit",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the best one which expresses the meaning of the given word: Ennui",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the antonym of: Tyranny",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Select the most appropriate ANTONYM of the given word: Fastidious",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the antonym of: Entice",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Select the most appropriate ANTONYM of the given word: Fastidious",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the antonym of: Scuffle",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Select the most appropriate ANTONYM of the given word: Fastidious",
+          "score": 0.7
+        },
+        {
+          "actual": "How did the work of Hipparchus contribute to the empirical approach in astronomy?",
+          "topic": "Reading Comprehension",
+          "best_generated_match": "Read the passage: The old man had a unique approach to problem-solving... Why was the old man's approach to problem-solving considered unconventional?",
+          "score": 0.7
+        },
+        {
+          "actual": "Which of the following statements best describes how modern astronomy differs from ancient practices?",
+          "topic": "Reading Comprehension",
+          "best_generated_match": "Which of the following statements is the most appropriate description of the character's behavior?",
+          "score": 1.0
+        },
+        {
+          "actual": "Which of the following statements are correct based on the passage? 1. The Greeks contributed... 2. Astronomy today encompasses... 3. Stonehenge and the Nebra disk...",
+          "topic": "Reading Comprehension",
+          "best_generated_match": "Which of the following statements is the most appropriate description of the character's behavior?",
+          "score": 1.0
+        },
+        {
+          "actual": "Arrange the jumbled parts: The first-generation small modular... P: assembled on-site... Q: technologies and power... R: reactors are expected... S: produce waste...",
+          "topic": "Para Jumbles",
+          "best_generated_match": "Arrange the jumbled parts of the sentence: P. to launch a new satellite. Q. that the space agency R. is planning and S. Dr. Kasturirangan confirmed",
+          "score": 1.0
+        },
+        {
+          "actual": "Arrange the jumbled parts: Between the eighth and eleventh centuries A.D.,... P: the Byzantine Empire staged... Q: it followed a long period... R: that is all the more striking... S: economic and cultural revival...",
+          "topic": "Para Jumbles",
+          "best_generated_match": "Arrange the jumbled parts of the sentence: P. to launch a new satellite. Q. that the space agency R. is planning and S. Dr. Kasturirangan confirmed",
+          "score": 1.0
+        },
+        {
+          "actual": "Arrange the jumbled parts: In the two decades between 1910 and 1930,... P: had been located... Q: over ten percent of the Black population... R: where the preponderance... S: with the largest number moving...",
+          "topic": "Para Jumbles",
+          "best_generated_match": "Arrange the jumbled parts of the sentence: P. to launch a new satellite. Q. that the space agency R. is planning and S. Dr. Kasturirangan confirmed",
+          "score": 1.0
+        },
+        {
+          "actual": "Select the most appropriate word for blank (X): The momentary triumph of debate is (X).",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate word from the options against ____X____: The manager oversees all the financial operations _____X______ the company.",
+          "score": 1.0
+        },
+        {
+          "actual": "Select the most appropriate word for blank (Y): It is more effective to influence people with your work without saying (Y).",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate word from the options against ____X____: The manager oversees all the financial operations _____X______ the company.",
+          "score": 1.0
+        },
+        {
+          "actual": "Select the most appropriate word for blank (Z): You cannot say for sure what effect it (Z) on the other person.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate option for blank no. 1: The new policy aims _________ (reduce) the company's carbon footprint by 50% in the next five years.",
+          "score": 1.0
+        },
+        {
+          "actual": "Choose the one which is nearest to the meaning of: Paint the town red",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the one which best expresses the meaning of the given idiom: When the company went bankrupt, the employees were left high and dry.",
+          "score": 1.0
+        },
+        {
+          "actual": "Choose the one which is nearest to the meaning of: Cool one's heels",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the one which best expresses the meaning of the given idiom: When the company went bankrupt, the employees were left high and dry.",
+          "score": 1.0
+        },
+        {
+          "actual": "Choose the one which is nearest to the meaning of: Because it was the last day of class, the teachers 'cut us some slack'.",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the one which best expresses the meaning of the given idiom: When the company went bankrupt, the employees were left high and dry.",
+          "score": 1.0
+        },
+        {
+          "actual": "One-word substitute: The fear of aging",
+          "topic": "One Word Substitution",
+          "best_generated_match": "Choose the most appropriate word: Giving a false appearance of being sincere; insincere.",
+          "score": 0.7
+        },
+        {
+          "actual": "One-word substitute: A lover of mankind",
+          "topic": "One Word Substitution",
+          "best_generated_match": "Choose the most appropriate word: Giving a false appearance of being sincere; insincere.",
+          "score": 0.7
+        },
+        {
+          "actual": "Which of the following is a primary benefit of international trade according to the passage?",
+          "topic": "Reading Comprehension",
+          "best_generated_match": "Which of the following statements is the most appropriate description of the character's behavior?",
+          "score": 1.0
+        },
+        {
+          "actual": "Which of the following statements about international trade are correct? 1. International trade always leads to economic growth without any risks. 2. International trade can lead to job creation and technological progress. 3. Trade disputes are a potential risk associated with international trade.",
+          "topic": "Reading Comprehension",
+          "best_generated_match": "Which of the following statements is the most appropriate description of the character's behavior?",
+          "score": 1.0
+        },
+        {
+          "actual": "Based on the passage, how might international trade affect technological development in countries with limited resources?",
+          "topic": "Reading Comprehension",
+          "best_generated_match": "Read the passage and answer: Which word, mentioned in the passage, can replace the description 'The art of expressing ideas in a clear and effective manner'?",
+          "score": 0.7
+        },
+        {
+          "actual": "The following sentence has been split into four segments. Identify the segment that contains a grammatical error. If Reeta comes on time (A) / then she will take (B) / us to the cinema. (C) / No error (D)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The new policy (A)/ are intended to (B)/ help the employees (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "Read each sentence part to find out whether there is any error... According to the IQ (A) / Rohan is most intelligent (B) / than Rohit and Reena. (C) / No error (D)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The new policy (A)/ are intended to (B)/ help the employees (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "Read the sentence to find out whether there is any error... Although we reached his house on time (A) / he was left (B) / for the airport. (C) / No error (D)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The new policy (A)/ are intended to (B)/ help the employees (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "Read the sentence to find out whether there is any error... Tell me the name of (A) / a country where every citizen is law-abiding (B) / and no trouble is there. (C) / No error (D)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The manager of the company (A)/ expect all employees (B)/ to follow the rules (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "Most of the students have forgotten to bring their certificates; they will be ______ by the Principal for this reason.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate option for blank no. 1: The new policy aims _________ (reduce) the company's carbon footprint by 50% in the next five years.",
+          "score": 0.7
+        },
+        {
+          "actual": "If a Time Machine ______ you anywhere for one day, where would you go?",
+          "topic": "Grammar",
+          "best_generated_match": "If he _______ his homework carefully, he would have gotten a better grade.",
+          "score": 0.7
+        },
+        {
+          "actual": "He must work very hard and make up ______ lost time.",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the word that best defines the given phrase: **Cost an arm and a leg**",
+          "score": 0.7
+        },
+        {
+          "actual": "After the shocking news, it took some time, but eventually, she managed to ______ and face the situation calmly.",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the word that best defines the given phrase: **Cost an arm and a leg**",
+          "score": 0.7
+        },
+        {
+          "actual": "Choose the best synonym of the given word: Haggle",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the best one which expresses the meaning of the given word: Ennui",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the most appropriate synonym of the given word: Anciliary",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Select the most appropriate ANTONYM of the given word: Fastidious",
+          "score": 1.0
+        },
+        {
+          "actual": "Choose the best antonym of the given word: Vivacious",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Select the most appropriate ANTONYM of the given word: Fastidious",
+          "score": 0.7
+        },
+        {
+          "actual": "Choose the best antonym of the given word: Concord",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Select the most appropriate ANTONYM of the given word: Fastidious",
+          "score": 0.7
+        },
+        {
+          "actual": "Cloze Test: A gunboat is a naval watercraft... carrying one or more guns to (X) coastal targets...",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate word from the options against ____X____: The manager oversees all the financial operations _____X______ the company.",
+          "score": 0.7
+        },
+        {
+          "actual": "Cloze Test: As such boats were cheap... naval forces (Y) swarm tactics...",
+          "topic": "Cloze Test",
+          "best_generated_match": "Fill in the blank with the most appropriate option: The new employee is not only skilled _______ also very experienced.",
+          "score": 0.0
+        },
+        {
+          "actual": "Cloze Test: An important (Z) of these was the ability to operate in rivers...",
+          "topic": "Cloze Test",
+          "best_generated_match": "Fill in the blank with the most appropriate option: The new employee is not only skilled _______ also very experienced.",
+          "score": 0.7
+        },
+        {
+          "actual": "Choose the one which is nearest to the meaning of: Will-o'-the-wisp",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the one which best expresses the meaning of the given idiom: When the company went bankrupt, the employees were left high and dry.",
+          "score": 1.0
+        },
+        {
+          "actual": "Select the most appropriate meaning of the given idiom: A fine state of affairs",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the one which best expresses the meaning of the given idiom: When the company went bankrupt, the employees were left high and dry.",
+          "score": 0.7
+        },
+        {
+          "actual": "Choose the one which is nearest to the meaning of: Red tape",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the one which best expresses the meaning of the given idiom: When the company went bankrupt, the employees were left high and dry.",
+          "score": 1.0
+        },
+        {
+          "actual": "Rearrange the jumbled parts: Teaching a child... P: since there are few... Q: is becoming difficult... R: and expensive open ponds around... S: how to swim",
+          "topic": "Para Jumbles",
+          "best_generated_match": "Arrange the jumbled parts of the sentence: P. to launch a new satellite. Q. that the space agency R. is planning and S. Dr. Kasturirangan confirmed",
+          "score": 0.7
+        },
+        {
+          "actual": "Rearrange the jumbled parts: In many cultures... P: to make wishes come true... Q: that blue has the power... R: people believe... S: and be successful in life",
+          "topic": "Para Jumbles",
+          "best_generated_match": "Arrange the jumbled parts of the sentence: P. to launch a new satellite. Q. that the space agency R. is planning and S. Dr. Kasturirangan confirmed",
+          "score": 0.7
+        },
+        {
+          "actual": "Rearrange the jumbled parts: From a picnic table... P: through the playground... Q: while we unpacked a basket... R: we watched them laugh and leap... S: bulging with sandwhiches and cookies",
+          "topic": "Para Jumbles",
+          "best_generated_match": "Arrange the jumbled parts of the sentence: P. to launch a new satellite. Q. that the space agency R. is planning and S. Dr. Kasturirangan confirmed",
+          "score": 0.7
+        },
+        {
+          "actual": "One word substitute: A person who can be pleased easily",
+          "topic": "One Word Substitution",
+          "best_generated_match": "Choose the most appropriate word: Giving a false appearance of being sincere; insincere.",
+          "score": 0.7
+        },
+        {
+          "actual": "The best substitute for the phrase: The state of being deprived of a right or privilege, especially the right to vote.",
+          "topic": "One Word Substitution",
+          "best_generated_match": "Choose the most appropriate word: Giving a false appearance of being sincere; insincere.",
+          "score": 0.7
+        },
+        {
+          "actual": "One word substitute: One who is recovering health after illness",
+          "topic": "One Word Substitution",
+          "best_generated_match": "Choose the most appropriate word: Giving a false appearance of being sincere; insincere.",
+          "score": 0.7
+        },
+        {
+          "actual": "Read the following passage and answer the questions.\n\nOn a cold wintry Christmas day in 1998, the ice and snow were beating down upon the windows of the vehicles as we travelled to an obscure orphanage in Bosnia-Hezegovina. We battled unstable hills blanketed with two feet of snow. The narrow road forced us to drive perilously close to the edge. This would be my first Christmas away from home and family. I could imagine my wife and my two little daughters opening their gifts on Christmas day. Today, I was going to learn for the first time how it would be to spend Christmas day with other children. Enemy activity had devastated the villages. I had heard stories and seen pictures of this particular village where we were headed. What I did not know was that it would be a camp full of destitute families and children. As we entered the village, the children lined the roads on both sides and cheered. They ran to us in excitement as we climbed out of our vehicles. Within moments I saw my soldiers passing out sweets and chocolates and talking with the children. The adults who were not sure if we could be trusted kept their distance. But soon, they too were won over by my men. The soldiers unloaded 87 boxes of toys, clothes, shoes, school supplies and candy. We were soon surrounded by the people of the village who shook our hands and smiled shyly in thanks for our gifts and our presence. After the two-hour visit, as we rose to leave, the camp leader said to us, “ Please come again, even if you have nothing to give. We enjoyed having you here.” We had loved every moment we had been there. This year we truly learnt the Christmas spirit of loving and giving!\n\nWhich of these statements is NOT true?",
+          "topic": "Reading Comprehension",
+          "best_generated_match": "Read the passage and answer: Which word, mentioned in the passage, can replace the description 'The art of expressing ideas in a clear and effective manner'?",
+          "score": 0.7
+        },
+        {
+          "actual": "Based on the passage, initially, the adults were not as friendly as the children because:",
+          "topic": "Reading Comprehension",
+          "best_generated_match": "What did the protagonist initially think she would do with the mysterious box?",
+          "score": 0.7
+        },
+        {
+          "actual": "Based on the passage, which of these statements does NOT indicate that the drive to the village was dangerous?",
+          "topic": "Reading Comprehension",
+          "best_generated_match": "Read the passage: The old man had a unique approach to problem-solving... Why was the old man's approach to problem-solving considered unconventional?",
+          "score": 0.7
+        },
+        {
+          "actual": "Read the sentence to find out whether there is any error in any underlined part. Indicate your response in the Answer Sheet against the corresponding letter.\n\nThree hundred thousand tons (a)/ of cereals is needed (b)/ to replenish stocks. (c)/ No error (d)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The manager of the company (A)/ expect all employees (B)/ to follow the rules (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "Read the sentence to find out whether there is any error in any underlined part. Indicate your response in the Answer Sheet against the corresponding letter.\n\n(A) Although he was bad with calligraphy, (B) but he tried his best to write (C) a letter to her on her birthday. (D) No error",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The new policy (A)/ are intended to (B)/ help the employees (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "Read the sentence to find out whether there is any error in any underlined part. Indicate your response in the Answer Sheet against the corresponding letter.\n\n(A) I'm far of done with this (B) project, and I still have (C) a lot of work to do. (D) No error",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The manager of the company (A)/ expect all employees (B)/ to follow the rules (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "Read the sentence to find out whether there is any error in any underlined part. Indicate your response in the Answer Sheet against the corresponding letter.\n\n(A) His introduction to League football (B) would have been gentler (C) if he had started at a smaller club. (D) No error",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The new policy (A)/ are intended to (B)/ help the employees (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "Each of the following sentences in this section has a blank space and four words are given after the sentence. Select whichever word you consider most appropriate for the blank space.\n\nCreative people are often _____ with their own uniqueness.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate option for blank no. 1: The new policy aims _________ (reduce) the company's carbon footprint by 50% in the next five years.",
+          "score": 0.7
+        },
+        {
+          "actual": "Each of the following sentences in this section has a blank space and four words or group of words given after the sentence. Select whichever word or group of words you consider most appropriate for the blank space.\n\nScarcely ______ the teacher entered the class when he heard the noise.",
+          "topic": "Grammar",
+          "best_generated_match": "The manager would rather you _______ the report by the end of the week.",
+          "score": 0.7
+        },
+        {
+          "actual": "Each of the following sentences in this section has a blank space and four words or group of words are given after the sentence. Select the most appropriate word or group of words for the blank space.\n\nOn his way to the capital, the minister_________ the eminent social worker at his residence.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate option for blank no. 1: The new policy aims _________ (reduce) the company's carbon footprint by 50% in the next five years.",
+          "score": 0.7
+        },
+        {
+          "actual": "In this section, each of the following sentences has a blank space and each sentence is followed by four options. Select the most appropriate option to fill the blank space.\n\nHe was assassinated by a _________ of aides within his own regime.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate option for blank no. 1: The new policy aims _________ (reduce) the company's carbon footprint by 50% in the next five years.",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the most appropriate synonym of the given word.\n\nPerplex",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Select the most appropriate ANTONYM of the given word: Fastidious",
+          "score": 1.0
+        },
+        {
+          "actual": "In the following question, out of the given alternatives, choose the best one that expresses the synonym of the given word.\n\nIntrepid",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the best one which expresses the meaning of the given word: Ennui",
+          "score": 0.7
+        },
+        {
+          "actual": "In the following question, out of the given alternatives, choose the best one that expresses the synonym of the given word.\n\nRelic",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the best one which expresses the meaning of the given word: Ennui",
+          "score": 0.7
+        },
+        {
+          "actual": "In the following question, out of the given alternatives, choose the best one that expresses the antonym of the given word.\n\nRecount",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the best one which expresses the meaning of the given word: Ennui",
+          "score": 0.7
+        },
+        {
+          "actual": "In the following question, out of the given alternatives, choose the best one that expresses the antonym of the given word.\n\nEpilogue",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the best one which expresses the meaning of the given word: Ennui",
+          "score": 0.7
+        },
+        {
+          "actual": "In the following question, out of the given alternatives, choose the best one that expresses the antonym of the given word.\n\nNaive",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the best one which expresses the meaning of the given word: Ennui",
+          "score": 0.7
+        },
+        {
+          "actual": "Read the following passage and fill in the blank with the most appropriate word from the options.\n\nNorth American walnut sphinx moth caterpillars (Amorpha juglandis) look like easy meals for birds, but they have a trick up their sleeves — they produce whistles that sound like bird alarm calls, X potential predators away. \n\nSelect the most appropriate word from the options against X.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate word from the options against ____X____: The manager oversees all the financial operations _____X______ the company.",
+          "score": 0.7
+        },
+        {
+          "actual": "Based on the passage in Q18, select the most appropriate word from the options against Y.\n\nAt first, scientists suspected birds were simply _______Y______by the loud noise.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate word from the options against ____X____: The manager oversees all the financial operations _____X______ the company.",
+          "score": 0.7
+        },
+        {
+          "actual": "Based on the passage in Q18, select the most appropriate word from the options against Z.\n\nBut a new study suggests a more ______Z________mechanism: the caterpillar's whistle appears to mimic a bird alarm call...",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate word from the options against ____X____: The manager oversees all the financial operations _____X______ the company.",
+          "score": 0.7
+        },
+        {
+          "actual": "In the following question, out of the four alternatives, choose the one which is nearest to the meaning of the given idiom or phrase.\n\nFifth Column",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the one which best expresses the meaning of the given idiom: When the company went bankrupt, the employees were left high and dry.",
+          "score": 0.7
+        },
+        {
+          "actual": "In the following question, out of the four alternatives, choose the one which is nearest to the meaning of the given idiom or phrase.\n\nWrap your head around something",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the one which best expresses the meaning of the given idiom: When the company went bankrupt, the employees were left high and dry.",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the most appropriate idiom for the given blank.\n\nThe much-anticipated event turned out to be ______________, disappointing everyone who attended.",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the one which best expresses the meaning of the given idiom: When the company went bankrupt, the employees were left high and dry.",
+          "score": 0.7
+        },
+        {
+          "actual": "Arrange the jumbled parts labelled P, Q, R and S to form a meaningful sentence and mark your response accordingly.\n\nRecently I spent several hours _________________________ the bestselling book, Getting to Yes.\nP: anthropologist William Ury, a Harvard University \nQ: sitting under a tree in my garden with the social \nR: of negotiation and wrote\nS: professor who specializes in the art",
+          "topic": "Para Jumbles",
+          "best_generated_match": "Arrange the jumbled parts of the sentence: P. to launch a new satellite. Q. that the space agency R. is planning and S. Dr. Kasturirangan confirmed",
+          "score": 1.0
+        },
+        {
+          "actual": "Arrange the jumbled parts labelled P, Q, R and S to form a meaningful sentence and mark your response accordingly.\n\nThe pursuit of knowledge is a lifelong journey, ____________________.\n\nP. exploring new fields and ideas\nQ. extending beyond the confines of formal education\nR. requiring curiosity and a thirst for understanding\nS. and continuously challenging one's intellectual boundaries",
+          "topic": "Para Jumbles",
+          "best_generated_match": "Arrange the jumbled parts of the sentence: P. to launch a new satellite. Q. that the space agency R. is planning and S. Dr. Kasturirangan confirmed",
+          "score": 1.0
+        },
+        {
+          "actual": "Select the option that can be used as a one-word substitute for the given group of words.\n\nThe study of fruit",
+          "topic": "One Word Substitution",
+          "best_generated_match": "Choose the most appropriate word: Giving a false appearance of being sincere; insincere.",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the option that can be used as a one-word substitute for the given group of words.\n\nA large crowd or group",
+          "topic": "One Word Substitution",
+          "best_generated_match": "Choose the most appropriate word: Giving a false appearance of being sincere; insincere.",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the word which means the same as the group of words given.\n\nAn inscription on a tombstone written in memory of the deceased",
+          "topic": "One Word Substitution",
+          "best_generated_match": "Choose the most appropriate word: Giving a false appearance of being sincere; insincere.",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the most appropriate meaning of the given idiom: Under the weather",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the one which best expresses the meaning of the given idiom: When the company went bankrupt, the employees were left high and dry.",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the option that is nearest in the meaning to the underlined word Pallid",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the word which is opposite in meaning to the given word: Vigilant",
+          "score": 0.7
+        },
+        {
+          "actual": "choose the one which can be substituted for the given words That which cannot be corrected",
+          "topic": "One Word Substitution",
+          "best_generated_match": "Choose the most appropriate word: Giving a false appearance of being sincere; insincere.",
+          "score": 0.7
+        },
+        {
+          "actual": "The concept of artificial intelligence (AI) has been (1) ________ in recent years.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate option for blank no. 1: The new policy aims _________ (reduce) the company's carbon footprint by 50% in the next five years.",
+          "score": 0.7
+        },
+        {
+          "actual": "However, there are concerns about the (2) ________ implications of Al, including issues related to privacy and moral reasoning.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate word from the options against ____X____: The manager oversees all the financial operations _____X______ the company.",
+          "score": 0.7
+        },
+        {
+          "actual": "It is important for (3) ________ to address these concerns as Al continues to advance.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Fill in the blank with the most appropriate option: The new employee is not only skilled _______ also very experienced.",
+          "score": 0.7
+        },
+        {
+          "actual": "Neither the doctors (a)/ nor the nurse (b)/ are available. (c)/ No error (d)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The new policy (A)/ are intended to (B)/ help the employees (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the most appropriate meaning of the given idiom: Achilles' heel",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the one which best expresses the meaning of the given idiom: When the company went bankrupt, the employees were left high and dry.",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the option that is nearest in the meaning to the underlined word Omnipresent",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the word which is opposite in meaning to the given word: Vigilant",
+          "score": 0.7
+        },
+        {
+          "actual": "She was asked (a) /that why she had (b)/ not attended the class. (c)/ No error (d)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The new policy (A)/ are intended to (B)/ help the employees (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the most appropriate meaning of the given idiom: Turn a blind eye",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the word that best defines the given phrase: **Cost an arm and a leg**",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the option that is nearest in the meaning to the underlined word Pillage",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the word which is opposite in meaning to the given word: Vigilant",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the option that is nearest in the meaning to the underlined word Fret",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the word which is opposite in meaning to the given word: Vigilant",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the option that is opposite in the meaning to the underlined word Anathema",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the word which is opposite in meaning to the given word: Vigilant",
+          "score": 0.7
+        },
+        {
+          "actual": "His neighbour created chaos regularly so he decided to ________",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the one which best expresses the meaning of the given idiom: When the company went bankrupt, the employees were left high and dry.",
+          "score": 0.0
+        },
+        {
+          "actual": "Select the option that is nearest in the meaning to the underlined word. Asunder",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the word which is opposite in meaning to the given word: Vigilant",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the option that is opposite in the meaning to the given word. Craving",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the word which is opposite in meaning to the given word: Vigilant",
+          "score": 0.7
+        },
+        {
+          "actual": "Two people argue about why Venus is so much warmer than the Earth. P: The first argues that it's because Venus is closer Q: The second argues that it's because Venus has a thick, R: why Venus is so much warmer than the Earth. S: to the Sun, so it absorbs more solar energy.",
+          "topic": "Para Jumbles",
+          "best_generated_match": "Arrange the jumbled parts of the sentence: P. to launch a new satellite. Q. that the space agency R. is planning and S. Dr. Kasturirangan confirmed",
+          "score": 0.7
+        },
+        {
+          "actual": "Climate change is the increase in greenhouse gases P: causing significant changes in Q: a major environmental issue R: that is S: global temperatures and weather patterns.",
+          "topic": "Para Jumbles",
+          "best_generated_match": "Arrange the jumbled parts of the sentence: P. to launch a new satellite. Q. that the space agency R. is planning and S. Dr. Kasturirangan confirmed",
+          "score": 0.7
+        },
+        {
+          "actual": "Electric vehicles are P: and reduce air pollution Q: a sustainable transportation option R: that can help mitigate climate change S: by lowering greenhouse gas emissions.",
+          "topic": "Para Jumbles",
+          "best_generated_match": "can spend several years in research (p)/ without substantial funding so that (Q)/ a lot of young scientists (R)/ There must be institutions now in which innovators are going (S)",
+          "score": 0.7
+        },
+        {
+          "actual": "The internet has revolutionized communication P: connecting people Q: by instantly R: and information S: and exchanging messages across the globe.",
+          "topic": "Para Jumbles",
+          "best_generated_match": "Arrange the jumbled parts of the sentence: P. to launch a new satellite. Q. that the space agency R. is planning and S. Dr. Kasturirangan confirmed",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the incorrectly spelt word.",
+          "topic": "Spelling",
+          "best_generated_match": "Choose the correctly spelt word",
+          "score": 0.7
+        },
+        {
+          "actual": "(A) Guest is (B) unwelcome (C) when he stays too long. (D) No error",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The new policy (A)/ are intended to (B)/ help the employees (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "(A) Each of (B) these substances (C) are found in India. (D) No error",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The new policy (A)/ are intended to (B)/ help the employees (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "Scholars are often caught on the horns of ________ dilemma.",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the one which best expresses the meaning of the given idiom: When the company went bankrupt, the employees were left high and dry.",
+          "score": 0.7
+        },
+        {
+          "actual": "What is the purpose of a psycho motor test?",
+          "topic": "Reading Comprehension",
+          "best_generated_match": "Which of the following statements is the most appropriate description of the character's behavior?",
+          "score": 0.7
+        },
+        {
+          "actual": "Which of the following is an example of a psycho motor test?",
+          "topic": "Reading Comprehension",
+          "best_generated_match": "Which of the following statements is the most appropriate description of the character's behavior?",
+          "score": 1.0
+        },
+        {
+          "actual": "Why are psycho motor tests important?",
+          "topic": "Reading Comprehension",
+          "best_generated_match": "Read the passage: The old man had a unique approach to problem-solving... Why was the old man's approach to problem-solving considered unconventional?",
+          "score": 0.7
+        },
+        {
+          "actual": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\n\nThe more you (A)/ study, the most (B)/ you learn. (C)/ No error (D)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The manager of the company (A)/ expect all employees (B)/ to follow the rules (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\n\nWise Solomon is famous (a)/ in history (b)/ for his infallible justice. (c)/ No error (d)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The manager of the company (A)/ expect all employees (B)/ to follow the rules (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\n\nThough she is my friend, (a) /but I cannot help (b)/criticizing his speech. (c)/ No error (d)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The new policy (A)/ are intended to (B)/ help the employees (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\n\nI have (A)/ not seen him (B)/ since twenty years. (C)/ No error (D)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The manager of the company (A)/ expect all employees (B)/ to follow the rules (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "I wish I ________ her before we met.",
+          "topic": "Grammar",
+          "best_generated_match": "If he _______ his homework carefully, he would have gotten a better grade.",
+          "score": 0.0
+        },
+        {
+          "actual": "People who are averse __________hard work, generally do not succeed in life.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Fill in the blank with the most appropriate option: The new employee is not only skilled _______ also very experienced.",
+          "score": 0.7
+        },
+        {
+          "actual": "The football match has to be ____ because of the weather.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate word from the options against ____X____: The manager oversees all the financial operations _____X______ the company.",
+          "score": 0.7
+        },
+        {
+          "actual": "It was a _______ experience. Everybody was shocked.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Fill in the blank with the most appropriate option: The new employee is not only skilled _______ also very experienced.",
+          "score": 0.0
+        },
+        {
+          "actual": "Select the option that is nearest the meaning to the given word: Ostentatious",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the word which is opposite in meaning to the given word: Vigilant",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the option that is nearest the meaning to the given word: Equanimity",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the word which is opposite in meaning to the given word: Vigilant",
+          "score": 0.7
+        },
+        {
+          "actual": "Mark the synonym of the given word: Innocuous",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Select the most appropriate ANTONYM of the given word: Fastidious",
+          "score": 0.7
+        },
+        {
+          "actual": "Mark the antonym of the given word: Reticent",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Select the most appropriate ANTONYM of the given word: Fastidious",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the option that is antonym to the meaning of the given word: Veracity",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Select the most appropriate ANTONYM of the given word: Fastidious",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the option that is opposite in the meaning to the underlined word: Laud",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the word which is opposite in meaning to the given word: Vigilant",
+          "score": 0.7
+        },
+        {
+          "actual": "What X happen to them after us? (From Cloze Test Passage)",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate word from the options against ____X____: The manager oversees all the financial operations _____X______ the company.",
+          "score": 0.7
+        },
+        {
+          "actual": "Hence special schools for such children, spread all Y the world... (From Cloze Test Passage)",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate word from the options against ____X____: The manager oversees all the financial operations _____X______ the company.",
+          "score": 0.7
+        },
+        {
+          "actual": "This, of course, is quite Z and admirable. (From Cloze Test Passage)",
+          "topic": "Cloze Test",
+          "best_generated_match": "Fill in the blank with the most appropriate option: The new employee is not only skilled _______ also very experienced.",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the most appropriate meaning of the given idiom: Tuck in",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the alternative which best expresses the meaning of the idiom/phrase given in bold: **Bite off more than you can chew**",
+          "score": 0.7
+        },
+        {
+          "actual": "The athlete's performance has been _________ of controversy due to allegations of doping.",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the one which best expresses the meaning of the given idiom: The new policy has put the company between the devil and the deep blue sea.",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the most appropriate meaning of the given idiom: Wet blanket",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the one which best expresses the meaning of the given idiom: When the company went bankrupt, the employees were left high and dry.",
+          "score": 0.7
+        },
+        {
+          "actual": "The construction of the pyramids in Egypt ____________________. P: a remarkable feat Q: by ancient Egyptians R: that was accomplished S: is considered",
+          "topic": "Para Jumbles",
+          "best_generated_match": "Arrange the jumbled parts of the sentence: P. to launch a new satellite. Q. that the space agency R. is planning and S. Dr. Kasturirangan confirmed",
+          "score": 0.7
+        },
+        {
+          "actual": "The discovery of penicillin by Alexander Fleming ____________________. P: in 1928 revolutionized Q: which had a profound impact on R: antibiotics S: the development of modern medicine",
+          "topic": "Para Jumbles",
+          "best_generated_match": "Arrange the jumbled parts of the sentence: P. to launch a new satellite. Q. that the space agency R. is planning and S. Dr. Kasturirangan confirmed",
+          "score": 0.7
+        },
+        {
+          "actual": "The airlock _________ P: sealing her fate Q: hissed shut, R: with S: the silent vacuum",
+          "topic": "Para Jumbles",
+          "best_generated_match": "Arrange the jumbled parts of the sentence: P. to launch a new satellite. Q. that the space agency R. is planning and S. Dr. Kasturirangan confirmed",
+          "score": 0.7
+        },
+        {
+          "actual": "A fortress on a commanding height for defense of a city is called",
+          "topic": "One Word Substitution",
+          "best_generated_match": "Choose the most appropriate word: Giving a false appearance of being sincere; insincere.",
+          "score": 0.7
+        },
+        {
+          "actual": "What is the purpose of a psycho motor test?",
+          "topic": "Reading Comprehension",
+          "best_generated_match": "Which of the following statements is the most appropriate description of the character's behavior?",
+          "score": 0.7
+        },
+        {
+          "actual": "Which of the following is an example of a psycho motor test?",
+          "topic": "Reading Comprehension",
+          "best_generated_match": "Which of the following statements is the most appropriate description of the character's behavior?",
+          "score": 1.0
+        },
+        {
+          "actual": "Why are psycho motor tests important?",
+          "topic": "Reading Comprehension",
+          "best_generated_match": "Read the passage: The old man had a unique approach to problem-solving... Why was the old man's approach to problem-solving considered unconventional?",
+          "score": 0.7
+        },
+        {
+          "actual": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\nThe more you (A)/ study, the most (B)/ you learn. (C)/ No error (D)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The manager of the company (A)/ expect all employees (B)/ to follow the rules (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\nWise Solomon is famous (a)/ in history (b)/ for his infallible justice. (c)/ No error (d)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The manager of the company (A)/ expect all employees (B)/ to follow the rules (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\nThough she is my friend, (a) /but I cannot help (b)/criticizing his speech. (c)/ No error (d)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The new policy (A)/ are intended to (B)/ help the employees (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.\nI have (A)/ not seen him (B)/ since twenty years. (C)/ No error (D)",
+          "topic": "Spotting Errors",
+          "best_generated_match": "The manager of the company (A)/ expect all employees (B)/ to follow the rules (C)/ No error. (D)",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the word or group of words you consider most appropriate for the blank space.\nI wish I ________ her before we met.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Fill in the blank with the most appropriate option: If I _______ studied harder, I would have passed the exam.",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the correct preposition from the given options.\nPeople who are averse __________hard work, generally do not succeed in life.",
+          "topic": "Grammar",
+          "best_generated_match": "The manager would rather you _______ the report by the end of the week.",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the word or group of words you consider most appropriate for the blank space.\nThe football match has to be ____ because of the weather.",
+          "topic": "Grammar",
+          "best_generated_match": "The manager would rather you _______ the report by the end of the week.",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the word or group of words you consider most appropriate for the blank space.\nIt was a _______ experience. Everybody was shocked.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate word from the options against ____X____: The manager oversees all the financial operations _____X______ the company.",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the option that is nearest the meaning to the given word:\nOstentatious",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the word which is opposite in meaning to the given word: Vigilant",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the option that is nearest the meaning to the given word:\nEquanimity",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the word which is opposite in meaning to the given word: Vigilant",
+          "score": 0.7
+        },
+        {
+          "actual": "Mark the synonym of the given word:\nInnocuous",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Select the most appropriate ANTONYM of the given word: Fastidious",
+          "score": 0.7
+        },
+        {
+          "actual": "Mark the antonym of the given word:\nReticent",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Select the most appropriate ANTONYM of the given word: Fastidious",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the option that is antonym to the meaning of the given word:\nVeracity",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Select the most appropriate ANTONYM of the given word: Fastidious",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the option that is opposite in the meaning to the underlined word:\nLaud",
+          "topic": "Synonyms/Antonyms",
+          "best_generated_match": "Choose the word which is opposite in meaning to the given word: Vigilant",
+          "score": 0.7
+        },
+        {
+          "actual": "Choose the best word to fit the meaning of the passage for blank X:\nWhat X happen to them after us?",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate word from the options against ____X____: The manager oversees all the financial operations _____X______ the company.",
+          "score": 0.7
+        },
+        {
+          "actual": "Choose the best word to fit the meaning of the passage for blank Y:\nHence special schools for such children, spread all Y the world...",
+          "topic": "Cloze Test",
+          "best_generated_match": "Select the most appropriate word from the options against ____X____: The manager oversees all the financial operations _____X______ the company.",
+          "score": 0.7
+        },
+        {
+          "actual": "Choose the best word to fit the meaning of the passage for blank Z:\nThis, of course, is quite Z and admirable.",
+          "topic": "Cloze Test",
+          "best_generated_match": "Fill in the blank with the most appropriate option: The new employee is not only skilled _______ also very experienced.",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the most appropriate meaning of the given idiom:\nTuck in",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the alternative which best expresses the meaning of the idiom/phrase given in bold: **Bite off more than you can chew**",
+          "score": 0.7
+        },
+        {
+          "actual": "Fill in the blank with the most appropriate word from the given options.\nThe athlete's performance has been _________ of controversy due to allegations of doping.",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the alternative which best expresses the meaning of the idiom/phrase given in bold: **Bite off more than you can chew**",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the most appropriate meaning of the given idiom:\nWet blanket",
+          "topic": "Idioms & Phrases",
+          "best_generated_match": "Choose the one which best expresses the meaning of the given idiom: When the company went bankrupt, the employees were left high and dry.",
+          "score": 0.7
+        },
+        {
+          "actual": "Arrange the jumbled parts of the sentence correctly:\nThe construction of the pyramids in Egypt ____________________.\nP: a remarkable feat\nQ: by ancient Egyptians\nR: that was accomplished\nS: is considered",
+          "topic": "Para Jumbles",
+          "best_generated_match": "Arrange the jumbled parts of the sentence: P. to launch a new satellite. Q. that the space agency R. is planning and S. Dr. Kasturirangan confirmed",
+          "score": 1.0
+        },
+        {
+          "actual": "Arrange the jumbled parts of the sentence correctly:\nThe discovery of penicillin by Alexander Fleming ____________________.\nP: in 1928 revolutionized\nQ: which had a profound impact on\nR: antibiotics\nS: the development of modern medicine",
+          "topic": "Para Jumbles",
+          "best_generated_match": "Arrange the jumbled parts of the sentence: P. to launch a new satellite. Q. that the space agency R. is planning and S. Dr. Kasturirangan confirmed",
+          "score": 1.0
+        },
+        {
+          "actual": "Arrange the jumbled parts of the sentence correctly:\nThe airlock _________\nP: sealing her fate\nQ: hissed shut,\nR: with\nS: the silent vacuum",
+          "topic": "Para Jumbles",
+          "best_generated_match": "Arrange the jumbled parts of the sentence: P. to launch a new satellite. Q. that the space agency R. is planning and S. Dr. Kasturirangan confirmed",
+          "score": 1.0
+        },
+        {
+          "actual": "A fortress on a commanding height for defense of a city is called",
+          "topic": "One Word Substitution",
+          "best_generated_match": "Choose the most appropriate word: Giving a false appearance of being sincere; insincere.",
+          "score": 0.7
+        }
+      ]
+    },
+    "Reasoning": {
+      "average_score": 0.6287,
+      "questions": [
+        {
+          "actual": "Each question consists of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.\nNative : Aboriginal :: Naive : ______",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Select the option in which the words share the same relationship as that shared by the given pair of words. Library : Book :: _____: Painting",
+          "score": 0.7
+        },
+        {
+          "actual": "Each question consists of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.\nPedantic : Precise",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Select the option in which the words share the same relationship as that shared by the given pair of words. Library : Book :: _____: Painting",
+          "score": 0.7
+        },
+        {
+          "actual": "Window: Panes :: Book: ?",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Select the option in which the words share the same relationship as that shared by the given pair of words. Library : Book :: _____: Painting",
+          "score": 0.7
+        },
+        {
+          "actual": "Pernicious: Malignant :: ?",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Choose the pair of words that best expresses the relationship like the original pair: Painter: Brush",
+          "score": 0.0
+        },
+        {
+          "actual": "Marathon: Race :: Hibernation: ?",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Choose the pair of words that best expresses the relationship like the original pair: Painter: Brush",
+          "score": 0.0
+        },
+        {
+          "actual": "Nescent: Fruition :: Embryonic: ?",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Choose the pair of words that best expresses the relationship like the original pair: Painter: Brush",
+          "score": 0.0
+        },
+        {
+          "actual": "Water: transparent ::",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Choose the pair of words that best expresses the relationship like the original pair: Painter: Brush",
+          "score": 0.0
+        },
+        {
+          "actual": "Each question consists of two words which have a certain relationship to each other followed by four pairs of related words. Select the pair which has the same relationship.\n\nDog: Dalmatian :: Finch: _____",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Select the option in which the words share the same relationship as that shared by the given pair of words. Library : Book :: _____: Painting",
+          "score": 0.7
+        },
+        {
+          "actual": "Each question consists of two words which have a certain relationship to each other followed by four pairs of related words. Select the pair which has the same relationship.\n\nLoathe : admire ::",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Select the option in which the words share the same relationship as that shared by the given pair of words. Library : Book :: _____: Painting",
+          "score": 0.7
+        },
+        {
+          "actual": "Abjure: Renounce :: Alleviate:?",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Choose the pair of words that best expresses the relationship like the original pair: Painter: Brush",
+          "score": 0.0
+        },
+        {
+          "actual": "Sculptor:Clay :: Author: ?",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Choose the pair of words that best expresses the relationship like the original pair: Painter: Brush",
+          "score": 0.0
+        },
+        {
+          "actual": "Extraneous: Irrelevant",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Choose the pair of words that best expresses the relationship like the original pair: Painter: Brush",
+          "score": 0.0
+        },
+        {
+          "actual": "Quintessence: Exemplar",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Choose the pair of words that best expresses the relationship like the original pair: Painter: Brush",
+          "score": 0.0
+        },
+        {
+          "actual": "Complaisant: Antagonistic",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Choose the pair of words that best expresses the relationship like the original pair: Painter: Brush",
+          "score": 0.0
+        },
+        {
+          "actual": "In a certain code language, 'JAIL' is coded as '304', 'LAWN' is coded as '232'. What is the code for 'NAVY' in that code language?",
+          "topic": "Coding-Decoding",
+          "best_generated_match": "If in a certain language, FABLE is coded as GBCMF, then how is CLOUD coded in that language?",
+          "score": 0.7
+        },
+        {
+          "actual": "Find the missing letters in the following series? CYY, GXT, EVW, ISR, ?",
+          "topic": "Number/Letter Series",
+          "best_generated_match": "Select the option that will correctly replace the question mark (?) in the series. 3, 9, 21, ?, 93, 189",
+          "score": 0.7
+        },
+        {
+          "actual": "If A x B means that A is the father of B, A - B means that A is the mother of B, A + B means that A is the brother of B then which of the following expression shows that P is the son of Q?",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Rahul remembers that the meeting is after 15th June but before 20th June, while Priya remembers that the meeting is after 12th June but before 18th June. On which date of June is the meeting?",
+          "score": 0.7
+        },
+        {
+          "actual": "Statements: I. Some boy are human. II. All human are hard. Conclusion: I. Some hard are not boy. II. Some human are not boy. III. No hard is human.",
+          "topic": "Syllogism",
+          "best_generated_match": "Choose the statement which is wrong or doubtful: ",
+          "score": 0.7
+        },
+        {
+          "actual": "A is 2 years older to B. B is 5 years younger to C. C is 3 years older to D. D is 6 years younger to E. Who is the youngest?",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Rahul remembers that the meeting is after 15th June but before 20th June, while Priya remembers that the meeting is after 12th June but before 18th June. On which date of June is the meeting?",
+          "score": 0.7
+        },
+        {
+          "actual": "Four pairs of numbers have been given out of which three are alike in some manner, while one is different. Choose the odd one.",
+          "topic": "Verbal Classification",
+          "best_generated_match": "Four words have been given out of which three are alike in same manner, while the fourth one is different. Choose the word which is different from the rest: Fountain, River, Lake, Mountain",
+          "score": 0.7
+        },
+        {
+          "actual": "Arrange the following words in the order in which they appear in an English dictionary. 1.Meticulous 2.Metric 3.Method 4.Mettle 5.Meter",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Study the given pattern carefully and select the number that can replace the question mark(?) in it. 2, 5, 8, 11, 14, ?",
+          "score": 0.7
+        },
+        {
+          "actual": "In a certain code language, 'match is over' is written as 'en jo hi', 'the cricket match' is written as 'lu mo en', and 'over the globe' is written as 'hi lu nok'. How will 'cricket' be written in that language?",
+          "topic": "Coding-Decoding",
+          "best_generated_match": "If in a certain code, BANK is written as CBOD and PORT is written as QPSU, then how will DOCK be written in that code?",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the odd letters from the given alternatives.",
+          "topic": "Verbal Classification",
+          "best_generated_match": "In each of the following questions, four words have been given out of which three are alike in same manner, while the fourth one is different. Choose the word which is different from the rest: Ruby, Emerald, Sapphire, Marble",
+          "score": 0.7
+        },
+        {
+          "actual": "Cockpit: Aeroplane :: ?",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Choose the pair of words that best expresses the relationship like the original pair: Painter: Brush",
+          "score": 0.0
+        },
+        {
+          "actual": "Which number will replace the question mark (?) in the following series? 58, 59, 51, 78, 14, ?",
+          "topic": "Number/Letter Series",
+          "best_generated_match": "Select the option that will correctly replace the question mark (?) in the series. 3, 9, 21, ?, 93, 189",
+          "score": 0.7
+        },
+        {
+          "actual": "In the question four words are given of which three are alike in some way, and one is different, find the odd one out?",
+          "topic": "Verbal Classification",
+          "best_generated_match": "In each of the following questions, four words have been given out of which three are alike in same manner, while the fourth one is different. Choose the word which is different from the rest: Ruby, Emerald, Sapphire, Marble",
+          "score": 0.7
+        },
+        {
+          "actual": "Statements: All ministers are politicians. All pilots are ministers. No engineer is a politician. Conclusions: I. Some ministers are pilots. II. No engineer is a minister. III. No engineer is a pilot.",
+          "topic": "Syllogism",
+          "best_generated_match": "Choose the statement which is wrong or doubtful: ",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the set in which the numbers are related in the same way as are the numbers of the following set. (3, 14, 1); (4, 36, 2)",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Select the option in which the words share the same relationship as that shared by the given pair of words. Library : Book :: _____: Painting",
+          "score": 0.7
+        },
+        {
+          "actual": "In a certain code language, 'GLAND' is written as 'GQDOJ' and 'MEANS' is written as 'VQDHP'. How will 'CYSTS' be written in that language?",
+          "topic": "Coding-Decoding",
+          "best_generated_match": "If in a certain code, BANK is written as CBOD and PORT is written as QPSU, then how will DOCK be written in that code?",
+          "score": 0.7
+        },
+        {
+          "actual": "Choose the pair that best expresses the relationship like the original pair:\nExtraneous: Irrelevant",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Choose the pair of words that best expresses the relationship like the original pair: Painter: Brush",
+          "score": 0.7
+        },
+        {
+          "actual": "Choose the pair that best expresses the relationship like the original pair:\nQuintessence: Exemplar",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Choose the pair of words that best expresses the relationship like the original pair: Painter: Brush",
+          "score": 0.7
+        },
+        {
+          "actual": "Choose the pair that best expresses the relationship like the original pair:\nComplaisant: Antagonistic",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Choose the pair of words that best expresses the relationship like the original pair: Painter: Brush",
+          "score": 0.7
+        },
+        {
+          "actual": "What is the angle between the two hands of a clock when the time shown by the clock is 5:30 pm.?",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Rahul remembers that the meeting is after 15th June but before 20th June, while Priya remembers that the meeting is after 12th June but before 18th June. On which date of June is the meeting?",
+          "score": 0.7
+        },
+        {
+          "actual": "When I was going to the office from my house early in the morning, my shadow formed on my right hand side. In which direction I am going to office?",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Study the given pattern carefully and select the number that can replace the question mark(?) in it. 2, 5, 8, 11, 14, ?",
+          "score": 0.7
+        },
+        {
+          "actual": "If BAT is coded as 23 and RABBIT is coded as 52, then how will you code RESEARCH?",
+          "topic": "Coding-Decoding",
+          "best_generated_match": "If in a certain language, FABLE is coded as GBCMF, then how is CLOUD coded in that language?",
+          "score": 0.7
+        },
+        {
+          "actual": "Three of the following letter-number-clusters are alike in some manner and hence form a group. Which letter-number-cluster does not belong to that group?",
+          "topic": "Verbal Classification",
+          "best_generated_match": "In each of the following questions, four words have been given out of which three are alike in same manner, while the fourth one is different. Choose the word which is different from the rest: Ruby, Emerald, Sapphire, Marble",
+          "score": 0.7
+        },
+        {
+          "actual": "When will the hour and minute hands be opposite to each other in time 7 to 8?",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Study the given pattern carefully and select the number that can replace the question mark(?) in it. 2, 5, 8, 11, 14, ?",
+          "score": 0.7
+        },
+        {
+          "actual": "Among five girls Anju, Bittu, Charul, Drishti and Sara all have different ages. Anju is younger than only Drishti and Sara. Sara is younger than Drishti and older than Bittu. Charul is the youngest. Who is the fourth eldest among the girls?",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Rahul remembers that the meeting is after 15th June but before 20th June, while Priya remembers that the meeting is after 12th June but before 18th June. On which date of June is the meeting?",
+          "score": 0.7
+        },
+        {
+          "actual": "If A's rank from the top is 25 and the number of persons sitting behind A is the twice person sits above A. Find the number of persons sitting between A and B, if B's rank from the bottom is 7.",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Rahul remembers that the meeting is after 15th June but before 20th June, while Priya remembers that the meeting is after 12th June but before 18th June. On which date of June is the meeting?",
+          "score": 0.7
+        },
+        {
+          "actual": "Rani is the sister of Piyush and the daughter of Kamal. Kamal is the son of Gaurav and the brother of Aryan. Aryan is the father of Rajneesh. How is Aryan related to Piyush?",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Rahul remembers that the meeting is after 15th June but before 20th June, while Priya remembers that the meeting is after 12th June but before 18th June. On which date of June is the meeting?",
+          "score": 0.7
+        },
+        {
+          "actual": "In the family there are four members Grandmother, Husband, Wife and Child. P is the grandmother of M is mother of N. O is the wife of N. How O related to M.",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Rahul remembers that the meeting is after 15th June but before 20th June, while Priya remembers that the meeting is after 12th June but before 18th June. On which date of June is the meeting?",
+          "score": 0.7
+        },
+        {
+          "actual": "Study the given pattern carefully and select the number that can replace the question mark (?) in it.",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Study the given pattern carefully and select the number that can replace the question mark(?) in it. 2, 5, 8, 11, 14, ?",
+          "score": 1.0
+        },
+        {
+          "actual": "Study the given pattern carefully and select the number from among the given options that can replace the question mark (?).",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Study the given pattern carefully and select the number that can replace the question mark(?) in it. 2, 5, 8, 11, 14, ?",
+          "score": 1.0
+        },
+        {
+          "actual": "A series is given, with one number missing. Choose the correct alternative from the given ones that will complete the series. 1, 5, 5, 9, 7, 11, 11, 15, ?, 17",
+          "topic": "Number/Letter Series",
+          "best_generated_match": "Select the option that will correctly replace the question mark (?) in the series. 3, 9, 21, ?, 93, 189",
+          "score": 0.7
+        },
+        {
+          "actual": "Arrange these letters of each group to make a meaningful word and then find the odd one out. (A) VEENS (B) VIDEID (C) ORFU (D) GHIET",
+          "topic": "Verbal Classification",
+          "best_generated_match": "In each of the following questions, four words have been given out of which three are alike in same manner, while the fourth one is different. Choose the word which is different from the rest: Ruby, Emerald, Sapphire, Marble",
+          "score": 0.7
+        },
+        {
+          "actual": "Arrange these letters of each group to make a meaningful word and then find the odd one out. (A) ANCEDC (B) BAHECN (C) ARAAHHGG (D) TIMGO",
+          "topic": "Verbal Classification",
+          "best_generated_match": "In each of the following questions, four words have been given out of which three are alike in same manner, while the fourth one is different. Choose the word which is different from the rest: Ruby, Emerald, Sapphire, Marble",
+          "score": 0.7
+        },
+        {
+          "actual": "In the following question, select the related number from the given alternatives. 20 : 11 :: 102 : ?",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Select the related word from the given alternatives: Circle : 360° :: Hexagon: ?",
+          "score": 0.7
+        },
+        {
+          "actual": "In a certain code language, 'TALCUM' is written as 'LSZHVN' and 'GRAINS' is written as 'RLFWMA'. How will 'LOWER' be written in that language?",
+          "topic": "Coding-Decoding",
+          "best_generated_match": "If in a certain code, BANK is written as CBOD and PORT is written as QPSU, then how will DOCK be written in that code?",
+          "score": 0.7
+        },
+        {
+          "actual": "In a certain code language, 'TRAM' is written as 'UQBL' and 'PAST' is written as 'QZTS'. How will 'DEED' be written in that language?",
+          "topic": "Coding-Decoding",
+          "best_generated_match": "If in a certain code, BANK is written as CBOD and PORT is written as QPSU, then how will DOCK be written in that code?",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the option that is related to the fifth letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster and the fourth letter-cluster is related to the third letter-cluster. QPON : RRRR :: IJGK : JLJO :: PKON : ?",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Select the option in which the words share the same relationship as that shared by the given pair of words. Library : Book :: _____: Painting",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the number from among the given options that can replace the question mark (?) in the following series. 74, 74, 72, 24, ?, 4",
+          "topic": "Number/Letter Series",
+          "best_generated_match": "Select the option that will correctly replace the question mark (?) in the series. 3, 9, 21, ?, 93, 189",
+          "score": 0.7
+        },
+        {
+          "actual": "In a certain code language, 'SWISS' is written as 'HDRHH', and 'TABOO' is written as 'GZYLL'. How will 'REHAB' be written in that language?",
+          "topic": "Coding-Decoding",
+          "best_generated_match": "If in a certain code, BANK is written as CBOD and PORT is written as QPSU, then how will DOCK be written in that code?",
+          "score": 0.7
+        },
+        {
+          "actual": "In a certain code language, 'ADD' is written as '8' and 'SUB' is written as '41'. How is 'MUL' written in that code language?",
+          "topic": "Coding-Decoding",
+          "best_generated_match": "In a certain code language, “CLOUD” is written as “DMPVE” and “STORM” is written as “TQSPU”. How is “RAINY” written in that code language?",
+          "score": 1.0
+        },
+        {
+          "actual": "If 23@5=56; 6@7=26; 5@2=14; then what is the value of 7 @ 5= ?",
+          "topic": "Coding-Decoding",
+          "best_generated_match": "If in a certain language, FABLE is coded as GBCMF, then how is CLOUD coded in that language?",
+          "score": 0.7
+        },
+        {
+          "actual": "In a certain coded language, Red is called Blue, Blue is called Black, Black is called White, White is called Yellow, Yellow is called Pink, Pink is called Brown, and Brown is called Orange. What will be the name of the movie 'Sky is Pink' in the same coded language?",
+          "topic": "Coding-Decoding",
+          "best_generated_match": "If in a certain language, FABLE is coded as GBCMF, then how is CLOUD coded in that language?",
+          "score": 0.7
+        },
+        {
+          "actual": "My parents' wedding anniversary was celebrated on 4th December 2021 on Saturday, so what day will their anniversary be next year?",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Rahul remembers that the meeting is after 15th June but before 20th June, while Priya remembers that the meeting is after 12th June but before 18th June. On which date of June is the meeting?",
+          "score": 0.7
+        },
+        {
+          "actual": "Kaliya is 13th from the left side and Gabbar is 20th from the right side in a row. They decided to interchange their positions, now Kaliya becomes 18th from the left side. What will Gabbar's position from the right?",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Rahul remembers that the meeting is after 15th June but before 20th June, while Priya remembers that the meeting is after 12th June but before 18th June. On which date of June is the meeting?",
+          "score": 0.7
+        },
+        {
+          "actual": "Showing a man, a woman said, 'his brother's father is the only son of my grandfather'. How is the woman related to the man?",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Rahul remembers that the meeting is after 15th June but before 20th June, while Priya remembers that the meeting is after 12th June but before 18th June. On which date of June is the meeting?",
+          "score": 0.7
+        },
+        {
+          "actual": "Arrange these letters of each group to make a meaningful word and then find the odd one out: RDQAUSNO, EMOMCOROD, ANCEDOG, LARHSAM",
+          "topic": "Verbal Classification",
+          "best_generated_match": "In each of the following questions, four words have been given out of which three are alike in same manner, while the fourth one is different. Choose the word which is different from the rest: Ruby, Emerald, Sapphire, Marble",
+          "score": 0.7
+        },
+        {
+          "actual": "If you will arrange the following options, it will give you a meaningful word. Select the odd word from the given alternatives: EEWRSTA, KCTAEJ, EECFEL, ENBIAE",
+          "topic": "Verbal Classification",
+          "best_generated_match": "In each of the following questions, four words have been given out of which three are alike in same manner, while the fourth one is different. Choose the word which is different from the rest: Ruby, Emerald, Sapphire, Marble",
+          "score": 0.7
+        },
+        {
+          "actual": "Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the letter-cluster that is different: MN, GT, KP, QL",
+          "topic": "Verbal Classification",
+          "best_generated_match": "Four words have been given out of which three are alike in same manner, while the fourth one is different. Choose the word which is different from the rest: Fountain, River, Lake, Mountain",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the option that is related to the third number in the same way as the second number is related to the first number and the sixth number is related to the fifth number. 21 : 112 :: 36 : ? :: 51 : 272",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Select the option in which the words share the same relationship as that shared by the given pair of words. Library : Book :: _____: Painting",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the option that is related to the fifth term in the same way as the second term is related to the first term and the fourth term is related to the third term. LOGO : PHPM :: MOCK : LDPN :: DEAR : ?",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Select the option in which the words share the same relationship as that shared by the given pair of words. Library : Book :: _____: Painting",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the related letter word/number from the given alternative. CFIL : ABCD :: ? : WXYZ",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Select the related word from the given alternatives: Circle : 360° :: Hexagon: ?",
+          "score": 0.7
+        },
+        {
+          "actual": "Vilas went from his home to his college. He started his journey facing East. First, he went 2 km straight; then he turned to his right and went 3 km; finally, he turned left and walked 4 km to reach his college. To which direction is Vilas's home located in relation to his college?",
+          "topic": "Direction Sense",
+          "best_generated_match": "Two friends X and Y are walking in a park. They start from the same point. X walks 200 m North, then turns to her right and walks 180 m. Y walks 160 m South, then turns East and walks 200 m. then turns to her right and walks 150 m. Where is Y with respect to X now?",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the number from among the given options that can replace the question mark (?) in the following series. 1, 6, 25, 76, ?, 154",
+          "topic": "Number/Letter Series",
+          "best_generated_match": "Select the option that will correctly replace the question mark (?) in the series. 3, 9, 21, ?, 93, 189",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the number from the given alternatives that can replace the question mark (?) in the following series. 20, 21, 25, 34, ?, 75",
+          "topic": "Number/Letter Series",
+          "best_generated_match": "Select the option that will correctly replace the question mark (?) in the series. 3, 9, 21, ?, 93, 189",
+          "score": 0.7
+        },
+        {
+          "actual": "Six houses, A, B, C, X, Y and Z, are located in the same colony. A is 60 m to the south of Z. Y is 170 m to the west of Z. X is 110 m to the north of Z. C is 140 m to the south of A. B is 130 m to the east of A. In which direction is House X with reference to House A?",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Rahul remembers that the meeting is after 15th June but before 20th June, while Priya remembers that the meeting is after 12th June but before 18th June. On which date of June is the meeting?",
+          "score": 0.7
+        },
+        {
+          "actual": "A person face east he turns 135 degree anticlockwise than 90 degree clockwise in which direction is he facing now?",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Rahul remembers that the meeting is after 15th June but before 20th June, while Priya remembers that the meeting is after 12th June but before 18th June. On which date of June is the meeting?",
+          "score": 0.7
+        },
+        {
+          "actual": "In a certain code language, if 'PDU' is written as ' 40 ' and 'HXO' is written as ' 34 ', how will 'BMW' be written in the same code language?",
+          "topic": "Coding-Decoding",
+          "best_generated_match": "If in a certain code, BANK is written as CBOD and PORT is written as QPSU, then how will DOCK be written in that code?",
+          "score": 0.7
+        },
+        {
+          "actual": "In a row all of them are facing south Sham is 16th from the left end and Ram is 16th from the right end. Karan is 5th to right of Ram and 5th to left of Sham. Find total number of persons?",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Rahul remembers that the meeting is after 15th June but before 20th June, while Priya remembers that the meeting is after 12th June but before 18th June. On which date of June is the meeting?",
+          "score": 0.7
+        },
+        {
+          "actual": "Among six friends C, V, Z, N, X and B, each has a different height. Z is taller than only four other friends. N is taller than only one friend. X is taller than B but shorter than V. V is not the tallest. Who is the tallest among all the friends?",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Rahul remembers that the meeting is after 15th June but before 20th June, while Priya remembers that the meeting is after 12th June but before 18th June. On which date of June is the meeting?",
+          "score": 0.7
+        },
+        {
+          "actual": "Pointing to the photograph of a girl, Raghav said, \"She is my father's mother's daughter's only brother's daughter\". How is Raghav's father related to that girl's mother?",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Rahul remembers that the meeting is after 15th June but before 20th June, while Priya remembers that the meeting is after 12th June but before 18th June. On which date of June is the meeting?",
+          "score": 0.7
+        },
+        {
+          "actual": "T is the mother of S's father. U is the wife of S. V is the only son of W who is married to T. X is the daughter of U. Y is the brother of X and married to Z. How is S related to Z?",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Rahul remembers that the meeting is after 15th June but before 20th June, while Priya remembers that the meeting is after 12th June but before 18th June. On which date of June is the meeting?",
+          "score": 0.7
+        },
+        {
+          "actual": "There are seven people in a family. A is married to C. A has two children, B and E. A is the mother of B and E. B is the wife of L. P is the wife of E. L has one daughter G. E has one daughter K. How is C related to K?",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Rahul remembers that the meeting is after 15th June but before 20th June, while Priya remembers that the meeting is after 12th June but before 18th June. On which date of June is the meeting?",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the number that will replace the question mark (?) in the following series. 5, 10, ?, 36, 69, 134",
+          "topic": "Number/Letter Series",
+          "best_generated_match": "Select the option that will correctly replace the question mark (?) in the series. 3, 9, 21, ?, 93, 189",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the number that can replace the question mark (?) in the following figure series.",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Study the given pattern carefully and select the number that can replace the question mark(?) in it. 2, 5, 8, 11, 14, ?",
+          "score": 0.7
+        },
+        {
+          "actual": "Jumble the given jumbled words in a meaningful order and then select the odd one out . (A) NOTWEN (B) NIETSNIE (C) SGNIKWAH (D) ARAL",
+          "topic": "Verbal Classification",
+          "best_generated_match": "In each of the following questions, four words have been given out of which three are alike in same manner, while the fourth one is different. Choose the word which is different from the rest: Ruby, Emerald, Sapphire, Marble",
+          "score": 0.7
+        },
+        {
+          "actual": "Arrange these letters of each group to make a meaningful word and then find the odd one out. (A) SIHYCSP (B) MTYHCSEIR (C) GOIOYLB (D) LHOCOS",
+          "topic": "Verbal Classification",
+          "best_generated_match": "In each of the following questions, four words have been given out of which three are alike in same manner, while the fourth one is different. Choose the word which is different from the rest: Ruby, Emerald, Sapphire, Marble",
+          "score": 0.7
+        },
+        {
+          "actual": "Arrange these letters of each group to make a meaningful word and then find the odd one out. (A) RYHABNI (B) GNEAR (C) SAMOHRB (D) AHASK",
+          "topic": "Verbal Classification",
+          "best_generated_match": "In each of the following questions, four words have been given out of which three are alike in same manner, while the fourth one is different. Choose the word which is different from the rest: Ruby, Emerald, Sapphire, Marble",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number. 9 : 512 :: 10 : ?",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Select the option in which the words share the same relationship as that shared by the given pair of words. Library : Book :: _____: Painting",
+          "score": 0.7
+        },
+        {
+          "actual": "Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the one that is different.",
+          "topic": "Verbal Classification",
+          "best_generated_match": "Four words have been given out of which three are alike in same manner, while the fourth one is different. Choose the word which is different from the rest: Fountain, River, Lake, Mountain",
+          "score": 0.7
+        },
+        {
+          "actual": "In the following question, select the odd word from the given alternatives.",
+          "topic": "Verbal Classification",
+          "best_generated_match": "In each of the following questions, four words have been given out of which three are alike in same manner, while the fourth one is different. Choose the word which is different from the rest: Ruby, Emerald, Sapphire, Marble",
+          "score": 0.7
+        },
+        {
+          "actual": "Study the given pattern carefully and select the number that can replace the question mark (?) in it.",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Study the given pattern carefully and select the number that can replace the question mark(?) in it. 2, 5, 8, 11, 14, ?",
+          "score": 1.0
+        },
+        {
+          "actual": "In a certain code language. 'HUMP' is written as 'GTLO' and 'LIKE' is written as 'KHJD'. How will 'PLAY' be written in that language?",
+          "topic": "Coding-Decoding",
+          "best_generated_match": "If in a certain code, BANK is written as CBOD and PORT is written as QPSU, then how will DOCK be written in that code?",
+          "score": 0.7
+        },
+        {
+          "actual": "There are some people standing in front of the two counters. In the first counter girl1 rank is seventh from the counter and eighteenth from the back, in the second counter girl2 rank is third from the front and thirteen from the back. Find the total number of people standing in both the counters?",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Study the given pattern carefully and select the number that can replace the question mark(?) in it. 2, 5, 8, 11, 14, ?",
+          "score": 0.7
+        },
+        {
+          "actual": "A car is parked in front of the office facing north. Driver drives the car for some distance and takes a right turn, then after driving a few distance he takes a right turn, then after a few distance he takes a left turn and reaches his home. Now in which direction the car is facing?",
+          "topic": "Direction Sense",
+          "best_generated_match": "Two friends X and Y are walking in a park. They start from the same point. X walks 200 m North, then turns to her right and walks 180 m. Y walks 160 m South, then turns East and walks 200 m. then turns to her right and walks 150 m. Where is Y with respect to X now?",
+          "score": 0.7
+        },
+        {
+          "actual": "In a certain code language \"MANGO\" is written as \"PHOBN\" and \"ORANGE\" is written as \"FHOBSP\". How will \"GRAPES\" be written in that code language?",
+          "topic": "Coding-Decoding",
+          "best_generated_match": "If in a certain code, BANK is written as CBOD and PORT is written as QPSU, then how will DOCK be written in that code?",
+          "score": 0.7
+        },
+        {
+          "actual": "Three of the following four are alike in a certain way and so form a group. Which one does not belong to that group?",
+          "topic": "Verbal Classification",
+          "best_generated_match": "In each of the following questions, four words have been given out of which three are alike in same manner, while the fourth one is different. Choose the word which is different from the rest: Ruby, Emerald, Sapphire, Marble",
+          "score": 0.7
+        },
+        {
+          "actual": "Which number would replace the question mark (?) in the following number series? 131, 132, 141, 166, 215, ?, 417",
+          "topic": "Number/Letter Series",
+          "best_generated_match": "Select the option that will correctly replace the question mark (?) in the series. 3, 9, 21, ?, 93, 189",
+          "score": 0.7
+        },
+        {
+          "actual": "Find the missing letter in the series. QCD, PDE, OEF, ?",
+          "topic": "Number/Letter Series",
+          "best_generated_match": "Select the option that will correctly replace the question mark (?) in the series. 3, 9, 21, ?, 93, 189",
+          "score": 0.7
+        },
+        {
+          "actual": "Pointing towards Kapil, Shilpa said, \"His mother's brother is the father of my son Ashish\". How is Kapil related to Shilpa?",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Rahul remembers that the meeting is after 15th June but before 20th June, while Priya remembers that the meeting is after 12th June but before 18th June. On which date of June is the meeting?",
+          "score": 0.7
+        },
+        {
+          "actual": "Dollar: United States:: Taka:?",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Choose the pair of words that best expresses the relationship like the original pair: Painter: Brush",
+          "score": 0.0
+        },
+        {
+          "actual": "Select the odd letter-set. EBM - HEP, BCH - EFK, DHL - GJO, ALG - DOJ",
+          "topic": "Verbal Classification",
+          "best_generated_match": "In each of the following questions, four words have been given out of which three are alike in same manner, while the fourth one is different. Choose the word which is different from the rest: Ruby, Emerald, Sapphire, Marble",
+          "score": 0.7
+        },
+        {
+          "actual": "Which of the mathematical signs should be interchanged in the below equation to make it mathematically correct? 45 - 5 + 96 / 8 * 24 = 9",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Study the given pattern carefully and select the number that can replace the question mark(?) in it. 2, 5, 8, 11, 14, ?",
+          "score": 0.7
+        },
+        {
+          "actual": "Statements: Some towns are cities. Some cities are villages. All villages are states. Conclusions: I. Some towns are not villages. II. Some states are cities.",
+          "topic": "Syllogism",
+          "best_generated_match": "Choose the statement which is wrong or doubtful: ",
+          "score": 0.0
+        },
+        {
+          "actual": "A series is given with one term wrong select that wrong term from the given alternatives. MCWH, PFZK, RICN, VLFQ",
+          "topic": "Verbal Classification",
+          "best_generated_match": "Four words have been given out of which three are alike in same manner, while the fourth one is different. Choose the word which is different from the rest: Fountain, River, Lake, Mountain",
+          "score": 0.7
+        },
+        {
+          "actual": "In the following question, select the related number from the given alternatives. 83:9::146:?",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Select the related word from the given alternatives: Circle : 360° :: Hexagon: ?",
+          "score": 0.7
+        },
+        {
+          "actual": "Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the letter-cluster that is different.",
+          "topic": "Verbal Classification",
+          "best_generated_match": "Four words have been given out of which three are alike in same manner, while the fourth one is different. Choose the word which is different from the rest: Fountain, River, Lake, Mountain",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the time that would depict the correct mirror image of 1:15 in a clock.",
+          "topic": "Logical Reasoning",
+          "best_generated_match": "Study the given pattern carefully and select the number that can replace the question mark(?) in it. 2, 5, 8, 11, 14, ?",
+          "score": 0.7
+        },
+        {
+          "actual": "Select the option that is related to the third number in the same way as the first number is related to the second number and fifth number is related to sixth number. 14:210::13:?::16:272",
+          "topic": "Verbal Analogy",
+          "best_generated_match": "Select the option in which the words share the same relationship as that shared by the given pair of words. Library : Book :: _____: Painting",
+          "score": 0.7
+        }
+      ]
+    },
+    "General Awareness": {
+      "average_score": 0.6038,
+      "questions": [
+        {
+          "actual": "Which of the following is NOT a key indicator used to assess the health of an economy?",
+          "topic": "Economy",
+          "best_generated_match": "[DM predicted 0 questions for this topic]",
+          "score": 0.0
+        },
+        {
+          "actual": "How do fiscal and monetary policies influence economic outcomes?",
+          "topic": "Economy",
+          "best_generated_match": "[DM predicted 0 questions for this topic]",
+          "score": 0.0
+        },
+        {
+          "actual": "What role does globalization play in the modern economy?",
+          "topic": "Economy",
+          "best_generated_match": "[DM predicted 0 questions for this topic]",
+          "score": 0.0
+        },
+        {
+          "actual": "Exercise BRIGHT STAR-23 was conducted between which of the following countries?",
+          "topic": "Defence",
+          "best_generated_match": "Which among the following is a fifth-generation stealth fighter aircraft developed by the United States?",
+          "score": 0.7
+        },
+        {
+          "actual": "Which of the following countries hosted BRICS 2023 summit?",
+          "topic": "Organizations",
+          "best_generated_match": "What is UNESCO Stands for?",
+          "score": 0.0
+        },
+        {
+          "actual": "Predator Drone was manufactured by which of the following country?",
+          "topic": "Defence",
+          "best_generated_match": "Which among the following is a fifth-generation stealth fighter aircraft developed by the United States?",
+          "score": 0.7
+        },
+        {
+          "actual": "Which of them was awarded the Ramon Magsaysay Award 2023?",
+          "topic": "Awards",
+          "best_generated_match": "Who among the following got the Ramon Magsaysay Award in 2022?",
+          "score": 0.7
+        },
+        {
+          "actual": "The Mohiniattam dance is performed by women in honour of which Hindu god?",
+          "topic": "Art & Culture",
+          "best_generated_match": "The 'Chhau dance' is a traditional folk dance, performed in the state of:",
+          "score": 0.7
+        },
+        {
+          "actual": "The joint exercise between India & Sri Lanka conducted in Pune in November 2023?",
+          "topic": "Defence",
+          "best_generated_match": "Which aircraft was used in Operation Meghdoot by IAF in Siachen Glacier?",
+          "score": 0.7
+        },
+        {
+          "actual": "Sports terminology Chinaman is related to which of the following sport?",
+          "topic": "Sports",
+          "best_generated_match": "With which among the following sports the \"Dhyan Chand Trophy\" is associated?",
+          "score": 0.7
+        },
+        {
+          "actual": "Who was the founder of the Satyashodhak Samaj?",
+          "topic": "History (Modern)",
+          "best_generated_match": "Who among the following started the newspaper 'Kesari'?",
+          "score": 0.7
+        },
+        {
+          "actual": "The highest rank in the Indian Airforce is known as:",
+          "topic": "Defence",
+          "best_generated_match": "Which among the following is a fifth-generation stealth fighter aircraft developed by the United States?",
+          "score": 0.7
+        },
+        {
+          "actual": "In which of the following states Gahirmatha wildlife sanctuary is located?",
+          "topic": "Geography (India)",
+          "best_generated_match": "Which among the following is not neighboring state of Maharashtra?",
+          "score": 0.7
+        },
+        {
+          "actual": "Which article is BR Ambedkar called \"Heart and soul of the Constitution\"?",
+          "topic": "Indian Polity",
+          "best_generated_match": "Who is regarded as the Guardian of the Constitution?",
+          "score": 0.7
+        },
+        {
+          "actual": "Which of the following is the landing date of Chandrayaan-3?",
+          "topic": "General Science",
+          "best_generated_match": "Which one of the following is the ore of Mercury?",
+          "score": 0.7
+        },
+        {
+          "actual": "Which of the following Gupta rulers received the title \"Kaviraja\"?",
+          "topic": "History (Ancient)",
+          "best_generated_match": "Who among the following was the founder of the Mauryan dynasty?",
+          "score": 0.7
+        },
+        {
+          "actual": "Which one of the following process occur during the photosynthesis, in plants?",
+          "topic": "General Science",
+          "best_generated_match": "Which one of the following is the ore of Mercury?",
+          "score": 1.0
+        },
+        {
+          "actual": "Quinine is generally used for the treatment of malaria is obtained from plants. From which part of the plant it is prepared?",
+          "topic": "General Science",
+          "best_generated_match": "Which one of the following is the ore of Mercury?",
+          "score": 0.7
+        },
+        {
+          "actual": "Which of the following is the primary cause of Tsunami?",
+          "topic": "Geography (World)",
+          "best_generated_match": "Which of the following is known as the ‘Roof of the World’?",
+          "score": 1.0
+        },
+        {
+          "actual": "Which of the following correctly describes the principle of the working of a pressure cooker?",
+          "topic": "General Science",
+          "best_generated_match": "Which one of the following is the ore of Mercury?",
+          "score": 0.7
+        },
+        {
+          "actual": "Geetanjali book was written by which of the following personalities?",
+          "topic": "Books",
+          "best_generated_match": "Who is the author of the book 'The Namesake'?",
+          "score": 0.7
+        },
+        {
+          "actual": "Match the List I with List II and select the correct answer... A. Federal Beauru of Investigation... B. Mossad... C. FSB... D. Federal Intelligence Service...",
+          "topic": "Organizations",
+          "best_generated_match": "What is UNESCO Stands for?",
+          "score": 0.0
+        },
+        {
+          "actual": "Who was the first Indian woman to win gold medal at the Olympics?",
+          "topic": "Sports",
+          "best_generated_match": "Who was the first Indian to win the US Open tennis championship?",
+          "score": 1.0
+        },
+        {
+          "actual": "Which of the following are commercial banks assets?",
+          "topic": "Economy",
+          "best_generated_match": "[DM predicted 0 questions for this topic]",
+          "score": 0.0
+        },
+        {
+          "actual": "Nashik is situated on the banks of which of the following river?",
+          "topic": "Geography (India)",
+          "best_generated_match": "Which among the following is not neighboring state of Maharashtra?",
+          "score": 0.7
+        },
+        {
+          "actual": "Who won 2023 Dadasaheb Phalke Award?",
+          "topic": "Awards",
+          "best_generated_match": "The Dadasaheb Phalke Award is given to whom among the following?",
+          "score": 0.7
+        },
+        {
+          "actual": "Which of the following pair is incorrectly matched? (Newspapers/Founders)",
+          "topic": "History (Modern)",
+          "best_generated_match": "Who among the following started the newspaper 'Kesari'?",
+          "score": 0.7
+        },
+        {
+          "actual": "Which of the statements given above is/are correct about Niti Ayog?",
+          "topic": "Indian Polity",
+          "best_generated_match": "Who is regarded as the Guardian of the Constitution?",
+          "score": 0.7
+        },
+        {
+          "actual": "The Operation Zindagi was launched for:",
+          "topic": "Current Affairs",
+          "best_generated_match": "What is the name of the initiative taken by the Indian government to promote digital payments?",
+          "score": 0.7
+        },
+        {
+          "actual": "What is the basic difference between Fundamental rights and DPSPs?",
+          "topic": "Indian Polity",
+          "best_generated_match": "Who is regarded as the Guardian of the Constitution?",
+          "score": 0.7
+        },
+        {
+          "actual": "Anti-defection is present in which of the following schedule of the constitution?",
+          "topic": "Indian Polity",
+          "best_generated_match": "Who is regarded as the Guardian of the Constitution?",
+          "score": 0.7
+        },
+        {
+          "actual": "Operation Vajra Prahar, which is a bilateral Indo-US Joint Special Forces exercise, was held in?",
+          "topic": "Defence",
+          "best_generated_match": "Which aircraft was used in Operation Meghdoot by IAF in Siachen Glacier?",
+          "score": 0.7
+        },
+        {
+          "actual": "Who among the following is appointed as the head of the railway board?",
+          "topic": "Current Affairs",
+          "best_generated_match": "What is the name of the initiative taken by the Indian government to promote digital payments?",
+          "score": 0.7
+        },
+        {
+          "actual": "Which of the following site is designated for the landing of Chandrayaan-3, India's lunar mission?",
+          "topic": "General Science",
+          "best_generated_match": "Which one of the following is the ore of Mercury?",
+          "score": 0.7
+        },
+        {
+          "actual": "Which of the following submarine is the fifth Scorpene-class vessel commissioned by the Indian Navy?",
+          "topic": "Defence",
+          "best_generated_match": "Which among the following is a fifth-generation stealth fighter aircraft developed by the United States?",
+          "score": 0.7
+        },
+        {
+          "actual": "In cricket match, while catching a fast-moving ball, a fielder in the ground gradually pulls his hands backwards... This is an example of which of the following laws?",
+          "topic": "General Science",
+          "best_generated_match": "Which one of the following is the ore of Mercury?",
+          "score": 0.7
+        },
+        {
+          "actual": "The number of pair of chromosomes in human being is",
+          "topic": "General Science",
+          "best_generated_match": "Which one of the following is the ore of Mercury?",
+          "score": 0.7
+        },
+        {
+          "actual": "Which woman was the first to win a gold medal in boxing at the Commonwealth Games?",
+          "topic": "Sports",
+          "best_generated_match": "Who was the first Indian to win the US Open tennis championship?",
+          "score": 0.7
+        },
+        {
+          "actual": "Which part of human heart pumps oxygenated blood to body parts?",
+          "topic": "General Science",
+          "best_generated_match": "Which one of the following is the ore of Mercury?",
+          "score": 0.7
+        },
+        {
+          "actual": "At which of the following places is the College of Defence management located?",
+          "topic": "Defence",
+          "best_generated_match": "Which among the following is a fifth-generation stealth fighter aircraft developed by the United States?",
+          "score": 0.7
+        },
+        {
+          "actual": "Which of the following is an example of Mixed Economy?",
+          "topic": "Economy",
+          "best_generated_match": "[DM predicted 0 questions for this topic]",
+          "score": 0.0
+        },
+        {
+          "actual": "Match the List I (State/UT) with List II (Tribes) and select the correct answer.",
+          "topic": "Art & Culture",
+          "best_generated_match": "The 'Chhau dance' is a traditional folk dance, performed in the state of:",
+          "score": 0.7
+        },
+        {
+          "actual": "The First Battle of Panipat, which was fought in 1526, was between Babur and whom?",
+          "topic": "History (Medieval)",
+          "best_generated_match": "[DM predicted 0 questions for this topic]",
+          "score": 0.0
+        },
+        {
+          "actual": "Which country does the C295 Airbus Company belong to?",
+          "topic": "Defence",
+          "best_generated_match": "Which among the following is a fifth-generation stealth fighter aircraft developed by the United States?",
+          "score": 0.7
+        },
+        {
+          "actual": "Which of the following is the motto of the G-20 Summit 2023?",
+          "topic": "Current Affairs",
+          "best_generated_match": "What is the name of the initiative taken by the Indian government to promote digital payments?",
+          "score": 0.7
+        },
+        {
+          "actual": "Who among the following won the Satyajeet Ray Life time achievement award 2023?",
+          "topic": "Awards",
+          "best_generated_match": "Who among the following got the Ramon Magsaysay Award in 2022?",
+          "score": 1.0
+        },
+        {
+          "actual": "Who has the power to advise the president of India under Article 143?",
+          "topic": "Indian Polity",
+          "best_generated_match": "Who is regarded as the Guardian of the Constitution?",
+          "score": 0.7
+        },
+        {
+          "actual": "Which of the following factors least affects terrestrial ecosystems?",
+          "topic": "Environment",
+          "best_generated_match": "[DM predicted 0 questions for this topic]",
+          "score": 0.0
+        },
+        {
+          "actual": "Which of the following lake is the largest salt lake in India?",
+          "topic": "Geography (India)",
+          "best_generated_match": "Which among the following is not neighboring state of Maharashtra?",
+          "score": 0.7
+        },
+        {
+          "actual": "Which of the following country is not a member of SAARC?",
+          "topic": "Organizations",
+          "best_generated_match": "What is UNESCO Stands for?",
+          "score": 0.7
+        },
+        {
+          "actual": "'Discovery of India' book wriiten by Jawaharlal Nehru in which of the following jail?",
+          "topic": "Books",
+          "best_generated_match": "Who is the author of the book 'The Namesake'?",
+          "score": 0.7
+        },
+        {
+          "actual": "Who presided the 1905 Congress session?",
+          "topic": "History (Modern)",
+          "best_generated_match": "Who among the following started the newspaper 'Kesari'?",
+          "score": 0.7
+        },
+        {
+          "actual": "In which year Indian removed the word 'Royal' from its Air Force?",
+          "topic": "Defence",
+          "best_generated_match": "Which aircraft was used in Operation Meghdoot by IAF in Siachen Glacier?",
+          "score": 0.7
+        }
+      ]
+    },
+    "Numerical Ability": {
+      "average_score": 0.6846,
+      "questions": [
+        {
+          "actual": "Select the correct combination of mathematical signs to replace the * signs and to balance the given equation. 14 * 11 * 22 * 56 * 8",
+          "topic": "Simplification",
+          "best_generated_match": "In an examination, a student was asked to find 2/7 of a certain number. By mistake, he found 2/3 of it. His answer was 120 more than the correct answer. Find the number.",
+          "score": 0.7
+        },
+        {
+          "actual": "Richa walks 25 km towards west. She turns right and walks 35 km. She turns right and walks 40 km. She turns right and walks 35 km. How far (in km) is she from her starting point?",
+          "topic": "Distance & Direction",
+          "best_generated_match": "[DM predicted 0 questions for this topic]",
+          "score": 0.0
+        },
+        {
+          "actual": "Study the given pattern carefully and select the number that can replace the question mark (?) in it. (Matrix: 23, 3, 72; 32, 4, 132; 16, 5, ?)",
+          "topic": "Number System",
+          "best_generated_match": "The number whose square is equal to the difference of the squares of 43 and 27 is",
+          "score": 0.7
+        },
+        {
+          "actual": "Find the angles between Hour and Minute Hand at 11:20?",
+          "topic": "Clocks",
+          "best_generated_match": "[DM predicted 0 questions for this topic]",
+          "score": 0.0
+        },
+        {
+          "actual": "The sum of squares of two numbers is 90 and their difference is 6. What are the two numbers?",
+          "topic": "Number System",
+          "best_generated_match": "The number whose square is equal to the difference of the squares of 43 and 27 is",
+          "score": 0.7
+        },
+        {
+          "actual": "At a village trade fair a man buys a horse and a camel together for Rs 51,250 . He sold the horse at a profit of 25 % and the camel at a loss of 20 %. If he sold both the animals at the same price, then the cost price of the cheaper animal was Rs____.",
+          "topic": "Profit & Loss",
+          "best_generated_match": "Two articles are sold at the same price, 1st was sold at a profit of 30% and 2nd was sold at a loss of 12%. If there is a total profit of Rs. 5400, then find their selling price (individual)?",
+          "score": 0.7
+        },
+        {
+          "actual": "A student multiplied a number by 3/5 instead of 5/3. What is the percentage error in the calculation?",
+          "topic": "Percentage",
+          "best_generated_match": "The population of a village in the year 2010 was 5 lakhs. The people start shifting from there to other village at the rate of 8% per year, then what will be population in 2013.",
+          "score": 0.7
+        },
+        {
+          "actual": "A girl calculates that the probability of her winning the first prize in a lottery is 0.08. If 6000 tickets are sold, then the number of tickets she bought, is",
+          "topic": "Statistics",
+          "best_generated_match": "A bag contains 7 blue and 5 white balls. Another bag contains 3 blue and 8 white balls. If one ball is drawn from each bag. Find the probability that one ball is blue and one is white.",
+          "score": 0.7
+        },
+        {
+          "actual": "By selling 90 ball pens for Rs 160 a person loses 20%. How many ball pens should be sold for Rs 96 so as to have a profit of 20%?",
+          "topic": "Profit & Loss",
+          "best_generated_match": "Two articles are sold at the same price, 1st was sold at a profit of 30% and 2nd was sold at a loss of 12%. If there is a total profit of Rs. 5400, then find their selling price (individual)?",
+          "score": 0.7
+        },
+        {
+          "actual": "The compound interest on 8000 in 1 years at 8% per annum, the interest being compounded half-yearly, is:",
+          "topic": "Simple/Compound Int.",
+          "best_generated_match": "Find the sum if the compound interest for 2 years at the rate of 10% per annum is Rs. 747",
+          "score": 0.7
+        },
+        {
+          "actual": "At what rate of interest should Kumar invest a sum of Rs 1200 so that it becomes Rs 1348.32 in 2 years",
+          "topic": "Simple/Compound Int.",
+          "best_generated_match": "Find the sum if the compound interest for 2 years at the rate of 10% per annum is Rs. 747",
+          "score": 0.7
+        },
+        {
+          "actual": "Find the largest four-digit number which when divided by 4,7 and 13 leaves a remainder of 3 in each case.",
+          "topic": "Number System",
+          "best_generated_match": "The number whose square is equal to the difference of the squares of 43 and 27 is",
+          "score": 0.7
+        },
+        {
+          "actual": "A runner completes a 10 km race in 45 minutes. If they increase their speed by 2 km/h for a second race of the same length, how much less time (apparently) will it take them to finish?",
+          "topic": "Time, Speed & Dist.",
+          "best_generated_match": "A train covers a distance of 15 km in 12 min. If it takes 8 sec to pass a telegraph post, the length of the train is",
+          "score": 0.7
+        },
+        {
+          "actual": "If the ratio of income of Geeta and Sita is 5:4 and the ratio of expenditure of Geeta and Sita is 7:3 respectively. If the savings of Geeta is Rs 800 more than that of Sita and Expenditure of Geeta is Rs 1400. Find the total income of Geeta and Sita?",
+          "topic": "Ratio & Proportion",
+          "best_generated_match": "Two numbers are in the ratio of 4 : 7. If 11 is subtracted from each then they are in the ratio of 15 : 26. Find a smaller number",
+          "score": 0.7
+        },
+        {
+          "actual": "From a container, full of pure milk, 20% is replaced by water and this process is repeated three times. At the end of third operation, the quantity of pure milk reduces to",
+          "topic": "Mixture & Alligation",
+          "best_generated_match": "In a mixture of 80 litres, the ratio of juice and water is 3: 2. What amount of water must be added to make the ratio of juice and water as 2: 3?",
+          "score": 0.7
+        },
+        {
+          "actual": "A can complete a work in 20 days, while B can complete the same work in 25 days. Both worked together for 10 days and then C alone completed the remaining work in 10 days. In how many days will A , B and C together complete the same work?",
+          "topic": "Time & Work",
+          "best_generated_match": "A and B can do a piece of work in 20 days & 12 days. A started the work and after 5 days, B also joined him till the completion of the work. How many days will it take to complete the entire work",
+          "score": 0.7
+        },
+        {
+          "actual": "A is 50% as efficient as B. C does half the work done by A and B together. If C alone does the work together in 20 days, then A, B and C together Will Do The Work In?",
+          "topic": "Time & Work",
+          "best_generated_match": "A can do a piece of work in 12 days. He works at it for 5 days and then B finishes it in 11 days, in how many days can A and B together finish the work?",
+          "score": 0.7
+        },
+        {
+          "actual": "A boat's speed in still water is 45km/h, while the river is flowing at a speed of 15km/h. The time taken to cover a certain distance upstream is 9h more than the time taken to cover the same distance downstream. Find the distance (in km).",
+          "topic": "Time, Speed & Dist.",
+          "best_generated_match": "A train covers a distance of 15 km in 12 min. If it takes 8 sec to pass a telegraph post, the length of the train is",
+          "score": 0.7
+        },
+        {
+          "actual": "A person goes from place A to B with a speed of 15km/h and comes back with a speed of 10km/h then what will be the average speed of the person.",
+          "topic": "Average",
+          "best_generated_match": "The average height of a group of basketball players is 185.5 cm. 8 new players with an average height of 179.25 cm join them due to which the average height of the group becomes 183 cm. Find the number of players initially.",
+          "score": 0.7
+        },
+        {
+          "actual": "If the length of one side and the diagonal of a rectangle are 15cm and 25cm,then find its perimeter?",
+          "topic": "Mensuration",
+          "best_generated_match": "The length and breadth of a rectangular garden are in the ratio 5: 3. If the length is increased by 10 m keeping the breadth the same, the new area of the rectangle is 4200 m^2. What is the perimeter of the original rectangle?",
+          "score": 0.7
+        },
+        {
+          "actual": "For three numbers, the ratio of the first and the second number is 2: 3 and that of the second and the third number is 4 :5. If the sum of the three numbers is 140 , then what is the second number?",
+          "topic": "Ratio & Proportion",
+          "best_generated_match": "Two numbers are in the ratio of 4 : 7. If 11 is subtracted from each then they are in the ratio of 15 : 26. Find a smaller number",
+          "score": 0.7
+        },
+        {
+          "actual": "The sides of a rectangle of perimeter 40 cm are in the ratio 1 : 4. What is the perimeter of a square whose area is the same as that of the rectangle?",
+          "topic": "Mensuration",
+          "best_generated_match": "The length and breadth of a rectangular garden are in the ratio 5: 3. If the length is increased by 10 m keeping the breadth the same, the new area of the rectangle is 4200 m^2. What is the perimeter of the original rectangle?",
+          "score": 0.7
+        },
+        {
+          "actual": "What is the value of 36 ÷ 8 × 4 + 2 ÷ 4 – 1 + 5 of 3 ÷ (4 × 2 – 3) – 3 = ?",
+          "topic": "Simplification",
+          "best_generated_match": "In an examination, a student was asked to find 2/7 of a certain number. By mistake, he found 2/3 of it. His answer was 120 more than the correct answer. Find the number.",
+          "score": 0.7
+        },
+        {
+          "actual": "If the square of the sum of two numbers is 90 and square of their difference is 46, what is the product of the two numbers?",
+          "topic": "Number System",
+          "best_generated_match": "The number whose square is equal to the difference of the squares of 43 and 27 is",
+          "score": 0.7
+        },
+        {
+          "actual": "At what rate of compound interest per annum will a sum of Rs. 1200 become Rs. 1348.32 in 2 years?",
+          "topic": "Simple/Compound Int.",
+          "best_generated_match": "Find the sum if the compound interest for 2 years at the rate of 10% per annum is Rs. 747",
+          "score": 0.7
+        },
+        {
+          "actual": "Anushka makes a profit of 15% by selling an article, then what would be the profit percent, if it will be calculated on the selling price instead of cost price?",
+          "topic": "Profit & Loss",
+          "best_generated_match": "Two articles are sold at the same price, 1st was sold at a profit of 30% and 2nd was sold at a loss of 12%. If there is a total profit of Rs. 5400, then find their selling price (individual)?",
+          "score": 0.7
+        },
+        {
+          "actual": "A train covers a certain distance in 45 minutes. If its speed is reduced by 5 km/hr, it takes 3 minutes more to cover the same distance. The distance (in km ) is:",
+          "topic": "Time, Speed & Dist.",
+          "best_generated_match": "A train covers a distance of 15 km in 12 min. If it takes 8 sec to pass a telegraph post, the length of the train is",
+          "score": 1.0
+        },
+        {
+          "actual": "If a : b = 3 : 5 and b : c = 7 : 8, then 2a : 3b : 7c is equal to ?",
+          "topic": "Ratio & Proportion",
+          "best_generated_match": "Two numbers are in the ratio of 4 : 7. If 11 is subtracted from each then they are in the ratio of 15 : 26. Find a smaller number",
+          "score": 0.7
+        },
+        {
+          "actual": "There are 4 semi-circular gardens on each side of a square-shaped pond with each side 21 m. The cost of fencing the entire plot at the rate of Rs 12.50 per meter is",
+          "topic": "Mensuration",
+          "best_generated_match": "The length and breadth of a rectangular garden are in the ratio 5: 3. If the length is increased by 10 m keeping the breadth the same, the new area of the rectangle is 4200 m^2. What is the perimeter of the original rectangle?",
+          "score": 0.7
+        },
+        {
+          "actual": "The average age of five persons is 28 yrs. If one of them is excluded the average decreases by 2 yrs. The age of the excluded person in yrs is:",
+          "topic": "Average",
+          "best_generated_match": "The average height of a group of basketball players is 185.5 cm. 8 new players with an average height of 179.25 cm join them due to which the average height of the group becomes 183 cm. Find the number of players initially.",
+          "score": 0.7
+        },
+        {
+          "actual": "Two kinds of daal at Rs 18 and Rs 24.8 per kg are mixed. In what ratio should they be mixed such that by selling at Rs 30 per kg, a profit percentage of 50% is realized?",
+          "topic": "Mixture & Alligation",
+          "best_generated_match": "In a mixture of 80 litres, the ratio of juice and water is 3: 2. What amount of water must be added to make the ratio of juice and water as 2: 3?",
+          "score": 0.7
+        },
+        {
+          "actual": "A shopkeeper bought 80 kg of rice at a discount of 10% Besides 1 kg rice was offered free to him on the purchase of every 20 kg rice. If he sells the rice at the marked price, his profit percentage will be",
+          "topic": "Profit & Loss",
+          "best_generated_match": "A refrigerator was marked at Rs 2500. After giving a discount of 12%, the dealer made a profit of 10%. Calculate the cost price.",
+          "score": 0.7
+        },
+        {
+          "actual": "The compound Interest on Rs 8000 in 1 year at 4% per annum the interest being compounded half yearly is-",
+          "topic": "Simple/Compound Int.",
+          "best_generated_match": "The difference between the compound interest and the simple interest on a certain sum at 7% per annum for 3 yrs is Rs 10.5. The sum is",
+          "score": 0.7
+        },
+        {
+          "actual": "Two equal amounts were borrowed at 5% and 4% simple interest. The total interest after 4 years amounted to 405. What was the total amount borrowed ?",
+          "topic": "Simple/Compound Int.",
+          "best_generated_match": "The difference between the compound interest and the simple interest on a certain sum at 7% per annum for 3 yrs is Rs 10.5. The sum is",
+          "score": 0.7
+        },
+        {
+          "actual": "Find the Smallest 5-digit number divisible by 243?",
+          "topic": "Number System",
+          "best_generated_match": "The number whose square is equal to the difference of the squares of 43 and 27 is",
+          "score": 0.7
+        },
+        {
+          "actual": "If the price of the cooking gas rises by 15%, by what percent should a family reduce its consumption so as not to exceed the budget on cooking gas?",
+          "topic": "Percentage",
+          "best_generated_match": "The population of a village in the year 2010 was 5 lakhs. The people start shifting from there to other village at the rate of 8% per year, then what will be population in 2013.",
+          "score": 0.7
+        },
+        {
+          "actual": "A is 50% more efficient as B. In one day, C can do half of the work done by A and B together. If C alone can do the work in 40 days, then A, B, and C together can do the work in how many days?",
+          "topic": "Time & Work",
+          "best_generated_match": "A can do a piece of work in 12 days. He works at it for 5 days and then B finishes it in 11 days, in how many days can A and B together finish the work?",
+          "score": 0.7
+        },
+        {
+          "actual": "A retailer purchases a machineat a discount of 10% and sells it for 5940 at a profit of 10%. The amount of discount received by the retailer from the wholesaler was",
+          "topic": "Profit & Loss",
+          "best_generated_match": "A refrigerator was marked at Rs 2500. After giving a discount of 12%, the dealer made a profit of 10%. Calculate the cost price.",
+          "score": 0.7
+        },
+        {
+          "actual": "A sum of ₹ 8,400 is divided between Anuj and Brishesh such that Anuj 's share at the end of 2 years is equal to Brijesh 's share at the end of 2 2/3 years at 15% p.a., interest compounded 8 - monthly. What is Aunj's share (in ₹) in the given sum?",
+          "topic": "Simple/Compound Int.",
+          "best_generated_match": "Find the sum if the compound interest for 2 years at the rate of 10% per annum is Rs. 747",
+          "score": 0.7
+        },
+        {
+          "actual": "In a bag, there are 12 Apples. Out of those 4 are rotten. If two Apples are taken out random from there, what is the probability to get exactly two rotten Apples?",
+          "topic": "Statistics",
+          "best_generated_match": "A bag contains 7 blue and 5 white balls. Another bag contains 3 blue and 8 white balls. If one ball is drawn from each bag. Find the probability that one ball is blue and one is white.",
+          "score": 0.7
+        },
+        {
+          "actual": "When the price of an item was reduced by 20%, its sales increased by x%. If there is an increase of 25% in the receipt of the revenue, then the value of x is :",
+          "topic": "Percentage",
+          "best_generated_match": "In a company, 80% of the employees are above 25 years and of these 60% are females and the rest are males. If there are 1080 female employees above 25 years, the total number of employees in the company are",
+          "score": 0.7
+        },
+        {
+          "actual": "A can finish the work in 25 days while B can finish the work in 16 days. If A started the work alone and B joined him after 5 days. Find out the total time taken to finish the work.",
+          "topic": "Time & Work",
+          "best_generated_match": "A and B can do a piece of work in 20 days & 12 days. A started the work and after 5 days, B also joined him till the completion of the work. How many days will it take to complete the entire work",
+          "score": 0.7
+        },
+        {
+          "actual": "A cow is tied by a rope of 42 feet length... If it grazes 154 sq feet per day than how much days it will take to graxe the area fully",
+          "topic": "Mensuration",
+          "best_generated_match": "The length and breadth of a rectangular garden are in the ratio 5: 3. If the length is increased by 10 m keeping the breadth the same, the new area of the rectangle is 4200 m^2. What is the perimeter of the original rectangle?",
+          "score": 0.7
+        },
+        {
+          "actual": "One card is picked from the deck. what will be the probability that this will be a red colour prime number?",
+          "topic": "Statistics",
+          "best_generated_match": "A bag contains 7 blue and 5 white balls. Another bag contains 3 blue and 8 white balls. If one ball is drawn from each bag. Find the probability that one ball is blue and one is white.",
+          "score": 0.7
+        },
+        {
+          "actual": "In 28 liter mixture of milk and water, the ratio of milk and water is 5:2. If 2 liters of water is added to this mixture, what will be the ratio of milk and water in the new mixture?",
+          "topic": "Mixture & Alligation",
+          "best_generated_match": "In a mixture of 80 litres, the ratio of juice and water is 3: 2. What amount of water must be added to make the ratio of juice and water as 2: 3?",
+          "score": 0.7
+        },
+        {
+          "actual": "A company undertakes to supply 4000 pieces of a particular equipment at ₹50 per piece. According to its estimates, even if 10% fail to pass the quality test, it will still make a gain of 25%. However, later it is found that 50% of the equipment has been rejected completely. What is the loss to the company?",
+          "topic": "Profit & Loss",
+          "best_generated_match": "Two articles are sold at the same price, 1st was sold at a profit of 30% and 2nd was sold at a loss of 12%. If there is a total profit of Rs. 5400, then find their selling price (individual)?",
+          "score": 0.7
+        },
+        {
+          "actual": "A circle is drawn in a manner that it touches all the corners of square with 14 cm diagonal, find area of the circle",
+          "topic": "Mensuration",
+          "best_generated_match": "The length and breadth of a rectangular garden are in the ratio 5: 3. If the length is increased by 10 m keeping the breadth the same, the new area of the rectangle is 4200 m^2. What is the perimeter of the original rectangle?",
+          "score": 0.7
+        },
+        {
+          "actual": "The wheat sold by a grocer contained 10% low quality wheat. What quantity of good quality weed should be added to 150 g of wheat, so the percentage of bad quality wheat becomes 5% ?",
+          "topic": "Mixture & Alligation",
+          "best_generated_match": "In a mixture of 80 litres, the ratio of juice and water is 3: 2. What amount of water must be added to make the ratio of juice and water as 2: 3?",
+          "score": 0.7
+        },
+        {
+          "actual": "15 men, 18 women and 12 boys working together earned Rs 2070 If the daily wages of a man, a woman and a boy are in the ratio 4: 3: 2 the daily wages (in Rs) of 1 man, 2 women and 3 boys are",
+          "topic": "Ratio & Proportion",
+          "best_generated_match": "Two numbers are in the ratio of 4 : 7. If 11 is subtracted from each then they are in the ratio of 15 : 26. Find a smaller number",
+          "score": 0.7
+        },
+        {
+          "actual": "Anuj goes at a speed of 20 km/hr and returns from that at a speed of 30 km/hr. If he takes 10 hours to complete the journey, find out the total distance covered by him.",
+          "topic": "Time, Speed & Dist.",
+          "best_generated_match": "The length of the platform, which a train 200 m long and travelling at 60 km/hr can cross in 30 seconds is",
+          "score": 0.7
+        },
+        {
+          "actual": "A man engaged a servant on a condition that he would pay him Rs. 80 and a pair of jeans after service of one year. Servant served for only 9 months and receives a pair of jeans and an amount of Rs. 55. The price of the jeans is ________.",
+          "topic": "Ratio & Proportion",
+          "best_generated_match": "For a Diwali party, 45 firecracker boxes are required. How many firecracker boxes will be required for the same party if the quantity of firecrackers in each box is reduced to 3/5 th of its present?",
+          "score": 0.7
+        },
+        {
+          "actual": "A candidate scores 25% and fails by 32 marks, while another candidate who scores 40% marks, gets 28 marks more than the minimum required marks to pass the examination. How many marks did a candidate score if he scored 72% marks?",
+          "topic": "Percentage",
+          "best_generated_match": "In a company, 80% of the employees are above 25 years and of these 60% are females and the rest are males. If there are 1080 female employees above 25 years, the total number of employees in the company are",
+          "score": 0.7
+        },
+        {
+          "actual": "A boat takes 90 minutes less to travel 36 miles downstream than to travel the same distance upstream. If the speed of the boat in still water is 10 mph , the speed of the stream is:",
+          "topic": "Time, Speed & Dist.",
+          "best_generated_match": "A train covers a distance of 15 km in 12 min. If it takes 8 sec to pass a telegraph post, the length of the train is",
+          "score": 0.7
+        },
+        {
+          "actual": "Simplify the expression: (1/3 + 3/4 + (2/5 - 1/3)) / (1 2/3 of 3/4 - 1/4 of 4/5)",
+          "topic": "Simplification",
+          "best_generated_match": "In an examination, a student was asked to find 2/7 of a certain number. By mistake, he found 2/3 of it. His answer was 120 more than the correct answer. Find the number.",
+          "score": 0.7
+        },
+        {
+          "actual": "By selling a book for Rs. 10, the publisher loses 1/11 of what it costs him. His cost price is",
+          "topic": "Profit & Loss",
+          "best_generated_match": "A refrigerator was marked at Rs 2500. After giving a discount of 12%, the dealer made a profit of 10%. Calculate the cost price.",
+          "score": 0.7
+        },
+        {
+          "actual": "Three taps A, B, and C can fill a tank in 12, 15 and 20 hours respectively. If A is opened all the time and B and C are open for one hour each alternately starting with A and B, the tank will be full in:",
+          "topic": "Time & Work",
+          "best_generated_match": "A and B can do a piece of work in 20 days & 12 days. A started the work and after 5 days, B also joined him till the completion of the work. How many days will it take to complete the entire work",
+          "score": 0.7
+        },
+        {
+          "actual": "The sum of the digits of a two-digit number is 9. Also, nine times this number is twice the number obtained by reversing the order of the digits. Find the number.",
+          "topic": "Number System",
+          "best_generated_match": "The number whose square is equal to the difference of the squares of 43 and 27 is",
+          "score": 0.7
+        },
+        {
+          "actual": "A man spends 40% of his monthly income on food and one-third of the remaining on transport. If he saves Rs. 4500 per month, which is half of the money left after spending on food and transport, his monthly salary is",
+          "topic": "Percentage",
+          "best_generated_match": "In a company, 80% of the employees are above 25 years and of these 60% are females and the rest are males. If there are 1080 female employees above 25 years, the total number of employees in the company are",
+          "score": 0.7
+        },
+        {
+          "actual": "The compound interest on Rs. 16000 for 9 months at 20% p.a. compounded quarterly is",
+          "topic": "Simple/Compound Int.",
+          "best_generated_match": "The difference between the compound interest and the simple interest on a certain sum at 7% per annum for 3 yrs is Rs 10.5. The sum is",
+          "score": 0.7
+        },
+        {
+          "actual": "The average annual income (in Rs.) of certain agricultural workers is S and that of other workers is T. The number of agricultural workers is 11 times that of other workers. Then the average monthly income (in Rs.) of all the workers is",
+          "topic": "Average",
+          "best_generated_match": "The average height of a group of basketball players is 185.5 cm. 8 new players with an average height of 179.25 cm join them due to which the average height of the group becomes 183 cm. Find the number of players initially.",
+          "score": 0.7
+        },
+        {
+          "actual": "Rs. 5000 was lent at a certain rate of simple interest and Rs. 4000 at a rate 1% more per annum than this rate. If the simple interest of both of them is same in 4 years, then at what rate per annum was the first money given?",
+          "topic": "Simple/Compound Int.",
+          "best_generated_match": "Find the sum if the compound interest for 2 years at the rate of 10% per annum is Rs. 747",
+          "score": 0.7
+        },
+        {
+          "actual": "The area of a square ground is 576 km^2. How long will it take for a dog to run around at the speed of 12 km/h?",
+          "topic": "Mensuration",
+          "best_generated_match": "The length and breadth of a rectangular garden are in the ratio 5: 3. If the length is increased by 10 m keeping the breadth the same, the new area of the rectangle is 4200 m^2. What is the perimeter of the original rectangle?",
+          "score": 0.7
+        },
+        {
+          "actual": "A and B can finish a work together in 30 days. They worked together for 20 days and then B left. After another 20 days, A finished the remaining work. In how many days, A alone can finish the work?",
+          "topic": "Time & Work",
+          "best_generated_match": "A can do a piece of work in 12 days. He works at it for 5 days and then B finishes it in 11 days, in how many days can A and B together finish the work?",
+          "score": 0.7
+        },
+        {
+          "actual": "Between 2 and 3 o'clock, at what time will the hands of the clock coincide?",
+          "topic": "Clock Problems",
+          "best_generated_match": "[DM predicted 0 questions for this topic]",
+          "score": 0.0
+        },
+        {
+          "actual": "Train crosses the 153 m long platform in 45 sec if the train length is 747 m then what is the speed of the train?",
+          "topic": "Time, Speed & Dist.",
+          "best_generated_match": "The length of the platform, which a train 200 m long and travelling at 60 km/hr can cross in 30 seconds is",
+          "score": 0.7
+        },
+        {
+          "actual": "What is the largest 4 digit number divisible be 88?",
+          "topic": "Number System",
+          "best_generated_match": "The number whose square is equal to the difference of the squares of 43 and 27 is",
+          "score": 0.7
+        },
+        {
+          "actual": "A person sold an article for 3,600 and got a profit of 20%. Had he sold the article for 3,150, how much profit would he have got?",
+          "topic": "Profit & Loss",
+          "best_generated_match": "Two articles are sold at the same price, 1st was sold at a profit of 30% and 2nd was sold at a loss of 12%. If there is a total profit of Rs. 5400, then find their selling price (individual)?",
+          "score": 0.7
+        },
+        {
+          "actual": "A and B can do a piece of work in 20 hours. B and C can do it in 25 hours, while A and C take 15 hours to complete the work. B independently can complete the work in",
+          "topic": "Time & Work",
+          "best_generated_match": "A and B can do a piece of work in 20 days & 12 days. A started the work and after 5 days, B also joined him till the completion of the work. How many days will it take to complete the entire work",
+          "score": 1.0
+        },
+        {
+          "actual": "2 numbers are in ratio of 1: 2, if 7 is added to both their ratio changes to 3: 5 the greatest number is?",
+          "topic": "Ratio & Proportion",
+          "best_generated_match": "Two numbers are in the ratio of 4 : 7. If 11 is subtracted from each then they are in the ratio of 15 : 26. Find a smaller number",
+          "score": 0.7
+        },
+        {
+          "actual": "If the person got Rs 6800 amount by bank closing his bank account after 3 years at the rate of 12% will be the initial sum of amount?",
+          "topic": "Simple/Compound Int.",
+          "best_generated_match": "Find the sum if the compound interest for 2 years at the rate of 10% per annum is Rs. 747",
+          "score": 0.7
+        },
+        {
+          "actual": "A Library has an average of 510 visitors on Sundays and 240 on other days. The average number of visitors per day in a month of 30 days beginning with a Sunday is",
+          "topic": "Average",
+          "best_generated_match": "The average height of a group of basketball players is 185.5 cm. 8 new players with an average height of 179.25 cm join them due to which the average height of the group becomes 183 cm. Find the number of players initially.",
+          "score": 0.7
+        },
+        {
+          "actual": "A man can row 9 1/3 kmph in still water and finds it takes time thrice as much to row up than as to row down to cover the same distance and find the speed of the current?",
+          "topic": "Time, Speed & Dist.",
+          "best_generated_match": "A train covers a distance of 15 km in 12 min. If it takes 8 sec to pass a telegraph post, the length of the train is",
+          "score": 0.7
+        },
+        {
+          "actual": "The area of circle (in cm^2) formed by the rope of length 44 cm will be?",
+          "topic": "Mensuration",
+          "best_generated_match": "The length and breadth of a rectangular garden are in the ratio 5: 3. If the length is increased by 10 m keeping the breadth the same, the new area of the rectangle is 4200 m^2. What is the perimeter of the original rectangle?",
+          "score": 0.7
+        },
+        {
+          "actual": "Arun purchased 20 kg of sugar and sold it for a profit to the extent of what he would have paid for 80 kg what is his profit?",
+          "topic": "Profit & Loss",
+          "best_generated_match": "Two articles are sold at the same price, 1st was sold at a profit of 30% and 2nd was sold at a loss of 12%. If there is a total profit of Rs. 5400, then find their selling price (individual)?",
+          "score": 0.7
+        },
+        {
+          "actual": "From a pack of 52 cards, two cards are drawn together at random. What is the probability of both the cards being Queen?",
+          "topic": "Statistics",
+          "best_generated_match": "A bag contains 7 blue and 5 white balls. Another bag contains 3 blue and 8 white balls. If one ball is drawn from each bag. Find the probability that one ball is blue and one is white.",
+          "score": 0.7
+        },
+        {
+          "actual": "2/3 of a number and 25/216 of its reciprocal are equal the number is?",
+          "topic": "Number System",
+          "best_generated_match": "The number whose square is equal to the difference of the squares of 43 and 27 is",
+          "score": 0.7
+        },
+        {
+          "actual": "A sum invested at the rate of 5% grows to 1008 in 4 years, same amount at 10% SI per annum in 2 1/2 will grow to?",
+          "topic": "Simple/Compound Int.",
+          "best_generated_match": "Find the sum if the compound interest for 2 years at the rate of 10% per annum is Rs. 747",
+          "score": 0.7
+        },
+        {
+          "actual": "A rectangle lawn 60m by 40 m has two roads 5m wide running in the middle one parallel to length and other parallel to breadth cost of gravelling of roads at Rs 60 paisa per sq metre?",
+          "topic": "Mensuration",
+          "best_generated_match": "The length and breadth of a rectangular garden are in the ratio 5: 3. If the length is increased by 10 m keeping the breadth the same, the new area of the rectangle is 4200 m^2. What is the perimeter of the original rectangle?",
+          "score": 0.7
+        },
+        {
+          "actual": "The average age of husband, wife, and child 3 years ago was 27 and that of wife and child 5 years ago was 20 years. The present age of the husband is",
+          "topic": "Average",
+          "best_generated_match": "The average height of a group of basketball players is 185.5 cm. 8 new players with an average height of 179.25 cm join them due to which the average height of the group becomes 183 cm. Find the number of players initially.",
+          "score": 0.7
+        },
+        {
+          "actual": "A can do work in 20 days B can do work in 25 days and C can do it in 50 days. they work for 2 days then C left after again working for 2 days B left. Then how much percentage of work will be done by A?",
+          "topic": "Time & Work",
+          "best_generated_match": "A can do a piece of work in 12 days. He works at it for 5 days and then B finishes it in 11 days, in how many days can A and B together finish the work?",
+          "score": 0.7
+        },
+        {
+          "actual": "Find the value of 5^3 - sqrt(36) + (4 * (8 - 3^2)) / 2",
+          "topic": "Simplification",
+          "best_generated_match": "In an examination, a student was asked to find 2/7 of a certain number. By mistake, he found 2/3 of it. His answer was 120 more than the correct answer. Find the number.",
+          "score": 0.7
+        },
+        {
+          "actual": "A and B can do a work in 40 days and 25 days respectively. They started the work together, but A left after some days and B finish the remaining work in 12 days. After how many days did A leave?",
+          "topic": "Time & Work",
+          "best_generated_match": "A and B can do a piece of work in 20 days & 12 days. A started the work and after 5 days, B also joined him till the completion of the work. How many days will it take to complete the entire work",
+          "score": 1.0
+        },
+        {
+          "actual": "Sudha decided to donate 12% of her monthly income to an orphanage. On the day of donation, she changed her decision and donated a sum of Rs 4800 which was equal to 80% of what she had decided earlier. What is 27% of her monthly income?",
+          "topic": "Percentage",
+          "best_generated_match": "The population of a village in the year 2010 was 5 lakhs. The people start shifting from there to other village at the rate of 8% per year, then what will be population in 2013.",
+          "score": 0.7
+        },
+        {
+          "actual": "5L of honey contains 80% sugar. 3L of water is added to this honey. Percentage of sugar in the new mixture?",
+          "topic": "Mixture & Alligation",
+          "best_generated_match": "In a mixture of 80 litres, the ratio of juice and water is 3: 2. What amount of water must be added to make the ratio of juice and water as 2: 3?",
+          "score": 0.7
+        },
+        {
+          "actual": "Rohit purchased 12 kg of oranges for a total price of 480 and 18 kg of guavas at 30 per kg. What is the per kg average cost of the fruits purchased by Rohit?",
+          "topic": "Average",
+          "best_generated_match": "The average height of a group of basketball players is 185.5 cm. 8 new players with an average height of 179.25 cm join them due to which the average height of the group becomes 183 cm. Find the number of players initially.",
+          "score": 0.7
+        },
+        {
+          "actual": "A boat goes 30 km upstream and 44 km downstream in a total of 10 hours. It also goes 40 km upstream and 55 km downstream in a total of 13 hours. The speed of the stream is:",
+          "topic": "Time, Speed & Dist.",
+          "best_generated_match": "A train covers a distance of 15 km in 12 min. If it takes 8 sec to pass a telegraph post, the length of the train is",
+          "score": 0.7
+        },
+        {
+          "actual": "The value of ((5/2 - 3/7 * 1 4/5 / 3 6/7) / (3/2 + 1 2/5 / 3 1/2 * 1 1/4)) is:",
+          "topic": "Simplification",
+          "best_generated_match": "In an examination, a student was asked to find 2/7 of a certain number. By mistake, he found 2/3 of it. His answer was 120 more than the correct answer. Find the number.",
+          "score": 0.7
+        },
+        {
+          "actual": "Solve: {1+7+(16/8/2)} + {(6*2^2+6) * 2/sqrt(36)}",
+          "topic": "Simplification",
+          "best_generated_match": "In an examination, a student was asked to find 2/7 of a certain number. By mistake, he found 2/3 of it. His answer was 120 more than the correct answer. Find the number.",
+          "score": 0.0
+        },
+        {
+          "actual": "Find the area of shaded region, If ABCD is square whose side is 28 cm. (Use pi=22/7)",
+          "topic": "Mensuration",
+          "best_generated_match": "The length and breadth of a rectangular garden are in the ratio 5: 3. If the length is increased by 10 m keeping the breadth the same, the new area of the rectangle is 4200 m^2. What is the perimeter of the original rectangle?",
+          "score": 0.7
+        },
+        {
+          "actual": "If three numbers are in the ratio of 3:5:7 and their LCM is 2415, what is the difference between the second number and the first number?",
+          "topic": "Number System",
+          "best_generated_match": "The number whose square is equal to the difference of the squares of 43 and 27 is",
+          "score": 0.7
+        },
+        {
+          "actual": "Out of a sum of Rs.625 a part was lent at 5% and the other at 10% simple interest. If the interest on the first part after 2 year is equal to the interest on the second part after 4 year, then the second sum (in Rs.) is ?",
+          "topic": "Simple/Compound Int.",
+          "best_generated_match": "The difference between the compound interest and the simple interest on a certain sum at 7% per annum for 3 yrs is Rs 10.5. The sum is",
+          "score": 0.7
+        },
+        {
+          "actual": "Rs. 15000 is divided among E, F and G. E's share and F's share are in the ratio of 3: 2. F's share and G's share are in the ratio of 6: 5. How much amount will F receive?",
+          "topic": "Ratio & Proportion",
+          "best_generated_match": "Two numbers are in the ratio of 4 : 7. If 11 is subtracted from each then they are in the ratio of 15 : 26. Find a smaller number",
+          "score": 0.7
+        },
+        {
+          "actual": "A man spends 65% of his income. His income increases by 20% and his expenditure also increases by 10%. The percentage of increase in his savings is",
+          "topic": "Percentage",
+          "best_generated_match": "In a company, 80% of the employees are above 25 years and of these 60% are females and the rest are males. If there are 1080 female employees above 25 years, the total number of employees in the company are",
+          "score": 0.7
+        },
+        {
+          "actual": "In an assembly election, a candidate got 60% of the total valid votes. 2% of the total votes were declared invalid. If the total number of voters is 1,50,000, then find the number of valid votes polled in favour of that candidate.",
+          "topic": "Percentage",
+          "best_generated_match": "In a company, 80% of the employees are above 25 years and of these 60% are females and the rest are males. If there are 1080 female employees above 25 years, the total number of employees in the company are",
+          "score": 0.7
+        },
+        {
+          "actual": "Two dice are thrown simultaneously. What is the probability of getting two numbers whose product is even?",
+          "topic": "Statistics",
+          "best_generated_match": "A bag contains 7 blue and 5 white balls. Another bag contains 3 blue and 8 white balls. If one ball is drawn from each bag. Find the probability that one ball is blue and one is white.",
+          "score": 0.7
+        },
+        {
+          "actual": "The ratio between the ages of A and B is 2: 5. After 8 years, their ages will be in the ratio 1 : 2. What is the difference between their present ages?",
+          "topic": "Average",
+          "best_generated_match": "The average height of a group of basketball players is 185.5 cm. 8 new players with an average height of 179.25 cm join them due to which the average height of the group becomes 183 cm. Find the number of players initially.",
+          "score": 0.7
+        },
+        {
+          "actual": "Product is sold to B at 10% loss by A and B sold the product at 20% profit and he sold it Rs 54000. Find the intial cost price of the product?",
+          "topic": "Profit & Loss",
+          "best_generated_match": "Two articles are sold at the same price, 1st was sold at a profit of 30% and 2nd was sold at a loss of 12%. If there is a total profit of Rs. 5400, then find their selling price (individual)?",
+          "score": 0.7
+        },
+        {
+          "actual": "1000 gm of sugar sells at 1st part at 8% profit and 2nd part at 18% profit. on a whole he sells at 14% profit. What 2nd part he sells at 18% profit?",
+          "topic": "Mixture & Alligation",
+          "best_generated_match": "In a mixture of 80 litres, the ratio of juice and water is 3: 2. What amount of water must be added to make the ratio of juice and water as 2: 3?",
+          "score": 0.7
+        },
+        {
+          "actual": "The sum of twice a number and thrice its reciprocal is 25/2 What is the number?",
+          "topic": "Number System",
+          "best_generated_match": "The number whose square is equal to the difference of the squares of 43 and 27 is",
+          "score": 0.7
+        },
+        {
+          "actual": "The area of a rectangle is thrice that of a square. The length of the rectangle is 20 cm and the breadth of the rectangle is 3/2 times that of the side of the square. Find the length of the diagonal of square.",
+          "topic": "Mensuration",
+          "best_generated_match": "The length and breadth of a rectangular garden are in the ratio 5: 3. If the length is increased by 10 m keeping the breadth the same, the new area of the rectangle is 4200 m^2. What is the perimeter of the original rectangle?",
+          "score": 0.7
+        },
+        {
+          "actual": "Rs 3900 are distributed A, B, C and D. the ratio of A:B=B:C=C:D=2:3, what is the share of A?",
+          "topic": "Ratio & Proportion",
+          "best_generated_match": "Two numbers are in the ratio of 4 : 7. If 11 is subtracted from each then they are in the ratio of 15 : 26. Find a smaller number",
+          "score": 0.7
+        },
+        {
+          "actual": "A bus is going from A to B at a speed of 40km/hr and returning to A in 60 km/hr find the Average speed of the bus in the journey",
+          "topic": "Time, Speed & Dist.",
+          "best_generated_match": "The length of the platform, which a train 200 m long and travelling at 60 km/hr can cross in 30 seconds is",
+          "score": 0.7
+        },
+        {
+          "actual": "if the Tile size of 20 cm x 30 cm is given. How many tiles would be required to cover the square of 30 m^2",
+          "topic": "Mensuration",
+          "best_generated_match": "The length and breadth of a rectangular garden are in the ratio 5: 3. If the length is increased by 10 m keeping the breadth the same, the new area of the rectangle is 4200 m^2. What is the perimeter of the original rectangle?",
+          "score": 0.7
+        },
+        {
+          "actual": "A and B can do a piece of work in 8 days, B and C can do the same work in 12 days. If A, B and C can complete the same work in 6 days, in how many days can A and C complete the same work?",
+          "topic": "Time & Work",
+          "best_generated_match": "A and B can do a piece of work in 20 days & 12 days. A started the work and after 5 days, B also joined him till the completion of the work. How many days will it take to complete the entire work",
+          "score": 1.0
+        }
+      ]
+    }
+  },
+  "overall_accuracy": 0.6828
+}

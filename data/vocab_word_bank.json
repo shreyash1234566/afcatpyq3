@@ -1,0 +1,114 @@
+{
+  "description": "AFCAT high-frequency vocabulary word bank, mined from 15 years of past papers + coaching material analysis",
+  "usage": "When generating Synonym/Antonym questions, constrain word selection to this list",
+  "words": {
+    "repeated_in_afcat": [
+      "CAJOLE", "SPORADIC", "ANATHEMA", "BEGUILE", "AMELIORATE", "CACOPHONOUS",
+      "ABSTAIN", "INSOLENT", "OSTENTATIOUS", "EQUANIMITY", "VERACITY", "LAUD",
+      "EMINENT", "IMPROMPTU", "ABUNDANT", "STRIVE", "EMBEZZLEMENT"
+    ],
+    "high_frequency_afcat_level": [
+      "ABATE", "ABHOR", "ABJURE", "ABJECT", "ACUMEN", "ADHERENT", "ADMONISH",
+      "ADVERSITY", "ALLEVIATE", "AMBIGUOUS", "APATHY", "ASTUTE", "AUDACIOUS",
+      "BENEVOLENT", "BIGOTED", "CANDID", "CAPITULATE", "COGENT", "COMPLACENT",
+      "CONCUR", "CONTEMPT", "CURSORY", "DERIDE", "DEXTEROUS", "DIDACTIC",
+      "DIFFIDENT", "DILIGENT", "DIMINISH", "ELOQUENT", "EMANCIPATE",
+      "ENDEAVOUR", "ENIGMA", "EPHEMERAL", "EXACERBATE", "EXONERATE",
+      "FASTIDIOUS", "FEROCIOUS", "FICKLE", "FORTITUDE", "FRUGAL",
+      "GREGARIOUS", "GUILE", "HAMPER", "HAUGHTY", "IMPECCABLE",
+      "IMPETUOUS", "INDOLENT", "INHERENT", "INNOCUOUS", "JUBILANT",
+      "LAMENT", "LUCID", "MAGNANIMOUS", "MEAGRE", "METICULOUS",
+      "NONCHALANT", "NOTABLE", "OBSTINATE", "OPULENT", "PANACEA",
+      "PARADIGM", "PARSIMONIOUS", "PENCHANT", "PERTINENT", "PLACATE",
+      "PRAGMATIC", "PRECARIOUS", "PRODIGAL", "PROLIFIC", "PRUDENT",
+      "QUERULOUS", "RANCOUR", "RECLUSE", "REDUNDANT", "RETICENT",
+      "SAGACIOUS", "SERVILE", "SQUALID", "TACITURN", "TENACIOUS",
+      "UBIQUITOUS", "VEHEMENT", "VERBOSE", "VINDICATE", "VORACIOUS",
+      "ZEALOUS", "ACQUIESCE", "ARDUOUS", "BELLIGERENT", "CLANDESTINE",
+      "DEBUNK", "ESCHEW", "FERVENT", "GARRULOUS", "HAPLESS",
+      "IMBIBE", "JEOPARDIZE", "LANGUID", "MALIGN", "NASCENT",
+      "OBSCURE", "PALLIATE", "QUINTESSENTIAL", "RECALCITRANT", "SUCCINCT",
+      "TREPIDATION", "UNPRECEDENTED", "VIVACIOUS", "WANTON"
+    ],
+    "recently_asked_2023_2025": [
+      "AFFLUENCE", "ASUNDER", "BERATED", "BLARE", "CHEERFUL", "CRAVING",
+      "CUMULOUS", "DECREPIT", "DELUSIONAL", "DIGNIFIED", "DILEMMA",
+      "DISSONANT", "EMBELLISH", "ENTICE", "DEXTEROUS", "ARCHAIC",
+      "VIGILANT", "SERENE", "ENNUI", "HETEROGENEOUS", "FASTIDIOUS"
+    ],
+    "due_for_recycling": [
+      "CAJOLE", "SPORADIC", "CACOPHONOUS", "ABSTAIN", "INSOLENT",
+      "BEGUILE", "AMELIORATE", "ANATHEMA"
+    ]
+  },
+  "grammar_error_patterns": {
+    "description": "The 5 most common grammar error types in AFCAT Spotting Errors questions",
+    "patterns": [
+      {
+        "name": "Subject-Verb Agreement",
+        "frequency": "35-40%",
+        "example": "The committee were divided on the issue. (Error: 'were' should be 'was')",
+        "signal_words": ["each", "every", "neither", "either", "as well as", "along with", "together with"]
+      },
+      {
+        "name": "Article Misuse",
+        "frequency": "20-25%",
+        "example": "She is a honest woman. (Error: 'a' should be 'an')",
+        "signal_words": ["a", "an", "the"]
+      },
+      {
+        "name": "Tense Mismatch",
+        "frequency": "15-20%",
+        "example": "He went to the market and buys vegetables. (Error: 'buys' should be 'bought')",
+        "signal_words": ["had", "has", "have", "was", "were", "will"]
+      },
+      {
+        "name": "Preposition Error",
+        "frequency": "10-15%",
+        "example": "He arrived at home late. (Error: remove 'at')",
+        "common_mistakes": ["in/on/at confusion", "unnecessary preposition", "missing preposition"]
+      },
+      {
+        "name": "Pronoun Reference Error",
+        "frequency": "5-10%",
+        "example": "Each of the students have submitted their assignments. (Error: 'have' should be 'has')",
+        "signal_words": ["each", "everyone", "anybody", "none"]
+      }
+    ],
+    "no_error_frequency": "Include 'No Error' as option D in approximately 15-20% of questions"
+  },
+  "idiom_bank": {
+    "high_frequency": [
+      "To throw the helve after the hatchet",
+      "A blessing in disguise",
+      "At the drop of a hat",
+      "Draw the long bow",
+      "Keep one's word",
+      "To call in question",
+      "Get the picture",
+      "Burn the midnight oil",
+      "Break the ice",
+      "Beat around the bush",
+      "Bite the bullet",
+      "Cry over spilt milk",
+      "Hit the nail on the head",
+      "Let the cat out of the bag",
+      "Once in a blue moon",
+      "Piece of cake",
+      "Raining cats and dogs",
+      "The ball is in your court",
+      "Under the weather",
+      "When pigs fly",
+      "A dime a dozen",
+      "Add insult to injury",
+      "Back to square one",
+      "Barking up the wrong tree",
+      "Cost an arm and a leg",
+      "Cut to the chase",
+      "Go the extra mile",
+      "In the nick of time",
+      "Jump on the bandwagon",
+      "Kill two birds with one stone"
+    ]
+  }
+}

@@ -10,6 +10,7 @@ import json
 from pathlib import Path
 from collections import defaultdict
 import random
+import shutil
 from topic_normalization_map import TOPIC_NORMALIZATION
 
 # Paths
@@ -741,6 +742,13 @@ def generate_mock_blueprint(predictions):
 
 def main():
     print("🔄 Generating comprehensive dashboard data...")
+    
+    # Copy images to output directory
+    print("🖼️ Copying images to dashboard directory...")
+    images_src = DATA_DIR / "images"
+    images_dst = OUTPUT_DIR / "images"
+    if images_src.exists():
+        shutil.copytree(images_src, images_dst, dirs_exist_ok=True)
     
     # Load predictions
     with open(OUTPUT_DIR / "afcat_2026_predictions.json", 'r', encoding='utf-8') as f:

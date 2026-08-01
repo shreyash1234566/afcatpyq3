@@ -1,0 +1,62 @@
+{
+  "Verbal Ability": {
+    "Synonyms/Antonyms": ["Synonyms", "Antonyms", "Synonyms/Antonyms", "Synonyms & Antonyms", "Synonym", "Antonym"],
+    "Idioms & Phrases": ["Idioms & Phrases", "Idioms and Phrases", "Idiom", "Idioms"],
+    "Reading Comprehension": ["Reading Comprehension", "Comprehension", "RC"],
+    "Cloze Test": ["Cloze Test", "Cloze", "Sentence Completion"],
+    "Fill in the Blanks": ["Fill in the Blanks", "Fill in the Blank", "Fill-in-the-Blank"],
+    "Para Jumbles": ["Para Jumbles", "Sentence Rearrangement", "Jumbled Sentences", "Rearrangement"],
+    "Spotting Errors": ["Spotting Errors", "Error Detection", "Error Identification", "Spot the Error", "Error Spotting", "Error"],
+    "One Word Substitution": ["One Word Substitution", "One-Word Substitution", "Word Substitution"],
+    "Verbal Analogy": ["Verbal Analogy", "Analogy", "Word Analogy"],
+    "Grammar": ["Grammar", "Grammar Rules"],
+    "Spelling": ["Spelling", "Correct Spelling", "Correctly Spelt"],
+    "Verbal Classification": ["Verbal Classification", "Odd One Out (Verbal)"]
+  },
+  "General Awareness": {
+    "Static GK": ["Static GK", "General Knowledge", "General Awareness"],
+    "General Science": ["General Science", "Science", "Basic Science", "Basic Science (Biology)", "Basic Science (Physics)", "Science & Tech", "Science and Technology", "Science & Tech / Current Affairs"],
+    "Defence": ["Defence", "Defence Exercises", "Defence Technology", "Defence - Ranks", "Defence and Space"],
+    "Geography (World)": ["Geography (World)", "Geography - World", "Geography World", "World Geography", "Geography - Physical"],
+    "History (Modern)": ["History (Modern)", "History - Modern", "Modern History", "Modern Indian History"],
+    "Current Affairs": ["Current Affairs", "Current Affairs (2015)", "Current Affairs (2016)", "Current Affairs (2017)", "Current Affairs (2018)", "Current Affairs (2019)", "Current Affairs (2020)", "Current Affairs (2021)", "Current Affairs (2022)", "Current Affairs (2023)"],
+    "Indian Polity": ["Indian Polity", "Polity", "Polity and Civics", "Polity / Organizations", "Polity / Schemes", "Government Schemes", "Organizations / Polity"],
+    "Geography (India)": ["Geography (India)", "Geography - India", "Geography of India", "Indian Geography"],
+    "Awards": ["Awards", "Awards and Honors", "Awards and Honours", "Awards / Environment", "Awards & Honors"],
+    "Organizations": ["Organizations", "Important Organizations", "International Organizations", "Important Organizations / Defence", "International Organizations / Summits"],
+    "Personalities": ["Personalities", "Sports Personalities"],
+    "History (Ancient)": ["History (Ancient)", "History - Ancient", "Ancient History", "Ancient Indian History", "History - Ancient/Medieval"],
+    "History (Medieval)": ["History (Medieval)", "History - Medieval", "Medieval History", "Medieval Indian History"],
+    "Economy": ["Economy", "Economics"],
+    "Art & Culture": ["Art & Culture", "Art and Culture", "Culture", "Indian Culture"],
+    "Environment": ["Environment", "Environment/Ecology"],
+    "Sports": ["Sports", "Sports History", "Sports Terminology"],
+    "Books": ["Books", "Books & Authors", "Books and Authors"]
+  },
+  "Reasoning": {
+    "Verbal Classification": ["Verbal Classification", "Verbal Classification (Odd One Out)"],
+    "Logical Reasoning": ["Logical Reasoning", "Seating Arrangement", "Blood Relations"],
+    "Coding-Decoding": ["Coding-Decoding", "Coding Decoding", "Coding & Decoding"],
+    "Verbal Analogy": ["Verbal Analogy", "Analogy (Reasoning)"],
+    "Direction Sense": ["Direction Sense", "Directions"],
+    "Number/Letter Series": ["Number/Letter Series", "Number Series", "Letter Series", "Series", "Alphabet Series"],
+    "Syllogism": ["Syllogism", "Syllogisms"],
+    "Venn Diagrams": ["Venn Diagrams", "Venn Diagram"],
+    "Non-Verbal Pattern": ["Non-Verbal Pattern", "Non-Verbal Series", "Non-Verbal Analogy", "Non-Verbal Classification", "Spatial Ability", "Embedded Figures", "Dot Situation"]
+  },
+  "Numerical Ability": {
+    "Time & Work": ["Time & Work", "Time and Work"],
+    "Time, Speed & Dist.": ["Time, Speed & Dist.", "Time, Speed & Distance", "Speed Distance Time", "Speed, Distance and Time", "Time Speed and Distance", "Speed, Distance & Time", "Speed, Time and Distance", "Problems on Trains", "Train Problems", "Trains", "Boat & Stream", "Boat and Stream", "Boats & Streams", "Boats and Streams"],
+    "Simple/Compound Int.": ["Simple/Compound Int.", "Simple Interest", "Compound Interest", "Simple and Compound Interest"],
+    "Ratio & Proportion": ["Ratio & Proportion", "Ratio and Proportion"],
+    "Profit & Loss": ["Profit & Loss", "Profit and Loss", "Profit and Loss with Mixture"],
+    "Average": ["Average"],
+    "Percentage": ["Percentage"],
+    "Simplification": ["Simplification", "Simplification (Algebra)", "Decimal Fractions", "Decimals and Fractions", "Fractions", "Rational Numbers", "Exponents and Powers"],
+    "Algebra": ["Algebra", "Linear Equations"],
+    "Mensuration": ["Mensuration", "Mensuration - Area and Perimeter", "Area", "Area & Perimeter", "Area and Perimeter"],
+    "Mixture & Alligation": ["Mixture & Alligation", "Mixture and Alligation", "Mixtures & Alligations", "Mixtures and Alligations"],
+    "Statistics": ["Statistics", "Statistics and Probability", "Probability", "Number System (Probability)"],
+    "Number System": ["Number System", "Number System and Series", "Problems on Numbers", "HCF & LCM", "HCF and LCM", "LCM & HCF", "LCM", "Missing Number"]
+  }
+}

@@ -4,11 +4,6 @@ Models Package
 Machine learning models for AFCAT prediction.
 """
 
-from .topic_predictor import (
-    TopicPredictor,
-    create_ensemble_predictor
-)
-
 from .difficulty_model import (
     DifficultyClassifier,
     estimate_paper_difficulty,
@@ -17,14 +12,12 @@ from .difficulty_model import (
 
 from .current_affairs import (
     CurrentAffairsClassifier,
-    generate_current_affairs_summary,
-    create_mock_news_data
+    generate_current_affairs_summary
 )
 
+from .dirichlet_forecaster import DirichletForecaster
+
 __all__ = [
-    # Topic prediction
-    'TopicPredictor',
-    'create_ensemble_predictor',
     
     # Difficulty classification
     'DifficultyClassifier',
