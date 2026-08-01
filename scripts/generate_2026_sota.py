@@ -412,24 +412,41 @@ def _update_dashboard(questions, plan_2026, section_stats):
     # Section distribution
     section_dist = {sec: blk["section_total"] for sec, blk in plan_2026.items()}
 
-    # Rising topics (topics with upward trend — top predicted topics by section)
+    # Rising and declining topics (mapped to dictionaries for the UI)
     rising = []
     stable = []
     declining = []
     for sec, blk in plan_2026.items():
         for t in blk["topics"]:
-            topic_key = t["topic"].lower().replace(" ", "_").replace("/", "_").replace("&", "and")
             actual = t.get("p1_actual", 0)
             hist = t.get("dm_expected", 0)
             diff = actual - hist
             
             if diff >= 2.0:
-                rising.append(topic_key)
+                rising.append({"Topic": t["topic"], "growth": "+20%"})
             elif diff <= -2.0:
-                declining.append(topic_key)
+                declining.append({"Topic": t["topic"], "decline": "-10%"})
+            else:
+                if actual > 0:
+                    stable.append({"Topic": t["topic"], "trend": "stable"})
+
+    # Flat ml_predictions for the Grid UI
+    ml_predictions = []
+    for sec, blk in plan_2026.items():
+        for t in blk["topics"]:
+            ml_predictions.append({
+                "Topic": t["topic"],
+                "Section": sec,
+                "Predicted_Questions": t["expected_count_exact"]
+            })
 
     # Build the JS object exactly as it originally was, but without comments to satisfy regex,
     # and properly initialize window.predictionsData for the frontend.
+    
+    # Load the full historical question bank for the frontend UI practice modals
+    q_clean_path = ROOT / "data" / "processed" / "Q_clean.json"
+    full_q_bank = json.loads(q_clean_path.read_text(encoding="utf-8")) if q_clean_path.exists() else questions
+    
     js_content = f"""const dashboardData = {{
   "pyqCount": 2861,
   "modelAccuracy": {{
@@ -444,6 +461,7 @@ def _update_dashboard(questions, plan_2026, section_stats):
     }},
     "note": "Trained on 2011-2023 data only. 2024 paper was completely hidden."
   }},
+  "question_bank": {json.dumps(full_q_bank, ensure_ascii=False)},
   "aiMockQuestions": {json.dumps(ai_mock_questions, indent=4, ensure_ascii=False)},
   "dmTopicPlan": {json.dumps({
       sec: {
@@ -462,9 +480,9 @@ def _update_dashboard(questions, plan_2026, section_stats):
       for sec, blk in plan_2026.items()
   }, indent=4, ensure_ascii=False)},
   "topicDistribution": {json.dumps(topic_distribution, indent=2)},
-  "risingTopics": {json.dumps(rising[:3])},
-  "stableTopics": {json.dumps(stable[:3])},
-  "decliningTopics": {json.dumps(declining[:3])},
+  "risingTopics": {json.dumps(rising[:5])},
+  "stableTopics": {json.dumps(stable[:5])},
+  "decliningTopics": {json.dumps(declining[:5])},
   "sectionDistribution": {json.dumps(section_dist, indent=2)},
   "yearDistribution": {{
     "2011": 100, "2012": 200, "2013": 100, "2014": 200, "2015": 200,
@@ -476,6 +494,7 @@ def _update_dashboard(questions, plan_2026, section_stats):
 if (typeof window !== 'undefined') {{
     window.dashboardData = dashboardData;
     window.predictionsData = {{
+        "ml_predictions": {json.dumps(ml_predictions, ensure_ascii=False)},
         "rising_topics": dashboardData.risingTopics,
         "declining_topics": dashboardData.decliningTopics,
         "topic_predictions": dashboardData.topicDistribution
