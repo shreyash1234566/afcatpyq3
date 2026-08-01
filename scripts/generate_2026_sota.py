@@ -432,15 +432,7 @@ def _update_dashboard(questions, plan_2026, section_stats):
                     stable.append(topic_key)
 
     # Build the JS object
-    js_content = f"""
-// AFCAT 2026 Dashboard Data - SOTA AI Generated Questions
-// Generated: 2026-07-31
-// Model: Dirichlet-Multinomial + Template-First Generation
-// Trained on: 2011-2025 (all available AFCAT papers)
-// Back-test Accuracy (2024): 68.3% (BM25 + Template Match)
-// Total Questions: {len(questions)}
-
-const dashboardData = {{
+    js_content = f"""const dashboardData = {{
   "pyqCount": 2861,
   "modelAccuracy": {{
     "backtest_year": 2024,
