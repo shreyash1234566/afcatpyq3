@@ -437,7 +437,8 @@ def _update_dashboard(questions, plan_2026, section_stats):
             ml_predictions.append({
                 "Topic": t["topic"],
                 "Section": sec,
-                "Predicted_Questions": t["expected_count_exact"]
+                "Predicted_Questions": t["expected_count_exact"],
+                "Is_Core": t.get("dm_expected", 0) >= 3.0
             })
 
     # Build the JS object exactly as it originally was, but without comments to satisfy regex,
