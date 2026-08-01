@@ -492,13 +492,14 @@ def _update_dashboard(questions, plan_2026, section_stats):
 }};
 
 if (typeof window !== 'undefined') {{
-    window.dashboardData = dashboardData;
     window.predictionsData = {{
         "ml_predictions": {json.dumps(ml_predictions, ensure_ascii=False)},
         "rising_topics": dashboardData.risingTopics,
         "declining_topics": dashboardData.decliningTopics,
         "topic_predictions": dashboardData.topicDistribution
     }};
+    dashboardData.predictions = window.predictionsData;
+    window.dashboardData = dashboardData;
 }}
 """
 
