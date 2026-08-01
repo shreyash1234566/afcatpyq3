@@ -1,4 +1,4 @@
-"""
+﻿"""
 scripts/generate_2026_sota.py
 ==============================
 Generate the AFCAT 2026 mock paper using the SOTA pipeline:
@@ -97,7 +97,7 @@ def build_template_prompt(sec, topic, templates, examples, n):
     ) if templates else _fmt(examples)
     recent_lines = _fmt(examples)
 
-    # ── Enhancement A: Vocabulary Word Bank ──
+    # ΓöÇΓöÇ Enhancement A: Vocabulary Word Bank ΓöÇΓöÇ
     vocab_constraint = ""
     if topic == "Synonyms/Antonyms" and WORD_BANK:
         all_words = (WORD_BANK["words"].get("repeated_in_afcat", []) +
@@ -113,7 +113,7 @@ Do NOT invent random words. Pick from this list. Prioritize words that sound lik
 Distractors must be from the SAME semantic field (e.g., if the word means "brave", options should all relate to courage/fear).
 """
 
-    # ── Enhancement B: Grammar Error Constraints ──
+    # ΓöÇΓöÇ Enhancement B: Grammar Error Constraints ΓöÇΓöÇ
     grammar_constraint = ""
     if topic == "Spotting Errors" and WORD_BANK:
         patterns = WORD_BANK.get("grammar_error_patterns", {}).get("patterns", [])
@@ -126,7 +126,7 @@ Include "No error" as option D in about 20% of questions.
 Signal words to use: each, every, neither, as well as, along with (these create Subject-Verb traps).
 """
 
-    # ── Enhancement B: Idiom Bank ──
+    # ΓöÇΓöÇ Enhancement B: Idiom Bank ΓöÇΓöÇ
     idiom_constraint = ""
     if topic == "Idioms & Phrases" and WORD_BANK:
         idioms = WORD_BANK.get("idiom_bank", {}).get("high_frequency", [])
@@ -139,10 +139,10 @@ Pick idioms from this AFCAT-tested bank:
 Distractors must be plausible but WRONG interpretations of the idiom.
 """
 
-    # ── Enhancement E: Distractor-Aware Options ──
+    # ΓöÇΓöÇ Enhancement E: Distractor-Aware Options ΓöÇΓöÇ
     distractor_note = """
 DISTRACTOR RULE: All 4 options must be from the SAME semantic field.
-Example: If correct answer is "Watchful", wrong options must be "Careless, Indifferent, Reckless" (all about attention) — NOT random unrelated words.
+Example: If correct answer is "Watchful", wrong options must be "Careless, Indifferent, Reckless" (all about attention) ΓÇö NOT random unrelated words.
 """
 
     return f"""You are predicting the EXACT WORD-TO-WORD text of {n} AFCAT {sec} question(s) on: "{topic}"
@@ -155,7 +155,7 @@ STEP 2 - STUDY THESE RECENT EXAMPLES (most recent AFCAT exams, 2022-2025):
 {vocab_constraint}{grammar_constraint}{idiom_constraint}{distractor_note}
 STEP 3 - PREDICT: Generate {n} question(s) that:
 1. START WITH the exact same structural template as the examples above.
-2. Only change the specific subject matter (word, number, entity) — not the template.
+2. Only change the specific subject matter (word, number, entity) ΓÇö not the template.
 3. 4 options A-D. Distractors must be plausible near-answers from the same semantic field.
 4. Include a brief 1-2 sentence explanation for each answer.
 
@@ -175,8 +175,8 @@ def build_visual_prompt(topic, examples, n):
     even though the answer OPTIONS are images. We use the past paper question text
     verbatim as templates and ask the model to produce the next predicted variant.
 
-    Venn Diagrams:   "Which of the following represents: X, Y, Z?" — fully text.
-    Non-Verbal:      "Which answer figure will complete the pattern?" — fully text.
+    Venn Diagrams:   "Which of the following represents: X, Y, Z?" ΓÇö fully text.
+    Non-Verbal:      "Which answer figure will complete the pattern?" ΓÇö fully text.
     """
     recent_lines = _fmt(examples)
     venn_note = (
@@ -185,18 +185,18 @@ def build_visual_prompt(topic, examples, n):
     ) if "Venn" in topic else ""
     nvr_note = (
         "\nNOTE: Non-Verbal questions have a text stem only. Write options as "
-        "'Figure A: [description]' etc. — the examiner will match these to the actual figures."
+        "'Figure A: [description]' etc. ΓÇö the examiner will match these to the actual figures."
     ) if "Non-Verbal" in topic or "Pattern" in topic else ""
 
     return f"""You are predicting the EXACT WORD-TO-WORD text of {n} AFCAT Reasoning question(s) on: "{topic}"
 
-PAST PAPER EXAMPLES (use these as templates — clone the stem exactly):
+PAST PAPER EXAMPLES (use these as templates ΓÇö clone the stem exactly):
 {recent_lines}
 {venn_note}{nvr_note}
 
 PREDICT {n} question(s) by:
 1. Cloning the EXACT question stem template from the examples above.
-2. Changing only the specific entities (e.g. Earth/Sun/Moon → Doctor/Nurse/Hospital).
+2. Changing only the specific entities (e.g. Earth/Sun/Moon ΓåÆ Doctor/Nurse/Hospital).
 3. Options A-D should be text descriptions matching the question context.
 
 Return ONLY JSON: {_schema(topic, "Reasoning", n)}"""
@@ -225,12 +225,12 @@ def main():
     all_data = json.loads(DATA_PATH.read_text(encoding="utf-8"))
     print(f"  {len(all_data)} questions loaded.")
 
-    # 2. Train DM on ALL available data (2011–2025)
+    # 2. Train DM on ALL available data (2011ΓÇô2025)
     print("\nTraining DM Forecaster on full history (2011-2025)...")
     model = DirichletForecaster.from_repo()
     plan_2026 = model.predict()
 
-    # ── Hybrid P1-Weighted Plan (70% P1 / 30% DM) ──
+    # ΓöÇΓöÇ Hybrid P1-Weighted Plan (70% P1 / 30% DM) ΓöÇΓöÇ
     print("\nLoading 2026 Paper 1 (January) for pattern anchoring...")
     p1_path = ROOT / "data" / "papers" / "afcat_2026_questions.json"
     p1_data = json.loads(p1_path.read_text(encoding="utf-8")) if p1_path.exists() else []
@@ -285,7 +285,7 @@ def main():
         for topic, n_q in allocs.items():
             if n_q < 1: continue
 
-            # Get recent examples — prioritize 2026 Paper 1, then fallback to 2024-2025
+            # Get recent examples ΓÇö prioritize 2026 Paper 1, then fallback to 2024-2025
             p1_ctx = [q for q in p1_data if q.get("topic") == topic]
             topic_ctx = [q for q in all_data if q.get("topic") == topic]
             topic_ctx.sort(key=lambda x: _get_year(x.get("file_name", "")) or 0, reverse=True)
@@ -412,7 +412,7 @@ def _update_dashboard(questions, plan_2026, section_stats):
     # Section distribution
     section_dist = {sec: blk["section_total"] for sec, blk in plan_2026.items()}
 
-    # Rising topics (topics with upward trend — top predicted topics by section)
+    # Rising topics (topics with upward trend ΓÇö top predicted topics by section)
     rising = []
     stable = []
     declining = []
@@ -427,10 +427,20 @@ def _update_dashboard(questions, plan_2026, section_stats):
                 rising.append(topic_key)
             elif diff <= -2.0:
                 declining.append(topic_key)
+            else:
+                if actual > 0:
+                    stable.append(topic_key)
 
-    # Build the JS object exactly as it originally was, but without comments to satisfy regex,
-    # and properly initialize window.predictionsData for the frontend.
-    js_content = f"""const dashboardData = {{
+    # Build the JS object
+    js_content = f"""
+// AFCAT 2026 Dashboard Data - SOTA AI Generated Questions
+// Generated: 2026-07-31
+// Model: Dirichlet-Multinomial + Template-First Generation
+// Trained on: 2011ΓÇô2025 (all available AFCAT papers)
+// Back-test Accuracy (2024): 68.3% (BM25 + Template Match)
+// Total Questions: {len(questions)}
+
+const dashboardData = {{
   "pyqCount": 2861,
   "modelAccuracy": {{
     "backtest_year": 2024,
@@ -464,7 +474,7 @@ def _update_dashboard(questions, plan_2026, section_stats):
   "topicDistribution": {json.dumps(topic_distribution, indent=2)},
   "risingTopics": {json.dumps(rising[:3])},
   "stableTopics": {json.dumps(stable[:3])},
-  "decliningTopics": {json.dumps(declining[:3])},
+  "decliningTopics": [],
   "sectionDistribution": {json.dumps(section_dist, indent=2)},
   "yearDistribution": {{
     "2011": 100, "2012": 200, "2013": 100, "2014": 200, "2015": 200,
@@ -472,20 +482,11 @@ def _update_dashboard(questions, plan_2026, section_stats):
     "2021": 100, "2022": 315, "2023": 200, "2024": 485
   }}
 }};
-
-if (typeof window !== 'undefined') {{
-    window.dashboardData = dashboardData;
-    window.predictionsData = {{
-        "rising_topics": dashboardData.risingTopics,
-        "declining_topics": dashboardData.decliningTopics,
-        "topic_predictions": dashboardData.topicDistribution
-    }};
-}}
 """
 
     dash_path = ROOT / "dashboard" / "data.js"
-    dash_path.parent.mkdir(parents=True, exist_ok=True)
     dash_path.write_text(js_content, encoding="utf-8")
+
 
 if __name__ == "__main__":
     main()
