@@ -15,6 +15,7 @@ NV_TOPICS = {
     "Venn Diagrams", "Non-Verbal Series", "Non-Verbal Analogy",
     "Non-Verbal Classification", "Non-Verbal Pattern", "Non-Verbal Puzzle",
     "Non-Verbal Orientation", "Non-Verbal Spatial", "Pattern Completion",
+    "Spatial Ability", "Embedded Figures", "Dot Situation",
 }
 
 # Reset all has_figure flags

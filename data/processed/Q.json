@@ -5483,7 +5483,7 @@
         "text": "4"
       }
     ],
-    "has_figure": false,
+    "has_figure": true,
     "image_source": {
       "pdf": "AFCAT_2012_Official_Paper1.pdf",
       "question_number": 81,
@@ -5493,7 +5493,9 @@
       "image_count": 5,
       "q_y": 675.6699829101562
     },
-    "image_path": [],
+    "image_path": [
+      "data/images/AFCAT_2012_Official_Paper1/q81_figure.png"
+    ],
     "image_dark": false,
     "test_name": "AFCAT 2012"
   },
@@ -5523,7 +5525,7 @@
         "text": "4"
       }
     ],
-    "has_figure": false,
+    "has_figure": true,
     "image_source": {
       "pdf": "AFCAT_2012_Official_Paper1.pdf",
       "question_number": 82,
@@ -5533,7 +5535,9 @@
       "image_count": 5,
       "q_y": 675.6699829101562
     },
-    "image_path": [],
+    "image_path": [
+      "data/images/AFCAT_2012_Official_Paper1/q82_figure.png"
+    ],
     "image_dark": false,
     "test_name": "AFCAT 2012"
   },
@@ -5563,7 +5567,7 @@
         "text": "4"
       }
     ],
-    "has_figure": false,
+    "has_figure": true,
     "image_source": {
       "pdf": "AFCAT_2012_Official_Paper1.pdf",
       "question_number": 83,
@@ -5573,7 +5577,9 @@
       "image_count": 5,
       "q_y": 675.6699829101562
     },
-    "image_path": [],
+    "image_path": [
+      "data/images/AFCAT_2012_Official_Paper1/q83_figure.png"
+    ],
     "image_dark": false,
     "test_name": "AFCAT 2012"
   },
@@ -5603,7 +5609,7 @@
         "text": "4"
       }
     ],
-    "has_figure": false,
+    "has_figure": true,
     "image_source": {
       "pdf": "AFCAT_2012_Official_Paper1.pdf",
       "question_number": 84,
@@ -5613,7 +5619,9 @@
       "image_count": 5,
       "q_y": 675.6699829101562
     },
-    "image_path": [],
+    "image_path": [
+      "data/images/AFCAT_2012_Official_Paper1/q84_figure.png"
+    ],
     "image_dark": false,
     "test_name": "AFCAT 2012"
   },
@@ -5643,9 +5651,9 @@
         "text": "4"
       }
     ],
-    "has_figure": false,
+    "has_figure": true,
     "image_path": [
-      "data/images/AFCAT_2012_Official_Paper1/p16_q85_f1.jpeg"
+      "data/images/AFCAT_2012_Official_Paper1/q85_figure.png"
     ],
     "image_source": {
       "pdf": "AFCAT_2012_Official_Paper1.pdf",
@@ -5894,7 +5902,7 @@
         "text": "4"
       }
     ],
-    "has_figure": false,
+    "has_figure": true,
     "image_source": {
       "pdf": "AFCAT_2012_Official_Paper1.pdf",
       "question_number": 91,
@@ -5905,7 +5913,7 @@
       "q_y": 587.3299560546875
     },
     "image_path": [
-      "data/images/AFCAT_2012_Official_Paper1/p17_q91_f1.jpeg"
+      "data/images/AFCAT_2012_Official_Paper1/q91_figure.png"
     ],
     "image_dark": false,
     "test_name": "AFCAT 2012"
@@ -5936,7 +5944,7 @@
         "text": "4"
       }
     ],
-    "has_figure": false,
+    "has_figure": true,
     "image_source": {
       "pdf": "AFCAT_2012_Official_Paper1.pdf",
       "question_number": 92,
@@ -5947,7 +5955,7 @@
       "q_y": 587.3299560546875
     },
     "image_path": [
-      "data/images/AFCAT_2012_Official_Paper1/p17_q92_f1.jpeg"
+      "data/images/AFCAT_2012_Official_Paper1/q92_figure.png"
     ],
     "image_dark": false,
     "test_name": "AFCAT 2012"
@@ -5978,7 +5986,7 @@
         "text": "4"
       }
     ],
-    "has_figure": false,
+    "has_figure": true,
     "image_source": {
       "pdf": "AFCAT_2012_Official_Paper1.pdf",
       "question_number": 93,
@@ -5989,7 +5997,7 @@
       "q_y": 587.3299560546875
     },
     "image_path": [
-      "data/images/AFCAT_2012_Official_Paper1/p17_q93_f1.jpeg"
+      "data/images/AFCAT_2012_Official_Paper1/q93_figure.png"
     ],
     "image_dark": false,
     "test_name": "AFCAT 2012"
@@ -6020,7 +6028,7 @@
         "text": "4"
       }
     ],
-    "has_figure": false,
+    "has_figure": true,
     "image_source": {
       "pdf": "AFCAT_2012_Official_Paper1.pdf",
       "question_number": 94,
@@ -6031,7 +6039,7 @@
       "q_y": 587.3299560546875
     },
     "image_path": [
-      "data/images/AFCAT_2012_Official_Paper1/p17_q94_f1.jpeg"
+      "data/images/AFCAT_2012_Official_Paper1/q94_figure.png"
     ],
     "image_dark": false,
     "test_name": "AFCAT 2012"
@@ -6062,7 +6070,7 @@
         "text": "4"
       }
     ],
-    "has_figure": false,
+    "has_figure": true,
     "image_source": {
       "pdf": "AFCAT_2012_Official_Paper1.pdf",
       "question_number": 95,
@@ -6073,7 +6081,7 @@
       "q_y": 587.3299560546875
     },
     "image_path": [
-      "data/images/AFCAT_2012_Official_Paper1/p17_q95_f1.jpeg"
+      "data/images/AFCAT_2012_Official_Paper1/q95_figure.png"
     ],
     "image_dark": false,
     "test_name": "AFCAT 2012"
@@ -12087,7 +12095,7 @@
     "difficulty": "Medium",
     "topic_code": "RM_NV_SPATIAL",
     "choices": [],
-    "has_figure": false,
+    "has_figure": true,
     "image_source": {
       "pdf": "AFCAT_2013_Official_Paper1.pdf",
       "question_number": 91,
@@ -12098,7 +12106,7 @@
       "q_y": 378.2400207519531
     },
     "image_path": [
-      "data/images/AFCAT_2013_Official_Paper1/p18_q91_f1.png"
+      "data/images/AFCAT_2013_Official_Paper1/q91_figure.png"
     ],
     "image_dark": false,
     "test_name": "AFCAT 2013"
@@ -12112,7 +12120,7 @@
     "difficulty": "Medium",
     "topic_code": "RM_NV_SPATIAL",
     "choices": [],
-    "has_figure": false,
+    "has_figure": true,
     "image_source": {
       "pdf": "AFCAT_2013_Official_Paper1.pdf",
       "question_number": 92,
@@ -12123,7 +12131,7 @@
       "q_y": 378.2400207519531
     },
     "image_path": [
-      "data/images/AFCAT_2013_Official_Paper1/p18_q92_f1.png"
+      "data/images/AFCAT_2013_Official_Paper1/q92_figure.png"
     ],
     "image_dark": false,
     "test_name": "AFCAT 2013"
@@ -12137,7 +12145,7 @@
     "difficulty": "Medium",
     "topic_code": "RM_NV_SPATIAL",
     "choices": [],
-    "has_figure": false,
+    "has_figure": true,
     "image_source": {
       "pdf": "AFCAT_2013_Official_Paper1.pdf",
       "question_number": 93,
@@ -12148,7 +12156,7 @@
       "q_y": 378.2400207519531
     },
     "image_path": [
-      "data/images/AFCAT_2013_Official_Paper1/p18_q93_f1.png"
+      "data/images/AFCAT_2013_Official_Paper1/q93_figure.png"
     ],
     "image_dark": false,
     "test_name": "AFCAT 2013"
@@ -12162,7 +12170,7 @@
     "difficulty": "Medium",
     "topic_code": "RM_NV_SPATIAL",
     "choices": [],
-    "has_figure": false,
+    "has_figure": true,
     "image_source": {
       "pdf": "AFCAT_2013_Official_Paper1.pdf",
       "question_number": 94,
@@ -12173,7 +12181,7 @@
       "q_y": 378.2400207519531
     },
     "image_path": [
-      "data/images/AFCAT_2013_Official_Paper1/p18_q94_f1.png"
+      "data/images/AFCAT_2013_Official_Paper1/q94_figure.png"
     ],
     "image_dark": false,
     "test_name": "AFCAT 2013"
@@ -12187,7 +12195,7 @@
     "difficulty": "Medium",
     "topic_code": "RM_NV_SPATIAL",
     "choices": [],
-    "has_figure": false,
+    "has_figure": true,
     "image_source": {
       "pdf": "AFCAT_2013_Official_Paper1.pdf",
       "question_number": 95,
@@ -12198,7 +12206,7 @@
       "q_y": 378.2400207519531
     },
     "image_path": [
-      "data/images/AFCAT_2013_Official_Paper1/p18_q95_f1.png"
+      "data/images/AFCAT_2013_Official_Paper1/q95_figure.png"
     ],
     "image_dark": false,
     "test_name": "AFCAT 2013"
@@ -27020,7 +27028,7 @@
         "text": "Figure D"
       }
     ],
-    "has_figure": false,
+    "has_figure": true,
     "image_source": {
       "pdf": "AFCAT_2016_Official_Paper2.pdf",
       "question_number": 69,
@@ -27030,7 +27038,9 @@
       "image_count": 2,
       "q_y": 594.7699584960938
     },
-    "image_path": [],
+    "image_path": [
+      "data/images/AFCAT_2016_Official_Paper2/q69_figure.png"
+    ],
     "image_dark": false,
     "test_name": "AFCAT 2016"
   },
@@ -27060,7 +27070,7 @@
         "text": "Figure D"
       }
     ],
-    "has_figure": false,
+    "has_figure": true,
     "image_source": {
       "pdf": "AFCAT_2016_Official_Paper2.pdf",
       "question_number": 70,
@@ -27070,7 +27080,9 @@
       "image_count": 6,
       "q_y": 594.7699584960938
     },
-    "image_path": [],
+    "image_path": [
+      "data/images/AFCAT_2016_Official_Paper2/q70_figure.png"
+    ],
     "image_dark": false,
     "test_name": "AFCAT 2016"
   },
@@ -27100,7 +27112,7 @@
         "text": "Figure D"
       }
     ],
-    "has_figure": false,
+    "has_figure": true,
     "image_source": {
       "pdf": "AFCAT_2016_Official_Paper2.pdf",
       "question_number": 71,
@@ -27110,7 +27122,9 @@
       "image_count": 6,
       "q_y": 594.7699584960938
     },
-    "image_path": [],
+    "image_path": [
+      "data/images/AFCAT_2016_Official_Paper2/q71_figure.png"
+    ],
     "image_dark": false,
     "test_name": "AFCAT 2016"
   },
@@ -27140,7 +27154,7 @@
         "text": "Figure D"
       }
     ],
-    "has_figure": false,
+    "has_figure": true,
     "image_source": {
       "pdf": "AFCAT_2016_Official_Paper2.pdf",
       "question_number": 72,
@@ -27150,7 +27164,9 @@
       "image_count": 6,
       "q_y": 594.7699584960938
     },
-    "image_path": [],
+    "image_path": [
+      "data/images/AFCAT_2016_Official_Paper2/q72_figure.png"
+    ],
     "image_dark": false,
     "test_name": "AFCAT 2016"
   },
@@ -27180,7 +27196,7 @@
         "text": "Figure D"
       }
     ],
-    "has_figure": false,
+    "has_figure": true,
     "image_source": {
       "pdf": "AFCAT_2016_Official_Paper2.pdf",
       "question_number": 73,
@@ -27190,7 +27206,9 @@
       "image_count": 6,
       "q_y": 594.7699584960938
     },
-    "image_path": [],
+    "image_path": [
+      "data/images/AFCAT_2016_Official_Paper2/q73_figure.png"
+    ],
     "image_dark": false,
     "test_name": "AFCAT 2016"
   },
@@ -33398,8 +33416,10 @@
         "text": "Option D"
       }
     ],
-    "has_figure": false,
-    "image_path": [],
+    "has_figure": true,
+    "image_path": [
+      "data/images/AFCAT_2018_Memory/q82_figure.png"
+    ],
     "image_source": {
       "pdf": "AFCAT_2018_Memory.pdf",
       "question_number": 82,
@@ -42979,9 +42999,9 @@
         "text": "Option (d)"
       }
     ],
-    "has_figure": false,
+    "has_figure": true,
     "image_path": [
-      "data/images/AFCAT_2021_Memory/p16_q91_f1.png"
+      "data/images/AFCAT_2021_Memory/q91_figure.png"
     ],
     "image_source": {
       "pdf": "AFCAT_2021_Memory.pdf",
@@ -42991,7 +43011,7 @@
       "image_count": 1,
       "q_y": 494.41998291015625
     },
-    "image_dark": true,
+    "image_dark": false,
     "test_name": "AFCAT 2021"
   },
   {
@@ -47247,8 +47267,10 @@
         "text": "E"
       }
     ],
-    "has_figure": false,
-    "image_path": [],
+    "has_figure": true,
+    "image_path": [
+      "data/images/AFCAT_2022_Feb13_Memory/q17_figure.png"
+    ],
     "image_source": {
       "pdf": "AFCAT_2022_Feb13_Memory.pdf",
       "question_number": 17,
@@ -62331,7 +62353,7 @@
         "text": "D"
       }
     ],
-    "has_figure": false,
+    "has_figure": true,
     "image_path": [],
     "image_source": {
       "pdf": "AFCAT_2022_Aug26_Memory.pdf",
@@ -62821,8 +62843,10 @@
         "text": "Figure D"
       }
     ],
-    "has_figure": false,
-    "image_path": [],
+    "has_figure": true,
+    "image_path": [
+      "data/images/AFCAT_2022_Aug26_Memory/q23_figure.png"
+    ],
     "image_source": {
       "pdf": "AFCAT_2022_Aug26_Memory.pdf",
       "question_number": 23,
@@ -66770,8 +66794,10 @@
         "text": "20m"
       }
     ],
-    "has_figure": false,
-    "image_path": [],
+    "has_figure": true,
+    "image_path": [
+      "data/images/DPP_2022_Feb14_v2/q12_figure.png"
+    ],
     "image_source": {
       "pdf": "DPP_2022_Feb14_v2.pdf",
       "question_number": 12,
@@ -72752,8 +72778,10 @@
         "text": "IV"
       }
     ],
-    "has_figure": false,
-    "image_path": [],
+    "has_figure": true,
+    "image_path": [
+      "data/images/DPP_2024_Feb16_v2/q5_figure.png"
+    ],
     "image_source": {
       "pdf": "DPP_2024_Feb16_v2.pdf",
       "question_number": 5,
@@ -73257,9 +73285,9 @@
         "text": "4"
       }
     ],
-    "has_figure": false,
+    "has_figure": true,
     "image_path": [
-      "data/images/DPP_2024_Feb16_v2/p4_q20_f1.jpeg"
+      "data/images/DPP_2024_Feb16_v2/q20_figure.png"
     ],
     "image_source": {
       "pdf": "DPP_2024_Feb16_v2.pdf",
