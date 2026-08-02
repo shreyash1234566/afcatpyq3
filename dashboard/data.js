@@ -33,7 +33,10 @@ const dashboardData = {
         "ci90_low": 1,
         "ci90_high": 12,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Select the most appropriate synonym for the given word: <span>PARSIMONIOUS</span>",
@@ -54,7 +57,10 @@ const dashboardData = {
         "ci90_low": 1,
         "ci90_high": 12,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "In the following question, out of the given alternatives, choose the best one which expresses the meaning of the given word. <span>VERBOSE</span>",
@@ -75,7 +81,10 @@ const dashboardData = {
         "ci90_low": 1,
         "ci90_high": 12,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Select the most appropriate antonym of the given word: <span>FERVENT</span>",
@@ -96,7 +105,10 @@ const dashboardData = {
         "ci90_low": 1,
         "ci90_high": 12,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Select the option that can be used as a one-word substitute for the given group of words: The study of the structure, behavior, and evolution of the universe.",
@@ -117,7 +129,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 8,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Choose the most appropriate word: Having a strong and unshakeable belief in something; firmly convinced.",
@@ -138,7 +153,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 8,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Out of the four alternatives, choose the one which can be substituted for the given phrase. A person who travels to a place for pleasure.",
@@ -159,7 +177,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 8,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Select the correct one-word substitute for the given group of words: A person who is an expert in the study of languages.",
@@ -180,7 +201,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 8,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Select the most appropriate meaning of the given idiom. Kill two birds with one stone",
@@ -201,7 +225,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 10,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Choose the one which is nearest to the meaning of: Go the extra mile",
@@ -222,7 +249,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 10,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Choose the one which best expresses the meaning of the given idiom: Let the cat out of the bag",
@@ -243,7 +273,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 10,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Select the most appropriate meaning of the given idiom. Once in a blue moon",
@@ -264,7 +297,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 10,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Read the passage and answer: Which word, mentioned in the passage, can replace the description 'The process of acquiring knowledge through experience'?",
@@ -285,7 +321,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 10,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Which of the following statements, according to the author, is TRUE?",
@@ -306,7 +345,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 10,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Which of the following is a primary benefit of emotional intelligence according to the passage?",
@@ -327,7 +369,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 10,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Read the passage and answer: How do resilience and adaptability function together within the framework outlined in the passage?",
@@ -348,7 +393,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 10,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Read the sentence to find out whether there is any grammatical error in it. The error, if any, will be part of the sentence. Spot the error from the given options. The team of scientists, as well as their colleagues, were (a) / responsible for the groundbreaking discovery (b) / that changed the field of medicine (c) / No error (d)",
@@ -369,7 +417,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 9,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Find out which part of the sentence has an error: The new employee was (a) / very nervous on his first day, but he have (b) / already made a good impression (c) / on his colleagues (d)",
@@ -390,7 +441,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 9,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "The following sentence has been split into four segments. Identify the segment that contains a grammatical error. If each of the students (A) / is given a chance (B) / they will performs (C) / No error (D)",
@@ -411,7 +465,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 9,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Read the sentence carefully to find out whether there is any grammatical error in it. The error, if any, will be in one part of the sentence. Spot the error from the given options. The manager, along with his team, (a) / have been working (b) / on the project for several months (c) / No error (d)",
@@ -432,7 +489,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 9,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "The implementation of the renewable energy project ____________________.",
@@ -453,7 +513,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 9,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Rearrange the parts of the sentence in correct order. P. despite economic downturns, the Q. governments of China and the US facilitated trade R. negotiations a binding agreement on 10 January 2022 S. between major corporations which allowed companies to submit to",
@@ -474,7 +537,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 9,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Directions: Mark the option with the correct arrangement of the words (A), (B), (C), and (D). The new policy aimed(A) to increase(B) the company's revenue, but it failed(C) to address(D) the underlying issues.",
@@ -495,7 +561,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 9,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Select the most appropriate option to fill in blank number 7: (Context: Impact of climate change on global food production) The rising temperatures and altered precipitation patterns have made it increasingly __________ for farmers to predict and prepare for seasonal crop yields.",
@@ -516,7 +585,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 11,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Fill in the blank with the most appropriate word from the given options. The new employee was very __________ in his approach to the project, often taking initiative and suggesting innovative solutions.",
@@ -537,7 +609,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 11,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Select the most appropriate word from the options against number 9: (Context: Economic development and urbanization) The government's decision to invest in infrastructure has __________ the growth of the city, attracting new businesses and residents.",
@@ -558,7 +633,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 11,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Select the most appropriate option to fill in the blank. The team was well-prepared that day ___ the launch of the new spacecraft.",
@@ -579,7 +657,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 7,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Choose the correctly spelt word",
@@ -600,7 +681,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 7,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Directions: Which of the following passive voice sentences is correctly structured? The new policy ___ by the management team.",
@@ -621,7 +705,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 7,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Choose the correctly spelt word.",
@@ -642,7 +729,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 6,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "With reference to the BrahMos missile, consider the following statements: 1. The BrahMos is a supersonic cruise missile with a range of over 400 km. 2. The BrahMos missile is capable of being launched from submarines, ships, and land-based platforms. Which of the statements given above is/are correct?",
@@ -663,7 +753,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 6,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Which of the following is a Beyond Visual Range (BVR) air-to-air missile?",
@@ -684,7 +777,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 6,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Who is the 31st Chief of the Naval Staff of India?",
@@ -705,7 +801,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 6,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Match List-I (Defence Exercise) with List-II (Participating Countries) and select the correct option. List-I (Defence Exercise) List-II (Participating Countries) (A) Exercise Yudh Abhyas (I) India and China (B) Exercise Shakti (II) India and France (C) Exercise Garuda (III) India and United States (D) Exercise Nomad (IV) India and Mongolia",
@@ -726,7 +825,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 6,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "With reference to the INS Vikrant, consider the following statements: 1. The INS Vikrant is India's first indigenous aircraft carrier. 2. The INS Vikrant has a displacement of over 40,000 tons and is capable of carrying over 30 aircraft. Which of the statements given above is/are correct?",
@@ -747,7 +849,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 6,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "The 23rd ASEAN–India Summit held in 2026 declared the year 2027 as which of the following?",
@@ -768,7 +873,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 5,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Who among the following is appointed as the head of the Space Commission?",
@@ -789,7 +897,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 5,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Who was recently appointed as a part-time member of the 17th Finance Commission, after N.K. Singh's resignation?",
@@ -810,7 +921,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 5,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Shankh Air, by Shankh Aviation, received a No Objection Certificate from Civil Aviation Ministry... The airline will operate from hubs in",
@@ -831,7 +945,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 5,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "The International Day of Sign Languages is observed every year on September 23 to raise awareness about sign language rights. Which theme was selected for the International Day of Sign Languages in 2026?",
@@ -852,7 +969,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 5,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Which of the following mountain ranges runs along the border between France and Spain?",
@@ -873,7 +993,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 5,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Which of the following rivers is the longest in South America?",
@@ -894,7 +1017,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 5,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Who was the founder of the Indian National Army?",
@@ -915,7 +1041,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 5,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Which of the following was called the 'Magna Carta of Indian Liberty'?",
@@ -936,7 +1065,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 5,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "To whom did President Droupadi Murmu confer the 59th Jnanpith Award?",
@@ -957,7 +1089,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 5,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Who won the Pulitzer Prize 2025 for Fiction?",
@@ -978,7 +1113,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 5,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Which of the following is true about a photosynthetic pigment?",
@@ -999,7 +1137,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 7,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Which of the following statements regarding the Finance Commission is INCORRECT?",
@@ -1020,7 +1161,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 5,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Diphu Pass in the Himalayas joins",
@@ -1041,7 +1185,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 5,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Who is also known as the 'Iron Man of India'?",
@@ -1062,7 +1209,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 4,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Which of the following is a component of the Money Supply in India?",
@@ -1083,7 +1233,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 4,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "The Kathakali dance is performed by men in honour of which Hindu god?",
@@ -1104,7 +1257,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 4,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Which of the following Asian countries celebrates its Independence Day on 15th August?",
@@ -1125,7 +1281,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 7,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Which of the following is the headquarters of the International Monetary Fund (IMF)?",
@@ -1146,7 +1305,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 5,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Which of the following ancient Indian rulers is known for his military conquests and establishment of the Gupta Empire?",
@@ -1167,133 +1329,230 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 4,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
-        "question_text": "A cube has its faces marked by colors Red, Blue, Green, Yellow, White, and Black. Two positions of the same cube are given below (cube net images showing: Position 1 has faces Red (top), Blue (front-left), Green (front-right), Yellow (bottom-front, obscured); Position 2 has faces White (top), Red (front-left), Blue (front-right)). Which face is opposite to face Yellow?",
+        "question_text": "Which of the answer figures is exactly the mirror image of the question figure, when the mirror is held on the line AB?",
         "options": [
-            "Figure A: Black",
-            "Figure B: White",
-            "Figure C: Green",
-            "Figure D: Black"
+            {
+                "key": "a",
+                "text": "Figure (a)"
+            },
+            {
+                "key": "b",
+                "text": "Figure (b)"
+            },
+            {
+                "key": "c",
+                "text": "Figure (c)"
+            },
+            {
+                "key": "d",
+                "text": "Figure (d)"
+            }
         ],
-        "correct_answer": "Figure A: Black",
+        "correct_answer": "A",
         "section": "Reasoning",
         "topic": "Non-Verbal Pattern",
         "predicted_difficulty": "medium",
-        "question_type": "sota-generated",
+        "question_type": "historical-visual",
         "explanation": "Step-by-step explanation: Analyzing the given positions, we can deduce that Red is opposite to White and Blue is opposite to Green. Since Yellow is on the bottom in the first position and Red is on top, Yellow must be opposite to the face that is on the bottom in the second position, which is not visible, but based on the opposition of Red and White, and Blue and Green, the only face left to be opposite to Yellow without contradicting the given information is Black.",
         "confidence": 0.55,
         "dm_predicted_count": 7.174,
         "ci90_low": 0,
         "ci90_high": 14,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": true,
+        "image_path": [
+            "assets/images/AFCAT_2020_Memory/q98_figure.png"
+        ],
+        "image_dark": false
     },
     {
-        "question_text": "Identify the figure given in the options which when put in place of the question mark (?) will logically complete the series. (A series of four 4x4 grid figures is shown, each containing letters/symbols like @, #, *, and + in rotating positions along the border; the fifth figure in the series is a question mark.)",
+        "question_text": "Select one diagram from the Answer Figures which fits into the blank column in Incomplete Figure [Triangle pattern completion]",
         "options": [
-            "Figure A: @ on top, # on the left, * on the right, and + on the bottom",
-            "Figure B: # on top, * on the left, + on the right, and @ on the bottom",
-            "Figure C: * on top, + on the left, @ on the right, and # on the bottom",
-            "Figure D: + on top, @ on the left, # on the right, and * on the bottom"
+            {
+                "key": "A",
+                "text": "Figure (a)"
+            },
+            {
+                "key": "B",
+                "text": "Figure (b)"
+            },
+            {
+                "key": "C",
+                "text": "Figure (c)"
+            },
+            {
+                "key": "D",
+                "text": "Figure (d)"
+            }
         ],
-        "correct_answer": "Figure B: # on top, * on the left, + on the right, and @ on the bottom",
+        "correct_answer": "A",
         "section": "Reasoning",
         "topic": "Non-Verbal Pattern",
         "predicted_difficulty": "medium",
-        "question_type": "sota-generated",
+        "question_type": "historical-visual",
         "explanation": "Step-by-step explanation: Analyzing the pattern, each figure shows a rotation of the symbols. The first figure has @ on top, the second would rotate to have # on top, the third * on top, the fourth + on top, and following this pattern, the fifth figure should have # on top, * on the left, + on the right, and @ on the bottom, which matches option B.",
         "confidence": 0.55,
         "dm_predicted_count": 7.174,
         "ci90_low": 0,
         "ci90_high": 14,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": true,
+        "image_path": [],
+        "image_dark": false
     },
     {
-        "question_text": "A dice has its faces marked by digits 3, 4, 5, 6, 7, and 8. Three positions of the dice are given below. One of the faces in the second image of the dice is masked by '#'. Position 1: 6 (top), 3 (front-left), 5 (front-right). Position 2: 8 (top), 5 (front-left), # (front-right). Position 3: 4 (top), 6 (front-left), 8 (front-right). Which of the following statements is/are true? I) The product of the values of '#' and the side opposite to it is 42. II) The sum of the values of '#' and the side opposite to '4' is a prime number. III) The square root of the sum of all the sides adjacent to '#' gives a rational number.",
+        "question_text": "Choose the figure which is different from the rest.",
         "options": [
-            "Figure A: Only I is true",
-            "Figure B: Only II is true",
-            "Figure C: Only III is true",
-            "Figure D: I, II, and III are true"
+            {
+                "key": "a",
+                "text": "Figure (a)"
+            },
+            {
+                "key": "b",
+                "text": "Figure (b)"
+            },
+            {
+                "key": "c",
+                "text": "Figure (c)"
+            },
+            {
+                "key": "d",
+                "text": "Figure (d)"
+            }
         ],
-        "correct_answer": "Figure A: Only I is true",
+        "correct_answer": "A",
         "section": "Reasoning",
         "topic": "Non-Verbal Pattern",
         "predicted_difficulty": "medium",
-        "question_type": "sota-generated",
+        "question_type": "historical-visual",
         "explanation": "Step-by-step explanation: Analyzing the positions, from Position 1 and Position 3, we can deduce that 6 is opposite to 8 and 3 is opposite to 4 (since 6 and 8 are on opposite sides in Position 3, and 3 and 4 are on opposite sides in Position 1 and Position 3 respectively). From Position 2, since 8 is on top and 5 is on the front-left, and knowing 6 is opposite to 8, the '#' must be 7 because it's the only number left that can fit without contradicting the given information. The product of '#' (7) and its opposite (which must be 6 since 5 and 3 are accounted for in other positions) is indeed 42, making statement I true. Without explicit information on what '#' is opposite to in a way that directly relates to '4', and considering the sum of '#' (7) and the side opposite to '4' (which is 3 based on the opposition deduced), their sum is 10, which is not a prime number, making statement II false. The sum of the sides adjacent to '#' (5, 8, and the side opposite to '#', which is 6) is 19, and the square root of 19 is not a rational number, making statement III false. Thus, only statement I is true.",
         "confidence": 0.55,
         "dm_predicted_count": 7.174,
         "ci90_low": 0,
         "ci90_high": 14,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": true,
+        "image_path": [],
+        "image_dark": false
     },
     {
-        "question_text": "Study the given pattern carefully and select the number that is the product of P and Q. (Different operations when performed on the two numbers given in each of the sectors in figure X yield the same result P: outer sectors 10, 2, 15, 3, 6, 24 surrounding P. Similarly, in figure Y, outer sectors 20, 4, 30, 5, 12, 40 surrounding Q.)",
+        "question_text": "Select the option figure that can replace the question mark (?) in the following series.",
         "options": [
-            "Figure A: 120",
-            "Figure B: 100",
-            "Figure C: 150",
-            "Figure D: 200"
+            {
+                "key": "A",
+                "text": "Figure A"
+            },
+            {
+                "key": "B",
+                "text": "Figure B"
+            },
+            {
+                "key": "C",
+                "text": "Figure C"
+            },
+            {
+                "key": "D",
+                "text": "Figure D"
+            }
         ],
-        "correct_answer": "Figure A: 120",
+        "correct_answer": "A",
         "section": "Reasoning",
         "topic": "Non-Verbal Pattern",
         "predicted_difficulty": "medium",
-        "question_type": "sota-generated",
+        "question_type": "historical-visual",
         "explanation": "Step-by-step explanation: Analyzing figure X, the operations seem to involve multiplication and division by 2 and 3 (10*2=20, 2*3=6, 15/3=5, etc.), but a clear pattern isn't directly discernible without more context. However, if we consider the numbers surrounding P and Q as being related through multiplication or division by common factors, and given the numbers in figure X and Y, a possible pattern could involve the product of the numbers in each sector. For P, if we consider the product of the numbers given (10*2*15*3*6*24), it's a large number, but looking at the options provided and considering a simpler pattern, we might look for a common factor or a simpler operation. For Q, the numbers are larger, suggesting a multiplication factor. Without explicit operations, if we consider the pattern might involve finding a common multiplier or factor that relates P and Q, and given the options, 120 seems a plausible product if P and Q are related through the operations hinted at in the figures, especially considering the numbers provided could be simplified or factored into smaller components that multiply to 120.",
         "confidence": 0.55,
         "dm_predicted_count": 7.174,
         "ci90_low": 0,
         "ci90_high": 14,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": true,
+        "image_path": [
+            "assets/images/DPP_2024_Aug10_Shift1_v2/q15_figure.png"
+        ],
+        "image_dark": false
     },
     {
-        "question_text": "Study the given pattern carefully and select the letters that can replace the symbols in the last figure. (Circular figures divided into quadrants with letter pairs: A/B, C/D, E/F, and the last with $ / % / @ to be determined.)",
+        "question_text": "Establish a similar relationship between figures (3) and (4) by selecting a suitable figure from the Answer set. Q90 (See diagram)",
         "options": [
-            "Figure A: G/H",
-            "Figure B: I/J",
-            "Figure C: K/L",
-            "Figure D: M/N"
+            {
+                "key": "A",
+                "text": "Figure a"
+            },
+            {
+                "key": "B",
+                "text": "Figure b"
+            },
+            {
+                "key": "C",
+                "text": "Figure c"
+            },
+            {
+                "key": "D",
+                "text": "Figure d"
+            }
         ],
-        "correct_answer": "Figure A: G/H",
+        "correct_answer": "A",
         "section": "Reasoning",
         "topic": "Non-Verbal Pattern",
         "predicted_difficulty": "medium",
-        "question_type": "sota-generated",
+        "question_type": "historical-visual",
         "explanation": "Step-by-step explanation: Analyzing the pattern, if we consider an alphabetical sequence, A/B, C/D, E/F suggests a progression where each new pair starts with the next letter of the alphabet. Following this pattern, after E/F, the next pair should start with G, thus G/H would logically complete the series.",
         "confidence": 0.55,
         "dm_predicted_count": 7.174,
         "ci90_low": 0,
         "ci90_high": 14,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": true,
+        "image_path": [],
+        "image_dark": false
     },
     {
-        "question_text": "A set of blocks has its faces colored by four colors: Red, Blue, Yellow, and Green. Two configurations of the blocks are given below (block configurations showing: Configuration 1 has Red on top, Blue on the side, and Yellow on the front; Configuration 2 has Green on top, Red on the side, and Blue on the front). Which face is opposite to the face colored Yellow?",
+        "question_text": "Choose the figure which is different from the rest.",
         "options": [
-            "Figure A: Green",
-            "Figure B: Red",
-            "Figure C: Blue",
-            "Figure D: Yellow"
+            {
+                "key": "A",
+                "text": "Figure A"
+            },
+            {
+                "key": "B",
+                "text": "Figure B"
+            },
+            {
+                "key": "C",
+                "text": "Figure C"
+            },
+            {
+                "key": "D",
+                "text": "Figure D"
+            }
         ],
-        "correct_answer": "Figure A: Green",
+        "correct_answer": "A",
         "section": "Reasoning",
         "topic": "Non-Verbal Pattern",
         "predicted_difficulty": "medium",
-        "question_type": "sota-generated",
+        "question_type": "historical-visual",
         "explanation": "Step-by-step explanation: Analyzing the configurations, since Red is on the side in Configuration 2 and was on top in Configuration 1, and Blue is on the front in Configuration 2 and was on the side in Configuration 1, it indicates a rotation. Given that Green is on top in Configuration 2 and was not visible in Configuration 1, and knowing the colors, the only color that can be opposite to Yellow (which was on the front in Configuration 1) without contradicting the given information is Green, as the other colors' positions are accounted for in the rotation described.",
         "confidence": 0.55,
         "dm_predicted_count": 7.174,
         "ci90_low": 0,
         "ci90_high": 14,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": true,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "In a certain code language, if FLOWER is coded as 'REWOLF' and PAINT is coded as 'TNIPA', then what will DREAM be coded as?",
@@ -1314,7 +1573,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 9,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Select the option that is related to the fifth letter cluster in the same way as the second letter cluster is related to the first... FABLE: ELBAF CONCEPT: TPECNOC:: REGULAR:?",
@@ -1335,7 +1597,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 9,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "If in a certain language, COMPUTER is coded as RETUPMOC, then how is GENERATE coded in that language?",
@@ -1356,7 +1621,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 9,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "In a certain code language, 'data analysis report' is coded as 'd4 a7 r9' and 'research paper submission' is coded as 'r6 p5 s8'. What is the probable code for 'technical documentation'?",
@@ -1377,7 +1645,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 9,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "In a code language, 'CLOUD' is coded as '31541421' and 'STORM' is coded as '1920141419'. Which of the following are correct matches as per the given code language? WORD - CODE (i) RAIN - (X) 18141814 (ii) SNOW - (Y) 1920151419 (iii) HAIL - (Z) 814141418",
@@ -1398,7 +1669,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 9,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Study the given pattern carefully and select the number that can replace the question mark (?) in it. 2, 5, 10, 17, 26, ?",
@@ -1419,7 +1693,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 13,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Eight friends - A, B, C, D, E, F, G, and H are sitting around a circular table facing towards the centre. If B is sitting on the immediate right of F and C is sitting on the immediate left of F, who is sitting on the immediate right of C?",
@@ -1440,7 +1717,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 13,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "X introduces Y saying, 'He is the husband of the granddaughter of the father of my father.' How is Y related to X?",
@@ -1461,7 +1741,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 13,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Which of the given options correctly defines the relationship between x and y, if '× means ÷', '÷ means +', '+ means −', and '− means ×'? x = 40 × 8 ÷ 4 − 2 + 10, y = 20 × 4 ÷ 2 − 1 + 5",
@@ -1482,7 +1765,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 13,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "In a row of students facing north, Ankit is 15th from the left end and Divya is 20th from the right end. If there are exactly 5 people sitting between them, what are the maximum (x) and minimum (y) possible numbers of students in the row?",
@@ -1503,49 +1789,86 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 13,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
-        "question_text": "Identify the diagram that best represents the relationship among the classes given below : Hospital, Doctor, Nurse",
+        "question_text": "Select the Venn diagram that best illustrates the relationship between the three given classes: Advocate, Males, Husband",
         "options": [
-            "Diagram where Hospital and Doctor overlap but not Nurse",
-            "Diagram where Doctor and Nurse overlap but not Hospital",
-            "Diagram where Hospital, Doctor, and Nurse overlap",
-            "Diagram where Hospital, Doctor, and Nurse are separate and do not overlap"
+            {
+                "key": "A",
+                "text": "Option A"
+            },
+            {
+                "key": "B",
+                "text": "Option B"
+            },
+            {
+                "key": "C",
+                "text": "Option C"
+            },
+            {
+                "key": "D",
+                "text": "Option D"
+            }
         ],
-        "correct_answer": "Diagram where Doctor and Nurse overlap but not Hospital",
+        "correct_answer": "A",
         "section": "Reasoning",
         "topic": "Venn Diagrams",
         "predicted_difficulty": "medium",
-        "question_type": "sota-generated",
+        "question_type": "historical-visual",
         "explanation": "The relationship between Hospital, Doctor, and Nurse can be represented by a Venn diagram where Doctor and Nurse overlap, as both are professionals working in a hospital, but Hospital is a broader category that encompasses both.",
         "confidence": 0.55,
         "dm_predicted_count": 2.052,
         "ci90_low": 0,
         "ci90_high": 9,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": true,
+        "image_path": [
+            "assets/images/DPP_2024_Aug09_Shift2_v3/q11_figure.png"
+        ],
+        "image_dark": false
     },
     {
-        "question_text": "Select the Venn diagram that best illustrates the relationship between the following classes. Planet, Earth, Moon",
+        "question_text": "Study the diagram given below and identify the region representing girls who are employed but unmarried. [Venn diagram with intersecting circles for Employed, Girls, Unmarried]",
         "options": [
-            "Diagram where Planet and Earth overlap but not Moon",
-            "Diagram where Earth and Moon overlap but not Planet",
-            "Diagram where Planet encompasses Earth, and Earth encompasses Moon",
-            "Diagram where Planet, Earth, and Moon are separate and do not overlap"
+            {
+                "key": "A",
+                "text": "1"
+            },
+            {
+                "key": "B",
+                "text": "2"
+            },
+            {
+                "key": "C",
+                "text": "4"
+            },
+            {
+                "key": "D",
+                "text": "5"
+            }
         ],
-        "correct_answer": "Diagram where Planet encompasses Earth, and Earth encompasses Moon",
+        "correct_answer": "A",
         "section": "Reasoning",
         "topic": "Venn Diagrams",
         "predicted_difficulty": "medium",
-        "question_type": "sota-generated",
+        "question_type": "historical-visual",
         "explanation": "The correct representation is a diagram where Planet encompasses Earth, and Earth encompasses Moon, because Earth is a type of planet and Moon is a satellite of Earth, illustrating a hierarchical relationship.",
         "confidence": 0.55,
         "dm_predicted_count": 2.052,
         "ci90_low": 0,
         "ci90_high": 9,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": true,
+        "image_path": [
+            "assets/images/AFCAT_2021_Memory/q96_figure.png"
+        ],
+        "image_dark": false
     },
     {
         "question_text": "Select the option that is related to the third word in the same way as the second word is related to the first word. Painter : Brush :: Writer: ?",
@@ -1566,7 +1889,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 11,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Choose the pair of words that best expresses the relationship like the original pair: Fingerprint: Identification",
@@ -1587,7 +1913,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 11,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Four words are given, three of which are alike in a certain way while one is not. Select the odd one out. (A) Geology (B) Meteorology (C) Oceanology (D) Psychology",
@@ -1608,7 +1937,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 10,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Choose the word which is different from the rest: (A) Sapphire (B) Emerald (C) Ruby (D) Sandstone",
@@ -1629,7 +1961,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 10,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Rohan went from his home to his gym. He started his journey facing North. First, he went 1.5 km straight; then he turned to his left and went 2.5 km; finally, he turned right and walked 3.5 km to reach his gym. To which direction is Rohan's home located in relation to his gym?",
@@ -1650,7 +1985,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 5,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Select the number from among the given options that can replace the question mark (?) in the following series. 729, 675, 621, 567, 513, ?",
@@ -1671,7 +2009,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 8,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "The rectangular park with a length and breadth of 200 m & 150 m respectively, is maintained in a circular field. The area of the circular field excluding the park is 45000 metre square. Find the radius of the field.",
@@ -1692,7 +2033,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 4,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "A square park having a side 25 m has two roads each 2.5 m wide running in the middle of it and parallel to its length and breadth. What will be the cost of gravelling the path at the rate of Rs. 120/m^2?",
@@ -1713,7 +2057,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 4,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "A fruit vendor purchases oranges at Rs. 8 per dozen. The dishonest vendor mixes 2 rotten oranges for every 10 fresh oranges. Find the percentage gain if he sells the mixture at Rs. 10 per dozen.",
@@ -1734,7 +2081,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 6,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "In a shopping mall, an offer is running 'Buy 12 shirts get 4 shirts free'. How much percent discount is there?",
@@ -1755,7 +2105,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 6,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "A and B can do a piece of work in 18 hours. B and C can do it in 22 hours, while A and C take 12 hours to complete the work. B independently can complete the work in",
@@ -1776,7 +2129,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 6,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Rahul can do a piece of work in 8 days. He works at it for 3 days and then Suresh finishes it in 7 days, in how many days can Rahul and Suresh together finish the work?",
@@ -1797,7 +2153,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 6,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "What is the least number added to 3751 so that it is completely divisible by 3, 4, 5 and 6?",
@@ -1818,7 +2177,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 4,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "The number whose square is equal to the difference of the squares of 43 and 27 is",
@@ -1839,7 +2201,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 4,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Simplify: 72 - 2 [ 9 + 6 { 8 - 6 (12 - 5) + 9 } - 15 ] ÷ 3",
@@ -1860,7 +2225,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 4,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "The simplified form of (8^-1 × √324)^3 / 1728 is:",
@@ -1881,7 +2249,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 4,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "In a 72 litres mixture, juice and water are in ratio 4: 3. Some amount of juice is added to that mixture so that the ratio of juice and water becomes 5: 3. Find the amount of juice in the final mixture.",
@@ -1902,7 +2273,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 4,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "In a mixture of 90 litres, the ratio of milk and water is 3: 2. What amount of water must be added to make the ratio of milk and water as 2: 3?",
@@ -1923,7 +2297,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 4,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "A box contains 8 white, 12 black balls and 10 green balls. A ball is drawn at random from the box. Find the probability that the ball drawn is white or green.",
@@ -1944,7 +2321,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 3,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "Two coins are tossed simultaneously. What is the probability of getting two numbers whose product is even?",
@@ -1965,7 +2345,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 3,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "A bus takes 8 seconds and 12 seconds to cross 2 men who are walking in the same direction of the bus at the speed of 8 km/hr and 4 km/hr respectively. Find the speed of the bus.",
@@ -1986,7 +2369,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 7,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "A sum of money becomes 4 times of itself in 7 years at compound interest, then find in how many years this sum becomes 16 times at the same rate of interest?",
@@ -2007,7 +2393,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 6,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "The ratio of the number of boys and girls in a school is 11 : 9. If we multiply the number of girls by the answer, we get 594. What will be the ratio of the number of boys and girls after 5 years?",
@@ -2028,7 +2417,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 6,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "A company's profit is 25% of its revenue. If the revenue increases by 40% and the expenditure increases by 30%, then by what percent does the profit increase?",
@@ -2049,7 +2441,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 6,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "If x² + y² = 74 and x × y = 12, find (x − y)/(x + y), where x > y > 0",
@@ -2070,7 +2465,10 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 3,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
         "question_text": "The average height of a group of 25 persons is 165 cm. 10 new persons with an average height of 170 cm join them due to which the average height of the group becomes 166 cm. Find the number of persons initially in the group.",
@@ -2091,28 +2489,48 @@ const dashboardData = {
         "ci90_low": 0,
         "ci90_high": 6,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": false,
+        "image_path": [],
+        "image_dark": false
     },
     {
-        "question_text": "Identify the Venn diagram that best represents the relationship between: Males, Fathers, and Engineers.",
+        "question_text": "Which of the following diagrams indicates the best relation between Granite, Tree and Water?",
         "options": [
-            "Three intersecting circles",
-            "Two concentric circles with a third intersecting both",
-            "One circle inside another, and a third intersecting both",
-            "Three completely separate circles"
+            {
+                "key": "A",
+                "text": "a"
+            },
+            {
+                "key": "B",
+                "text": "b"
+            },
+            {
+                "key": "C",
+                "text": "c"
+            },
+            {
+                "key": "D",
+                "text": "d"
+            }
         ],
-        "correct_answer": "One circle inside another, and a third intersecting both",
+        "correct_answer": "A",
         "section": "Reasoning",
         "topic": "Venn Diagrams",
         "predicted_difficulty": "medium",
-        "question_type": "sota-generated",
+        "question_type": "historical-visual",
         "explanation": "All Fathers are Males (so the Father circle is completely inside the Male circle). Engineers can be Males, Females, Fathers, or not Fathers, so the Engineer circle intersects both the Father and Male circles, but also exists outside of them.",
         "confidence": 0.55,
         "dm_predicted_count": 2.1,
         "ci90_low": 0,
         "ci90_high": 9,
         "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": true,
+        "image_path": [
+            "assets/images/AFCAT_2023_01_Memory/q96_figure.png"
+        ],
+        "image_dark": false
     }
 ]},
   "dmTopicPlan": {
@@ -2458,7 +2876,7 @@ const dashboardData = {
 
 if (typeof window !== 'undefined') {
     window.predictionsData = {
-        "ml_predictions": [{"Topic": "Synonyms/Antonyms", "Section": "Verbal Ability", "Predicted_Questions": 3.6599999999999997, "Is_Core": true}, {"Topic": "One Word Substitution", "Section": "Verbal Ability", "Predicted_Questions": 3.5673999999999997, "Is_Core": false}, {"Topic": "Idioms & Phrases", "Section": "Verbal Ability", "Predicted_Questions": 3.1790999999999996, "Is_Core": true}, {"Topic": "Reading Comprehension", "Section": "Verbal Ability", "Predicted_Questions": 3.1583999999999994, "Is_Core": true}, {"Topic": "Spotting Errors", "Section": "Verbal Ability", "Predicted_Questions": 3.1469999999999994, "Is_Core": true}, {"Topic": "Para Jumbles", "Section": "Verbal Ability", "Predicted_Questions": 3.1454999999999993, "Is_Core": true}, {"Topic": "Cloze Test", "Section": "Verbal Ability", "Predicted_Questions": 3.0872999999999995, "Is_Core": true}, {"Topic": "Grammar", "Section": "Verbal Ability", "Predicted_Questions": 2.9327999999999994, "Is_Core": false}, {"Topic": "Spelling", "Section": "Verbal Ability", "Predicted_Questions": 0.6225, "Is_Core": false}, {"Topic": "Defence", "Section": "General Awareness", "Predicted_Questions": 5.037299999999999, "Is_Core": false}, {"Topic": "Current Affairs", "Section": "General Awareness", "Predicted_Questions": 4.476299999999999, "Is_Core": false}, {"Topic": "Geography (World)", "Section": "General Awareness", "Predicted_Questions": 1.9042999999999999, "Is_Core": false}, {"Topic": "History (Modern)", "Section": "General Awareness", "Predicted_Questions": 1.7765, "Is_Core": false}, {"Topic": "Awards", "Section": "General Awareness", "Predicted_Questions": 1.7413999999999998, "Is_Core": false}, {"Topic": "General Science", "Section": "General Awareness", "Predicted_Questions": 1.3594, "Is_Core": false}, {"Topic": "Indian Polity", "Section": "General Awareness", "Predicted_Questions": 1.1850999999999998, "Is_Core": false}, {"Topic": "Geography (India)", "Section": "General Awareness", "Predicted_Questions": 1.093, "Is_Core": false}, {"Topic": "Personalities", "Section": "General Awareness", "Predicted_Questions": 1.0215999999999998, "Is_Core": false}, {"Topic": "Economy", "Section": "General Awareness", "Predicted_Questions": 1.0095999999999998, "Is_Core": false}, {"Topic": "Art & Culture", "Section": "General Awareness", "Predicted_Questions": 0.9781, "Is_Core": false}, {"Topic": "Static GK", "Section": "General Awareness", "Predicted_Questions": 0.7494000000000001, "Is_Core": false}, {"Topic": "Organizations", "Section": "General Awareness", "Predicted_Questions": 0.5181, "Is_Core": false}, {"Topic": "History (Ancient)", "Section": "General Awareness", "Predicted_Questions": 0.3903, "Is_Core": false}, {"Topic": "Books", "Section": "General Awareness", "Predicted_Questions": 0.3699, "Is_Core": false}, {"Topic": "History (Medieval)", "Section": "General Awareness", "Predicted_Questions": 0.36510000000000004, "Is_Core": false}, {"Topic": "Environment/Ecology", "Section": "General Awareness", "Predicted_Questions": 0.32489999999999997, "Is_Core": false}, {"Topic": "Non-Verbal Pattern", "Section": "Reasoning", "Predicted_Questions": 7.174099999999999, "Is_Core": true}, {"Topic": "Coding-Decoding", "Section": "Reasoning", "Predicted_Questions": 4.9338, "Is_Core": false}, {"Topic": "Logical Reasoning", "Section": "Reasoning", "Predicted_Questions": 4.8746, "Is_Core": true}, {"Topic": "Venn Diagrams", "Section": "Reasoning", "Predicted_Questions": 2.0519, "Is_Core": false}, {"Topic": "Verbal Analogy", "Section": "Reasoning", "Predicted_Questions": 1.6984, "Is_Core": true}, {"Topic": "Verbal Classification", "Section": "Reasoning", "Predicted_Questions": 1.5562, "Is_Core": false}, {"Topic": "Direction Sense", "Section": "Reasoning", "Predicted_Questions": 1.5232999999999999, "Is_Core": false}, {"Topic": "Number/Letter Series", "Section": "Reasoning", "Predicted_Questions": 0.8675999999999999, "Is_Core": false}, {"Topic": "Syllogism", "Section": "Reasoning", "Predicted_Questions": 0.31980000000000003, "Is_Core": false}, {"Topic": "Mensuration", "Section": "Numerical Ability", "Predicted_Questions": 2.4797999999999996, "Is_Core": false}, {"Topic": "Profit & Loss", "Section": "Numerical Ability", "Predicted_Questions": 2.0425999999999997, "Is_Core": false}, {"Topic": "Time & Work", "Section": "Numerical Ability", "Predicted_Questions": 1.9655, "Is_Core": false}, {"Topic": "Number System", "Section": "Numerical Ability", "Predicted_Questions": 1.8115999999999999, "Is_Core": false}, {"Topic": "Simplification", "Section": "Numerical Ability", "Predicted_Questions": 1.688, "Is_Core": false}, {"Topic": "Mixture & Alligation", "Section": "Numerical Ability", "Predicted_Questions": 1.6708999999999998, "Is_Core": false}, {"Topic": "Statistics", "Section": "Numerical Ability", "Predicted_Questions": 1.5914, "Is_Core": false}, {"Topic": "Time, Speed & Dist.", "Section": "Numerical Ability", "Predicted_Questions": 1.4245, "Is_Core": false}, {"Topic": "Simple/Compound Int.", "Section": "Numerical Ability", "Predicted_Questions": 1.3176999999999999, "Is_Core": false}, {"Topic": "Ratio & Proportion", "Section": "Numerical Ability", "Predicted_Questions": 1.2753999999999999, "Is_Core": false}, {"Topic": "Percentage", "Section": "Numerical Ability", "Predicted_Questions": 1.2085, "Is_Core": false}, {"Topic": "Algebra", "Section": "Numerical Ability", "Predicted_Questions": 0.8655999999999999, "Is_Core": false}, {"Topic": "Average", "Section": "Numerical Ability", "Predicted_Questions": 0.5094, "Is_Core": false}, {"Topic": "Clock Problems", "Section": "Numerical Ability", "Predicted_Questions": 0.0564, "Is_Core": false}, {"Topic": "Clocks", "Section": "Numerical Ability", "Predicted_Questions": 0.0465, "Is_Core": false}, {"Topic": "Direction Sense", "Section": "Numerical Ability", "Predicted_Questions": 0.0465, "Is_Core": false}],
+        "ml_predictions": [{"Topic": "Synonyms/Antonyms", "Section": "Verbal Ability", "Predicted_Questions": 3.6599999999999997, "Is_Core": true, "Micro_Focus": []}, {"Topic": "One Word Substitution", "Section": "Verbal Ability", "Predicted_Questions": 3.5673999999999997, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Idioms & Phrases", "Section": "Verbal Ability", "Predicted_Questions": 3.1790999999999996, "Is_Core": true, "Micro_Focus": []}, {"Topic": "Reading Comprehension", "Section": "Verbal Ability", "Predicted_Questions": 3.1583999999999994, "Is_Core": true, "Micro_Focus": []}, {"Topic": "Spotting Errors", "Section": "Verbal Ability", "Predicted_Questions": 3.1469999999999994, "Is_Core": true, "Micro_Focus": [{"name": "Other Grammar", "count": 2.21}, {"name": "Tenses", "count": 0.93}]}, {"Topic": "Para Jumbles", "Section": "Verbal Ability", "Predicted_Questions": 3.1454999999999993, "Is_Core": true, "Micro_Focus": []}, {"Topic": "Cloze Test", "Section": "Verbal Ability", "Predicted_Questions": 3.0872999999999995, "Is_Core": true, "Micro_Focus": []}, {"Topic": "Grammar", "Section": "Verbal Ability", "Predicted_Questions": 2.9327999999999994, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Spelling", "Section": "Verbal Ability", "Predicted_Questions": 0.6225, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Defence", "Section": "General Awareness", "Predicted_Questions": 5.037299999999999, "Is_Core": false, "Micro_Focus": [{"name": "General Defence", "count": 2.1}, {"name": "Missiles", "count": 1.08}, {"name": "Exercises", "count": 0.64}]}, {"Topic": "Current Affairs", "Section": "General Awareness", "Predicted_Questions": 4.476299999999999, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Geography (World)", "Section": "General Awareness", "Predicted_Questions": 1.9042999999999999, "Is_Core": false, "Micro_Focus": []}, {"Topic": "History (Modern)", "Section": "General Awareness", "Predicted_Questions": 1.7765, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Awards", "Section": "General Awareness", "Predicted_Questions": 1.7413999999999998, "Is_Core": false, "Micro_Focus": [{"name": "Other Awards", "count": 0.77}, {"name": "National Civilian", "count": 0.26}, {"name": "Nobel Prize", "count": 0.26}]}, {"Topic": "General Science", "Section": "General Awareness", "Predicted_Questions": 1.3594, "Is_Core": false, "Micro_Focus": [{"name": "General Science", "count": 1.24}]}, {"Topic": "Indian Polity", "Section": "General Awareness", "Predicted_Questions": 1.1850999999999998, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Geography (India)", "Section": "General Awareness", "Predicted_Questions": 1.093, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Personalities", "Section": "General Awareness", "Predicted_Questions": 1.0215999999999998, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Economy", "Section": "General Awareness", "Predicted_Questions": 1.0095999999999998, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Art & Culture", "Section": "General Awareness", "Predicted_Questions": 0.9781, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Static GK", "Section": "General Awareness", "Predicted_Questions": 0.7494000000000001, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Organizations", "Section": "General Awareness", "Predicted_Questions": 0.5181, "Is_Core": false, "Micro_Focus": []}, {"Topic": "History (Ancient)", "Section": "General Awareness", "Predicted_Questions": 0.3903, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Books", "Section": "General Awareness", "Predicted_Questions": 0.3699, "Is_Core": false, "Micro_Focus": []}, {"Topic": "History (Medieval)", "Section": "General Awareness", "Predicted_Questions": 0.36510000000000004, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Environment/Ecology", "Section": "General Awareness", "Predicted_Questions": 0.32489999999999997, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Non-Verbal Pattern", "Section": "Reasoning", "Predicted_Questions": 7.174099999999999, "Is_Core": true, "Micro_Focus": []}, {"Topic": "Coding-Decoding", "Section": "Reasoning", "Predicted_Questions": 4.9338, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Logical Reasoning", "Section": "Reasoning", "Predicted_Questions": 4.8746, "Is_Core": true, "Micro_Focus": []}, {"Topic": "Venn Diagrams", "Section": "Reasoning", "Predicted_Questions": 2.0519, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Verbal Analogy", "Section": "Reasoning", "Predicted_Questions": 1.6984, "Is_Core": true, "Micro_Focus": []}, {"Topic": "Verbal Classification", "Section": "Reasoning", "Predicted_Questions": 1.5562, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Direction Sense", "Section": "Reasoning", "Predicted_Questions": 1.5232999999999999, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Number/Letter Series", "Section": "Reasoning", "Predicted_Questions": 0.8675999999999999, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Syllogism", "Section": "Reasoning", "Predicted_Questions": 0.31980000000000003, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Mensuration", "Section": "Numerical Ability", "Predicted_Questions": 2.4797999999999996, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Profit & Loss", "Section": "Numerical Ability", "Predicted_Questions": 2.0425999999999997, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Time & Work", "Section": "Numerical Ability", "Predicted_Questions": 1.9655, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Number System", "Section": "Numerical Ability", "Predicted_Questions": 1.8115999999999999, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Simplification", "Section": "Numerical Ability", "Predicted_Questions": 1.688, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Mixture & Alligation", "Section": "Numerical Ability", "Predicted_Questions": 1.6708999999999998, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Statistics", "Section": "Numerical Ability", "Predicted_Questions": 1.5914, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Time, Speed & Dist.", "Section": "Numerical Ability", "Predicted_Questions": 1.4245, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Simple/Compound Int.", "Section": "Numerical Ability", "Predicted_Questions": 1.3176999999999999, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Ratio & Proportion", "Section": "Numerical Ability", "Predicted_Questions": 1.2753999999999999, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Percentage", "Section": "Numerical Ability", "Predicted_Questions": 1.2085, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Algebra", "Section": "Numerical Ability", "Predicted_Questions": 0.8655999999999999, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Average", "Section": "Numerical Ability", "Predicted_Questions": 0.5094, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Clock Problems", "Section": "Numerical Ability", "Predicted_Questions": 0.0564, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Clocks", "Section": "Numerical Ability", "Predicted_Questions": 0.0465, "Is_Core": false, "Micro_Focus": []}, {"Topic": "Direction Sense", "Section": "Numerical Ability", "Predicted_Questions": 0.0465, "Is_Core": false, "Micro_Focus": []}],
         "rising_topics": dashboardData.risingTopics,
         "declining_topics": dashboardData.decliningTopics,
         "topic_predictions": dashboardData.topicDistribution

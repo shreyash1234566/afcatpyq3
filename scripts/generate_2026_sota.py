@@ -367,14 +367,69 @@ def main():
     print("[DONE] Dashboard updated!")
 
 
+def get_micro_topic(sec, top, text, exp):
+    text = text.lower()
+    exp = exp.lower()
+    if top in ['Spotting Errors', 'Sentence Completion']:
+        if any(w in text for w in ['as well as']) or any(w in exp for w in ['is', 'are', 'was', 'were', 'has', 'have', 'singular', 'plural']):
+            return 'Subject-Verb Agreement'
+        if any(w in exp for w in ['preposition', ' in ', ' on ', ' at ', ' of ', ' with ']):
+            return 'Prepositions'
+        if any(w in exp for w in ['tense', 'past', 'present', 'future']) or any(w in text for w in ['since', 'for']):
+            return 'Tenses'
+        return 'Other Grammar'
+    if top == 'Defence':
+        if any(w in text for w in ['missile', 'agni', 'prithvi', 'brahmos']): return 'Missiles'
+        if any(w in text for w in ['exercise', 'joint', 'naval']): return 'Exercises'
+        if any(w in text for w in ['aircraft', 'fighter', 'helicopter', 'sukhoi', 'tejas']): return 'Aircrafts'
+        if any(w in text for w in ['ship', 'submarine', 'ins ']): return 'Naval Ships'
+        if any(w in text for w in ['rank', 'equivalent']): return 'Ranks & Equivalents'
+        return 'General Defence'
+    if top == 'Awards':
+        if 'nobel' in text: return 'Nobel Prize'
+        if 'ratna' in text or 'padma' in text: return 'National Civilian'
+        if 'literature' in text or 'booker' in text or 'jnanpith' in text: return 'Literature'
+        if 'sport' in text or 'khel' in text or 'arjuna' in text or 'laureus' in text: return 'Sports Awards'
+        if 'gallantry' in text or 'chakra' in text: return 'Military Gallantry'
+        return 'Other Awards'
+    if top == 'General Science':
+        if any(w in text for w in ['vitamin', 'disease', 'deficiency']): return 'Vitamins & Diseases'
+        if any(w in text for w in ['lens', 'mirror', 'optics']): return 'Optics'
+        if any(w in text for w in ['unit', 'measure']): return 'Units of Measurement'
+        return 'General Science'
+    if top == 'Sports':
+        if any(w in text for w in ['term', 'deuce', 'lbw']): return 'Terminology'
+        if any(w in text for w in ['trophy', 'cup']): return 'Trophies & Cups'
+        return 'Sports Events'
+    return None
+
 def _update_dashboard(questions, plan_2026, section_stats):
     """Write a fresh dashboard/data.js with the new SOTA questions and model stats."""
+    import random
+    import collections
+    
+    # Load the full historical question bank for micro-topic analysis and UI practice modals
+    q_clean_path = ROOT / "data" / "processed" / "Q_clean.json"
+    full_q_bank = json.loads(q_clean_path.read_text(encoding="utf-8")) if q_clean_path.exists() else questions
+
+    # Pre-filter visual questions from history
+    visual_pool = collections.defaultdict(list)
+    for hq in full_q_bank:
+        if hq.get("has_figure") and hq.get("topic") in ["Non-Verbal Pattern", "Venn Diagrams", "Non-Verbal Series", "Spatial Ability", "Non-Verbal Classification", "Non-Verbal Analogy", "Dot Situation"]:
+            visual_pool[hq["topic"]].append(hq)
 
     # Convert questions to dashboard format
     ai_mock_questions = []
     for q in questions:
+        top = q["topic"]
+        sec = q["section"]
+        
+        has_fig = q.get("has_figure", False)
+        img_path = q.get("image_path", [])
+        img_dark = q.get("image_dark", False)
+        q_txt = q["question_text"]
+        
         opts = q.get("options", {})
-        # Support both dict {A:..} and list formats
         if isinstance(opts, dict):
             options_list = [opts.get(k, "") for k in ["A", "B", "C", "D"]]
             correct_letter = q.get("correct_answer", "A")
@@ -383,21 +438,44 @@ def _update_dashboard(questions, plan_2026, section_stats):
             options_list = opts
             correct_text = options_list[0] if options_list else ""
 
+        # FIX FOR VISUAL TOPICS: Swap with real historical question for accurate images
+        if top in ["Non-Verbal Pattern", "Venn Diagrams", "Non-Verbal Series", "Spatial Ability", "Non-Verbal Classification", "Non-Verbal Analogy", "Dot Situation"] and visual_pool.get(top):
+            clone = random.choice(visual_pool[top])
+            q_txt = clone.get("question_text", q_txt)
+            
+            c_opts = clone.get("options", clone.get("choices", []))
+            if isinstance(c_opts, dict):
+                options_list = [c_opts.get(k, "") for k in ["A", "B", "C", "D"]]
+                correct_letter = clone.get("correct_answer", "A")
+                correct_text = c_opts.get(correct_letter, options_list[0] if options_list else "")
+            elif isinstance(c_opts, list) and len(c_opts) > 0:
+                options_list = c_opts
+                # Fallback to A if correct_answer not specified
+                correct_text = clone.get("correct_answer", "A") 
+                
+            has_fig = True
+            raw_paths = clone.get("image_path", [])
+            img_path = [p.replace("data/images/", "assets/images/") for p in raw_paths]
+            img_dark = clone.get("image_dark", False)
+
         ai_mock_questions.append({
-            "question_text": q["question_text"],
+            "question_text": q_txt,
             "options": options_list,
             "correct_answer": correct_text,
-            "section": q["section"],
-            "topic": q["topic"],
+            "section": sec,
+            "topic": top,
             "predicted_difficulty": q.get("difficulty", "medium"),
-            "question_type": "sota-generated",
+            "question_type": "sota-generated" if not has_fig else "historical-visual",
             "explanation": q.get("explanation", ""),
             "confidence": round(min(0.95, 0.55 + q.get("dm_share", 0.1) * 2), 2),
             "dm_predicted_count": q.get("dm_predicted_count", 0),
             "ci90_low": q.get("ci90_low", 0),
             "ci90_high": q.get("ci90_high", 0),
             "template_cloned": True,
-            "model_accuracy_2024_backtest": 0.683
+            "model_accuracy_2024_backtest": 0.683,
+            "has_figure": has_fig,
+            "image_path": img_path,
+            "image_dark": img_dark
         })
 
     # Build section topic distributions
@@ -430,23 +508,45 @@ def _update_dashboard(questions, plan_2026, section_stats):
                 if actual > 0:
                     stable.append({"Topic": t["topic"], "trend": "stable"})
 
+    # Load the full historical question bank for micro-topic analysis and UI practice modals
+    q_clean_path = ROOT / "data" / "processed" / "Q_clean.json"
+    full_q_bank = json.loads(q_clean_path.read_text(encoding="utf-8")) if q_clean_path.exists() else questions
+    
+    import collections
+    historical_topic_counts = collections.defaultdict(int)
+    historical_micro_counts = collections.defaultdict(lambda: collections.defaultdict(int))
+    for q in full_q_bank:
+        mt = get_micro_topic(q.get("section", ""), q.get("topic", ""), q.get("question_text", ""), q.get("explanation", ""))
+        if mt:
+            historical_topic_counts[q["topic"]] += 1
+            historical_micro_counts[q["topic"]][mt] += 1
+
     # Flat ml_predictions for the Grid UI
     ml_predictions = []
     for sec, blk in plan_2026.items():
         for t in blk["topics"]:
+            top = t["topic"]
+            exp = t["expected_count_exact"]
+            
+            micro_focus = []
+            if historical_topic_counts[top] > 0:
+                for mt, count in historical_micro_counts[top].items():
+                    prob = count / historical_topic_counts[top]
+                    micro_exp = exp * prob
+                    if micro_exp > 0.1:
+                        micro_focus.append({"name": mt, "count": round(micro_exp, 2)})
+                micro_focus.sort(key=lambda x: -x["count"])
+
             ml_predictions.append({
-                "Topic": t["topic"],
+                "Topic": top,
                 "Section": sec,
                 "Predicted_Questions": t["expected_count_exact"],
-                "Is_Core": t.get("dm_expected", 0) >= 3.0
+                "Is_Core": t.get("dm_expected", 0) >= 3.0,
+                "Micro_Focus": micro_focus[:3]
             })
 
     # Build the JS object exactly as it originally was, but without comments to satisfy regex,
     # and properly initialize window.predictionsData for the frontend.
-    
-    # Load the full historical question bank for the frontend UI practice modals
-    q_clean_path = ROOT / "data" / "processed" / "Q_clean.json"
-    full_q_bank = json.loads(q_clean_path.read_text(encoding="utf-8")) if q_clean_path.exists() else questions
     
     js_content = f"""const dashboardData = {{
   "pyqCount": 2861,
