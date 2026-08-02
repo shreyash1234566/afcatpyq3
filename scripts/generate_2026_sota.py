@@ -454,8 +454,7 @@ def _update_dashboard(questions, plan_2026, section_stats):
                 correct_text = clone.get("correct_answer", "A") 
                 
             has_fig = True
-            raw_paths = clone.get("image_path", [])
-            img_path = [p.replace("data/images/", "assets/images/") for p in raw_paths]
+            img_path = clone.get("image_path", [])
             img_dark = clone.get("image_dark", False)
 
         ai_mock_questions.append({
