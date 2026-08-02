@@ -854,7 +854,7 @@
                 <div style="margin:12px 0 24px 0;padding:12px;background:#f8fafc;border-radius:12px;border:1px solid #e2e8f0;display:flex;flex-wrap:wrap;gap:10px;justify-content:center;align-items:center;">
                     ${q.image_path.map((imgSrc,ii) => {
                         const finalImgSrc = imgSrc.startsWith('http') ? imgSrc : 'https://raw.githubusercontent.com/shreyash1234566/afcatpyq3/main/' + imgSrc.replace('assets/images/', 'data/images/');
-                        return \`<img src="\${finalImgSrc}" alt="Figure \${ii+1}" loading="lazy" style="\${q.image_dark ? 'filter:invert(1) brightness(0.85);background:#111;' : 'background:#fff;'} max-height:180px;max-width:100%;object-fit:contain;border-radius:8px;padding:4px;" onerror="this.style.display='none'" />\`;
+                        return `<img src="${finalImgSrc}" alt="Figure ${ii+1}" loading="lazy" style="${q.image_dark ? 'filter:invert(1) brightness(0.85);background:#111;' : 'background:#fff;'} max-height:180px;max-width:100%;object-fit:contain;border-radius:8px;padding:4px;" onerror="this.style.display='none'" />`;
                     }).join('')}
                 </div>` : ''}
                 
