@@ -463,7 +463,7 @@ def _update_dashboard(questions, plan_2026, section_stats):
     "note": "Trained on 2011-2023 data only. 2024 paper was completely hidden."
   }},
   "question_bank": {json.dumps(full_q_bank, ensure_ascii=False)},
-  "aiMockQuestions": {json.dumps(ai_mock_questions, indent=4, ensure_ascii=False)},
+  "mock_test": {{"all_questions": {json.dumps(ai_mock_questions, indent=4, ensure_ascii=False)}}},
   "dmTopicPlan": {json.dumps({
       sec: {
           "section_total": blk["section_total"],
