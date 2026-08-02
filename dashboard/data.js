@@ -1335,23 +1335,23 @@ const dashboardData = {
         "image_dark": false
     },
     {
-        "question_text": "Find the odd figure out [Circles intersecting geometric shapes]",
+        "question_text": "Choose the figure which is different from the rest.",
         "options": [
             {
                 "key": "A",
-                "text": "Figure (a)"
+                "text": "Figure A"
             },
             {
                 "key": "B",
-                "text": "Figure (b)"
+                "text": "Figure B"
             },
             {
                 "key": "C",
-                "text": "Figure (c)"
+                "text": "Figure C"
             },
             {
                 "key": "D",
-                "text": "Figure (d)"
+                "text": "Figure D"
             }
         ],
         "correct_answer": "A",
@@ -1368,28 +1368,28 @@ const dashboardData = {
         "model_accuracy_2024_backtest": 0.683,
         "has_figure": true,
         "image_path": [
-            "data/images/AFCAT_2014_Official_Paper1/q94_figure.png"
+            "data/images/AFCAT_2015_Official_Paper1/q92_figure.png"
         ],
         "image_dark": false
     },
     {
-        "question_text": "Select the option figure that will come next in the following series.",
+        "question_text": "Out of the four figures marked (a) (b) (c) (d) three are similar. Choose the figure which is different from the rest. Q94 (See diagram)",
         "options": [
             {
                 "key": "A",
-                "text": "Figure A"
+                "text": "Figure a"
             },
             {
                 "key": "B",
-                "text": "Figure B"
+                "text": "Figure b"
             },
             {
                 "key": "C",
-                "text": "Figure C"
+                "text": "Figure c"
             },
             {
                 "key": "D",
-                "text": "Figure D"
+                "text": "Figure d"
             }
         ],
         "correct_answer": "A",
@@ -1406,28 +1406,28 @@ const dashboardData = {
         "model_accuracy_2024_backtest": 0.683,
         "has_figure": true,
         "image_path": [
-            "data/images/DPP_2024_Aug10_Shift2/q20_figure.png"
+            "data/images/AFCAT_2014_Official_Paper2/q94_figure.png"
         ],
         "image_dark": false
     },
     {
-        "question_text": "Find the perfect figure from the option figure that will replace the question mark(?) from the problem figure.",
+        "question_text": "Complete the series of figures by selecting correct answer figure from the given responses.",
         "options": [
             {
                 "key": "A",
-                "text": "Figure (A)"
+                "text": "Option A"
             },
             {
                 "key": "B",
-                "text": "Figure (B)"
+                "text": "Option B"
             },
             {
                 "key": "C",
-                "text": "Figure (C)"
+                "text": "Option C"
             },
             {
                 "key": "D",
-                "text": "Figure (D)"
+                "text": "Option D"
             }
         ],
         "correct_answer": "A",
@@ -1444,50 +1444,12 @@ const dashboardData = {
         "model_accuracy_2024_backtest": 0.683,
         "has_figure": true,
         "image_path": [
-            "data/images/DPP_2024_Feb16_v2/q12_figure.png"
+            "data/images/AFCAT_2018_Memory/q94_figure.png"
         ],
         "image_dark": false
     },
     {
-        "question_text": "Find out the alternative figure which contains figure (X) as its part.",
-        "options": [
-            {
-                "key": "A",
-                "text": "1"
-            },
-            {
-                "key": "B",
-                "text": "2"
-            },
-            {
-                "key": "C",
-                "text": "3"
-            },
-            {
-                "key": "D",
-                "text": "4"
-            }
-        ],
-        "correct_answer": "A",
-        "section": "Reasoning",
-        "topic": "Non-Verbal Pattern",
-        "predicted_difficulty": "medium",
-        "question_type": "historical-visual",
-        "explanation": "Step-by-step explanation: Analyzing figure X, the operations seem to involve multiplication and division by 2 and 3 (10*2=20, 2*3=6, 15/3=5, etc.), but a clear pattern isn't directly discernible without more context. However, if we consider the numbers surrounding P and Q as being related through multiplication or division by common factors, and given the numbers in figure X and Y, a possible pattern could involve the product of the numbers in each sector. For P, if we consider the product of the numbers given (10*2*15*3*6*24), it's a large number, but looking at the options provided and considering a simpler pattern, we might look for a common factor or a simpler operation. For Q, the numbers are larger, suggesting a multiplication factor. Without explicit operations, if we consider the pattern might involve finding a common multiplier or factor that relates P and Q, and given the options, 120 seems a plausible product if P and Q are related through the operations hinted at in the figures, especially considering the numbers provided could be simplified or factored into smaller components that multiply to 120.",
-        "confidence": 0.55,
-        "dm_predicted_count": 7.174,
-        "ci90_low": 0,
-        "ci90_high": 14,
-        "template_cloned": true,
-        "model_accuracy_2024_backtest": 0.683,
-        "has_figure": true,
-        "image_path": [
-            "data/images/AFCAT_2018_Memory/q99_figure.png"
-        ],
-        "image_dark": false
-    },
-    {
-        "question_text": "Select a figure from amongst the Answer Figures which will continue the same series as established by the Five Problem Figures.",
+        "question_text": "Select a figure from amongst the four alternatives, which satisfies the same conditions of placement of the dots as in figure:",
         "options": [
             {
                 "key": "A",
@@ -1511,6 +1473,32 @@ const dashboardData = {
         "topic": "Non-Verbal Pattern",
         "predicted_difficulty": "medium",
         "question_type": "historical-visual",
+        "explanation": "Step-by-step explanation: Analyzing figure X, the operations seem to involve multiplication and division by 2 and 3 (10*2=20, 2*3=6, 15/3=5, etc.), but a clear pattern isn't directly discernible without more context. However, if we consider the numbers surrounding P and Q as being related through multiplication or division by common factors, and given the numbers in figure X and Y, a possible pattern could involve the product of the numbers in each sector. For P, if we consider the product of the numbers given (10*2*15*3*6*24), it's a large number, but looking at the options provided and considering a simpler pattern, we might look for a common factor or a simpler operation. For Q, the numbers are larger, suggesting a multiplication factor. Without explicit operations, if we consider the pattern might involve finding a common multiplier or factor that relates P and Q, and given the options, 120 seems a plausible product if P and Q are related through the operations hinted at in the figures, especially considering the numbers provided could be simplified or factored into smaller components that multiply to 120.",
+        "confidence": 0.55,
+        "dm_predicted_count": 7.174,
+        "ci90_low": 0,
+        "ci90_high": 14,
+        "template_cloned": true,
+        "model_accuracy_2024_backtest": 0.683,
+        "has_figure": true,
+        "image_path": [
+            "data/images/AFCAT_2016_Official_Paper2/q88_figure.png"
+        ],
+        "image_dark": false
+    },
+    {
+        "question_text": "Select a suitable figure from the Answer Figures that would replace the question mark (?).",
+        "options": [
+            "Figure A: G/H",
+            "Figure B: I/J",
+            "Figure C: K/L",
+            "Figure D: M/N"
+        ],
+        "correct_answer": "Figure A: G/H",
+        "section": "Reasoning",
+        "topic": "Non-Verbal Pattern",
+        "predicted_difficulty": "medium",
+        "question_type": "historical-visual",
         "explanation": "Step-by-step explanation: Analyzing the pattern, if we consider an alphabetical sequence, A/B, C/D, E/F suggests a progression where each new pair starts with the next letter of the alphabet. Following this pattern, after E/F, the next pair should start with G, thus G/H would logically complete the series.",
         "confidence": 0.55,
         "dm_predicted_count": 7.174,
@@ -1520,28 +1508,28 @@ const dashboardData = {
         "model_accuracy_2024_backtest": 0.683,
         "has_figure": true,
         "image_path": [
-            "data/images/AFCAT_2015_Official_Paper1/q85_figure.png"
+            "data/images/AFCAT_2017_Memory/q98_figure.png"
         ],
         "image_dark": false
     },
     {
-        "question_text": "Which of the answer figures is exactly the mirror image of the question figure, when the mirror is held on the line AB?",
+        "question_text": "Choose the figure which is different from the rest.",
         "options": [
             {
-                "key": "a",
-                "text": "Figure (a)"
+                "key": "A",
+                "text": "Figure A"
             },
             {
-                "key": "b",
-                "text": "Figure (b)"
+                "key": "B",
+                "text": "Figure B"
             },
             {
-                "key": "c",
-                "text": "Figure (c)"
+                "key": "C",
+                "text": "Figure C"
             },
             {
-                "key": "d",
-                "text": "Figure (d)"
+                "key": "D",
+                "text": "Figure D"
             }
         ],
         "correct_answer": "A",
@@ -1558,7 +1546,7 @@ const dashboardData = {
         "model_accuracy_2024_backtest": 0.683,
         "has_figure": true,
         "image_path": [
-            "data/images/AFCAT_2020_Memory/q98_figure.png"
+            "data/images/AFCAT_2015_Official_Paper1/q91_figure.png"
         ],
         "image_dark": false
     },
@@ -1803,23 +1791,23 @@ const dashboardData = {
         "image_dark": false
     },
     {
-        "question_text": "In the given diagram, the triangle represents the set of people who possess a car; the square represents the set of people who possess a house; and the circle represents the set of people who possess gold. What is the total number of people who possess a house and gold but do not have a car?",
+        "question_text": "The diagram given below represents those students who study Physics, Chemistry and Math. Find the number of students who study Physics and Chemistry but not Math.",
         "options": [
             {
                 "key": "A",
-                "text": "V"
+                "text": "8"
             },
             {
                 "key": "B",
-                "text": "V+VI"
+                "text": "13"
             },
             {
                 "key": "C",
-                "text": "V+III"
+                "text": "6"
             },
             {
                 "key": "D",
-                "text": "V+VII"
+                "text": "10"
             }
         ],
         "correct_answer": "A",
@@ -1836,28 +1824,28 @@ const dashboardData = {
         "model_accuracy_2024_backtest": 0.683,
         "has_figure": true,
         "image_path": [
-            "data/images/AFCAT_2024_Feb17_Memory_v3/venn_q18.png"
+            "data/images/DPP_2024_Aug10_Shift1_v2/venn_q11.png"
         ],
         "image_dark": false
     },
     {
-        "question_text": "Which of the following diagrams indicates the best relation between Doctors, Teachers and Engineers?",
+        "question_text": "Select the Venn diagram that best represent the given classes: Iron, Lead, Nitrogen",
         "options": [
             {
-                "key": "a",
-                "text": "Diagram (a)"
+                "key": "A",
+                "text": "Two separate circles inside a large circle"
             },
             {
-                "key": "b",
-                "text": "Diagram (b)"
+                "key": "B",
+                "text": "Three separate circles"
             },
             {
-                "key": "c",
-                "text": "Diagram (c)"
+                "key": "C",
+                "text": "Three intersecting circles"
             },
             {
-                "key": "d",
-                "text": "Diagram (d)"
+                "key": "D",
+                "text": "Three intersecting circles in a line"
             }
         ],
         "correct_answer": "A",
@@ -1874,7 +1862,7 @@ const dashboardData = {
         "model_accuracy_2024_backtest": 0.683,
         "has_figure": true,
         "image_path": [
-            "data/images/AFCAT_2015_Official_Paper2/venn_q82.png"
+            "data/images/AFCAT_2021_Memory/venn_q72.png"
         ],
         "image_dark": false
     },
