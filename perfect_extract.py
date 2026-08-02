@@ -38,7 +38,7 @@ def find_question_positions(doc):
                     continue
                 line_text = "".join(s["text"] for s in spans).strip()
                 # Q66. or Q66 or 66. or 66)
-                m = re.match(r'^Q?\.?\s*(\d+)\s*[.)]\s', line_text)
+                m = re.match(r'^Q?\.?\s*(\d+)\s*[.)](?:\s|$)', line_text)
                 if m:
                     qnum = int(m.group(1))
                     if qnum not in positions:
