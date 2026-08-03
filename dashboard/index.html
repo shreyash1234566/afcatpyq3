@@ -432,16 +432,8 @@
                     </div>
                     <h3 class="font-heading font-black text-2xl text-brand-navy mb-4">Reasoning & Math</h3>
                     <p class="text-slate-500 text-sm mb-6">Rely on AI predictions. Practice the highest weightage topics.</p>
-                    <ul class="space-y-3">
-                        <li class="flex items-center gap-3 text-slate-700 font-medium">
-                            <span class="w-2 h-2 rounded-full bg-brand-blue"></span> Non-Verbal Pattern (Reasoning)
-                        </li>
-                        <li class="flex items-center gap-3 text-slate-700 font-medium">
-                            <span class="w-2 h-2 rounded-full bg-brand-blue"></span> Logical Reasoning & Coding-Decoding
-                        </li>
-                        <li class="flex items-center gap-3 text-slate-700 font-medium">
-                            <span class="w-2 h-2 rounded-full bg-brand-blue"></span> Mensuration & Profit/Loss (Math)
-                        </li>
+                    <ul id="blueprint-rm-list" class="space-y-3">
+                        <!-- Populated dynamically by JS -->
                     </ul>
                 </div>
 
@@ -453,19 +445,8 @@
                     </div>
                     <h3 class="font-heading font-black text-2xl text-brand-navy mb-4">English & General Awareness</h3>
                     <p class="text-slate-500 text-sm mb-6">Do not study everything. Memorize only the high-frequency rules.</p>
-                    <ul class="space-y-3">
-                        <li class="flex items-center gap-3 text-slate-700 font-medium">
-                            <span class="w-2 h-2 rounded-full bg-amber-500"></span> English: Prepositions (in, on, at, with)
-                        </li>
-                        <li class="flex items-center gap-3 text-slate-700 font-medium">
-                            <span class="w-2 h-2 rounded-full bg-amber-500"></span> English: Subject-Verb (is/are, has/have)
-                        </li>
-                        <li class="flex items-center gap-3 text-slate-700 font-medium">
-                            <span class="w-2 h-2 rounded-full bg-amber-500"></span> GK Defence: Missiles, Exercises, Ships, Ranks
-                        </li>
-                        <li class="flex items-center gap-3 text-slate-700 font-medium">
-                            <span class="w-2 h-2 rounded-full bg-amber-500"></span> GK Awards: Nobel, National, Sports, Gallantry
-                        </li>
+                    <ul id="blueprint-eg-list" class="space-y-3">
+                        <!-- Populated dynamically by JS -->
                     </ul>
                 </div>
             </div>
@@ -595,6 +576,51 @@
         function renderDashboard() {
             const preds = appData.predictions?.ml_predictions || [];
             
+            // --- DYNAMIC 150+ BLUEPRINT ---
+            
+            // 1. Reasoning & Math (Top 3 Topics)
+            const rmTopics = [...preds].filter(p => p.Section === 'Reasoning' || p.Section === 'Numerical Ability' || p.section === 'Reasoning' || p.section === 'Numerical Ability')
+                .sort((a,b) => getCount(b) - getCount(a))
+                .slice(0, 3);
+            
+            const rmList = document.getElementById('blueprint-rm-list');
+            if (rmList && rmTopics.length > 0) {
+                rmList.innerHTML = rmTopics.map(t => {
+                    const sec = t.Section || t.section;
+                    return `
+                    <li class="flex items-center gap-3 text-slate-700 font-medium">
+                        <span class="w-2 h-2 rounded-full bg-brand-blue"></span> ${t.Topic || t.topic} (${sec.split(' ')[0]})
+                    </li>
+                `}).join('');
+            }
+            
+            // 2. English & GK (Top 4 Micro-Topics)
+            const egTopics = [...preds].filter(p => p.Section === 'Verbal Ability' || p.Section === 'General Awareness' || p.section === 'Verbal Ability' || p.section === 'General Awareness');
+            let microList = [];
+            egTopics.forEach(p => {
+                if(p.Micro_Focus && p.Micro_Focus.length > 0) {
+                    p.Micro_Focus.forEach(m => {
+                        microList.push({
+                            section: (p.Section || p.section) === 'Verbal Ability' ? 'English' : 'GK',
+                            topic: p.Topic || p.topic,
+                            name: m.name,
+                            count: m.count
+                        });
+                    });
+                }
+            });
+            microList.sort((a,b) => b.count - a.count);
+            const topEgMicro = microList.slice(0, 4);
+            
+            const egList = document.getElementById('blueprint-eg-list');
+            if (egList && topEgMicro.length > 0) {
+                egList.innerHTML = topEgMicro.map(m => `
+                    <li class="flex items-center gap-3 text-slate-700 font-medium text-sm">
+                        <span class="w-2 h-2 rounded-full bg-amber-500"></span> <strong>${m.section}:</strong> ${m.topic} - ${m.name}
+                    </li>
+                `).join('');
+            }
+
             // TOP 15
             const topTopics = [...preds]
                 .filter(p => (p.Predicted_Questions || p.predicted_count) > 0)
