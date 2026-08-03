@@ -538,32 +538,59 @@
         }
         
         function renderMicroTopics() {
-            const preds = appData.predictions?.ml_predictions || [];
+            const qs = appData.ai_mock_questions || [];
             const container = document.getElementById('micro-topics-grid');
             if(!container) return;
             
-            // Filter all topics that have micro focus
-            const microTopics = preds.filter(p => p.Micro_Focus && p.Micro_Focus.length > 0);
+            // Aggregate exactly what was generated
+            const aggregated = {};
+            qs.forEach(q => {
+                const sec = q.section || q.Section || 'General';
+                const topic = q.topic || q.Topic || 'Unknown';
+                const micro = q.micro_topic || 'General';
+                
+                if (!aggregated[topic]) {
+                    aggregated[topic] = {
+                        section: sec,
+                        topic: topic,
+                        totalCount: 0,
+                        micros: {}
+                    };
+                }
+                aggregated[topic].totalCount += 1;
+                
+                if (!aggregated[topic].micros[micro]) {
+                    aggregated[topic].micros[micro] = 0;
+                }
+                aggregated[topic].micros[micro] += 1;
+            });
             
-            container.innerHTML = microTopics.map(t => {
-                const section = t.Section || t.section || 'General';
-                const colors = getSectionColors(section);
+            // Convert to array and sort by total count descending
+            const topicsArray = Object.values(aggregated).sort((a,b) => b.totalCount - a.totalCount);
+            
+            container.innerHTML = topicsArray.map(t => {
+                const colors = getSectionColors(t.section);
+                
+                // Sort micros by count descending
+                const sortedMicros = Object.entries(t.micros)
+                    .sort((a,b) => b[1] - a[1])
+                    .map(([name, count]) => ({name, count}));
                 
                 return `
                 <div class="bg-white rounded-3xl p-6 shadow-sm border border-slate-100 hover:border-brand-blue/30 transition-colors">
                     <div class="flex justify-between items-center mb-4">
-                        <span class="${colors.badge} px-2 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-widest">${getSectionShort(section)}</span>
-                        <span class="text-xs font-bold text-slate-400">${t.Predicted_Questions.toFixed(1)} Qs</span>
+                        <span class="${colors.badge} px-2 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-widest">${getSectionShort(t.section)}</span>
+                        <span class="text-xs font-bold text-slate-400">${t.totalCount} Qs</span>
                     </div>
-                    <h4 class="font-heading font-black text-xl text-brand-navy mb-4">${t.Topic}</h4>
+                    <h4 class="font-heading font-black text-xl text-brand-navy mb-4">${t.topic}</h4>
                     <div class="space-y-2 border-t border-slate-50 pt-4">
-                        ${t.Micro_Focus.map(m => `
-                        <div class="flex justify-between items-center text-sm cursor-pointer hover:bg-slate-50 p-2 -mx-2 rounded-lg transition-colors group/m" onclick="openPractice('${t.Topic}', '${section}', '${m.name}')">
+                        ${sortedMicros.map(m => `
+                        <div class="flex justify-between items-center text-sm cursor-pointer hover:bg-slate-50 p-2 -mx-2 rounded-lg transition-colors group/m" onclick="openPractice('${t.topic}', '${t.section}', '${m.name}')">
                             <span class="text-slate-600 font-medium flex items-center gap-2 group-hover/m:text-brand-blue transition-colors">
                                 <div class="w-1.5 h-1.5 rounded-full bg-slate-300 group-hover/m:bg-brand-blue transition-colors"></div>
                                 ${m.name}
                             </span>
-                            <span class="font-bold text-brand-blue">${m.count.toFixed(1)} Qs</span>
+                            <span class="font-bold text-brand-blue">${m.count} Qs</span>
                         </div>
                         `).join('')}
                     </div>
