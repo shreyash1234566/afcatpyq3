@@ -409,7 +409,7 @@ def main():
 
     # 5. Build dashboard data.js
     print("\nUpdating dashboard/data.js ...")
-    _update_dashboard(generated_questions, plan_2026, section_stats)
+    _update_dashboard(generated_questions, plan_2026, section_stats, topic_micro_probs)
     print("[DONE] Dashboard updated!")
 
 
@@ -449,7 +449,7 @@ def get_micro_topic(sec, top, text, exp):
         return 'Sports Events'
     return None
 
-def _update_dashboard(questions, plan_2026, section_stats):
+def _update_dashboard(questions, plan_2026, section_stats, topic_micro_probs):
     """Write a fresh dashboard/data.js with the new SOTA questions and model stats."""
     import random
     import collections
@@ -509,6 +509,7 @@ def _update_dashboard(questions, plan_2026, section_stats):
             "correct_answer": correct_text,
             "section": sec,
             "topic": top,
+            "micro_topic": q.get("micro_topic", ""),
             "predicted_difficulty": q.get("difficulty", "medium"),
             "question_type": "sota-generated" if not has_fig else "historical-visual",
             "explanation": q.get("explanation", ""),
@@ -574,13 +575,24 @@ def _update_dashboard(questions, plan_2026, section_stats):
             exp = t["expected_count_exact"]
             
             micro_focus = []
-            if historical_topic_counts[top] > 0:
-                for mt, count in historical_micro_counts[top].items():
-                    prob = count / historical_topic_counts[top]
+            
+            # Use SOTA Exponential Momentum probabilities if available
+            probs = topic_micro_probs.get(top, {})
+            if probs:
+                for mt, prob in probs.items():
                     micro_exp = exp * prob
                     if micro_exp > 0.1:
                         micro_focus.append({"name": mt, "count": round(micro_exp, 2)})
-                micro_focus.sort(key=lambda x: -x["count"])
+            else:
+                # Fallback to naive if missing
+                if historical_topic_counts[top] > 0:
+                    for mt, count in historical_micro_counts[top].items():
+                        prob = count / historical_topic_counts[top]
+                        micro_exp = exp * prob
+                        if micro_exp > 0.1:
+                            micro_focus.append({"name": mt, "count": round(micro_exp, 2)})
+                            
+            micro_focus.sort(key=lambda x: -x["count"])
 
             ml_predictions.append({
                 "Topic": top,
