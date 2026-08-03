@@ -577,9 +577,9 @@
                     <h4 class="font-heading font-black text-xl text-brand-navy mb-4">${t.Topic}</h4>
                     <div class="space-y-2 border-t border-slate-50 pt-4">
                         ${t.Micro_Focus.map(m => `
-                        <div class="flex justify-between items-center text-sm">
-                            <span class="text-slate-600 font-medium flex items-center gap-2">
-                                <div class="w-1.5 h-1.5 rounded-full bg-slate-300"></div>
+                        <div class="flex justify-between items-center text-sm cursor-pointer hover:bg-slate-50 p-2 -mx-2 rounded-lg transition-colors group/m" onclick="openPractice('${t.Topic}', '${section}', '${m.name}')">
+                            <span class="text-slate-600 font-medium flex items-center gap-2 group-hover/m:text-brand-blue transition-colors">
+                                <div class="w-1.5 h-1.5 rounded-full bg-slate-300 group-hover/m:bg-brand-blue transition-colors"></div>
                                 ${m.name}
                             </span>
                             <span class="font-bold text-brand-blue">${m.count.toFixed(1)} Qs</span>
@@ -694,8 +694,8 @@
                         ${t.Micro_Focus && t.Micro_Focus.length > 0 ? `
                         <div class="mt-4 space-y-1.5 flex-grow">
                             ${t.Micro_Focus.map(m => `
-                            <div class="flex justify-between items-center text-xs">
-                                <span class="text-slate-500 font-medium truncate pr-2">• ${m.name}</span>
+                            <div class="flex justify-between items-center text-xs group/micro hover:bg-slate-50 p-1.5 -mx-1.5 rounded-lg transition-colors cursor-pointer" onclick="event.stopPropagation(); openPractice('${name}', '${section}', '${m.name}')">
+                                <span class="text-slate-500 font-medium truncate pr-2 group-hover/micro:text-brand-blue transition-colors flex items-center gap-2"><div class="w-1 h-1 rounded-full bg-slate-300 group-hover/micro:bg-brand-blue"></div>${m.name}</span>
                                 <span class="text-brand-blue font-bold">${m.count.toFixed(1)}</span>
                             </div>
                             `).join('')}
@@ -761,10 +761,15 @@
         }
 
         // --- UTILS ---
-        window.openPractice = function(topicName, section) {
+        window.openPractice = function(topicName, section, microTopicName = null) {
             const modal = document.getElementById('practice-modal');
             const container = document.getElementById('modal-questions');
-            document.getElementById('modal-topic-title').textContent = topicName;
+            
+            let displayTitle = topicName;
+            if (microTopicName) {
+                displayTitle = `${topicName} <span class="text-slate-300 mx-2">/</span> <span class="text-brand-sky">${microTopicName}</span>`;
+            }
+            document.getElementById('modal-topic-title').innerHTML = displayTitle;
 
             const badge = document.getElementById('modal-badge');
             badge.textContent = section || 'Topic';
@@ -780,7 +785,14 @@
             const questions = (appData.question_bank || []).filter(q => {
                 const qt = slug(q.topic_name || q.topic || q.topic_display || '');
                 const qc = slug(q.topic_code || '');
-                return qt.includes(target) || target.includes(qt) || qc === target;
+                const qm = slug(q.micro_topic || '');
+                
+                if (microTopicName) {
+                    const targetMicro = slug(microTopicName);
+                    return qm.includes(targetMicro) || targetMicro.includes(qm) || qm === targetMicro;
+                } else {
+                    return qt.includes(target) || target.includes(qt) || qc === target;
+                }
             });
 
             if(questions.length === 0) {
@@ -820,21 +832,24 @@
         function createQuestionCard(q, num) {
             const colors = getSectionColors(q.section);
             let options = q.choices || q.options || [];
-            let correctAns = q.answer;
+            let correctAns = q.answer || q.correct_answer;
 
             // Generate unique question ID
             const qId = `${q.topic_code || q.topic_name || q.topic}_${q.year || 'pyq'}_${num}`.replace(/\s+/g, '_');
             const savedAnswer = getSavedAnswer(qId);
             const isAnswered = !!savedAnswer;
+            
+            const microBadge = q.micro_topic ? `<span class="bg-slate-100 text-slate-500 px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest border border-slate-200">${q.micro_topic}</span>` : '';
 
             return `
             <div class="bg-white rounded-3xl p-8 shadow-card border border-slate-100" data-question-id="${qId}" data-answered="${isAnswered}">
-                <div class="flex justify-between items-start mb-8">
-                    <div class="flex items-center gap-4">
+                <div class="flex justify-between items-start mb-8 gap-4 flex-wrap">
+                    <div class="flex items-center gap-4 flex-wrap">
                         <div class="w-10 h-10 rounded-xl flex items-center justify-center text-sm font-heading font-black ${isAnswered ? 'bg-green-100 text-green-600' : 'bg-slate-100 text-slate-500'}">
                             ${isAnswered ? '✓' : `Q${num}`}
                         </div>
                         <span class="${colors.badge} px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest">${q.topic_name || q.topic}</span>
+                        ${microBadge}
                     </div>
                     <span class="bg-brand-navy/5 text-brand-navy text-[10px] font-black px-3 py-1.5 rounded-lg uppercase tracking-widest border border-brand-navy/10">${q.year || 'PYQ'}</span>
                 </div>

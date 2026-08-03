@@ -90,7 +90,7 @@ def _load_word_bank():
 WORD_BANK = _load_word_bank()
 
 
-def build_template_prompt(sec, topic, templates, examples, n):
+def build_template_prompt(sec, topic, micro_topic, templates, examples, n):
     tmpl_lines = "\n".join(
         f'  Template {i+1} (used {t["frequency"]} times): "{t["example"]}"'
         for i, t in enumerate(templates)
@@ -145,7 +145,7 @@ DISTRACTOR RULE: All 4 options must be from the SAME semantic field.
 Example: If correct answer is "Watchful", wrong options must be "Careless, Indifferent, Reckless" (all about attention) — NOT random unrelated words.
 """
 
-    return f"""You are predicting the EXACT WORD-TO-WORD text of {n} AFCAT {sec} question(s) on: "{topic}"
+    return f"""You are predicting the EXACT WORD-TO-WORD text of {n} AFCAT {sec} question(s) on: "{topic}" (Specifically focusing on sub-topic: "{micro_topic}")
 
 STEP 1 - STUDY THESE STRUCTURAL TEMPLATES (the examiner's preferred question skeletons):
 {tmpl_lines}
@@ -169,7 +169,7 @@ VISUAL_TOPICS = {
 }
 
 
-def build_visual_prompt(topic, examples, n):
+def build_visual_prompt(topic, micro_topic, examples, n):
     """
     For Non-Verbal / Venn topics the question TEXT is always present in past papers
     even though the answer OPTIONS are images. We use the past paper question text
@@ -188,7 +188,7 @@ def build_visual_prompt(topic, examples, n):
         "'Figure A: [description]' etc. — the examiner will match these to the actual figures."
     ) if "Non-Verbal" in topic or "Pattern" in topic else ""
 
-    return f"""You are predicting the EXACT WORD-TO-WORD text of {n} AFCAT Reasoning question(s) on: "{topic}"
+    return f"""You are predicting the EXACT WORD-TO-WORD text of {n} AFCAT Reasoning question(s) on: "{topic}" (Specifically focusing on sub-topic: "{micro_topic}")
 
 PAST PAPER EXAMPLES (use these as templates — clone the stem exactly):
 {recent_lines}
@@ -201,6 +201,22 @@ PREDICT {n} question(s) by:
 
 Return ONLY JSON: {_schema(topic, "Reasoning", n)}"""
 
+
+
+def allocate_seats(total_seats, weights):
+    if total_seats == 0 or not weights: return {item: 0 for item in weights}
+    total_weight = sum(weights.values())
+    if total_weight == 0: return {item: 0 for item in weights}
+    quotients, seats = {}, {}
+    for item, weight in weights.items():
+        fractional = (weight / total_weight) * total_seats
+        seats[item] = int(fractional)
+        quotients[item] = fractional - seats[item]
+    remaining = total_seats - sum(seats.values())
+    sorted_items = sorted(quotients.items(), key=lambda x: x[1], reverse=True)
+    for i in range(int(remaining)):
+        seats[sorted_items[i][0]] += 1
+    return seats
 
 
 def allocate_exact(topics_list, section_target):
@@ -278,82 +294,112 @@ def main():
     generated_by_sec = defaultdict(list)
 
     print("\n--- GENERATING AFCAT 2026 MOCK PAPER ---")
+    
+    # Pre-calculate Micro Topic probabilities from historical data
+    topic_micro_weights = defaultdict(lambda: defaultdict(float))
+    for q in all_data:
+        t_sec, t_top, t_micro, t_year = q.get("section"), q.get("topic"), q.get("micro_topic"), _get_year(q.get("file_name"))
+        if not all([t_sec, t_top, t_micro, t_year]): continue
+        w = 0.2
+        if t_year == 2025: w = 2.0
+        elif t_year == 2024: w = 1.0
+        topic_micro_weights[t_top][t_micro] += w
+        
+    topic_micro_probs = {}
+    for top, micros in topic_micro_weights.items():
+        total_w = sum(micros.values())
+        topic_micro_probs[top] = {m: w/total_w for m, w in micros.items()}
+
     for sec, blk in plan_2026.items():
         allocs = allocate_exact(blk["topics"], blk["section_total"])
 
         print(f"\n[{sec}]")
         for topic, n_q in allocs.items():
             if n_q < 1: continue
+            
+            probs = topic_micro_probs.get(topic, {})
+            if not probs:
+                probs = {f"General {topic}": 1.0}
+            micro_allocs = allocate_seats(n_q, probs)
 
-            # Get recent examples — prioritize 2026 Paper 1, then fallback to 2024-2025
-            p1_ctx = [q for q in p1_data if q.get("topic") == topic]
-            topic_ctx = [q for q in all_data if q.get("topic") == topic]
-            topic_ctx.sort(key=lambda x: _get_year(x.get("file_name", "")) or 0, reverse=True)
-            
-            seen_txt = set()
-            examples = []
-            
-            # Add P1 questions first (strongest signal for Paper 2)
-            for q in p1_ctx:
-                txt = q.get("question_text", "")
-                if txt not in seen_txt:
-                    seen_txt.add(txt)
-                    # Add a tag so the model knows this is from the immediate prior paper
-                    q_copy = dict(q)
-                    q_copy["question_text"] = "[FROM 2026 PAPER 1] " + txt
-                    examples.append(q_copy)
-                if len(examples) >= 5:
-                    break
+            for micro_topic, m_q in micro_allocs.items():
+                if m_q < 1: continue
+
+                # Get recent examples — prioritize 2026 Paper 1, then fallback to 2024-2025
+                p1_ctx = [q for q in p1_data if q.get("topic") == topic]
+                # Filter by micro_topic to get highly relevant examples
+                topic_ctx = [q for q in all_data if q.get("topic") == topic and q.get("micro_topic") == micro_topic]
+                if len(topic_ctx) < 2:
+                    topic_ctx = [q for q in all_data if q.get("topic") == topic] # fallback
                     
-            # Fallback to historical data if we need more examples
-            for q in topic_ctx:
-                if len(examples) >= 5:
-                    break
-                txt = q.get("question_text", "")
-                if txt not in seen_txt:
-                    seen_txt.add(txt)
-                    examples.append(q)
+                topic_ctx.sort(key=lambda x: _get_year(x.get("file_name", "")) or 0, reverse=True)
+                
+                seen_txt = set()
+                examples = []
+                
+                # Add P1 questions first (strongest signal for Paper 2)
+                for q in p1_ctx:
+                    txt = q.get("question_text", "")
+                    if txt not in seen_txt:
+                        seen_txt.add(txt)
+                        # Add a tag so the model knows this is from the immediate prior paper
+                        q_copy = dict(q)
+                        q_copy["question_text"] = "[FROM 2026 PAPER 1] " + txt
+                        examples.append(q_copy)
+                    if len(examples) >= 5:
+                        break
+                        
+                # Fallback to historical data if we need more examples
+                for q in topic_ctx:
+                    if len(examples) >= 5:
+                        break
+                    txt = q.get("question_text", "")
+                    if txt not in seen_txt:
+                        seen_txt.add(txt)
+                        examples.append(q)
 
-            # Extract structural templates or use visual prompt
-            if topic in VISUAL_TOPICS:
-                prompt = build_visual_prompt(topic, examples, n_q)
-            else:
-                templates = extract_top_templates(topic_ctx, n=3)
-                prompt = build_template_prompt(sec, topic, templates, examples, n_q)
-            resp = groq.chat(SYS, prompt)
+                # Extract structural templates or use visual prompt
+                if topic in VISUAL_TOPICS:
+                    prompt = build_visual_prompt(topic, micro_topic, examples, m_q)
+                else:
+                    templates = extract_top_templates(topic_ctx, n=3)
+                    prompt = build_template_prompt(sec, topic, micro_topic, templates, examples, m_q)
+                    
+                resp = groq.chat(SYS, prompt)
 
-            if resp:
-                try:
-                    res_data = json.loads(resp)
-                    count_added = 0
-                    for obj in res_data.get("questions", []):
-                        q_txt = obj.get("question_text") or obj.get("question")
-                        if not q_txt:
-                            continue
-                        # Find the DM topic stats
-                        topic_row = next((t for t in blk["topics"] if t["topic"] == topic), {})
-                        q_record = {
-                            "question_text": q_txt,
-                            "options": obj.get("options", {}),
-                            "correct_answer": obj.get("correct_answer", ""),
-                            "explanation": obj.get("explanation", ""),
-                            "topic": topic,
-                            "section": sec,
-                            "difficulty": "medium",
-                            "source": "groq-generated-sota",
-                            "dm_predicted_count": round(topic_row.get("expected_count_exact", 0), 3),
-                            "ci90_low": topic_row.get("ci90_low", 0),
-                            "ci90_high": topic_row.get("ci90_high", 0),
-                            "dm_share": round(topic_row.get("dm_share", 0), 4),
-                        }
-                        generated_questions.append(q_record)
-                        generated_by_sec[sec].append({"text": q_txt, "topic": topic})
-                        count_added += 1
-                    print(f"  [OK] {topic}: {count_added} questions")
-                except Exception as e:
-                    print(f"  [ERR] {topic}: {e}")
-            else:
-                print(f"  [FAIL] {topic}")
+                if resp:
+                    try:
+                        res_data = json.loads(resp)
+                        count_added = 0
+                        for obj in res_data.get("questions", []):
+                            q_txt = obj.get("question_text") or obj.get("question")
+                            if not q_txt:
+                                continue
+                            # Find the DM topic stats
+                            topic_row = next((t for t in blk["topics"] if t["topic"] == topic), {})
+                            q_record = {
+                                "question_text": q_txt,
+                                "options": obj.get("options", {}),
+                                "correct_answer": obj.get("correct_answer", ""),
+                                "explanation": obj.get("explanation", ""),
+                                "topic": topic,
+                                "micro_topic": micro_topic,
+                                "section": sec,
+                                "difficulty": "medium",
+                                "source": "groq-generated-sota",
+                                "dm_predicted_count": round(topic_row.get("expected_count_exact", 0), 3),
+                                "ci90_low": topic_row.get("ci90_low", 0),
+                                "ci90_high": topic_row.get("ci90_high", 0),
+                                "dm_share": round(topic_row.get("dm_share", 0), 4),
+                            }
+                            generated_questions.append(q_record)
+                            generated_by_sec[sec].append({"text": q_txt, "topic": topic})
+                            count_added += 1
+                        print(f"  [OK] {topic} -> {micro_topic}: {count_added} questions")
+                    except Exception as e:
+                        print(f"  [ERR] {topic} -> {micro_topic}: {e}")
+                else:
+                    print(f"  [FAIL] {topic} -> {micro_topic}")
 
     # 4. Save raw questions
     out_path = ROOT / "output" / "generated_questions" / "practice_2026_august.json"
@@ -515,7 +561,7 @@ def _update_dashboard(questions, plan_2026, section_stats):
     historical_topic_counts = collections.defaultdict(int)
     historical_micro_counts = collections.defaultdict(lambda: collections.defaultdict(int))
     for q in full_q_bank:
-        mt = get_micro_topic(q.get("section", ""), q.get("topic", ""), q.get("question_text", ""), q.get("explanation", ""))
+        mt = q.get("micro_topic")
         if mt:
             historical_topic_counts[q["topic"]] += 1
             historical_micro_counts[q["topic"]][mt] += 1
