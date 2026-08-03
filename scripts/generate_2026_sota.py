@@ -664,6 +664,10 @@ if (typeof window !== 'undefined') {{
     dash_path = ROOT / "dashboard" / "data.js"
     dash_path.parent.mkdir(parents=True, exist_ok=True)
     dash_path.write_text(js_content, encoding="utf-8")
+    
+    out_dash_path = ROOT / "output" / "predictions_2026" / "data.js"
+    out_dash_path.parent.mkdir(parents=True, exist_ok=True)
+    out_dash_path.write_text(js_content, encoding="utf-8")
 
 if __name__ == "__main__":
     main()
