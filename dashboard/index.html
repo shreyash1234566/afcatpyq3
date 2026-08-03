@@ -472,7 +472,7 @@
 
             <!-- Dedicated Micro-Topics Breakdown Section -->
             <div class="mt-8">
-                <h3 class="font-heading font-black text-2xl text-brand-navy mb-6 text-center">English & GK Micro-Topics Breakdown</h3>
+                <h3 class="font-heading font-black text-2xl text-brand-navy mb-6 text-center">Complete Micro-Topics Breakdown (100 Qs)</h3>
                 <div id="micro-topics-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                     <!-- Populated by JS -->
                 </div>
@@ -561,8 +561,8 @@
             const container = document.getElementById('micro-topics-grid');
             if(!container) return;
             
-            // Filter only English and GK topics that have micro focus
-            const microTopics = preds.filter(p => p.Micro_Focus && p.Micro_Focus.length > 0 && (p.Section === 'Verbal Ability' || p.Section === 'General Awareness'));
+            // Filter all topics that have micro focus
+            const microTopics = preds.filter(p => p.Micro_Focus && p.Micro_Focus.length > 0);
             
             container.innerHTML = microTopics.map(t => {
                 const section = t.Section || t.section || 'General';
