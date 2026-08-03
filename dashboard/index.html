@@ -538,7 +538,7 @@
         }
         
         function renderMicroTopics() {
-            const qs = appData.ai_mock_questions || [];
+            const qs = appData.mock_test?.all_questions || [];
             const container = document.getElementById('micro-topics-grid');
             if(!container) return;
             
