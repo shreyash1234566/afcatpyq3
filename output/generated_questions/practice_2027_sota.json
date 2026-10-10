@@ -1,0 +1,3802 @@
+[
+  {
+    "question_number": 1,
+    "question_text": "Read the sentence carefully and choose the option that best completes both blanks. Only one option fits the intended evaluative meaning in both blanks.\nIn the final review the panel deliberately avoided ______ language while offering ______ criticism so that the assessment conveyed intellectual rigour without appearing dismissive or ideologically entrenched to external evaluators.",
+    "section": "Verbal Ability",
+    "topic": "Fill in the Blanks",
+    "micro_topic": "Fill in the Blanks - General",
+    "difficulty": "Medium",
+    "topic_code": "VE_FILL",
+    "choices": [
+      {
+        "key": "A",
+        "text": "polemical ... scathing"
+      },
+      {
+        "key": "B",
+        "text": "jargon-laden ... constructive"
+      },
+      {
+        "key": "C",
+        "text": "inflamatory ... measured"
+      },
+      {
+        "key": "D",
+        "text": "technical ... nuanced"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The sentence states that the panel *avoided* a certain type of language *while offering* a type of criticism. The appropriate pairing is to avoid overly complex or specialised \"jargon-laden\" language and to provide \"constructive\" criticism, which aligns with the goal of maintaining intellectual rigour without being dismissive. \n- Option A pairs two negative descriptors (polemical, scathing) which would not suit the constructive intent. \n- Option C pairs \"inflamatory\" (negative) with \"measured\" (neutral), creating a mismatch in tone. \n- Option D pairs \"technical\" with \"nuanced\"; while not wrong per se, \"technical\" language is not necessarily something to be avoided in a review aimed at clarity, and \"nuanced\" criticism does not convey the explicit constructive intent. \nThus, only option B correctly fills both blanks.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1244,
+    "ci90": [
+      0,
+      10
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 2,
+    "question_text": "Fill in the blank with the most appropriate word from the given options. Though the jurist’s dissent was couched in the language of constitutional fidelity, its cumulative effect was distinctly ______, recasting procedural disagreement as a moral failure of interpretive discipline.",
+    "section": "Verbal Ability",
+    "topic": "Fill in the Blanks",
+    "micro_topic": "Single Blank (Vocabulary)",
+    "difficulty": "Medium",
+    "topic_code": "VE_FILL",
+    "choices": [
+      {
+        "key": "A",
+        "text": "inconsequential"
+      },
+      {
+        "key": "B",
+        "text": "pedantic"
+      },
+      {
+        "key": "C",
+        "text": "polemical"
+      },
+      {
+        "key": "D",
+        "text": "subversive"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The sentence describes the dissent’s overall impact as turning a procedural disagreement into a moral failure. This implies the effect was undermining or destabilising, not merely argumentative (polemical) or trivial (inconsequential) or overly concerned with minute details (pedantic). \"Subversive\" means seeking to overthrow or undermine established authority, which fits the context of recasting a procedural issue as a moral failure. Hence option D is the best fit.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1244,
+    "ci90": [
+      0,
+      10
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 3,
+    "question_text": "Fill in the blanks with the most appropriate pair of words from the given options. The squadron commander decided to ______ the new flight protocols and subsequently ______ outdated maintenance routines to ensure optimal operational readiness.",
+    "section": "Verbal Ability",
+    "topic": "Fill in the Blanks",
+    "micro_topic": "Phrasal Verb Double Blank",
+    "difficulty": "Medium",
+    "topic_code": "VE_FILL",
+    "choices": [
+      {
+        "key": "A",
+        "text": "roll out – phase out"
+      },
+      {
+        "key": "B",
+        "text": "set up – carry on"
+      },
+      {
+        "key": "C",
+        "text": "bring in – hold back"
+      },
+      {
+        "key": "D",
+        "text": "take up – keep up"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The sentence requires two phrasal verbs. The first blank needs a verb meaning \"introduce or implement\" the new protocols – 'roll out' fits perfectly. The second blank needs a verb meaning \"eliminate or discontinue\" the old routines – 'phase out' conveys that meaning. The other options either do not match the required meanings (e.g., 'set up' does not imply implementation on a large scale, 'carry on' suggests continuation rather than removal) or are semantically inappropriate for the context. Hence the correct pair is 'roll out – phase out' (Option A).",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1244,
+    "ci90": [
+      0,
+      10
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 4,
+    "question_text": "Fill in the blanks with the most appropriate option. The squadron's operational readiness assessments ______ conducted quarterly, and the resulting data ______ instrumental in refining mission planning protocols.",
+    "section": "Verbal Ability",
+    "topic": "Fill in the Blanks",
+    "micro_topic": "Subject-Verb Agreement Fill-in",
+    "difficulty": "Medium",
+    "topic_code": "VE_FILL",
+    "choices": [
+      {
+        "key": "A",
+        "text": "are ... are"
+      },
+      {
+        "key": "B",
+        "text": "is ... is"
+      },
+      {
+        "key": "C",
+        "text": "are ... is"
+      },
+      {
+        "key": "D",
+        "text": "is ... are"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The subject of the first blank is \"assessments\", a plural noun, so the verb must be the plural form \"are\". The subject of the second blank is \"data\", which is also treated as plural in formal usage, requiring the plural verb \"are\". Hence the correct pair is \"are ... are\" (Option A).",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1244,
+    "ci90": [
+      0,
+      10
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 5,
+    "question_text": "Select the most appropriate option for blank no. 1: The IAF's recent acquisition of the Rafale fleet underscores its commitment to _________ air superiority in the Indo‑Pacific region.",
+    "section": "Verbal Ability",
+    "topic": "Cloze Test",
+    "micro_topic": "Vocabulary-in-Context Cloze",
+    "difficulty": "Medium",
+    "topic_code": "VE_CLOZ",
+    "choices": [
+      {
+        "key": "A",
+        "text": "augmenting"
+      },
+      {
+        "key": "B",
+        "text": "undermining"
+      },
+      {
+        "key": "C",
+        "text": "relinquishing"
+      },
+      {
+        "key": "D",
+        "text": "diluting"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "\"Augmenting\" means increasing or strengthening. The sentence talks about a commitment to enhance air superiority, so the only word that fits the positive, strengthening sense is \"augmenting\". The other options convey weakening or neutrality, which contradict the intended meaning.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1099,
+    "ci90": [
+      0,
+      12
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 6,
+    "question_text": "Select the most appropriate option for blank no. 2: To mitigate the risk of cyber‑intrusion, the defence ministry has instituted a series of _________ protocols that mandate continuous monitoring and rapid response.",
+    "section": "Verbal Ability",
+    "topic": "Cloze Test",
+    "micro_topic": "Vocabulary-in-Context Cloze",
+    "difficulty": "Medium",
+    "topic_code": "VE_CLOZ",
+    "choices": [
+      {
+        "key": "A",
+        "text": "lax"
+      },
+      {
+        "key": "B",
+        "text": "stringent"
+      },
+      {
+        "key": "C",
+        "text": "optional"
+      },
+      {
+        "key": "D",
+        "text": "superficial"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "\"Stringent\" denotes strict and rigorous, appropriate for protocols aimed at preventing cyber‑intrusion. \"Lax\", \"optional\" and \"superficial\" suggest leniency or inadequacy, which would not serve the purpose of risk mitigation.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1099,
+    "ci90": [
+      0,
+      12
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 7,
+    "question_text": "Select the most appropriate option for blank no. 3: The successful test of the hypersonic missile demonstrated the nation's capability to deliver payloads with _________ precision over vast distances.",
+    "section": "Verbal Ability",
+    "topic": "Cloze Test",
+    "micro_topic": "Vocabulary-in-Context Cloze",
+    "difficulty": "Medium",
+    "topic_code": "VE_CLOZ",
+    "choices": [
+      {
+        "key": "A",
+        "text": "dubious"
+      },
+      {
+        "key": "B",
+        "text": "impeccable"
+      },
+      {
+        "key": "C",
+        "text": "mediocre"
+      },
+      {
+        "key": "D",
+        "text": "erratic"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "\"Impeccable\" means flawless or perfect, matching the context of high‑precision delivery. The other adjectives imply doubt, mediocrity, or inconsistency, which are inconsistent with the achievement described.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1099,
+    "ci90": [
+      0,
+      12
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 8,
+    "question_text": "Directions: Mark the option with the correct arrangement of the words (A), (B), (C), and (D). The IAF's latest Rafale fleet, having undergone rigorous trials, will significantly enhance our strategic air superiority, thereby safeguarding national interests.",
+    "section": "Verbal Ability",
+    "topic": "Para Jumbles",
+    "micro_topic": "Sentence Rearrangement",
+    "difficulty": "Medium",
+    "topic_code": "VE_PARA",
+    "choices": [
+      {
+        "key": "A",
+        "text": "A B C D"
+      },
+      {
+        "key": "B",
+        "text": "B A D C"
+      },
+      {
+        "key": "C",
+        "text": "A C B D"
+      },
+      {
+        "key": "D",
+        "text": "D C B A"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The logical flow is: (A) introduces the subject – \"the IAF's latest Rafale fleet,\" (B) adds a descriptive clause – \"having undergone rigorous trials,\" (C) states the main effect – \"will significantly enhance our strategic air superiority,\" and (D) concludes with the purpose – \"thereby safeguarding national interests.\" This sequence yields a grammatically correct, coherent sentence.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1039,
+    "ci90": [
+      0,
+      11
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 9,
+    "question_text": "Arrange the jumbled parts of the sentence: The integration of indigenous technologies in the IAF's fleet has resulted in __________ for future combat readiness.\nP) a marked reduction in dependence on foreign suppliers,\nQ) enhanced operational autonomy,\nR) cost‑effective maintenance cycles,\nS) and accelerated development timelines,",
+    "section": "Verbal Ability",
+    "topic": "Para Jumbles",
+    "micro_topic": "Sentence Rearrangement",
+    "difficulty": "Medium",
+    "topic_code": "VE_PARA",
+    "choices": [
+      {
+        "key": "A",
+        "text": "P Q R S"
+      },
+      {
+        "key": "B",
+        "text": "Q P S R"
+      },
+      {
+        "key": "C",
+        "text": "R Q P S"
+      },
+      {
+        "key": "D",
+        "text": "S R Q P"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The sentence begins with the fixed clause, then the logical list of outcomes follows the order of importance and grammatical parallelism: (P) reduction in foreign‑supplier dependence, (Q) enhanced autonomy, (R) cost‑effective maintenance, and (S) accelerated timelines. Placing them as P Q R S preserves the natural enumeration and produces a fluent sentence.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1039,
+    "ci90": [
+      0,
+      11
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 10,
+    "question_text": "The following incomplete sentence is split into parts. Four of the parts are jumbled up, known as PQRS. These four parts are not given in their proper order. Arrange the jumbled parts of the sentence and find out which of the four combinations from the given options will correctly complete the sentence. Sentence: The introduction of fifth‑generation fighter aircraft has transformed aerial combat strategies, __________, thereby enhancing the IAF's operational readiness in contested airspaces. P. by integrating stealth technology and advanced sensor fusion, Q. which collectively reduce detection probability R. and improve situational awareness, S. while enabling network‑centric warfare capabilities.",
+    "section": "Verbal Ability",
+    "topic": "Para Jumbles",
+    "micro_topic": "Sentence Rearrangement (PQRS)",
+    "difficulty": "Medium",
+    "topic_code": "VE_PARA",
+    "choices": [
+      {
+        "key": "A",
+        "text": "P S Q R"
+      },
+      {
+        "key": "B",
+        "text": "P Q S R"
+      },
+      {
+        "key": "C",
+        "text": "S P Q R"
+      },
+      {
+        "key": "D",
+        "text": "Q P S R"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "To form a logical, grammatically correct continuation:\n1. The clause must start with a phrase that explains *how* the strategies are transformed – this is P: \"by integrating stealth technology and advanced sensor fusion,\".\n2. After introducing the integration, we need to add the complementary capability – S: \"while enabling network‑centric warfare capabilities,\".\n3. The next part should refer back to the combined effect of the previous two actions – Q: \"which collectively reduce detection probability\".\n4. Finally, we complete the effect with R: \"and improve situational awareness.\".\nThus the correct order is P → S → Q → R, which corresponds to option A.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1039,
+    "ci90": [
+      0,
+      11
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 11,
+    "question_text": "Read the passage carefully and answer the question that follows.\n\nThe rapid proliferation of unmanned aerial vehicles (UAVs) has transformed contemporary air power doctrine. Modern UAVs, ranging from micro‑scale reconnaissance drones to high‑altitude, long‑endurance (HALE) platforms, provide persistent surveillance, precision strike capability, and reduced risk to personnel. Their integration into network‑centric warfare hinges on real‑time data links, advanced sensor suites, and autonomous decision‑making algorithms. However, the reliance on satellite communication renders UAV operations vulnerable to jamming and cyber‑intrusion. Consequently, the IAF is investing in resilient, multi‑band communication architectures and AI‑driven counter‑measures to safeguard mission integrity.\n\nWhich of the following statements is correct according to the passage?",
+    "section": "Verbal Ability",
+    "topic": "Reading Comprehension",
+    "micro_topic": "Detail-based Question",
+    "difficulty": "Medium",
+    "topic_code": "VE_READ",
+    "choices": [
+      {
+        "key": "A",
+        "text": "UAVs reduce risk to personnel."
+      },
+      {
+        "key": "B",
+        "text": "UAVs are immune to cyber‑intrusion."
+      },
+      {
+        "key": "C",
+        "text": "Satellite communication eliminates the need for autonomous algorithms."
+      },
+      {
+        "key": "D",
+        "text": "The IAF is reducing investment in UAV technology."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The passage explicitly states that UAVs provide \"reduced risk to personnel\". All other options contradict the passage: UAVs are said to be vulnerable to cyber‑intrusion, satellite communication creates vulnerability rather than eliminating autonomous algorithms, and the IAF is investing more, not less, in UAV‑related capabilities.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1022,
+    "ci90": [
+      0,
+      11
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 12,
+    "question_text": "Read the passage carefully and answer the question that follows.\n\nIn the digital age, air force operations increasingly depend on interconnected command‑and‑control (C2) networks. Cyber resilience—defined as the capacity to anticipate, withstand, recover from, and adapt to adverse cyber events—is essential for maintaining operational continuity. The IAF's cyber doctrine emphasizes layered defence, incorporating intrusion detection systems, zero‑trust architectures, and continuous threat hunting. Moreover, regular red‑team exercises simulate sophisticated adversary tactics, enabling personnel to refine response protocols. By embedding cyber hygiene into daily routines, the force seeks to mitigate the risk of data exfiltration and system degradation.\n\nWhich of the following statements is correct according to the passage?",
+    "section": "Verbal Ability",
+    "topic": "Reading Comprehension",
+    "micro_topic": "Detail-based Question",
+    "difficulty": "Medium",
+    "topic_code": "VE_READ",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Red‑team exercises are used to simulate adversary tactics."
+      },
+      {
+        "key": "B",
+        "text": "Cyber resilience disregards recovery after an attack."
+      },
+      {
+        "key": "C",
+        "text": "Zero‑trust architectures increase reliance on single‑point authentication."
+      },
+      {
+        "key": "D",
+        "text": "The IAF's cyber doctrine excludes intrusion detection systems."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The passage mentions that \"regular red‑team exercises simulate sophisticated adversary tactics\". Options B, C, and D are false: cyber resilience includes recovery, zero‑trust reduces single‑point reliance, and intrusion detection systems are explicitly part of the doctrine.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1022,
+    "ci90": [
+      0,
+      11
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 13,
+    "question_text": "Read the following statements carefully and choose the most appropriate option. Assertion (A): The introduction of stealth technology in combat aircraft significantly reduces their detectability by enemy radar. Reason (R): Stealth aircraft are designed with radar‑absorbent materials and specific aerodynamic shapes that minimize radar cross‑section.",
+    "section": "Verbal Ability",
+    "topic": "Reading Comprehension",
+    "micro_topic": "Reading Comprehension - Assertion & Reason",
+    "difficulty": "Medium",
+    "topic_code": "VE_READ",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Both A and R are true, and R is the correct explanation of A."
+      },
+      {
+        "key": "B",
+        "text": "Both A and R are true, but R is not the correct explanation of A."
+      },
+      {
+        "key": "C",
+        "text": "A is true, but R is false."
+      },
+      {
+        "key": "D",
+        "text": "A is false, but R is true."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The assertion is true because stealth technology—through shaping, internal weapon bays, and radar‑absorbent coatings—lowers the radar cross‑section, making the aircraft harder to detect. The reason is also true; these design features directly achieve the reduced detectability described in the assertion. Hence, R correctly explains why A holds.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1022,
+    "ci90": [
+      0,
+      11
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 14,
+    "question_text": "Select the most appropriate meaning of the given idiom: A fine state of affairs",
+    "section": "Verbal Ability",
+    "topic": "Idioms & Phrases",
+    "micro_topic": "Idiom Meaning",
+    "difficulty": "Medium",
+    "topic_code": "VE_IDIO",
+    "choices": [
+      {
+        "key": "A",
+        "text": "A situation that is satisfactory and pleasant"
+      },
+      {
+        "key": "B",
+        "text": "A chaotic or problematic condition"
+      },
+      {
+        "key": "C",
+        "text": "A state of confusion"
+      },
+      {
+        "key": "D",
+        "text": "An undesirable outcome"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The idiom \"a fine state of affairs\" is used to describe a condition that is good, satisfactory, or pleasant. Among the options, only option A conveys this positive meaning.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.095,
+    "ci90": [
+      0,
+      11
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 15,
+    "question_text": "Choose the option which best expresses the meaning of the given idiom. To burn the midnight oil",
+    "section": "Verbal Ability",
+    "topic": "Idioms & Phrases",
+    "micro_topic": "Idiom Meaning",
+    "difficulty": "Medium",
+    "topic_code": "VE_IDIO",
+    "choices": [
+      {
+        "key": "A",
+        "text": "To work late into the night"
+      },
+      {
+        "key": "B",
+        "text": "To waste time"
+      },
+      {
+        "key": "C",
+        "text": "To cause a fire"
+      },
+      {
+        "key": "D",
+        "text": "To celebrate"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Historically, oil lamps were used for illumination. \"Burning the midnight oil\" refers to staying up late, typically to study or work. Therefore, the correct interpretation is option A – to work late into the night.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.095,
+    "ci90": [
+      0,
+      11
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 16,
+    "question_text": "Choose the option which best expresses the meaning of the given proverb. A stitch in time saves nine.",
+    "section": "Verbal Ability",
+    "topic": "Idioms & Phrases",
+    "micro_topic": "Proverb Meaning",
+    "difficulty": "Medium",
+    "topic_code": "VE_IDIO",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Acting promptly prevents larger problems later"
+      },
+      {
+        "key": "B",
+        "text": "Small efforts are worthless"
+      },
+      {
+        "key": "C",
+        "text": "Patience yields rewards"
+      },
+      {
+        "key": "D",
+        "text": "Unity is strength"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The proverb means that taking care of a problem early (a stitch made promptly) prevents it from becoming bigger and requiring more effort later (saving nine stitches). Hence, acting promptly prevents larger problems later.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.095,
+    "ci90": [
+      0,
+      11
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 17,
+    "question_text": "Select the best one word substitute for the given group of words.\nA person who loves books and collects them obsessively",
+    "section": "Verbal Ability",
+    "topic": "One Word Substitution",
+    "micro_topic": "Person/Character Descriptor",
+    "difficulty": "Medium",
+    "topic_code": "VE_ONE ",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Bibliophile"
+      },
+      {
+        "key": "B",
+        "text": "Librarian"
+      },
+      {
+        "key": "C",
+        "text": "Bookworm"
+      },
+      {
+        "key": "D",
+        "text": "Bibliomaniac"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Bibliophile means a lover and collector of books. Librarian is a professional caretaker of books, Bookworm denotes a keen reader, Bibliomaniac implies an obsessive madness for books, which is less precise. Hence the correct one‑word substitute is Bibliophile.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0922,
+    "ci90": [
+      0,
+      11
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 18,
+    "question_text": "Select the option that can be used as a one-word substitute for the given group of words.\n\nA person who loves and idealizes their own country to an extreme, often advocating aggressive foreign policy",
+    "section": "Verbal Ability",
+    "topic": "One Word Substitution",
+    "micro_topic": "Abstract Concept Descriptor",
+    "difficulty": "Medium",
+    "topic_code": "VE_ONE ",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Patriot"
+      },
+      {
+        "key": "B",
+        "text": "Nationalist"
+      },
+      {
+        "key": "C",
+        "text": "Jingoist"
+      },
+      {
+        "key": "D",
+        "text": "Militarist"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The phrase describes someone who exhibits extreme patriotism combined with a belligerent stance toward other nations. 'Jingoist' specifically means a person who is aggressively nationalistic and supports warlike policies. 'Patriot' denotes a general love for one's country, 'Nationalist' indicates strong national pride without inherent aggression, and 'Militarist' emphasizes a focus on military strength rather than the emotional zeal described. Therefore, the correct one‑word substitute is 'Jingoist'.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0922,
+    "ci90": [
+      0,
+      11
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 19,
+    "question_text": "Select the option that can be used as a one-word substitute for the given group of words.\n\nThe study of birds",
+    "section": "Verbal Ability",
+    "topic": "One Word Substitution",
+    "micro_topic": "Field of Study Descriptor",
+    "difficulty": "Medium",
+    "topic_code": "VE_ONE ",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Ornithology"
+      },
+      {
+        "key": "B",
+        "text": "Entomology"
+      },
+      {
+        "key": "C",
+        "text": "Herpetology"
+      },
+      {
+        "key": "D",
+        "text": "Ichthyology"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The scientific discipline that studies birds is called Ornithology. The other options denote the study of insects (Entomology), reptiles/amphibians (Herpetology), and fish (Ichthyology).",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0922,
+    "ci90": [
+      0,
+      11
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 20,
+    "question_text": "Read the sentence to find out whether there is any error in any underlined part. Indicate your response in the Answer Sheet against the corresponding letter.\n\n(A) The squadron's operational readiness were enhanced (B) by integrating advanced avionics systems (C) despite budgetary constraints (D) No error",
+    "section": "Verbal Ability",
+    "topic": "Spotting Errors",
+    "micro_topic": "Sentence Error Identification",
+    "difficulty": "Medium",
+    "topic_code": "VE_SPOT",
+    "choices": [
+      {
+        "key": "A",
+        "text": "A"
+      },
+      {
+        "key": "B",
+        "text": "B"
+      },
+      {
+        "key": "C",
+        "text": "C"
+      },
+      {
+        "key": "D",
+        "text": "D"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The subject 'readiness' is singular, so the verb must be singular. The correct verb is 'was' rather than 'were'. Hence the grammatical error is in part (A).",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0895,
+    "ci90": [
+      0,
+      11
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 21,
+    "question_text": "Find the part of the given sentence that has an error in it... The squadron was deployed (1) / to conduct a reconnaissance mission (2) / in the hostile territory (3) /. No error (4)",
+    "section": "Verbal Ability",
+    "topic": "Spotting Errors",
+    "micro_topic": "Preposition Error",
+    "difficulty": "Medium",
+    "topic_code": "VE_SPOT",
+    "choices": [
+      {
+        "key": "A",
+        "text": "(1)"
+      },
+      {
+        "key": "B",
+        "text": "(2)"
+      },
+      {
+        "key": "C",
+        "text": "(3)"
+      },
+      {
+        "key": "D",
+        "text": "No error"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The error is in part (3). The preposition \"in\" is inappropriate for a reconnaissance mission over enemy ground. The correct preposition is \"over\" (or \"above\"). Hence, part (3) contains the preposition error.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0895,
+    "ci90": [
+      0,
+      11
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 22,
+    "question_text": "Parts of the following sentence have been given as options. Select the option that contains an error. One of the pilots (a) / were selected (b) / for the advanced fighter training program (c) / which will commence next month (d).",
+    "section": "Verbal Ability",
+    "topic": "Spotting Errors",
+    "micro_topic": "Subject-Verb Agreement (One of the)",
+    "difficulty": "Medium",
+    "topic_code": "VE_SPOT",
+    "choices": [
+      {
+        "key": "A",
+        "text": "(a) One of the pilots"
+      },
+      {
+        "key": "B",
+        "text": "(b) were selected"
+      },
+      {
+        "key": "C",
+        "text": "(c) for the advanced fighter training program"
+      },
+      {
+        "key": "D",
+        "text": "(d) which will commence next month"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The subject is 'One', which is singular. Hence the verb must be singular ('was') not the plural 'were'. All other parts are correct, making option B the error.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0895,
+    "ci90": [
+      0,
+      11
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 23,
+    "question_text": "Select the most appropriate option to fill in the blank. Scarcely ______ the teacher entered the class when he heard the noise.",
+    "section": "Verbal Ability",
+    "topic": "Grammar",
+    "micro_topic": "Sentence Completion (Blank Fill)",
+    "difficulty": "Medium",
+    "topic_code": "VE_GRAM",
+    "choices": [
+      {
+        "key": "A",
+        "text": "had"
+      },
+      {
+        "key": "B",
+        "text": "has"
+      },
+      {
+        "key": "C",
+        "text": "was"
+      },
+      {
+        "key": "D",
+        "text": "did"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The construction 'Scarcely ... when' links two past events, the first of which must be completed before the second. This requires the past perfect tense. 'Had' forms the past perfect (had entered), making the sentence grammatically correct. The other options do not provide the required tense.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0877,
+    "ci90": [
+      0,
+      10
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 24,
+    "question_text": "Choose the option that correctly transforms the given complex sentence into a simple sentence without changing its meaning.\nWhen the squadron commander observed that the radar readings were erratic, he ordered an immediate recalibration of the system.",
+    "section": "Verbal Ability",
+    "topic": "Grammar",
+    "micro_topic": "Grammar - General",
+    "difficulty": "Medium",
+    "topic_code": "VE_GRAM",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Observing that the radar readings were erratic, the squadron commander ordered an immediate recalibration of the system."
+      },
+      {
+        "key": "B",
+        "text": "The squadron commander, after the radar readings were erratic, ordered an immediate recalibration of the system."
+      },
+      {
+        "key": "C",
+        "text": "The squadron commander ordered an immediate recalibration of the system because the radar readings were erratic."
+      },
+      {
+        "key": "D",
+        "text": "When the squadron commander observed the radar readings were erratic, he ordered a recalibration of the system immediately."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The original sentence has a subordinate clause introduced by \"When\". To make it a simple sentence, the subordinate clause can be turned into a participial phrase: \"Observing that the radar readings were erratic\". This phrase modifies the subject and is followed by a single independent clause \"the squadron commander ordered an immediate recalibration of the system.\" The meaning remains unchanged, and the sentence now contains only one main clause, satisfying the requirement of a simple sentence. Options B and D retain a dependent clause structure, while option C uses a causal \"because\" clause, which still makes the sentence complex.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0877,
+    "ci90": [
+      0,
+      10
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 25,
+    "question_text": "A complex sentence is given. Choose the option that best transforms it into a simple sentence without altering its meaning, logical emphasis, or syntactic correctness. Although the squadron achieved a high sortie rate because the new maintenance protocols were implemented, the overall mission readiness did not improve since pilot training hours remained insufficient.",
+    "section": "Verbal Ability",
+    "topic": "Grammar",
+    "micro_topic": "Sentence Transformation (Complex to Simple)",
+    "difficulty": "Medium",
+    "topic_code": "VE_GRAM",
+    "choices": [
+      {
+        "key": "A",
+        "text": "The squadron achieved a high sortie rate due to the new maintenance protocols, but the overall mission readiness did not improve because pilot training hours remained insufficient."
+      },
+      {
+        "key": "B",
+        "text": "The squadron achieved a high sortie rate, yet the overall mission readiness improved because pilot training hours were increased."
+      },
+      {
+        "key": "C",
+        "text": "Although the squadron achieved a high sortie rate, the overall mission readiness did not improve due to insufficient pilot training hours, even though new maintenance protocols were implemented."
+      },
+      {
+        "key": "D",
+        "text": "The squadron's high sortie rate and improved mission readiness were both a result of new maintenance protocols and increased pilot training hours."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The original complex sentence contains two subordinate clauses introduced by 'although' and 'since'. To convert it into a simple (non‑complex) sentence, we replace the subordinate constructions with coordinating conjunctions while preserving cause‑effect relationships. Option A does this by using 'due to' for the first cause and 'because' for the second, linking the two main ideas with 'but'. It retains the original meaning and logical emphasis without introducing new information or altering the factual content. Options B, C, and D either change the meaning (e.g., claim readiness improved) or re‑introduce subordinate clauses, making them incorrect.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0877,
+    "ci90": [
+      0,
+      10
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 26,
+    "question_text": "Select the option that is opposite in the meaning to the underlined word: Laud",
+    "section": "Verbal Ability",
+    "topic": "Synonyms/Antonyms",
+    "micro_topic": "Antonym - Praise/Admiration Word",
+    "difficulty": "Medium",
+    "topic_code": "VE_SYNO",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Criticize"
+      },
+      {
+        "key": "B",
+        "text": "Praise"
+      },
+      {
+        "key": "C",
+        "text": "Extol"
+      },
+      {
+        "key": "D",
+        "text": "Applaud"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "‘Laud’ means to praise or commend highly. The opposite is to express disapproval or find fault, i.e., ‘criticize’. Hence option A is the correct antonym.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0772,
+    "ci90": [
+      0,
+      12
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 27,
+    "question_text": "Choose the word which is opposite in meaning to the given word. IMPERVIOUS",
+    "section": "Verbal Ability",
+    "topic": "Synonyms/Antonyms",
+    "micro_topic": "Antonym - Direct Meaning",
+    "difficulty": "Medium",
+    "topic_code": "VE_SYNO",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Receptive"
+      },
+      {
+        "key": "B",
+        "text": "Stubborn"
+      },
+      {
+        "key": "C",
+        "text": "Obstinate"
+      },
+      {
+        "key": "D",
+        "text": "Rigid"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "IMPERVIOUS means not allowing anything (e.g., water, influence) to pass through; figuratively it denotes being unresponsive or unaffected. The opposite meaning is someone who is open and responsive, i.e., RECEPTIVE. Hence option A is correct.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0772,
+    "ci90": [
+      0,
+      12
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 28,
+    "question_text": "Select the option in which the words share the same relationship as that shared by the given pair of words. AERODROME : RUNWAY :: _____ : HANGER",
+    "section": "Verbal Ability",
+    "topic": "Verbal Analogy",
+    "micro_topic": "Word Pair Analogy",
+    "difficulty": "Medium",
+    "topic_code": "VE_VERB",
+    "choices": [
+      {
+        "key": "A",
+        "text": "BASE"
+      },
+      {
+        "key": "B",
+        "text": "TOWER"
+      },
+      {
+        "key": "C",
+        "text": "RUNWAY"
+      },
+      {
+        "key": "D",
+        "text": "CONTROL TOWER"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "An aerodrome is a complex that contains a runway; similarly, a military base is a complex that contains a hangar. The other options either are not parts of a base or repeat the given term.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0672,
+    "ci90": [
+      0,
+      8
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 29,
+    "question_text": "Choose the pair of words that best expresses the relationship like the original pair: STRATEGY : TACTICS",
+    "section": "Verbal Ability",
+    "topic": "Verbal Analogy",
+    "micro_topic": "Word Pair Analogy",
+    "difficulty": "Medium",
+    "topic_code": "VE_VERB",
+    "choices": [
+      {
+        "key": "A",
+        "text": "THEORY : PRACTICE"
+      },
+      {
+        "key": "B",
+        "text": "GOAL : RESULT"
+      },
+      {
+        "key": "C",
+        "text": "PLAN : MAP"
+      },
+      {
+        "key": "D",
+        "text": "COMMAND : ORDER"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Strategy is a broad, overarching plan, while tactics are the specific actions derived from that plan. The same hierarchical relationship exists between THEORY (the broad conceptual framework) and PRACTICE (the specific application). The other pairs do not reflect a broad-to-specific relationship.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0672,
+    "ci90": [
+      0,
+      8
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 30,
+    "question_text": "Choose the correctly spelt word.",
+    "section": "Verbal Ability",
+    "topic": "Spelling",
+    "micro_topic": "Correctly Spelt Word",
+    "difficulty": "Medium",
+    "topic_code": "VE_SPEL",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Aeronatics"
+      },
+      {
+        "key": "B",
+        "text": "Aeronautics"
+      },
+      {
+        "key": "C",
+        "text": "Aeronautical"
+      },
+      {
+        "key": "D",
+        "text": "Aeronautic"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The noun meaning the science of flight is spelled 'Aeronautics'. Option A misspells the vowel sequence, while C and D are adjectival forms, not the exact noun requested.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0507,
+    "ci90": [
+      0,
+      7
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 31,
+    "question_text": "The indigenously developed Beyond Visual Range Air-to-Air Missile (BVRAAM) was successfully test‑fired by the Indian Air Force in March 2023, the missile is named?",
+    "section": "General Awareness",
+    "topic": "Defence",
+    "micro_topic": "Missile System",
+    "difficulty": "Medium",
+    "topic_code": "GE_DEFE",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Astra"
+      },
+      {
+        "key": "B",
+        "text": "MICA"
+      },
+      {
+        "key": "C",
+        "text": "AIM‑120 AMRAAM"
+      },
+      {
+        "key": "D",
+        "text": "R‑77"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The Astra missile is India’s indigenous BVRAAM. It was successfully test‑fired by the IAF in March 2023, confirming its operational readiness. The other options are foreign missiles: MICA (France), AIM‑120 AMRAAM (USA), R‑77 (Russia).",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.2036,
+    "ci90": [
+      1,
+      11
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 32,
+    "question_text": "Maitri naval exercise is conducted between which two countries?",
+    "section": "General Awareness",
+    "topic": "Defence",
+    "micro_topic": "Naval Asset",
+    "difficulty": "Medium",
+    "topic_code": "GE_DEFE",
+    "choices": [
+      {
+        "key": "A",
+        "text": "India and United States"
+      },
+      {
+        "key": "B",
+        "text": "India and Russia"
+      },
+      {
+        "key": "C",
+        "text": "India and Japan"
+      },
+      {
+        "key": "D",
+        "text": "India and France"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The \"Maitri\" (meaning \"friendship\") naval exercise is a bilateral maritime exercise conducted annually between the Indian Navy and the Russian Navy. It aims to enhance interoperability, share best practices, and strengthen maritime cooperation between the two nations.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.2036,
+    "ci90": [
+      1,
+      11
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 33,
+    "question_text": "Which of the following is a long-range, multi-role air superiority aircraft in the Indian Air Force?",
+    "section": "General Awareness",
+    "topic": "Defence",
+    "micro_topic": "Air Force Asset",
+    "difficulty": "Medium",
+    "topic_code": "GE_DEFE",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Su-30MKI"
+      },
+      {
+        "key": "B",
+        "text": "Jaguar"
+      },
+      {
+        "key": "C",
+        "text": "MiG-21"
+      },
+      {
+        "key": "D",
+        "text": "Tejas"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.2036,
+    "ci90": [
+      1,
+      11
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 34,
+    "question_text": "Exercise INDRA-2026 was conducted between which of the following countries?",
+    "section": "General Awareness",
+    "topic": "Defence",
+    "micro_topic": "Military Exercise",
+    "difficulty": "Medium",
+    "topic_code": "GE_DEFE",
+    "choices": [
+      {
+        "key": "A",
+        "text": "India and Russia"
+      },
+      {
+        "key": "B",
+        "text": "India and United States"
+      },
+      {
+        "key": "C",
+        "text": "India and France"
+      },
+      {
+        "key": "D",
+        "text": "India and Japan"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Exercise INDRA is a bilateral air force exercise between the Indian Air Force and the Russian Aerospace Forces. The 2026 edition (INDRA-2026) was jointly conducted by India and Russia, making option A the correct choice.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.2036,
+    "ci90": [
+      1,
+      11
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 35,
+    "question_text": "Consider the following statements regarding the BrahMos supersonic cruise missile:\n1. BrahMos is a joint venture between India and Russia.\n2. As of 2023, its maximum operational range is 500 km.\nWhich of the statements given above are correct?",
+    "section": "General Awareness",
+    "topic": "Defence",
+    "micro_topic": "Defence - General",
+    "difficulty": "Medium",
+    "topic_code": "GE_DEFE",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Both 1 and 2"
+      },
+      {
+        "key": "B",
+        "text": "Only statement 1"
+      },
+      {
+        "key": "C",
+        "text": "Only statement 2"
+      },
+      {
+        "key": "D",
+        "text": "Neither 1 nor 2"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "BrahMos is indeed a collaborative project between DRDO (India) and NPO Mashinostroyenia (Russia). After India became a signatory to the Missile Technology Control Regime, the range was extended from the earlier 290 km to 500 km in 2023, making both statements true.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.2036,
+    "ci90": [
+      1,
+      11
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 36,
+    "question_text": "Which among the following is also known as silent killer gas?",
+    "section": "General Awareness",
+    "topic": "General Science",
+    "micro_topic": "General Science - Other",
+    "difficulty": "Medium",
+    "topic_code": "GE_GENE",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Carbon monoxide"
+      },
+      {
+        "key": "B",
+        "text": "Hydrogen sulfide"
+      },
+      {
+        "key": "C",
+        "text": "Nitrogen dioxide"
+      },
+      {
+        "key": "D",
+        "text": "Sulfur dioxide"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Carbon monoxide (CO) binds to haemoglobin with an affinity about 200‑250 times greater than oxygen, preventing oxygen transport. Because it is colourless, odourless and causes death without obvious symptoms, it is termed the \"silent killer\" gas.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1276,
+    "ci90": [
+      0,
+      8
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 37,
+    "question_text": "Which of the following is not a unit of energy?",
+    "section": "General Awareness",
+    "topic": "General Science",
+    "micro_topic": "Physics",
+    "difficulty": "Medium",
+    "topic_code": "GE_GENE",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Joule"
+      },
+      {
+        "key": "B",
+        "text": "Calorie"
+      },
+      {
+        "key": "C",
+        "text": "Electron-volt"
+      },
+      {
+        "key": "D",
+        "text": "Newton"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Joule (J), calorie (cal) and electron-volt (eV) are all units of energy. Newton (N) is the SI unit of force, not energy. Hence option D is correct.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1276,
+    "ci90": [
+      0,
+      8
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 38,
+    "question_text": "Which disease is also known as German measles?",
+    "section": "General Awareness",
+    "topic": "General Science",
+    "micro_topic": "Biology",
+    "difficulty": "Medium",
+    "topic_code": "GE_GENE",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Rubella"
+      },
+      {
+        "key": "B",
+        "text": "Measles"
+      },
+      {
+        "key": "C",
+        "text": "Chickenpox"
+      },
+      {
+        "key": "D",
+        "text": "Scarlet fever"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "German measles is the common name for Rubella, a viral infection characterized by a mild fever and rash. The other options refer to different diseases: Measles (Rubeola), Chickenpox (Varicella), and Scarlet fever (caused by Streptococcus pyogenes).",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1276,
+    "ci90": [
+      0,
+      8
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 39,
+    "question_text": "Which of the following aircraft serves as the primary air‑superiority fighter of the Indian Air Force as of 2026?",
+    "section": "General Awareness",
+    "topic": "Static GK",
+    "micro_topic": "Static GK - General",
+    "difficulty": "Medium",
+    "topic_code": "GE_STAT",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Sukhoi Su‑30MKI"
+      },
+      {
+        "key": "B",
+        "text": "Dassault Rafale"
+      },
+      {
+        "key": "C",
+        "text": "HAL Tejas Mk‑1A"
+      },
+      {
+        "key": "D",
+        "text": "Mikoyan MiG‑29UPG"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The IAF’s fleet composition up to 2026 shows that the twin‑engine, thrust‑vectoring Sukhoi Su‑30MKI remains the backbone for air‑superiority missions, with over 250 aircraft in service. The Rafale, though inducted, is limited in numbers and primarily used for strike roles. The Tejas Mk‑1A is still in early induction, and the MiG‑29UPG is being phased out.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0922,
+    "ci90": [
+      0,
+      7
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 40,
+    "question_text": "Which of the following Indian states celebrates its formation day on 1st November?",
+    "section": "General Awareness",
+    "topic": "Static GK",
+    "micro_topic": "Static GK - General",
+    "difficulty": "Medium",
+    "topic_code": "GE_STAT",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Karnataka"
+      },
+      {
+        "key": "B",
+        "text": "Kerala"
+      },
+      {
+        "key": "C",
+        "text": "Tamil Nadu"
+      },
+      {
+        "key": "D",
+        "text": "Andhra Pradesh"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Karnataka was formed on 1st November 1956 under the States Reorganisation Act, merging the Kannada-speaking regions of the former Mysore State and other territories. Hence, Karnataka observes its formation day on 1st November each year.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0922,
+    "ci90": [
+      0,
+      7
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 41,
+    "question_text": "How does the Advanced Medium Combat Aircraft (AMCA) prototype flight test, conducted in March 2026, affect India's indigenous fighter development program?",
+    "section": "General Awareness",
+    "topic": "Current Affairs",
+    "micro_topic": "Current Affairs - General",
+    "difficulty": "Medium",
+    "topic_code": "GE_CURR",
+    "choices": [
+      {
+        "key": "A",
+        "text": "It accelerates the timeline for induction by approximately two years."
+      },
+      {
+        "key": "B",
+        "text": "It leads to the cancellation of the AMCA program in favor of foreign procurement."
+      },
+      {
+        "key": "C",
+        "text": "It has no significant impact on the program’s schedule or funding."
+      },
+      {
+        "key": "D",
+        "text": "It shifts the programme’s focus entirely to unmanned combat aerial vehicles."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The successful prototype flight test demonstrated that key performance parameters such as thrust, avionics integration, and stealth shaping meet design goals. This validation reduces the need for extensive redesign, allowing the development schedule to be compressed by about two years, moving the projected induction date forward. Options B, C, and D are incorrect because the test reinforced confidence in the indigenous program rather than prompting cancellation, had a positive impact, and did not redirect focus to UAVs.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0838,
+    "ci90": [
+      0,
+      7
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 42,
+    "question_text": "The 13th International Day of Yoga, observed on 21 June 2026, was celebrated under which official theme announced by the Government of India?",
+    "section": "General Awareness",
+    "topic": "Current Affairs",
+    "micro_topic": "Important Days & Themes",
+    "difficulty": "Medium",
+    "topic_code": "GE_CURR",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Yoga for Health and Harmony"
+      },
+      {
+        "key": "B",
+        "text": "Yoga for Wellness"
+      },
+      {
+        "key": "C",
+        "text": "Yoga for Sustainable Development"
+      },
+      {
+        "key": "D",
+        "text": "Yoga for National Integration"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The Ministry of AYUSH, Government of India, released a press note stating that the theme for the International Day of Yoga 2026 (13th edition) would be \"Yoga for Wellness\". This theme was used in all official communications, events, and promotional material across the country.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0838,
+    "ci90": [
+      0,
+      7
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 43,
+    "question_text": "Where did Gandhiji give his first public speech in India?",
+    "section": "General Awareness",
+    "topic": "History (Modern)",
+    "micro_topic": "Gandhi & Congress Movement",
+    "difficulty": "Medium",
+    "topic_code": "GE_HIST",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Rajkot"
+      },
+      {
+        "key": "B",
+        "text": "Ahmedabad"
+      },
+      {
+        "key": "C",
+        "text": "Bombay"
+      },
+      {
+        "key": "D",
+        "text": "Calcutta"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "After returning from South Africa in January 1915, Mahatma Gandhi made his first public address in India on 12 August 1915 at a meeting in Rajkot, Gujarat. This speech marked the beginning of his active involvement in the Indian freedom movement.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0698,
+    "ci90": [
+      0,
+      6
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 44,
+    "question_text": "The 1998 Pokhran-II nuclear tests were famously associated with which of the following events?",
+    "section": "General Awareness",
+    "topic": "History (Modern)",
+    "micro_topic": "History (Modern) - General",
+    "difficulty": "Medium",
+    "topic_code": "GE_HIST",
+    "choices": [
+      {
+        "key": "A",
+        "text": "India's declaration of nuclear weapons status"
+      },
+      {
+        "key": "B",
+        "text": "India's first Mars mission (Mangalyaan)"
+      },
+      {
+        "key": "C",
+        "text": "India's adoption of the Goods and Services Tax (GST)"
+      },
+      {
+        "key": "D",
+        "text": "India's first commercial nuclear power plant (Kudankulam)"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The Pokhran-II tests conducted in May 1998 marked India's declaration that it possessed nuclear weapons. The other options refer to events that occurred later (Mangalyaan in 2013, GST in 2017, Kudankulam commercial operation in 2017) and are unrelated to the 1998 tests.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0698,
+    "ci90": [
+      0,
+      6
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 45,
+    "question_text": "Which of the following is not an agency of the United Nations?",
+    "section": "General Awareness",
+    "topic": "Organizations",
+    "micro_topic": "UN Bodies",
+    "difficulty": "Medium",
+    "topic_code": "GE_ORGA",
+    "choices": [
+      {
+        "key": "A",
+        "text": "UNESCO"
+      },
+      {
+        "key": "B",
+        "text": "WHO"
+      },
+      {
+        "key": "C",
+        "text": "IMF"
+      },
+      {
+        "key": "D",
+        "text": "UNDP"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "UNESCO (United Nations Educational, Scientific and Cultural Organization), WHO (World Health Organization) and UNDP (United Nations Development Programme) are all specialized agencies of the UN. The International Monetary Fund (IMF) is an independent international organization that works closely with the UN but is not a UN agency.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0598,
+    "ci90": [
+      0,
+      5
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 46,
+    "question_text": "Where is the headquarters of the International Renewable Energy Agency (IRENA)?",
+    "section": "General Awareness",
+    "topic": "Organizations",
+    "micro_topic": "International Organization",
+    "difficulty": "Medium",
+    "topic_code": "GE_ORGA",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Abu Dhabi, United Arab Emirates"
+      },
+      {
+        "key": "B",
+        "text": "Paris, France"
+      },
+      {
+        "key": "C",
+        "text": "Nairobi, Kenya"
+      },
+      {
+        "key": "D",
+        "text": "Geneva, Switzerland"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "IRENA was established in 2009 as an inter‑governmental organization to promote the widespread adoption and sustainable use of renewable energy. Its permanent headquarters were set up in Abu Dhabi, United Arab Emirates, and it continues to operate from that location.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0598,
+    "ci90": [
+      0,
+      5
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 47,
+    "question_text": "Which famous sports personality was awarded the Major Dhyan Chand Khel Ratna award in 2025?",
+    "section": "General Awareness",
+    "topic": "Awards",
+    "micro_topic": "Sports Award",
+    "difficulty": "Medium",
+    "topic_code": "GE_AWAR",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Neeraj Chopra"
+      },
+      {
+        "key": "B",
+        "text": "P. V. Sindhu"
+      },
+      {
+        "key": "C",
+        "text": "Bajrang Punia"
+      },
+      {
+        "key": "D",
+        "text": "Mirabai Chanu"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The Major Dhyan Chand Khel Ratna (formerly Rajiv Gandhi Khel Ratna) for the year 2025 was conferred on javelin thrower Neeraj Chopra. The award recognized his historic gold medal at the 2024 Paris Olympics and his consistent world‑class performances, making him the most deserving candidate among the nominees.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0542,
+    "ci90": [
+      0,
+      5
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 48,
+    "question_text": "According to the Padma Awards announced by the Government of India in January 2027, which individual was conferred the Padma Vibhushan in the field of Science and Technology?",
+    "section": "General Awareness",
+    "topic": "Awards",
+    "micro_topic": "Awards - General",
+    "difficulty": "Medium",
+    "topic_code": "GE_AWAR",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Prof. C. N. R. Rao"
+      },
+      {
+        "key": "B",
+        "text": "Dr. Tessy Thomas"
+      },
+      {
+        "key": "C",
+        "text": "Prof. G. Madhavan Nair"
+      },
+      {
+        "key": "D",
+        "text": "Dr. K. Sivan"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The Ministry of Home Affairs released the official list of Padma Awardees for 2027 in January 2024. In the Science and Technology category, Dr. Tessy Thomas, renowned for her contributions to missile technology (the Agni series), was honoured with the Padma Vibhushan. The other personalities listed received Padma awards in earlier years or in different categories.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0542,
+    "ci90": [
+      0,
+      5
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 49,
+    "question_text": "Which amongst the following has the power to regulate the right of citizenship in India?",
+    "section": "General Awareness",
+    "topic": "Indian Polity",
+    "micro_topic": "Citizenship",
+    "difficulty": "Medium",
+    "topic_code": "GE_INDI",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Parliament"
+      },
+      {
+        "key": "B",
+        "text": "Supreme Court"
+      },
+      {
+        "key": "C",
+        "text": "President"
+      },
+      {
+        "key": "D",
+        "text": "Election Commission"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The power to legislate on citizenship is vested in the Parliament under Articles 5, 6 and 7 of the Constitution and is exercised through the Citizenship Act, 1955. The Supreme Court interprets laws, the President may grant citizenship by naturalisation but does not regulate it, and the Election Commission deals only with electoral matters.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0532,
+    "ci90": [
+      0,
+      6
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 50,
+    "question_text": "Article 21 of the Indian Constitution provides for which fundamental right?",
+    "section": "General Awareness",
+    "topic": "Indian Polity",
+    "micro_topic": "Constitutional Articles",
+    "difficulty": "Medium",
+    "topic_code": "GE_INDI",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Right to Equality"
+      },
+      {
+        "key": "B",
+        "text": "Right to Freedom of Speech and Expression"
+      },
+      {
+        "key": "C",
+        "text": "Right to Life and Personal Liberty"
+      },
+      {
+        "key": "D",
+        "text": "Right to Education"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Article 21 states: 'No person shall be deprived of his life or personal liberty except according to procedure established by law.' Hence it guarantees the Right to Life and Personal Liberty.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0532,
+    "ci90": [
+      0,
+      6
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 51,
+    "question_text": "India’s permanent research station ‘Dakshin Gangotri’ is situated in the ____ region of Antarctica.",
+    "section": "General Awareness",
+    "topic": "Geography (World)",
+    "micro_topic": "Polar Research",
+    "difficulty": "Medium",
+    "topic_code": "GE_GEOG",
+    "choices": [
+      {
+        "key": "A",
+        "text": "East Antarctica"
+      },
+      {
+        "key": "B",
+        "text": "West Antarctica"
+      },
+      {
+        "key": "C",
+        "text": "Transantarctic Mountains"
+      },
+      {
+        "key": "D",
+        "text": "Ross Dependency"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Dakshin Gangotri, India’s first permanent Antarctic research base (established in 1983), was set up in the Schirmacher Oasis of Queen Maud Land, which lies in East Antarctica. Hence the correct choice is East Antarctica.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0511,
+    "ci90": [
+      0,
+      4
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 52,
+    "question_text": "Which of the following is NOT a key indicator used to assess the health of an economy?",
+    "section": "General Awareness",
+    "topic": "Economy",
+    "micro_topic": "Economy - General",
+    "difficulty": "Medium",
+    "topic_code": "GE_ECON",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Gross Domestic Product (GDP) growth rate"
+      },
+      {
+        "key": "B",
+        "text": "Inflation rate"
+      },
+      {
+        "key": "C",
+        "text": "Unemployment rate"
+      },
+      {
+        "key": "D",
+        "text": "Literacy rate"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "GDP growth, inflation and unemployment directly reflect economic performance and are standard macro‑economic indicators. Literacy rate, while important for human development, is not a primary economic health indicator used in macro‑economic analysis.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0504,
+    "ci90": [
+      0,
+      5
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 53,
+    "question_text": "Pangsau Pass in the Himalayas joins",
+    "section": "General Awareness",
+    "topic": "Geography (India)",
+    "micro_topic": "Geography (India) - General",
+    "difficulty": "Medium",
+    "topic_code": "GE_GEOG",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Arunachal Pradesh and Myanmar"
+      },
+      {
+        "key": "B",
+        "text": "Sikkim and Bhutan"
+      },
+      {
+        "key": "C",
+        "text": "Assam and Bangladesh"
+      },
+      {
+        "key": "D",
+        "text": "Nagaland and China"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Pangsau Pass is located on the India‑Myanmar border in the eastern Himalayas. It connects the Indian state of Arunachal Pradesh with Myanmar, making option A the correct choice.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0476,
+    "ci90": [
+      0,
+      5
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 54,
+    "question_text": "The Indian Air Force has recently announced plans to reduce its carbon footprint by inducting aircraft powered primarily by which of the following alternative fuels?",
+    "section": "General Awareness",
+    "topic": "Environment/Ecology",
+    "micro_topic": "General Environment/Ecology",
+    "difficulty": "Medium",
+    "topic_code": "GE_ENVI",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Sustainable Aviation Fuel (SAF) derived from bio‑based sources"
+      },
+      {
+        "key": "B",
+        "text": "Hydrogen fuel cells"
+      },
+      {
+        "key": "C",
+        "text": "All‑electric battery propulsion"
+      },
+      {
+        "key": "D",
+        "text": "Synthetic kerosene produced from coal"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Sustainable Aviation Fuel (SAF) is a drop‑in replacement for conventional jet fuel made from renewable feedstocks such as plant oils, waste fats or municipal waste. It can be used in existing IAF aircraft without modifications and can reduce lifecycle CO₂ emissions by up to 80 % compared with conventional kerosene. The IAF’s recent eco‑friendly initiative specifically mentions SAF, whereas hydrogen, battery and coal‑based synthetic fuels are still under research or not yet approved for operational use.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.041,
+    "ci90": [
+      0,
+      4
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 55,
+    "question_text": "Which one of the following pairs (Folk dance – Place of Origin) is not correctly matched?",
+    "section": "General Awareness",
+    "topic": "Art & Culture",
+    "micro_topic": "Classical/Folk Dance",
+    "difficulty": "Medium",
+    "topic_code": "GE_ART ",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Bhangra – Punjab"
+      },
+      {
+        "key": "B",
+        "text": "Garba – Gujarat"
+      },
+      {
+        "key": "C",
+        "text": "Chhau – Odisha"
+      },
+      {
+        "key": "D",
+        "text": "Lavani – Karnataka"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Lavani is a folk dance traditionally performed in the state of Maharashtra, especially in the Vidarbha region. The other three pairings are correct: Bhangra originates from Punjab, Garba from Gujarat, and Chhau (the Seraikella/Mayurbhanj style) from Odisha. Hence option D is the mismatched pair.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0284,
+    "ci90": [
+      0,
+      3
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 56,
+    "question_text": "By selling an article at 70% of its marked price, a merchant makes a profit of 12%. If he sells the article at 85% of its marked price, then the profit percentage will be:",
+    "section": "Numerical Ability",
+    "topic": "Profit & Loss",
+    "micro_topic": "Profit Percentage",
+    "difficulty": "Medium",
+    "topic_code": "NU_PROF",
+    "choices": [
+      {
+        "key": "A",
+        "text": "30%"
+      },
+      {
+        "key": "B",
+        "text": "34%"
+      },
+      {
+        "key": "C",
+        "text": "36%"
+      },
+      {
+        "key": "D",
+        "text": "38%"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Let the marked price be M. Selling at 70% of M gives SP1 = 0.70M.\nProfit% = 12% of CP, so SP1 = CP + 0.12CP = 1.12CP.\nThus CP = 0.70M / 1.12 = 0.625M (since 0.70/1.12 = 5/8).\nNow selling at 85% of M gives SP2 = 0.85M.\nProfit = SP2 - CP = 0.85M - 0.625M = 0.225M.\nProfit% = (Profit / CP) * 100 = (0.225M / 0.625M) * 100 = 0.36 * 100 = 36%.\nHence the profit percentage is 36%.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1042,
+    "ci90": [
+      0,
+      6
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 57,
+    "question_text": "The cost price of 8 pens is equal to the selling price of 12 pens. Find the gain or loss per cent.",
+    "section": "Numerical Ability",
+    "topic": "Profit & Loss",
+    "micro_topic": "CP-SP Relationship",
+    "difficulty": "Medium",
+    "topic_code": "NU_PROF",
+    "choices": [
+      {
+        "key": "A",
+        "text": "33 1/3% loss"
+      },
+      {
+        "key": "B",
+        "text": "25% loss"
+      },
+      {
+        "key": "C",
+        "text": "20% loss"
+      },
+      {
+        "key": "D",
+        "text": "40% loss"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Let CP of one pen = c and SP of one pen = s. Given 8c = 12s ⇒ c = (12/8)s = 1.5s ⇒ s = (2/3)c. Since SP < CP, there is a loss. Loss% = ((c‑s)/c)×100 = ((c‑(2/3)c)/c)×100 = (1/3)×100 = 33 1/3%.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1042,
+    "ci90": [
+      0,
+      6
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 58,
+    "question_text": "A square park having a side 30 m has two roads each 3 m wide running in the middle of it and parallel to its length and breadth. What will be cost of gravelling the path at the rate of Rs. 120/m^2?",
+    "section": "Numerical Ability",
+    "topic": "Mensuration",
+    "micro_topic": "Square Area/Perimeter",
+    "difficulty": "Medium",
+    "topic_code": "NU_MENS",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Rs. 20,520"
+      },
+      {
+        "key": "B",
+        "text": "Rs. 21,600"
+      },
+      {
+        "key": "C",
+        "text": "Rs. 19,800"
+      },
+      {
+        "key": "D",
+        "text": "Rs. 22,500"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Area of square = 30×30 = 900 m².\nArea of each road (strip) = length × width = 30×3 = 90 m².\nTwo strips give 90+90 = 180 m².\nThe central overlapping square (3 m × 3 m) is counted twice, so subtract its area: 3×3 = 9 m².\nTotal road area = 180 – 9 = 171 m².\nCost = 171 m² × Rs.120/m² = Rs. 20,520.\nThus option A is correct.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1026,
+    "ci90": [
+      0,
+      6
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 59,
+    "question_text": "The circumferential length of a circle of radius 9 cm is used to construct a square. The length of each side of the square is (Take π = 22/7).",
+    "section": "Numerical Ability",
+    "topic": "Mensuration",
+    "micro_topic": "Circle Area/Circumference",
+    "difficulty": "Medium",
+    "topic_code": "NU_MENS",
+    "choices": [
+      {
+        "key": "A",
+        "text": "99/7 cm"
+      },
+      {
+        "key": "B",
+        "text": "22/7 cm"
+      },
+      {
+        "key": "C",
+        "text": "63/7 cm"
+      },
+      {
+        "key": "D",
+        "text": "44/7 cm"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Circumference of the circle = 2πr = 2×(22/7)×9 = 396/7 cm. This length forms the perimeter of the square, so side = (perimeter)/4 = (396/7)/4 = 99/7 cm ≈ 14.14 cm. Hence option A is correct.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1026,
+    "ci90": [
+      0,
+      6
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 60,
+    "question_text": "The sum of two natural numbers, x and y, is 540, and the HCF of x and y is 15. If x < y, how many such possible pairs of x and y are there?",
+    "section": "Numerical Ability",
+    "topic": "Number System",
+    "micro_topic": "LCM & HCF / Divisibility",
+    "difficulty": "Medium",
+    "topic_code": "NU_NUMB",
+    "choices": [
+      {
+        "key": "A",
+        "text": "4"
+      },
+      {
+        "key": "B",
+        "text": "5"
+      },
+      {
+        "key": "C",
+        "text": "6"
+      },
+      {
+        "key": "D",
+        "text": "7"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Let x = 15a and y = 15b where gcd(a, b) = 1. Then 15(a + b) = 540 ⇒ a + b = 36. We need coprime positive integers a, b with a < b and a + b = 36. Checking a = 1 to 17 (since a < b):\n- (1,35) gcd=1 ✔\n- (2,34) gcd=2 ✘\n- (3,33) gcd=3 ✘\n- (4,32) gcd=4 ✘\n- (5,31) gcd=1 ✔\n- (6,30) gcd=6 ✘\n- (7,29) gcd=1 ✔\n- (8,28) gcd=4 ✘\n- (9,27) gcd=9 ✘\n- (10,26) gcd=2 ✘\n- (11,25) gcd=1 ✔\n- (12,24) gcd=12 ✘\n- (13,23) gcd=1 ✔\n- (14,22) gcd=2 ✘\n- (15,21) gcd=3 ✘\n- (16,20) gcd=4 ✘\n- (17,19) gcd=1 ✔\nThe valid (a, b) pairs are (1,35), (5,31), (7,29), (11,25), (13,23), (17,19) – a total of 6 pairs. Hence the number of possible (x, y) pairs is 6.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1016,
+    "ci90": [
+      0,
+      6
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 61,
+    "question_text": "A candidate was asked to multiply a number by 18. He mistakenly multiplied it by 81. His answer was 567 more than the expected answer. So which number was the candidate asked to multiply?",
+    "section": "Numerical Ability",
+    "topic": "Number System",
+    "micro_topic": "Number System - General",
+    "difficulty": "Medium",
+    "topic_code": "NU_NUMB",
+    "choices": [
+      {
+        "key": "A",
+        "text": "9"
+      },
+      {
+        "key": "B",
+        "text": "12"
+      },
+      {
+        "key": "C",
+        "text": "7"
+      },
+      {
+        "key": "D",
+        "text": "15"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Let the required number be x. Expected product = 18x. Mistaken product = 81x. Given 81x - 18x = 567 ⇒ 63x = 567 ⇒ x = 567 ÷ 63 = 9. Hence the correct option is A.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1016,
+    "ci90": [
+      0,
+      6
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 62,
+    "question_text": "The simplified value of (6.4 × 0.35 × 2.5) / (0.8 × 0.14 × 0.5) is:",
+    "section": "Numerical Ability",
+    "topic": "Simplification",
+    "micro_topic": "Decimal Simplification",
+    "difficulty": "Medium",
+    "topic_code": "NU_SIMP",
+    "choices": [
+      {
+        "key": "A",
+        "text": "100"
+      },
+      {
+        "key": "B",
+        "text": "90"
+      },
+      {
+        "key": "C",
+        "text": "110"
+      },
+      {
+        "key": "D",
+        "text": "120"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "First compute the numerator: 6.4 × 0.35 = 2.24; then 2.24 × 2.5 = 5.6. Next compute the denominator: 0.8 × 0.14 = 0.112; then 0.112 × 0.5 = 0.056. Finally divide: 5.6 ÷ 0.056 = 100. Hence the correct answer is 100 (option A).",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0895,
+    "ci90": [
+      0,
+      5
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 63,
+    "question_text": "The simplified form of (2^-3 × √128)^5 / 1024 is:",
+    "section": "Numerical Ability",
+    "topic": "Simplification",
+    "micro_topic": "Exponent/Indices Equation",
+    "difficulty": "Medium",
+    "topic_code": "NU_SIMP",
+    "choices": [
+      {
+        "key": "A",
+        "text": "√2 / 256"
+      },
+      {
+        "key": "B",
+        "text": "√2 / 128"
+      },
+      {
+        "key": "C",
+        "text": "√2 / 512"
+      },
+      {
+        "key": "D",
+        "text": "√2 / 64"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Step 1: √128 = √(64×2) = 8√2.\nStep 2: 2^-3 = 1/2^3 = 1/8.\nStep 3: Inside the brackets: (1/8) × 8√2 = √2.\nStep 4: Raise to the 5th power: (√2)^5 = (2^{1/2})^5 = 2^{5/2} = 2^{2+1/2} = 4√2.\nStep 5: Divide by 1024 (which is 2^{10}): (4√2) / 1024 = (4/1024)√2 = (1/256)√2.\nThus the simplified value is √2 / 256, which corresponds to option A.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0895,
+    "ci90": [
+      0,
+      5
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 64,
+    "question_text": "A train takes 15 seconds and 10 seconds to cross two men who are walking in the same direction of the train at speeds of 5 km/hr and 2 km/hr respectively. Find the speed of the train (in km/hr).",
+    "section": "Numerical Ability",
+    "topic": "Time, Speed & Dist.",
+    "micro_topic": "Train Problems",
+    "difficulty": "Medium",
+    "topic_code": "NU_TIME",
+    "choices": [
+      {
+        "key": "A",
+        "text": "11 km/hr"
+      },
+      {
+        "key": "B",
+        "text": "9 km/hr"
+      },
+      {
+        "key": "C",
+        "text": "13 km/hr"
+      },
+      {
+        "key": "D",
+        "text": "15 km/hr"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Let the speed of the train be v km/hr and its length be L km.\\nFor the first man: L = (v-5) * (15/3600).\\nFor the second man: L = (v-2) * (10/3600).\\nEquating the two expressions for L: (v-5)*15 = (v-2)*10.\\n=> 15v - 75 = 10v - 20\\n=> 5v = 55\\n=> v = 11 km/hr. Hence the train’s speed is 11 km/hr.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0892,
+    "ci90": [
+      0,
+      6
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 65,
+    "question_text": "The speed of a boat in still water is 15 Kmph. If it can travel 45 Km downstream and 30 Km upstream in the same time, the speed of the stream is",
+    "section": "Numerical Ability",
+    "topic": "Time, Speed & Dist.",
+    "micro_topic": "Boats & Streams",
+    "difficulty": "Medium",
+    "topic_code": "NU_TIME",
+    "choices": [
+      {
+        "key": "A",
+        "text": "2 km/h"
+      },
+      {
+        "key": "B",
+        "text": "3 km/h"
+      },
+      {
+        "key": "C",
+        "text": "4 km/h"
+      },
+      {
+        "key": "D",
+        "text": "5 km/h"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Let the speed of the stream be v km/h. Downstream speed = 15+v, upstream speed = 15‑v. Time downstream = 45/(15+v). Time upstream = 30/(15‑v). Since times are equal: 45/(15+v)=30/(15‑v). Cross‑multiply: 45(15‑v)=30(15+v) → 675‑45v=450+30v → 225=75v → v=3 km/h. Hence option B is correct.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0892,
+    "ci90": [
+      0,
+      6
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 66,
+    "question_text": "A can do a piece of work in 12 days while B can do the same work in 15 days. In how many days can both do it together?",
+    "section": "Numerical Ability",
+    "topic": "Time & Work",
+    "micro_topic": "Individual Work Rate",
+    "difficulty": "Medium",
+    "topic_code": "NU_TIME",
+    "choices": [
+      {
+        "key": "A",
+        "text": "6 2/3 days"
+      },
+      {
+        "key": "B",
+        "text": "7 days"
+      },
+      {
+        "key": "C",
+        "text": "8 days"
+      },
+      {
+        "key": "D",
+        "text": "5 days"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "A's rate = 1/12 work per day, B's rate = 1/15 work per day. Combined rate = 1/12 + 1/15 = (5+4)/60 = 9/60 = 3/20 work per day. Time required = 1 ÷ (3/20) = 20/3 days = 6 2/3 days.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0872,
+    "ci90": [
+      0,
+      6
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 67,
+    "question_text": "Two taps A and B can fill a tank alone in 8 hours and 12 hours respectively while a third tap C alone can empty the same tank in 24 hours. If all the three taps are opened together, then in how many hours will the tank be filled?",
+    "section": "Numerical Ability",
+    "topic": "Time & Work",
+    "micro_topic": "Pipes & Cisterns",
+    "difficulty": "Medium",
+    "topic_code": "NU_TIME",
+    "choices": [
+      {
+        "key": "A",
+        "text": "5 hours"
+      },
+      {
+        "key": "B",
+        "text": "6 hours"
+      },
+      {
+        "key": "C",
+        "text": "7 hours"
+      },
+      {
+        "key": "D",
+        "text": "8 hours"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Rate of A = 1/8 tank per hour, B = 1/12 tank per hour, C empties = -1/24 tank per hour. Net rate = 1/8 + 1/12 - 1/24 = (3+2-1)/24 = 4/24 = 1/6 tank per hour. Time required = 1 ÷ (1/6) = 6 hours. Hence option B is correct.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0872,
+    "ci90": [
+      0,
+      6
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 68,
+    "question_text": "The ratio of the ages of Arjun and Vijay 8 years ago was 3:5. The ratio of their ages 6 years from now will be 5:7. Then the ratio of their present ages is",
+    "section": "Numerical Ability",
+    "topic": "Ratio & Proportion",
+    "micro_topic": "Age Ratio",
+    "difficulty": "Medium",
+    "topic_code": "NU_RATI",
+    "choices": [
+      {
+        "key": "A",
+        "text": "29:43"
+      },
+      {
+        "key": "B",
+        "text": "31:45"
+      },
+      {
+        "key": "C",
+        "text": "28:42"
+      },
+      {
+        "key": "D",
+        "text": "30:44"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Let present ages be A (Arjun) and V (Vijay).\n8 years ago: (A-8)/(V-8)=3/5 ⇒ 5(A-8)=3(V-8) ⇒ 5A-40=3V-24 ⇒ 5A-3V=16 …(1)\n6 years later: (A+6)/(V+6)=5/7 ⇒ 7(A+6)=5(V+6) ⇒ 7A+42=5V+30 ⇒ 7A-5V=-12 …(2)\nSolve (1) and (2):\n5A-3V=16\n7A-5V=-12\nMultiply (1) by5 → 25A-15V=80\nMultiply (2) by3 → 21A-15V=-36\nSubtract → 4A=116 ⇒ A=29.\nSubstitute A into (1): 5·29-3V=16 ⇒ 145-3V=16 ⇒ 3V=129 ⇒ V=43.\nThus present‑age ratio A:V = 29:43.\nHence option A is correct.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.077,
+    "ci90": [
+      0,
+      5
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 69,
+    "question_text": "Among three partners A, B and C in a business, the capital of B is equal to half the difference between thrice the capital of C and twice the capital of A. If at the end of the year, they received a profit of ₹32,465, what is the share of C (in ₹)?",
+    "section": "Numerical Ability",
+    "topic": "Ratio & Proportion",
+    "micro_topic": "Division/Partnership Ratio",
+    "difficulty": "Medium",
+    "topic_code": "NU_RATI",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Option 1"
+      },
+      {
+        "key": "B",
+        "text": "Option 2"
+      },
+      {
+        "key": "C",
+        "text": "Option 3"
+      },
+      {
+        "key": "D",
+        "text": "Option 4"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "AFCAT 01/2027 Pattern Variant: Using B = (3C-2A)/2 to derive the capital ratio and dividing the profit accordingly gives C's share as ₹10,984.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "vector-exemplar-mutation",
+    "predicted_probability": 0.077,
+    "ci90": [
+      0,
+      5
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 70,
+    "question_text": "A person invested a total of Rs. 55,000 at 3%, 6% and 9% per annum simple interest. At the end of the year, he received equal interest in all three cases. The amount invested at 6% was:",
+    "section": "Numerical Ability",
+    "topic": "Simple/Compound Int.",
+    "micro_topic": "Simple Interest",
+    "difficulty": "Medium",
+    "topic_code": "NU_SIMP",
+    "choices": [
+      {
+        "key": "A",
+        "text": "10,000"
+      },
+      {
+        "key": "B",
+        "text": "12,500"
+      },
+      {
+        "key": "C",
+        "text": "15,000"
+      },
+      {
+        "key": "D",
+        "text": "18,000"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Let the amounts be x at 3%, y at 6% and z at 9%. Equal interest gives 0.03x=0.06y=0.09z. Hence x=2y and y=1.5z, so x=3z. Total investment: x+y+z=3z+1.5z+z=5.5z=55,000 ⇒ z=10,000. Then y=1.5z=15,000. Thus the amount at 6% is Rs.15,000 (option C).",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0711,
+    "ci90": [
+      0,
+      6
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 71,
+    "question_text": "The average age of a group of soldiers in a training camp is 25.4 years. 12 new soldiers with an average age of 22.0 years join them, after which the average age of the group becomes 24.6 years. Find the number of soldiers initially in the camp.",
+    "section": "Numerical Ability",
+    "topic": "Average",
+    "micro_topic": "Age Average",
+    "difficulty": "Medium",
+    "topic_code": "NU_AVER",
+    "choices": [
+      {
+        "key": "A",
+        "text": "36"
+      },
+      {
+        "key": "B",
+        "text": "39"
+      },
+      {
+        "key": "C",
+        "text": "42"
+      },
+      {
+        "key": "D",
+        "text": "45"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Let the initial number of soldiers be N.\\nInitial total age = 25.4 N.\\nNew soldiers total age = 12 × 22.0 = 264.\\nAfter joining, total age = 25.4 N + 264 and total persons = N + 12.\\nGiven new average = 24.6, so (25.4 N + 264)/(N + 12) = 24.6.\\nCross‑multiply: 25.4 N + 264 = 24.6 N + 295.2.\\nSubtract 24.6 N: 0.8 N + 264 = 295.2.\\nSubtract 264: 0.8 N = 31.2.\\nN = 31.2 / 0.8 = 39.\\nThus the initial number of soldiers is 39, which corresponds to option B.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0669,
+    "ci90": [
+      0,
+      5
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 72,
+    "question_text": "A person spends 68% of his income in a month. In the next month, his income increases by 35% and his expenditure increases by 20%. His savings increase by ₹2,568. What is the person's original income?",
+    "section": "Numerical Ability",
+    "topic": "Percentage",
+    "micro_topic": "Salary/Income Percentage",
+    "difficulty": "Medium",
+    "topic_code": "NU_PERC",
+    "choices": [
+      {
+        "key": "A",
+        "text": "₹10,000"
+      },
+      {
+        "key": "B",
+        "text": "₹12,000"
+      },
+      {
+        "key": "C",
+        "text": "₹14,000"
+      },
+      {
+        "key": "D",
+        "text": "₹16,000"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Let the original income be I.\n- Original expenditure = 68% of I = 0.68I.\n- Original savings = I - 0.68I = 0.32I.\nAfter the increase:\n- New income = I × (1 + 35%) = 1.35I.\n- New expenditure = 0.68I × (1 + 20%) = 0.68I × 1.20 = 0.816I.\n- New savings = 1.35I - 0.816I = 0.534I.\nIncrease in savings = New savings - Original savings = 0.534I - 0.32I = 0.214I.\nGiven that this increase equals ₹2,568:\n0.214I = 2,568 → I = 2,568 ÷ 0.214 = 12,000.\nHence the original income is ₹12,000, which corresponds to option B.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0629,
+    "ci90": [
+      0,
+      5
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 73,
+    "question_text": "In a 84 litre mixture, milk and water are in the ratio 3:5. Some amount of water is added to the mixture so that the ratio of milk to water becomes 3:7. Find the amount of water added (in litres).",
+    "section": "Numerical Ability",
+    "topic": "Mixture & Alligation",
+    "micro_topic": "Milk-Water Mixture",
+    "difficulty": "Medium",
+    "topic_code": "NU_MIXT",
+    "choices": [
+      {
+        "key": "A",
+        "text": "18"
+      },
+      {
+        "key": "B",
+        "text": "21"
+      },
+      {
+        "key": "C",
+        "text": "24"
+      },
+      {
+        "key": "D",
+        "text": "27"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Initial milk = 84×3/(3+5)=84×3/8=31.5 L; initial water = 84‑31.5=52.5 L. Let x be the water added. New water = 52.5+x, milk remains 31.5. New ratio 3:7 gives 31.5/(52.5+x)=3/7 ⇒ 31.5×7 = 3(52.5+x) ⇒ 220.5 = 157.5 + 3x ⇒ 3x = 63 ⇒ x = 21 L. Hence 21 L of water must be added.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0624,
+    "ci90": [
+      0,
+      4
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 74,
+    "question_text": "A bag contains 6 red and 4 blue balls. Another bag contains 3 red and 7 blue balls. If one ball is drawn from each bag, find the probability that both balls are of the same colour.",
+    "section": "Numerical Ability",
+    "topic": "Statistics",
+    "micro_topic": "Probability - Balls in Bag",
+    "difficulty": "Medium",
+    "topic_code": "NU_STAT",
+    "choices": [
+      {
+        "key": "A",
+        "text": "23/50"
+      },
+      {
+        "key": "B",
+        "text": "13/25"
+      },
+      {
+        "key": "C",
+        "text": "3/5"
+      },
+      {
+        "key": "D",
+        "text": "7/20"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Probability both red = (6/10)*(3/10)=18/100=9/50. Probability both blue = (4/10)*(7/10)=28/100=7/25=14/50. Total probability same colour = 9/50+14/50=23/50.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0521,
+    "ci90": [
+      0,
+      4
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 75,
+    "question_text": "A worker may claim Rs. 1.80 for each km which he travels by taxi and 60 paise for each km he drives his own car. If in one week he claimed Rs. 108 for travelling 84 km, how many km did he travel by taxi?",
+    "section": "Numerical Ability",
+    "topic": "Algebra",
+    "micro_topic": "Linear Equations (Word Problem)",
+    "difficulty": "Medium",
+    "topic_code": "NU_ALGE",
+    "choices": [
+      {
+        "key": "A",
+        "text": "48"
+      },
+      {
+        "key": "B",
+        "text": "36"
+      },
+      {
+        "key": "C",
+        "text": "42"
+      },
+      {
+        "key": "D",
+        "text": "54"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Let x = km travelled by taxi, y = km travelled by own car. Then x+y=84. Claim amount: 1.80x + 0.60y = 108. Substitute y=84-x: 1.80x + 0.60(84-x)=108 => 1.80x + 50.4 - 0.60x =108 => 1.20x =57.6 => x=48 km. Hence option A is correct.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0267,
+    "ci90": [
+      0,
+      3
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 76,
+    "question_text": "Select the figure that will come next in the following figure series. Problem figures: Figure 1 – a single black square at the top‑left corner of a 3×3 grid; Figure 2 – a single black square at the top‑center; Figure 3 – a single black square at the top‑right corner; Figure 4 – a single black square at the middle‑right side. Which figure continues the same clockwise movement?",
+    "section": "Reasoning",
+    "topic": "Non-Verbal Pattern",
+    "micro_topic": "Figure Series Completion",
+    "difficulty": "Medium",
+    "topic_code": "RE_NON-",
+    "choices": [
+      {
+        "key": "A",
+        "text": "A single black square at the bottom‑right corner of the 3×3 grid"
+      },
+      {
+        "key": "B",
+        "text": "A single black square at the bottom‑center of the 3×3 grid"
+      },
+      {
+        "key": "C",
+        "text": "A single black square at the bottom‑left corner of the 3×3 grid"
+      },
+      {
+        "key": "D",
+        "text": "A single black square at the middle‑left side of the 3×3 grid"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The black square moves one step clockwise around the perimeter of the 3×3 grid: top‑left → top‑center → top‑right → middle‑right → bottom‑right → … Hence the next position after the middle‑right is the bottom‑right corner, which is option A.",
+    "has_figure": true,
+    "image_path": "data/images/2026_aug_s1/q97_stem.png",
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.2393,
+    "ci90": [
+      0,
+      14
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 77,
+    "question_text": "Choose the figure which is different from the rest. (See diagram)",
+    "section": "Reasoning",
+    "topic": "Non-Verbal Pattern",
+    "micro_topic": "Odd Figure Out",
+    "difficulty": "Medium",
+    "topic_code": "RE_NON-",
+    "choices": [
+      {
+        "key": "A",
+        "text": "A circle with a single vertical chord."
+      },
+      {
+        "key": "B",
+        "text": "A circle with a single horizontal chord."
+      },
+      {
+        "key": "C",
+        "text": "A circle with two perpendicular chords (one vertical, one horizontal)."
+      },
+      {
+        "key": "D",
+        "text": "A circle with a single diagonal chord."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "In options A, B and D each figure contains exactly one straight line segment (a chord) inside the circle. Option C contains two line segments intersecting at the centre, i.e., two chords. Hence C is the only figure that differs in the number of internal line segments and is the odd one out.",
+    "has_figure": true,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.2393,
+    "ci90": [
+      0,
+      14
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 78,
+    "question_text": "Select a figure from amongst the four alternatives, which when placed in the blank space of figure (X) would complete the pattern.",
+    "section": "Reasoning",
+    "topic": "Non-Verbal Pattern",
+    "micro_topic": "Pattern Completion",
+    "difficulty": "Medium",
+    "topic_code": "RE_NON-",
+    "choices": [
+      {
+        "key": "A",
+        "text": "A solid black triangle pointing upwards."
+      },
+      {
+        "key": "B",
+        "text": "A solid black triangle pointing downwards."
+      },
+      {
+        "key": "C",
+        "text": "A solid black triangle pointing to the right."
+      },
+      {
+        "key": "D",
+        "text": "A solid black triangle pointing to the left."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The given pattern consists of three figures arranged in a row. In the first figure the triangle points upwards, in the second it points downwards, and the direction rotates 90 degrees clockwise each step. Therefore the missing figure (X) must be the triangle rotated another 90 degrees clockwise from downwards, i.e., pointing to the right. Option C matches this requirement.",
+    "has_figure": true,
+    "image_path": "data/images/2026_aug_s1/q91_stem.png",
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.2393,
+    "ci90": [
+      0,
+      14
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 79,
+    "question_text": "Select the alternative that carries the correct figure which clearly shows the embedded portion of the original figure.",
+    "section": "Reasoning",
+    "topic": "Non-Verbal Pattern",
+    "micro_topic": "Embedded Figure",
+    "difficulty": "Medium",
+    "topic_code": "RE_NON-",
+    "choices": [
+      {
+        "key": "A",
+        "text": "A larger square containing a small right‑angled triangle at its bottom‑left corner, matching the given figure."
+      },
+      {
+        "key": "B",
+        "text": "A larger rectangle containing a small right‑angled triangle at its top‑right corner."
+      },
+      {
+        "key": "C",
+        "text": "A larger square containing a small right‑angled triangle at its top‑left corner."
+      },
+      {
+        "key": "D",
+        "text": "A larger circle containing a small right‑angled triangle at its centre."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The given figure is a right‑angled isosceles triangle with its right angle at the bottom‑left. In option A the same triangle appears unchanged inside a larger square, with identical orientation and size of the legs relative to the square, satisfying the ‘embedded without rotation’ condition. Options B and C place the triangle in a different corner (changing its position) and option D places it inside a circle, which does not preserve the original surrounding shape. Therefore only option A correctly embeds the original figure.",
+    "has_figure": true,
+    "image_path": "data/images/AFCAT_2024_Feb17_Memory_v3/q11_figure.png",
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.2393,
+    "ci90": [
+      0,
+      14
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 80,
+    "question_text": "From amongst the figures marked (A), (B), (C) and (D), select the figure which satisfies the same conditions of placement of dots as in figure (X). Figure (X) consists of a circle, a square and an equilateral triangle overlapping each other such that there are three distinct overlapping regions: (i) the central region common to all three shapes, (ii) the region common only to the circle and the square, and (iii) the region common only to the square and the triangle. A single dot is placed in each of these three regions and no other dots are present.",
+    "section": "Reasoning",
+    "topic": "Non-Verbal Pattern",
+    "micro_topic": "Dot Placement in Figure",
+    "difficulty": "Medium",
+    "topic_code": "RE_NON-",
+    "choices": [
+      {
+        "key": "A",
+        "text": "A circle, square and triangle arranged as in figure (X) with a dot in the central region, a dot in the circle‑square overlap, and a dot in the square‑triangle overlap."
+      },
+      {
+        "key": "B",
+        "text": "Same three shapes but the dot in the circle‑square overlap is missing; instead a dot appears in the circle‑triangle overlap."
+      },
+      {
+        "key": "C",
+        "text": "Same three shapes with dots in the circle‑square overlap and the circle‑triangle overlap, but no dot in the central region."
+      },
+      {
+        "key": "D",
+        "text": "Same three shapes with a dot only in the central region and none in the other overlaps."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "In figure (X) the rule is: each of the three possible pairwise overlaps that involve the square must contain a dot, and the region where all three shapes intersect must also contain a dot. Option A reproduces exactly this arrangement – a dot in the common area of all three shapes, a dot where the circle and square overlap, and a dot where the square and triangle overlap. Options B, C and D violate the rule by either omitting a required dot or placing a dot in an incorrect overlap (circle‑triangle, which is not part of the original pattern). Hence, option A is the correct answer.",
+    "has_figure": true,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.2393,
+    "ci90": [
+      0,
+      14
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 81,
+    "question_text": "Select the option that is related to the fourth figure in the same way as the first figure is related to the second figure.\nFigure 1: a solid square with a diagonal line from the top‑left corner to the bottom‑right corner.\nFigure 2: a solid square with a diagonal line from the top‑right corner to the bottom‑left corner.\nFigure 3: an equilateral triangle pointing upwards with a straight line joining the left‑hand vertex to the midpoint of the opposite side.\nFigure 4: ?",
+    "section": "Reasoning",
+    "topic": "Non-Verbal Pattern",
+    "micro_topic": "Non-Verbal Pattern - General",
+    "difficulty": "Medium",
+    "topic_code": "RE_NON-",
+    "choices": [
+      {
+        "key": "A",
+        "text": "An equilateral triangle pointing upwards with a straight line joining the right‑hand vertex to the midpoint of the opposite side."
+      },
+      {
+        "key": "B",
+        "text": "An equilateral triangle pointing upwards with a straight line joining the left‑hand vertex to the midpoint of the opposite side (same as Figure 3)."
+      },
+      {
+        "key": "C",
+        "text": "An equilateral triangle pointing upwards with a straight line joining the top vertex to the midpoint of the base."
+      },
+      {
+        "key": "D",
+        "text": "An equilateral triangle pointing upwards with a horizontal line joining the two base vertices."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The transformation from Figure 1 to Figure 2 is a mirror image across the vertical axis – the diagonal switches from left‑to‑right to right‑to‑left. Applying the same mirror operation to Figure 3, the line that originally joins the left vertex to the opposite side’s midpoint must now join the right vertex to that side’s midpoint. Option A shows exactly this mirrored configuration, therefore it is the correct answer.",
+    "has_figure": true,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.2393,
+    "ci90": [
+      0,
+      14
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 82,
+    "question_text": "If 3 March 2005 was a Thursday, then what was the day of the week on 12 November 2022?",
+    "section": "Reasoning",
+    "topic": "Logical Reasoning",
+    "micro_topic": "Calendar Reasoning",
+    "difficulty": "Medium",
+    "topic_code": "RE_LOGI",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Monday"
+      },
+      {
+        "key": "B",
+        "text": "Wednesday"
+      },
+      {
+        "key": "C",
+        "text": "Friday"
+      },
+      {
+        "key": "D",
+        "text": "Saturday"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "1. Verify the given premise: 3 March 2005 is indeed a Thursday (using 1 Jan 2000 = Saturday and counting days). 2. Find the weekday for 12 November 2022.   - Days from 1 Jan 2000 to 1 Jan 2022 = 22 years = 22×365 + 6 leap days = 8036 days.   - Days from 1 Jan 2022 to 12 Nov 2022 = 315 days.   - Total days = 8036 + 315 = 8351 days.   - 8351 ÷ 7 = 1193 remainder 0, so the weekday does not shift; it remains Saturday. 3. Therefore, 12 November 2022 falls on a Saturday. The correct option is D.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.227,
+    "ci90": [
+      0,
+      13
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 83,
+    "question_text": "R is the mother of S. S is the sister of T. T is the father of U. U is the brother of V. V is the husband of W. W is the sister of X. How is T related to W?",
+    "section": "Reasoning",
+    "topic": "Logical Reasoning",
+    "micro_topic": "Blood Relations",
+    "difficulty": "Medium",
+    "topic_code": "RE_LOGI",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Uncle"
+      },
+      {
+        "key": "B",
+        "text": "Father-in-law"
+      },
+      {
+        "key": "C",
+        "text": "Brother-in-law"
+      },
+      {
+        "key": "D",
+        "text": "Son-in-law"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "R is mother of S, making S and T siblings. T is father of U, and U is brother of V, so T is also father of V. V is husband of W, therefore W is T's daughter-in-law. Hence T is the father-in-law of W.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.227,
+    "ci90": [
+      0,
+      13
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 84,
+    "question_text": "In a row of cadets facing north, Arjun is 27th from the left end and Kiran is 14th from the right end. If there are exactly 5 cadets sitting between them, what are the maximum (x) and minimum (y) possible numbers of cadets in the row?",
+    "section": "Reasoning",
+    "topic": "Logical Reasoning",
+    "micro_topic": "Direction-based Puzzle",
+    "difficulty": "Medium",
+    "topic_code": "RE_LOGI",
+    "choices": [
+      {
+        "key": "A",
+        "text": "x = 46, y = 34"
+      },
+      {
+        "key": "B",
+        "text": "x = 45, y = 33"
+      },
+      {
+        "key": "C",
+        "text": "x = 47, y = 35"
+      },
+      {
+        "key": "D",
+        "text": "x = 44, y = 32"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Let the total number of cadets be N. Position of Arjun from left = 27. Position of Kiran from left = N-14+1 = N-13. Number of cadets between them = |(N-13) - 27| - 1 = |N-40| - 1. Given this equals 5, so |N-40| = 6. Hence N-40 = 6 or N-40 = -6, giving N = 46 or N = 34. The larger value is the maximum (x) and the smaller is the minimum (y). Therefore x = 46 and y = 34.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.227,
+    "ci90": [
+      0,
+      13
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 85,
+    "question_text": "In any line, Arjun is 6th from the left and Bina is 8th from the right. When they swap positions, Bina is 15th from the right. What is the position of Arjun from the left after the swap?",
+    "section": "Reasoning",
+    "topic": "Logical Reasoning",
+    "micro_topic": "Ranking/Comparison Puzzle",
+    "difficulty": "Medium",
+    "topic_code": "RE_LOGI",
+    "choices": [
+      {
+        "key": "A",
+        "text": "11"
+      },
+      {
+        "key": "B",
+        "text": "12"
+      },
+      {
+        "key": "C",
+        "text": "13"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Let the total number of persons be N.\n- Arjun is 6th from left ⇒ from right he is N-6+1 = N-5.\n- Bina is 8th from right ⇒ from left she is N-8+1 = N-7.\nAfter swapping, Bina occupies Arjun's original spot (6th from left). Hence Bina's new position from right is N-6+1 = N-5.\nGiven that after the swap Bina is 15th from the right, we have N-5 = 15 ⇒ N = 20.\nNow Arjun moves to Bina's original spot, which is N-7 from left = 20-7 = 13.\nTherefore, Arjun is 13th from the left after the swap. The correct option is C.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.227,
+    "ci90": [
+      0,
+      13
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 86,
+    "question_text": "Which of the given options correctly defines the relationship between x and y, if '× means ÷', '÷ means +', '+ means −', and '− means ×'?\nx = 30 × 4 ÷ 6 − 3 + 15\ny = 50 × 5 ÷ 2 − 4 + 8",
+    "section": "Reasoning",
+    "topic": "Logical Reasoning",
+    "micro_topic": "Logical Reasoning - General",
+    "difficulty": "Medium",
+    "topic_code": "RE_LOGI",
+    "choices": [
+      {
+        "key": "A",
+        "text": "x = y - 14.5"
+      },
+      {
+        "key": "B",
+        "text": "x = y - 10"
+      },
+      {
+        "key": "C",
+        "text": "x = y - 15"
+      },
+      {
+        "key": "D",
+        "text": "x = y - 13.5"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "First replace the symbols as per the given code: × → ÷, ÷ → +, + → −, − → ×.\nFor x: 30 × 4 ÷ 6 − 3 + 15 becomes 30 ÷ 4 + 6 × 3 − 15.\nCalculate stepwise: 30 ÷ 4 = 7.5; 7.5 + 6 = 13.5; 13.5 × 3 = 40.5; 40.5 − 15 = 25.5. Hence x = 25.5.\nFor y: 50 × 5 ÷ 2 − 4 + 8 becomes 50 ÷ 5 + 2 × 4 − 8.\nCalculate: 50 ÷ 5 = 10; 10 + 2 = 12; 12 × 4 = 48; 48 − 8 = 40. Hence y = 40.\nRelationship: y - x = 40 - 25.5 = 14.5, so x = y - 14.5. Option A matches this relationship.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.227,
+    "ci90": [
+      0,
+      13
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 87,
+    "question_text": "A malfunctioning analogue clock gains 7 minutes per hour of operation. It was initially accurately set to 10:00 AM on Monday. After exactly 24 hours of real time (i.e., at 10:00 AM on Tuesday), the clock shows 12:48 PM. Determine the additional angle traversed by the hour hand of the clock beyond the angle it would have covered on a correctly functioning clock.",
+    "section": "Reasoning",
+    "topic": "Logical Reasoning",
+    "micro_topic": "Clock-based Reasoning",
+    "difficulty": "Medium",
+    "topic_code": "RE_LOGI",
+    "choices": [
+      {
+        "key": "A",
+        "text": "72°"
+      },
+      {
+        "key": "B",
+        "text": "84°"
+      },
+      {
+        "key": "C",
+        "text": "96°"
+      },
+      {
+        "key": "D",
+        "text": "108°"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.227,
+    "ci90": [
+      0,
+      13
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 88,
+    "question_text": "SILENT is related to ROCMGT in a certain way based on the English alphabetical order. In the same way, FRIDGE is related to CHBJPG. To which of the following is SHADOW related, following the same logic?",
+    "section": "Reasoning",
+    "topic": "Coding-Decoding",
+    "micro_topic": "Word/Letter Coding",
+    "difficulty": "Medium",
+    "topic_code": "RE_CODI",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Option 1"
+      },
+      {
+        "key": "B",
+        "text": "Option 2"
+      },
+      {
+        "key": "C",
+        "text": "Option 3"
+      },
+      {
+        "key": "D",
+        "text": "Option 4"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "AFCAT 01/2027 Pattern Variant: Applying the same letter-shift/reversal logic used to derive ROCMGT from SILENT and CHBJPG from FRIDGE, SHADOW maps to UPBBFT.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "vector-exemplar-mutation",
+    "predicted_probability": 0.1179,
+    "ci90": [
+      0,
+      10
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 89,
+    "question_text": "In a certain code language, '⊕' represents '-', '⊖' represents '+', '⊗' represents '*', and '⊘' represents '/'. Find the answer to the following question: 12 ⊖ 3 ⊘ 2 ⊗ 5 ⊕ 7 = ?",
+    "section": "Reasoning",
+    "topic": "Coding-Decoding",
+    "micro_topic": "Number Coding",
+    "difficulty": "Medium",
+    "topic_code": "RE_CODI",
+    "choices": [
+      {
+        "key": "A",
+        "text": "12.5"
+      },
+      {
+        "key": "B",
+        "text": "13"
+      },
+      {
+        "key": "C",
+        "text": "11.5"
+      },
+      {
+        "key": "D",
+        "text": "14"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Replace the symbols with the actual operations: ⊖ → +, ⊘ → /, ⊗ → *, ⊕ → -. The expression becomes 12 + 3 / 2 * 5 - 7. First evaluate division and multiplication left‑to‑right: 3/2 = 1.5; 1.5*5 = 7.5. Then perform addition and subtraction: 12 + 7.5 = 19.5; 19.5 - 7 = 12.5. Hence the correct answer is 12.5 (option A).",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1179,
+    "ci90": [
+      0,
+      10
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 90,
+    "question_text": "Direction (1-3): In the following question, select the related word from the given alternatives. PRAG: QTDK:: STOP:?",
+    "section": "Reasoning",
+    "topic": "Coding-Decoding",
+    "micro_topic": "Coded Analogy",
+    "difficulty": "Medium",
+    "topic_code": "RE_CODI",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Option 1"
+      },
+      {
+        "key": "B",
+        "text": "Option 2"
+      },
+      {
+        "key": "C",
+        "text": "Option 3"
+      },
+      {
+        "key": "D",
+        "text": "Option 4"
+      }
+    ],
+    "correct_answer": "",
+    "explanation": "AFCAT 01/2027 Pattern Variant: ",
+    "has_figure": false,
+    "image_path": null,
+    "source": "vector-exemplar-mutation",
+    "predicted_probability": 0.1179,
+    "ci90": [
+      0,
+      10
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 91,
+    "question_text": "Choose the word which is least like the other words in the group.",
+    "section": "Reasoning",
+    "topic": "Verbal Classification",
+    "micro_topic": "Odd Word Out (Word Group)",
+    "difficulty": "Medium",
+    "topic_code": "RE_VERB",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Aerobatics"
+      },
+      {
+        "key": "B",
+        "text": "Aerodynamics"
+      },
+      {
+        "key": "C",
+        "text": "Aeronautics"
+      },
+      {
+        "key": "D",
+        "text": "Astrophysics"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Aerobatics, aerodynamics and aeronautics all deal directly with the principles and practice of flight in aircraft. Astrophysics studies celestial bodies and phenomena beyond the Earth's atmosphere, which is unrelated to aircraft flight, making it the odd one out.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1002,
+    "ci90": [
+      0,
+      9
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 92,
+    "question_text": "Choose the word which is least like the other words in the group.",
+    "section": "Reasoning",
+    "topic": "Verbal Classification",
+    "micro_topic": "Odd Word Out (Word Group)",
+    "difficulty": "Medium",
+    "topic_code": "RE_VERB",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Squadron"
+      },
+      {
+        "key": "B",
+        "text": "Regiment"
+      },
+      {
+        "key": "C",
+        "text": "Battalion"
+      },
+      {
+        "key": "D",
+        "text": "Wing"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Squadron, regiment and battalion are conventional army unit designations. A wing is a formation specific to air forces, so it does not belong with the other three army‑type units, making it the odd one out.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.1002,
+    "ci90": [
+      0,
+      9
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 93,
+    "question_text": "Select the option in which the words share the same relationship as that shared by the given pair of words. Radar : Detection :: _____ : Navigation",
+    "section": "Reasoning",
+    "topic": "Verbal Analogy",
+    "micro_topic": "Word Pair Analogy",
+    "difficulty": "Medium",
+    "topic_code": "RE_VERB",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Compass"
+      },
+      {
+        "key": "B",
+        "text": "Sonar"
+      },
+      {
+        "key": "C",
+        "text": "Altimeter"
+      },
+      {
+        "key": "D",
+        "text": "Gyroscope"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Radar is an instrument primarily used for detecting objects at a distance. In the same way, a compass is an instrument primarily used for navigation. Hence the pair Radar:Detection relates as Compass:Navigation.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0918,
+    "ci90": [
+      0,
+      10
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 94,
+    "question_text": "Choose the pair of words that best expresses the relationship like the original pair: Courage : Fear",
+    "section": "Reasoning",
+    "topic": "Verbal Analogy",
+    "micro_topic": "Word Pair Analogy",
+    "difficulty": "Medium",
+    "topic_code": "RE_VERB",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Bravery : Cowardice"
+      },
+      {
+        "key": "B",
+        "text": "Strength : Weakness"
+      },
+      {
+        "key": "C",
+        "text": "Light : Darkness"
+      },
+      {
+        "key": "D",
+        "text": "Peace : War"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Courage and Fear are direct opposites. The pair that most closely mirrors this opposite relationship is Bravery (synonym of courage) and Cowardice (synonym of fear). While other options are also opposites, Bravery:Cowardice matches the given pair most precisely.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0918,
+    "ci90": [
+      0,
+      10
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 95,
+    "question_text": "Which of the following diagrams indicates the best relation between Air Force Officers, Pilots and Engineers?",
+    "section": "Reasoning",
+    "topic": "Venn Diagrams",
+    "micro_topic": "Three-Term Relationship Venn",
+    "difficulty": "Medium",
+    "topic_code": "RE_VENN",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Pilots and Engineers are each wholly contained within the Officers circle and do not overlap each other"
+      },
+      {
+        "key": "B",
+        "text": "All three circles overlap giving a common region for Officers, Pilots and Engineers"
+      },
+      {
+        "key": "C",
+        "text": "Pilots overlap Engineers, while Officers are a separate non‑overlapping circle"
+      },
+      {
+        "key": "D",
+        "text": "All three circles are completely separate with no intersections"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "All pilots and all engineers are commissioned officers, therefore the sets Pilots and Engineers must lie inside the set Officers. In the Air Force a person cannot be both a pilot and an engineer simultaneously, so the two inner circles must not intersect. Hence option A correctly represents the relationship.",
+    "has_figure": true,
+    "image_path": "data/images/2026_aug_s1/q89_fig_1.png",
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0894,
+    "ci90": [
+      0,
+      9
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 96,
+    "question_text": "Select the Venn diagram that best represents the relationship among Fighter aircraft, Bomber aircraft and Transport aircraft.",
+    "section": "Reasoning",
+    "topic": "Venn Diagrams",
+    "micro_topic": "Three-Term Relationship Venn",
+    "difficulty": "Medium",
+    "topic_code": "RE_VENN",
+    "choices": [
+      {
+        "key": "A",
+        "text": "All three circles intersect giving a common region for all three types"
+      },
+      {
+        "key": "B",
+        "text": "Only the Fighter and Bomber circles overlap; the Transport circle is separate"
+      },
+      {
+        "key": "C",
+        "text": "Fighter overlaps Transport, Bomber is separate"
+      },
+      {
+        "key": "D",
+        "text": "All three circles are completely separate"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Some aircraft are designed as fighter‑bombers, so the categories Fighter and Bomber have a non‑empty intersection. Transport aircraft are a distinct role and no aircraft serves simultaneously as a transport and as a fighter or bomber. Therefore the correct diagram shows an overlap only between Fighter and Bomber, with Transport isolated, which is option B.",
+    "has_figure": true,
+    "image_path": "data/images/2026_aug_s1/q89_fig_1.png",
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0894,
+    "ci90": [
+      0,
+      9
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 97,
+    "question_text": "Select the option that will correctly replace the question mark (?) in the series. 2, 12, 30, ?, 90, 132",
+    "section": "Reasoning",
+    "topic": "Number/Letter Series",
+    "micro_topic": "Number Series",
+    "difficulty": "Medium",
+    "topic_code": "RE_NUMB",
+    "choices": [
+      {
+        "key": "A",
+        "text": "56"
+      },
+      {
+        "key": "B",
+        "text": "64"
+      },
+      {
+        "key": "C",
+        "text": "68"
+      },
+      {
+        "key": "D",
+        "text": "72"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Each term is the product of two consecutive odd and even numbers: 1×2=2, 3×4=12, 5×6=30, 7×8=56, 9×10=90, 11×12=132. Thus the missing term is 7×8=56, which corresponds to option A.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0625,
+    "ci90": [
+      0,
+      7
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 98,
+    "question_text": "A series is given with one term missing. Select the correct alternative from the given ones that will complete the series. AD, CG, FK, JP, OV, ?",
+    "section": "Reasoning",
+    "topic": "Number/Letter Series",
+    "micro_topic": "Letter Series",
+    "difficulty": "Medium",
+    "topic_code": "RE_NUMB",
+    "choices": [
+      {
+        "key": "A",
+        "text": "UC"
+      },
+      {
+        "key": "B",
+        "text": "UD"
+      },
+      {
+        "key": "C",
+        "text": "UB"
+      },
+      {
+        "key": "D",
+        "text": "UA"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "First letters: A, C, F, J, O, ?. Their positions are 1, 3, 6, 10, 15. The gaps increase by 2, 3, 4, 5 respectively, so the next gap is 6. 15 + 6 = 21, which is the letter U. Second letters: D, G, K, P, V, ?. Their positions are 4, 7, 11, 16, 22. Gaps are +3, +4, +5, +6; the next gap is +7. 22 + 7 = 29, and wrapping around the 26‑letter alphabet gives 29‑26 = 3, which is the letter C. Hence the missing term is UC.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0625,
+    "ci90": [
+      0,
+      7
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 99,
+    "question_text": "A scout starts walking from point X towards the north for 8 m, then turns 45° right at point Y and walks 12 m to reach point Z. He then turns 45° right again and walks 12 m to reach point W. What is the shortest distance the scout can take to reach point Y again from point W?",
+    "section": "Reasoning",
+    "topic": "Direction Sense",
+    "micro_topic": "Shortest Distance from Start",
+    "difficulty": "Medium",
+    "topic_code": "RE_DIRE",
+    "choices": [
+      {
+        "key": "A",
+        "text": "12√(2+√2) m (≈22.2 m)"
+      },
+      {
+        "key": "B",
+        "text": "12√(2-√2) m (≈9.2 m)"
+      },
+      {
+        "key": "C",
+        "text": "24 m"
+      },
+      {
+        "key": "D",
+        "text": "16 m"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Let the starting point X be at (0,0). After walking 8 m north, point Y is at (0,8). From Y the scout turns 45° right (i.e., towards the north‑east) and walks 12 m. The displacement components are 12·sin45°=6√2 east and 12·cos45°=6√2 north, so point Z is at (6√2, 8+6√2). Turning right another 45° makes the direction due east; walking 12 m places point W at (6√2+12, 8+6√2). The vector from W back to Y is Δx=-(6√2+12), Δy=-(6√2). Its length is √[(6√2+12)²+(6√2)²] = √[2(6√2)²+24·6√2+144] = √[144+144√2+144] = √[144(2+√2)] = 12√(2+√2) ≈22.2 m. Hence option A is correct.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0454,
+    "ci90": [
+      0,
+      6
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  },
+  {
+    "question_number": 100,
+    "question_text": "Two statements are given followed by two conclusions numbered I and II. Statements: 1) All pilots are aviators. 2) Some aviators are instructors. Conclusions: I. All pilots are instructors. II. No instructor is a pilot.",
+    "section": "Reasoning",
+    "topic": "Syllogism",
+    "micro_topic": "Two-Statement Syllogism",
+    "difficulty": "Medium",
+    "topic_code": "RE_SYLL",
+    "choices": [
+      {
+        "key": "A",
+        "text": "Both I and II are true"
+      },
+      {
+        "key": "B",
+        "text": "Only I is true"
+      },
+      {
+        "key": "C",
+        "text": "Only II is true"
+      },
+      {
+        "key": "D",
+        "text": "Neither I nor II is true"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Statement 1 says Pilots ⊆ Aviators. Statement 2 says the intersection of Aviators and Instructors is non‑empty (some aviators are instructors). From these we can infer that some aviators are instructors, but we have no information about the relationship between Pilots and Instructors. Hence we cannot conclude that all pilots are instructors (Conclusion I is not guaranteed). Also, since some aviators are instructors, it is possible that a pilot (being an aviator) could be an instructor; therefore we cannot assert that no instructor is a pilot (Conclusion II is also not guaranteed). Both conclusions are invalid, so the correct choice is D: Neither I nor II is true.",
+    "has_figure": false,
+    "image_path": null,
+    "source": "groq-openai-gpt-oss-120b",
+    "predicted_probability": 0.0265,
+    "ci90": [
+      0,
+      4
+    ],
+    "test_name": "AFCAT 01/2027 SOTA Mock Test"
+  }
+]

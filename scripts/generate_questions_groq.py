@@ -33,7 +33,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 # ──────────────────────────────────────────────────────────────────────────────
 
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
-GROQ_MODEL   = "llama-3.3-70b-versatile"
+GROQ_MODEL   = "openai/gpt-oss-120b"
 GROQ_TIMEOUT = 60
 
 DM_PLAN_PATH = ROOT / "output" / "dm_2026_topic_plan.json"

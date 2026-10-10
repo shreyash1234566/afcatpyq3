@@ -1,0 +1,1925 @@
+[
+  {
+    "question_number": 1,
+    "section": "Verbal Ability",
+    "question_text": "The following paragraph consists of a missing segment that is split into four parts. The parts are jumbled up and are named as P, Q, R and S. Arrange the jumbled parts and find out which of the four combinations from the given options will correctly complete the paragraph. (The first and last sentences are anchors.) The historian emphasized that the interpretation of archival material demands more than factual accuracy ________________Thus, historical writing must be treated as a construction of coherence rather than a mere record of occurrences. P: since the arrangement of narrative structures determines whether events appear causal or coincidental Q: and the failure to recognize this dimension often leads to superficial conclusions R: because syntax and sequencing shape the epistemic weight of evidence S: rather than allowing chronology alone to dictate meaning",
+    "options": {
+      "A": "RSQP",
+      "B": "SQRP",
+      "C": "PQSR",
+      "D": "PRSQ"
+    },
+    "correct_answer": "D",
+    "question_id": "4410091965769",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 2,
+    "section": "Verbal Ability",
+    "question_text": "Fill in the blank with the most appropriate word from the given options. Though the jurist’s dissent was couched in the language of constitutional fidelity, its cumulative effect was distinctly ______, recasting procedural disagreement as a moral failure of interpretive discipline.",
+    "options": {
+      "A": "exegetical",
+      "B": "didactic",
+      "C": "invidious",
+      "D": "polemical"
+    },
+    "correct_answer": "D",
+    "question_id": "4410091950901",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 3,
+    "section": "Verbal Ability",
+    "question_text": "Choose the best option which expresses the meaning of the underlined word. The speaker’s tone was strikingly vituperative, shocking the audience with its severity.",
+    "options": {
+      "A": "eulogistic",
+      "B": "complimentary",
+      "C": "scathing",
+      "D": "panegyric"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091964546",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 4,
+    "section": "Verbal Ability",
+    "question_text": "The following incomplete sentence is split into parts. Four of the parts are jumbled up, known as PQRS. These four parts are not given in their proper order. Arrange the jumbled parts of the sentence and find out which of the four combinations from the given options will correctly complete the sentence. Sentence: Contemporary political discourse frequently appears committed to democratic inclusivity, __________, ultimately reshaping the nature of civic engagement within modern democracies. P. because digital platforms amplify emotionally charged narratives with unprecedented speed Q. while simultaneously weakening the distinction between informed deliberation and reactionary opinion R. thereby encouraging ideological polarization across increasingly fragmented public spheres S. even though institutional mechanisms continue formally promoting procedural participation",
+    "options": {
+      "A": "SPQR",
+      "B": "QRPS",
+      "C": "PSRQ",
+      "D": "QSRP"
+    },
+    "correct_answer": "A",
+    "question_id": "4410091938952",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 5,
+    "section": "Verbal Ability",
+    "question_text": "Select the most appropriate homonym of the word in bold to fill in the blank making the sentence meaningful. The cold wind blew across the _______ hilltop, where not a single leaf remained on the trees. In the distance, a lone bear lumbered slowly through the forest, searching for food before the harsh winter arrived.",
+    "options": {
+      "A": "bar",
+      "B": "bore",
+      "C": "bare",
+      "D": "bier"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091302958",
+    "status": "Answered",
+    "chosen_option": "1",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 6,
+    "section": "Verbal Ability",
+    "question_text": "Choose the word which is opposite in meaning to the given word. INSOUCIANT",
+    "options": {
+      "A": "Blithe",
+      "B": "Sanguine",
+      "C": "Nonchalant",
+      "D": "Perturbed"
+    },
+    "correct_answer": "D",
+    "question_id": "4410091951049",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 7,
+    "section": "Verbal Ability",
+    "question_text": "Read the sentence to find out whether there is any grammatical error in it. The error, if any, will be in one part of the sentence. Spot the error from the given options. The professor resented the students repeatedly interrupting him (a)/ during the lecture despite being warned (b)/ against doing so on several occasions. (c)/ No error (d)",
+    "options": {
+      "A": "(d)",
+      "B": "(b)",
+      "C": "(a)",
+      "D": "(c)"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091949220",
+    "status": "Answered",
+    "chosen_option": "3",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 8,
+    "section": "Verbal Ability",
+    "question_text": "A phrase is given which can be substituted by one word. Choose the most appropriate word explaining the phrase from the given options. The deliberate avoidance of mentioning a harsh or unpleasant reality by using mild or indirect expressions",
+    "options": {
+      "A": "Euphemism",
+      "B": "Litotes",
+      "C": "Collocation",
+      "D": "Circumlocution"
+    },
+    "correct_answer": "A",
+    "question_id": "4410091966703",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 9,
+    "section": "Verbal Ability",
+    "question_text": "Select the most appropriate proverb to substitute the underlined group of words in the given sentence. The board celebrated a single successful quarter as proof of a turnaround, although one instance is insufficient to establish a general pattern.",
+    "options": {
+      "A": "nothing succeeds like success",
+      "B": "every cloud has a silver lining",
+      "C": "fortune favors the bold",
+      "D": "one swallow does not make a summer"
+    },
+    "correct_answer": "D",
+    "question_id": "4410091941297",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 10,
+    "section": "Verbal Ability",
+    "question_text": "Read the sentence to find out whether there is any grammatical error in it. The error, if any, will be in one part of the sentence. Spot the error from the given options. Despite working under severe time constraints and shifting / (A) procedural requirements, she demonstrated a scrupulous sense / (B) of discipline, maintaining strict adherence to timelines / (C) and ensuring that every minor detail was executed. / (D) No error",
+    "options": {
+      "A": "(D)",
+      "B": "(B)",
+      "C": "(C)",
+      "D": "(A)"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091938867",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 11,
+    "section": "Verbal Ability",
+    "question_text": "Read the sentence to find out whether there is any grammatical error in it. The error, if any, will be in one part of the sentence. Spot the error from the given options: The impact of digital misinformation (A) / on public opinion and electoral behaviour (B) / have raised serious concerns among political analysts worldwide. (C) / No error (D)",
+    "options": {
+      "A": "B",
+      "B": "A",
+      "C": "C",
+      "D": "D"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091964471",
+    "status": "Answered",
+    "chosen_option": "4",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 12,
+    "section": "Verbal Ability",
+    "question_text": "A complex sentence is given. Choose the option that best transforms it into a simple sentence without altering its meaning, logical emphasis, or syntactic correctness. Although the curriculum integrated interdisciplinary perspectives, it failed to enhance critical thinking since assessment methods remained rote‑based.",
+    "options": {
+      "A": "Despite integrating interdisciplinary perspectives, the curriculum did not enhance critical thinking and relied on rote-based assessments.",
+      "B": "The curriculum, despite integrating interdisciplinary perspectives, failed to enhance critical thinking due to rote-based assessments.",
+      "C": "The curriculum integrated interdisciplinary perspectives but did not enhance critical thinking due to rote-based assessments.",
+      "D": "The curriculum, although integrating interdisciplinary perspectives, enhanced critical thinking due to rote-based assessments."
+    },
+    "correct_answer": "B",
+    "question_id": "4410091965341",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 13,
+    "section": "Verbal Ability",
+    "question_text": "A phrase is given which can be substituted by one word. Choose the most appropriate word explaining the phrase from the given options. A person who speaks confidently about many subjects despite possessing only superficial knowledge",
+    "options": {
+      "A": "Charlatan",
+      "B": "Pedant",
+      "C": "Dilettante",
+      "D": "Novice"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091966936",
+    "status": "Answered",
+    "chosen_option": "4",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 14,
+    "section": "Verbal Ability",
+    "question_text": "Choose the option which best replaces the given group of words. A tendency to interpret all events as being centered around oneself, often unconsciously",
+    "options": {
+      "A": "Solipsism",
+      "B": "Subjectivism",
+      "C": "Egocentrism",
+      "D": "Narcissism"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091941153",
+    "status": "Answered",
+    "chosen_option": "3",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 15,
+    "section": "Verbal Ability",
+    "question_text": "Fill in the blanks with the most appropriate pair of words from the given options. The organisation decided to ______ a comprehensive audit and subsequently ______ redundant operational processes to enhance systemic efficiency across departments globally.",
+    "options": {
+      "A": "take over, bring up",
+      "B": "look into, run over",
+      "C": "carry out, phase out",
+      "D": "call off, set up"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091964581",
+    "status": "Answered",
+    "chosen_option": "3",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 16,
+    "section": "Verbal Ability",
+    "question_text": "Fill in the blanks with the most appropriate option. For the ethics committee, ______ procedural irregularities during internal audits remained ______ for preserving institutional credibility.",
+    "options": {
+      "A": "identification, essentially",
+      "B": "identifying, essential",
+      "C": "identify, essence",
+      "D": "identified, essentials"
+    },
+    "correct_answer": "B",
+    "question_id": "4410091964568",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 17,
+    "section": "Verbal Ability",
+    "question_text": "Fill in the blank with the most appropriate word from the given options that best expresses the relationship similar to the original pair of words. OBSEQUIOUS : SERVILITY :: BELLIGERENT : ________",
+    "options": {
+      "A": "CURIOSITY",
+      "B": "HUMILITY",
+      "C": "HESITATION",
+      "D": "PUGNACITY"
+    },
+    "correct_answer": "D",
+    "question_id": "4410091966937",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 18,
+    "section": "Verbal Ability",
+    "question_text": "Choose the option which best replaces the given group of words. Present, appearing, or found everywhere",
+    "options": {
+      "A": "ineluctable",
+      "B": "omniform",
+      "C": "ubiquitous",
+      "D": "ephemeral"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091953011",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 19,
+    "section": "Verbal Ability",
+    "question_text": "The following incomplete sentence is split into parts. Four of the parts are jumbled up, known as PQRS. These four parts are not given in their proper order. Arrange the jumbled parts of the sentence and find out which of the four combinations from the given options will correctly complete the sentence. Sentence: AI companies increasingly promote powerful new models _______________________________ portraying their own products as frightening. P- while continuing to develop and market them, raising questions about whether such claims Q- exaggerated narratives about AI threats and the unusual practice of companies R- as both groundbreaking and potentially dangerous, warning of catastrophic risks S- reflect genuine concern or strategic messaging, especially as sceptics challenge",
+    "options": {
+      "A": "QPSR",
+      "B": "SPRQ",
+      "C": "RPSQ",
+      "D": "PQRS"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091952331",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 20,
+    "section": "Verbal Ability",
+    "question_text": "Choose the option which best expresses the meaning of the given proverb. The longest mile is the last mile home.",
+    "options": {
+      "A": "Returning home requires more resources and planning than leaving.",
+      "B": "Familiarity with one’s destination reduces the effort required to complete a journey.",
+      "C": "The journey home is always physically longer than the journey away.",
+      "D": "The final stage feels the most difficult due to fatigue."
+    },
+    "correct_answer": "D",
+    "question_id": "4410091954432",
+    "status": "Answered",
+    "chosen_option": "4",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 21,
+    "section": "Verbal Ability",
+    "question_text": "A complex sentence is given below. Choose the option that best transforms it into a simple sentence without altering its meaning, logical emphasis, or syntactic correctness. Even though the strategy seemed innovative because it incorporated novel techniques, it failed to achieve the desired outcomes because implementation gaps remained.",
+    "options": {
+      "A": "Though the strategy appeared innovative in incorporating several novel techniques, it failed to achieve the desired outcomes as significant implementation gaps still remained.",
+      "B": "Despite the strategy seeming innovative in incorporating multiple novel techniques, it failed to achieve the desired outcomes because substantial implementation gaps still remained.",
+      "C": "Despite its apparent innovativeness in incorporating novel techniques, the strategy failed to achieve the desired outcomes due to remaining implementation gaps.",
+      "D": "In spite of its innovativeness in incorporating multiple novel techniques, the strategy failed to achieve the desired outcomes since implementation gaps still remained."
+    },
+    "correct_answer": "C",
+    "question_id": "4410091962399",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 22,
+    "section": "Verbal Ability",
+    "question_text": "Fill in the blanks with the most appropriate option. The number of discrepancies identified during the extensive audit ______ significantly over time, suggesting that systemic inefficiencies ______ deeply embedded within the institutional processes.",
+    "options": {
+      "A": "has increased, is",
+      "B": "has increased, are",
+      "C": "have increased, is",
+      "D": "have increased, are"
+    },
+    "correct_answer": "B",
+    "question_id": "4410091938859",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 23,
+    "section": "Verbal Ability",
+    "question_text": "Choose the option which best expresses the meaning of the given idiom. To break a butterfly upon a wheel",
+    "options": {
+      "A": "To punish symbolic wrongdoing to set a precedent",
+      "B": "To use excessive force or severity for a trivial matter",
+      "C": "To impose disproportionate authority in ambiguous situations",
+      "D": "To face all difficulties with rigour"
+    },
+    "correct_answer": "B",
+    "question_id": "4410091941274",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 24,
+    "section": "Verbal Ability",
+    "question_text": "Choose the word which is opposite in meaning to the given word. Execrable",
+    "options": {
+      "A": "amenable",
+      "B": "equable",
+      "C": "anodyne",
+      "D": "estimable Comprehension: Read the following passage carefully and answer the question given below it. Morality is often conceived as a system of determinate prescriptions, offering clarity through the delineation of right and wrong. Yet such determinacy is frequently illusory, for moral life unfolds in contexts where principles intersect, conflict, and resist straightforward application. Under such conditions, morality cannot be reduced to the execution of rules; it instead demands the capacity to adjudicate among competing claims without relinquishing coherence. The moral agent must therefore navigate between generality and specificity, ensuring that universal commitments are neither abandoned nor applied without regard for contextual nuance. This navigation introduces a fundamental tension: morality seeks consistency in judgment, yet cannot dispense with situational responsiveness. Rigid adherence to principle risks producing outcomes that contravene the very values those principles intend to secure, while excessive flexibility risks dissolving morality into relativism. The resolution of this tension lies not in privileging one pole over the other, but in sustaining a form of reasoning that remains accountable to both. Thus, morality emerges not as a static code but as an ongoing practice of justification, requiring individuals to render their actions intelligible in light of both principle and circumstance. SubQuestion No : 25"
+    },
+    "correct_answer": "D",
+    "question_id": "4410091950907",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 25,
+    "section": "Verbal Ability",
+    "question_text": "Read the following statements carefully and choose the most appropriate option. Assertion (A): Moral judgment must remain coherent even when principles conflict in complex situations. Reason (R): Moral reasoning requires evaluating competing principles beyond mere reliance on fixed rules.",
+    "options": {
+      "A": "A is true, but R is false",
+      "B": "Both A and R are true, but R is not the correct explanation of A",
+      "C": "A is false, but R is true",
+      "D": "Both A and R are true, and R is the correct explanation of A Comprehension: Read the following passage carefully and answer the question given below it. Morality is often conceived as a system of determinate prescriptions, offering clarity through the delineation of right and wrong. Yet such determinacy is frequently illusory, for moral life unfolds in contexts where principles intersect, conflict, and resist straightforward application. Under such conditions, morality cannot be reduced to the execution of rules; it instead demands the capacity to adjudicate among competing claims without relinquishing coherence. The moral agent must therefore navigate between generality and specificity, ensuring that universal commitments are neither abandoned nor applied without regard for contextual nuance. This navigation introduces a fundamental tension: morality seeks consistency in judgment, yet cannot dispense with situational responsiveness. Rigid adherence to principle risks producing outcomes that contravene the very values those principles intend to secure, while excessive flexibility risks dissolving morality into relativism. The resolution of this tension lies not in privileging one pole over the other, but in sustaining a form of reasoning that remains accountable to both. Thus, morality emerges not as a static code but as an ongoing practice of justification, requiring individuals to render their actions intelligible in light of both principle and circumstance. SubQuestion No : 26"
+    },
+    "correct_answer": "D",
+    "question_id": "4410091967115",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 26,
+    "section": "Verbal Ability",
+    "question_text": "How does a moral agent respond to conflicting principles, according to the passage?",
+    "options": {
+      "A": "By prioritizing universal principles while minimizing the role of contextual factors",
+      "B": "By selecting actions that maximize desirable outcomes across varying circumstances",
+      "C": "By consistently applying established norms without accommodating situational differences",
+      "D": "By evaluating competing claims through context-sensitive and reasoned deliberation Comprehension: Read the following passage carefully and answer the question given below it. Morality is often conceived as a system of determinate prescriptions, offering clarity through the delineation of right and wrong. Yet such determinacy is frequently illusory, for moral life unfolds in contexts where principles intersect, conflict, and resist straightforward application. Under such conditions, morality cannot be reduced to the execution of rules; it instead demands the capacity to adjudicate among competing claims without relinquishing coherence. The moral agent must therefore navigate between generality and specificity, ensuring that universal commitments are neither abandoned nor applied without regard for contextual nuance. This navigation introduces a fundamental tension: morality seeks consistency in judgment, yet cannot dispense with situational responsiveness. Rigid adherence to principle risks producing outcomes that contravene the very values those principles intend to secure, while excessive flexibility risks dissolving morality into relativism. The resolution of this tension lies not in privileging one pole over the other, but in sustaining a form of reasoning that remains accountable to both. Thus, morality emerges not as a static code but as an ongoing practice of justification, requiring individuals to render their actions intelligible in light of both principle and circumstance. SubQuestion No : 27"
+    },
+    "correct_answer": "D",
+    "question_id": "4410091967116",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 27,
+    "section": "Verbal Ability",
+    "question_text": "Why does the passage argue that morality cannot be reduced to the execution of fixed rules?",
+    "options": {
+      "A": "Because rigid moral systems inevitably collapse into authoritarian structures that suppress individual autonomy and contextual freedom.",
+      "B": "Because morality ultimately depends upon subjective personal preference, making all universal standards philosophically untenable.",
+      "C": "Because moral principles are inherently contradictory and therefore incapable of guiding human conduct with any consistency.",
+      "D": "Because morality requires balancing universal principles with contextual judgment in morally complex situations. Comprehension: In the following passage, some words have been deleted. Fill in the blanks with the most appropriate word from the options given for each number. Historians increasingly attempt to ___X____ dominant narratives by incorporating marginalized perspectives, thereby ____Y____ accounts previously presented as complete and revealing complexities that linear historical frameworks had ___Z____. SubQuestion No : 28"
+    },
+    "correct_answer": "D",
+    "question_id": "4410091941116",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 28,
+    "section": "Verbal Ability",
+    "question_text": "Select the most appropriate option to fill in blank (X).",
+    "options": {
+      "A": "challenge",
+      "B": "endorse",
+      "C": "repeat",
+      "D": "preserve Comprehension: In the following passage, some words have been deleted. Fill in the blanks with the most appropriate word from the options given for each number. Historians increasingly attempt to ___X____ dominant narratives by incorporating marginalized perspectives, thereby ____Y____ accounts previously presented as complete and revealing complexities that linear historical frameworks had ___Z____. SubQuestion No : 29"
+    },
+    "correct_answer": "A",
+    "question_id": "4410091941117",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 29,
+    "section": "Verbal Ability",
+    "question_text": "Select the most appropriate option to fill in blank (Y).",
+    "options": {
+      "A": "simplifying",
+      "B": "complicating",
+      "C": "confirming",
+      "D": "standardising Comprehension: In the following passage, some words have been deleted. Fill in the blanks with the most appropriate word from the options given for each number. Historians increasingly attempt to ___X____ dominant narratives by incorporating marginalized perspectives, thereby ____Y____ accounts previously presented as complete and revealing complexities that linear historical frameworks had ___Z____. SubQuestion No : 30"
+    },
+    "correct_answer": "B",
+    "question_id": "4410091941118",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 30,
+    "section": "Verbal Ability",
+    "question_text": "Select the most appropriate option to fill in blank (Z).",
+    "options": {
+      "A": "obscured",
+      "B": "resolved",
+      "C": "documented",
+      "D": "celebrated"
+    },
+    "correct_answer": "A",
+    "question_id": null,
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 31,
+    "section": "General Awareness",
+    "question_text": "Which of the following awardees of the National Florence Nightingale Awards 2026 represented the Union Territory of Lakshadweep?",
+    "options": {
+      "A": "Raksha Rupo Parvatkar",
+      "B": "Deepa Biju",
+      "C": "Aysha Beebi K",
+      "D": "Poonam Verma"
+    },
+    "correct_answer": "C",
+    "question_id": "4410092231857",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 32,
+    "section": "General Awareness",
+    "question_text": "The 55 MWe Small Modular Reactor (SMR-55) announced under the Nuclear Energy Mission is proposed to be constructed at __________.",
+    "options": {
+      "A": "Tarapur, Maharashtra",
+      "B": "Narora, Uttar Pradesh",
+      "C": "Gorakhpur, Haryana",
+      "D": "Rawatbhata, Rajasthan"
+    },
+    "correct_answer": "A",
+    "question_id": "4410092231843",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 33,
+    "section": "General Awareness",
+    "question_text": "The Union Cabinet approved the Emergency Credit Line Guarantee Scheme (ECLGS) 5.0 in May 2026 to support businesses affected by the West Asia crisis. Under the approved scheme, what credit guarantee coverage is provided for eligible MSMEs?",
+    "options": {
+      "A": "100%",
+      "B": "80%",
+      "C": "95%",
+      "D": "90%"
+    },
+    "correct_answer": "A",
+    "question_id": "4410092231849",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 34,
+    "section": "General Awareness",
+    "question_text": "Which of the following correctly evaluates the two statements regarding the Industrial Development Bank of India (IDBI) before its conversion into a banking company in 2004? Statement I: IDBI was entrusted with the responsibility of coordinating the activities of other developmental financial institutions. Statement II: The Industrial Development Bank of India (IDBI) was established in 1964 by the Government of India under the Industrial Development Bank of India Act, 1964, as a wholly owned subsidiary of the Reserve Bank of India (RBI). In 1976, the ownership of IDBI was transferred to the Government of India.",
+    "options": {
+      "A": "Only Statement II is correct",
+      "B": "Both Statement I and Statement II are correct",
+      "C": "Neither Statement I nor Statement II is correct",
+      "D": "Only Statement I is correct"
+    },
+    "correct_answer": "B",
+    "question_id": "4410092237582",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 35,
+    "section": "General Awareness",
+    "question_text": "Which of the following best describes Exercise MILAN 2026, conducted under the theme 'Camaraderie, Cooperation, Collaboration’?",
+    "options": {
+      "A": "A bilateral naval exercise between India and Japan focused on carrier strike group operations.",
+      "B": "A Quad-led maritime exercise conducted exclusively in the Indo-Pacific region.",
+      "C": "A multilateral maritime exercise hosted by the Indian Navy.",
+      "D": "An annual Indian Coast Guard exercise for maritime search and rescue operations."
+    },
+    "correct_answer": "C",
+    "question_id": "4410092231245",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 36,
+    "section": "General Awareness",
+    "question_text": "Flying Officer Nirmal Jit Singh Sekhon became the first member of the Indian Air Force to receive which of the following gallantry awards?",
+    "options": {
+      "A": "Ashoka Chakra",
+      "B": "Vir Chakra",
+      "C": "Param Vir Chakra",
+      "D": "Maha Vir Chakra"
+    },
+    "correct_answer": "C",
+    "question_id": "4410092231253",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 37,
+    "section": "General Awareness",
+    "question_text": "Which of the following countries participated as an observer at the 68th Session of the Asian Productivity Organization (APO) Governing Body held in May 2026?",
+    "options": {
+      "A": "Indonesia",
+      "B": "Thailand",
+      "C": "Kazakhstan",
+      "D": "Japan"
+    },
+    "correct_answer": "C",
+    "question_id": "4410092232009",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 38,
+    "section": "General Awareness",
+    "question_text": "Match List I (Major ocean floor features) with List II (their distinguishing geomorphological characteristics). List I List II A. Continental Shelf 1. Long, narrow and deepest depressions of the sea floor, with relatively steep sides B. Continental Slope 2. Submerged extension of the continental landmass, rich in marine resources C. Abyssal Plain 3. Mid oceanic ridges, trenches, island arcs and sea mounts D. Ocean Trench 4. Steep transitional zone connecting the continental shelf with the deep ocean basin",
+    "options": {
+      "A": "A-3, B-1, C-4, D-2",
+      "B": "A-2, B-4, C-3, D-1",
+      "C": "A-4, B-2, C-1, D-3",
+      "D": "A-1, B-3, C-2, D-4"
+    },
+    "correct_answer": "B",
+    "question_id": "4410092258443",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 39,
+    "section": "General Awareness",
+    "question_text": "Which traditional Indian folk theatre form from Karnataka is known for its elaborate costumes, vibrant makeup, and performances based on the Ramayana, Mahabharata or local folklore?",
+    "options": {
+      "A": "Tholu Bommalata",
+      "B": "Nautanki",
+      "C": "Yakshagana",
+      "D": "Tamasha"
+    },
+    "correct_answer": "C",
+    "question_id": "4410092231199",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 40,
+    "section": "General Awareness",
+    "question_text": "Consider the following statements regarding the RudraM-II missile: 1. RudraM-II is an indigenously developed surface-to-surface missile jointly flight-tested by the Indian Air Force and Indian Army. 2. The final flight tests were conducted from the Integrated Test Range (ITR) in Kerala in 2023, where the missile successfully engaged a predefined target with pinpoint accuracy. Which of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 only",
+      "C": "Both 1 and 2",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "D",
+    "question_id": "4410092231232",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 41,
+    "section": "General Awareness",
+    "question_text": "Match List I with List II regarding socio-religious reform movements/institutions and their leaders and select the correct option. List I List II A. Swami Vivekananda 1. Arya Samaj B. Raja Ram Mohan Roy 2. Brahmo Samaj C. Syed Ahmad Khan 3. Ramakrishna Mission D. Swami Dayanand Saraswati 4. Mohammedan Anglo-Oriental College",
+    "options": {
+      "A": "A-1, B-4, C-2, D-3",
+      "B": "A-3, B-2, C-4, D-1",
+      "C": "A-4, B-2, C-3, D-1",
+      "D": "A-2, B-3, C-1, D-4"
+    },
+    "correct_answer": "B",
+    "question_id": "4410092227531",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 42,
+    "section": "General Awareness",
+    "question_text": "In which year was the 'Green Good Deeds' initiative launched by the Ministry of Environment, Forest and Climate Change (MoEFCC) of the Government of India to protect the environment and promote good living in the country?",
+    "options": {
+      "A": "2020",
+      "B": "2017",
+      "C": "2019",
+      "D": "2018"
+    },
+    "correct_answer": "D",
+    "question_id": "4410092258469",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 43,
+    "section": "General Awareness",
+    "question_text": "Which of the following options about the given statements is correct? Assertion (A): The recognition of a political party as a National Party in India is determined by the Constitution of India. Reason (R): The Election Commission of India grants recognition to political parties based on prescribed electoral performance criteria.",
+    "options": {
+      "A": "A is false, but R is true.",
+      "B": "Both A and R are true, and R is the correct explanation of A.",
+      "C": "Both A and R are false.",
+      "D": "A is true, but R is false."
+    },
+    "correct_answer": "A",
+    "question_id": "4410092231054",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 44,
+    "section": "General Awareness",
+    "question_text": "Statement I: Operation Safed Sagar was the Indian Air Force’s codename for its air operations during the Kargil War of 1999. Statement II: The primary objective of Operation Safed Sagar was to provide air support to Indian ground forces and target Pakistani positions in high-altitude conflict zones. Which of the above statements is/are correct?",
+    "options": {
+      "A": "Both statement I and statement II are correct",
+      "B": "Statement I is incorrect, but statement II is correct",
+      "C": "Statement I is correct, but statement II is incorrect",
+      "D": "Both statement I and statement II are incorrect"
+    },
+    "correct_answer": "A",
+    "question_id": "4410091979866",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 45,
+    "section": "General Awareness",
+    "question_text": "Match the following sports with the regulation governing the maximum number of players from one team allowed on the field/court of play at a time. List I (Sport) List II (Maximum Players) A. Basketball 1. 11 B. Water Polo 2. 5 C. Rugby Union 3.15 D. Football 4. 7",
+    "options": {
+      "A": "A–2, B–1, C–4, D–3",
+      "B": "A–3, B–4, C–2, D–1",
+      "C": "A–4, B–2, C–1, D–3",
+      "D": "A–2, B–4, C–3, D–1"
+    },
+    "correct_answer": "D",
+    "question_id": "4410092231189",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 46,
+    "section": "General Awareness",
+    "question_text": "Two statements are given below - one labelled Assertion (A) and the other labelled Reason (R). Read the statements carefully and choose the option that correctly describes statements (A) and (R). Assertion (A): An object can continue moving in a circular path even in the absence of centripetal force. Reason (R): Centripetal force is the real force that continuously pulls the object toward the center of the circular path.",
+    "options": {
+      "A": "Both A and R are true, but R is not the correct explanation of A",
+      "B": "A is true, but R is false",
+      "C": "A is false, but R is true",
+      "D": "Both A and R are true, and R is the correct explanation of A"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091982176",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 47,
+    "section": "General Awareness",
+    "question_text": "Which core technology underpins QNu Labs’ 500-km quantum communication network, demonstrated recently to enable ultra-secure data transmission?",
+    "options": {
+      "A": "5G-based VPN tunnels",
+      "B": "Satellite-based broadband",
+      "C": "Quantum Key Distribution (QKD)",
+      "D": "Classical encryption over fiber"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091573182",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 48,
+    "section": "General Awareness",
+    "question_text": "In which country was the World Economic Forum Annual Meeting held in January 2026, centred on the theme \"A Spirit of Dialogue\" to address global challenges?",
+    "options": {
+      "A": "United States of America",
+      "B": "Singapore",
+      "C": "Germany",
+      "D": "Switzerland"
+    },
+    "correct_answer": "D",
+    "question_id": "4410091972560",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 49,
+    "section": "General Awareness",
+    "question_text": "Consider the following statements regarding the Rome–Berlin–Tokyo Axis alliance during the Second World War. 1. It was an alliance formed between Germany, Italy, and Japan. 2. Under this arrangement, Japan was allowed to expand its influence in Europe. 3. Germany and Italy were permitted to expand their influence in Europe. Which of the statements given above is/are correct?",
+    "options": {
+      "A": "1 only",
+      "B": "2 and 3 only",
+      "C": "1 and 3 only",
+      "D": "1, 2 and 3"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091982110",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 50,
+    "section": "General Awareness",
+    "question_text": "The World Health Organization (WHO) declared a Public Health Emergency of International Concern (PHEIC) in May 2026 following an outbreak of Ebola disease caused by the Bundibugyo virus involving which pair of countries?",
+    "options": {
+      "A": "Democratic Republic of the Congo and Republic of the Congo",
+      "B": "South Sudan and Uganda",
+      "C": "Uganda and Rwanda",
+      "D": "Democratic Republic of the Congo and Uganda"
+    },
+    "correct_answer": "D",
+    "question_id": "4410092231994",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 51,
+    "section": "General Awareness",
+    "question_text": "Which of the following statements regarding Indian sports awards is correct?",
+    "options": {
+      "A": "The Dronacharya Award is conferred upon coaches for training outstanding medal-winning sportspersons.",
+      "B": "The Maulana Abul Kalam Azad Trophy is conferred upon individual athletes for excellence in university sports.",
+      "C": "The Dhyan Chand Award is conferred upon active players for exceptional international performances.",
+      "D": "The Arjuna Award is conferred only for achievements in Olympic sporting disciplines."
+    },
+    "correct_answer": "A",
+    "question_id": "4410091982302",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 52,
+    "section": "General Awareness",
+    "question_text": "Which Sustainable Development Goal emphasises measures to address climate change and strengthen climate resilience?",
+    "options": {
+      "A": "SDG-7",
+      "B": "SDG-10",
+      "C": "SDG-13",
+      "D": "SDG-12"
+    },
+    "correct_answer": "C",
+    "question_id": "4410092258461",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 53,
+    "section": "General Awareness",
+    "question_text": "Consider the following statements regarding Operation Rajiv: 1. It was launched in 1987 to capture the strategically significant Quaid Post in the Siachen Glacier region from Pakistani forces. 2. Army Day in India is observed every year to commemorate the success, and honour the supreme sacrifice made during this war. Which of the statements given above is/are correct?",
+    "options": {
+      "A": "Both 1 and 2",
+      "B": "2 only",
+      "C": "1 only",
+      "D": "Neither 1 nor 2"
+    },
+    "correct_answer": "C",
+    "question_id": "4410092231229",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 54,
+    "section": "General Awareness",
+    "question_text": "Consider the following statements regarding mineral and energy resources in India: I. The Chota Nagpur Plateau is one of India's most important mineral-producing regions. II. Petroleum reserves in India are confined exclusively to offshore areas. III. Lignite deposits are found in parts of Tamil Nadu and Rajasthan. IV. Uranium is an atomic mineral and is used for generating atomic/nuclear power. Which of the statements given above are correct?",
+    "options": {
+      "A": "I, II, III and IV",
+      "B": "I and II only",
+      "C": "II and III only",
+      "D": "I, III and IV only"
+    },
+    "correct_answer": "D",
+    "question_id": "4410092258455",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 55,
+    "section": "General Awareness",
+    "question_text": "The 12th International Day of Yoga, observed on 21 June 2026, was celebrated under which official theme announced by the Government of India?",
+    "options": {
+      "A": "Yoga for Climate Action",
+      "B": "Yoga for One Earth, One Health",
+      "C": "Yoga for Healthy Ageing",
+      "D": "Yoga for Self and Society"
+    },
+    "correct_answer": "C",
+    "question_id": "4410092231861",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 56,
+    "section": "Numerical Ability",
+    "question_text": "Three water tanks have capacities such that the first tank holds twice as much water as the second, and the second tank holds twice as much water as the third. The average of the reciprocals of their capacities is liters. The combined capacities of these three water tanks, in liters, is:",
+    "options": {
+      "A": "54",
+      "B": "36",
+      "C": "48",
+      "D": "42 For Review"
+    },
+    "correct_answer": "D",
+    "question_id": "4410091952113",
+    "status": "Not Attempted and Marked",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 57,
+    "section": "Numerical Ability",
+    "question_text": "Four bells toll at intervals of 10, 18, 20 and 32 seconds, respectively. They all ring together at 8:00 AM. The bell that rings every 18 seconds continues to operate up as per their scheduled ringing till 10:24 AM, after which it permanently stops. During the subsequent 6-hour period (from 10:24 AM to 4:24 PM), how many times will the remaining three working bells ring together?",
+    "options": {
+      "A": "135",
+      "B": "134",
+      "C": "136",
+      "D": "137"
+    },
+    "correct_answer": "A",
+    "question_id": "4410091969127",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 58,
+    "section": "Numerical Ability",
+    "question_text": "A boat can travel with a speed of 18 km per hour in still water. If the speed of the stream is 5 km per hour, find the time taken by the boat to travel 161 km downstream.",
+    "options": {
+      "A": "8 hours",
+      "B": "6 hours",
+      "C": "5 hours",
+      "D": "7 hours"
+    },
+    "correct_answer": "D",
+    "question_id": "4410091969387",
+    "status": "Answered",
+    "chosen_option": "4",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 59,
+    "section": "Numerical Ability",
+    "question_text": "The difference between compound interest (interest compounded annually) and simple interest for 2 years on ₹4000 is ₹4a, (a > 0). The per annum rate of interest is:",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "correct_answer": "D",
+    "question_id": "4410091937092",
+    "status": "Marked For Review",
+    "chosen_option": "2",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 60,
+    "section": "Numerical Ability",
+    "question_text": "Find the value of n, if HCF(28,n)=7 and LCM(28,n)=84.",
+    "options": {
+      "A": "35",
+      "B": "14",
+      "C": "21",
+      "D": "42"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091556586",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 61,
+    "section": "Numerical Ability",
+    "question_text": "Find the number of possible pairs of x and y in a 5-digit number 8x4y6, which is divisible by 11.",
+    "options": {
+      "A": "9",
+      "B": "4",
+      "C": "5",
+      "D": "8 For Review"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091956272",
+    "status": "Not Attempted and Marked",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 62,
+    "section": "Numerical Ability",
+    "question_text": "A square has side 4a cm (a > 0). If each side is increased by 20% and then decreased by 5%, what is the new perimeter of the square?",
+    "options": {
+      "A": "36.48a cm",
+      "B": "4.56a cm",
+      "C": "9.12a cm",
+      "D": "18.24a cm"
+    },
+    "correct_answer": "D",
+    "question_id": "4410091938008",
+    "status": "Answered",
+    "chosen_option": "4",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 63,
+    "section": "Numerical Ability",
+    "question_text": "The table below shows the scores of Rajeev on three tasks, with each task having different weightages. Task Score (out of 50) Weightage Research 50 30% Presentation 45 40% Report Writing 47 30% ​If the weightages for Research and Presentation were interchanged, which of the following is the correct comparison between Rajeev’s original weighted average and his new weighted average?",
+    "options": {
+      "A": "The new weighted average is higher by 2.1 points.",
+      "B": "The new weighted average is higher by 0.5 points.",
+      "C": "The new weighted average is higher by 1.5 points.",
+      "D": "The new weighted average is lower by 1.5 points. For Review"
+    },
+    "correct_answer": "B",
+    "question_id": "44100968737",
+    "status": "Not Attempted and Marked",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 64,
+    "section": "Numerical Ability",
+    "question_text": "A woman, tennis player wanted to have a success rate of 90% for the season. Out of 60 games she already played, she has won 48 games. How many games must she win from the remaining 90 games to achieve her target?",
+    "options": {
+      "A": "75",
+      "B": "48",
+      "C": "87",
+      "D": "60"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091961722",
+    "status": "Answered",
+    "chosen_option": "3",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 65,
+    "section": "Numerical Ability",
+    "question_text": "",
+    "options": {
+      "A": "2.8",
+      "B": "3.9",
+      "C": "3.4",
+      "D": "2.4"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091969074",
+    "status": "Answered",
+    "chosen_option": "3",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 66,
+    "section": "Numerical Ability",
+    "question_text": "A lifeguard standing on top of a watchtower observes a boat at a particular point, which is moving directly towards the base of the tower at a constant speed. The angle of depression of the boat changes from 30° to 60° in 12 minutes. How many minutes will the boat take to reach the base of the tower from the particular point?",
+    "options": {
+      "A": "18 minutes",
+      "B": "6 minutes",
+      "C": "12 minutes",
+      "D": "24 minutes For Review"
+    },
+    "correct_answer": "A",
+    "question_id": "4410091961956",
+    "status": "Not Attempted and Marked",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 67,
+    "section": "Numerical Ability",
+    "question_text": "Due to stiff competition and slump in demand a man sells an article at a loss of 5% for ₹38. If he increases the selling price to ₹44, what is his percentage of gain?",
+    "options": {
+      "A": "10%",
+      "B": "12.5%",
+      "C": "11.11%",
+      "D": "9.09%"
+    },
+    "correct_answer": "A",
+    "question_id": "4410091937465",
+    "status": "Answered",
+    "chosen_option": "1",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 68,
+    "section": "Numerical Ability",
+    "question_text": "The following table shows the quantity and rates of essential commodities used in a family. Find their mean price (in ₹ per kg, rounded off to two decimal places). Commodity Weight (in kg) Price per kg (₹) Rice 5 60 Wheat 30 40 Oil 5 150 Pulses 5 80",
+    "options": {
+      "A": "59.36",
+      "B": "57.89",
+      "C": "58.89",
+      "D": "55.66"
+    },
+    "correct_answer": "C",
+    "question_id": "441009346190",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 69,
+    "section": "Numerical Ability",
+    "question_text": "The total investment of three persons X, Y and Z is ₹51,000 simultaneously. At the end of one year, Y and Z got individual shares of profit of ₹6,000 and ₹8,000, out of the total profit of ₹15,000. Find the investment of X, considering profit distribution directly as per ratio of their investments.",
+    "options": {
+      "A": "₹3,400",
+      "B": "₹3,600",
+      "C": "₹3,200",
+      "D": "₹3,000"
+    },
+    "correct_answer": "A",
+    "question_id": "4410091952222",
+    "status": "Answered",
+    "chosen_option": "1",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 70,
+    "section": "Numerical Ability",
+    "question_text": "",
+    "options": {
+      "A": "64",
+      "B": "16",
+      "C": "256",
+      "D": "512"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091969139",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 71,
+    "section": "Numerical Ability",
+    "question_text": "The total surface area of a solid cylinder is 462 cm2 and its curved surface area is one-third of the total surface area. Find the volume of the cylinder.",
+    "options": {
+      "A": "1078 cm3",
+      "B": "616 cm3",
+      "C": "770 cm3",
+      "D": "539 cm3"
+    },
+    "correct_answer": "D",
+    "question_id": "4410091961910",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 72,
+    "section": "Numerical Ability",
+    "question_text": "A pipe fills a tank in 7.5a hours (a > 1). What fraction of the tank does it fill in 6 hours?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "correct_answer": "B",
+    "question_id": "4410091937955",
+    "status": "Answered",
+    "chosen_option": "2",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 73,
+    "section": "Numerical Ability",
+    "question_text": "A trader purchases two articles. He marks the first one up by ₹200 over the cost price and gives a discount of 20% on it. The second one he marks up by 50% and gives a discount of ₹160. If he gains 15% on both the articles put together and 8% on the first alone, what is the percentage of profit on the second article?",
+    "options": {
+      "A": "20%",
+      "B": "25%",
+      "C": "21%",
+      "D": "22%"
+    },
+    "correct_answer": "D",
+    "question_id": "4410091969217",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 74,
+    "section": "Numerical Ability",
+    "question_text": "A card is drawn at random from a standard deck of 52 cards. What is the probability that the card drawn is either a king or red card?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "correct_answer": "A",
+    "question_id": "4410091961809",
+    "status": "Answered",
+    "chosen_option": "1",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 75,
+    "section": "Numerical Ability",
+    "question_text": "",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "correct_answer": "A",
+    "question_id": "4410091952207",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 76,
+    "section": "Reasoning",
+    "question_text": "In a certain code language, A + B means ‘A is the mother of B’, A – B means ‘A is the brother of B’, A x B means ‘A is the wife of B’, A % B means ‘A is the father of B’ and A # B means ‘A is the daughter of B’. If ‘G x N – V # T + L x C’, then which of the following statements is not correct?",
+    "options": {
+      "A": "C is the son-in-law of T",
+      "B": "G is the sister of C",
+      "C": "T is the mother-in-law of G",
+      "D": "L is the sister of N"
+    },
+    "correct_answer": "B",
+    "question_id": "4410091648110",
+    "status": "Answered",
+    "chosen_option": "3",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 77,
+    "section": "Reasoning",
+    "question_text": "Study the given pattern carefully and select the number that is the sum of A and B. (Different operations when performed on the two numbers given in each of the squares in figure X yield the same result A. Similarly, different operations when performed on the two numbers given in each of the squares in figure Y yield the same result B.)",
+    "options": {
+      "A": "75",
+      "B": "63",
+      "C": "49",
+      "D": "51"
+    },
+    "correct_answer": "B",
+    "question_id": "4410091966133",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": true,
+    "image_path": "data/images/2026_aug_s1/q77_fig_1.png",
+    "all_images": [
+      "data/images/2026_aug_s1/q77_fig_1.png"
+    ],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 78,
+    "section": "Reasoning",
+    "question_text": "If 19 December 1965 was a Sunday, then what day of the week was 20 August 1981?",
+    "options": {
+      "A": "Friday",
+      "B": "Thursday",
+      "C": "Wednesday",
+      "D": "Monday"
+    },
+    "correct_answer": "B",
+    "question_id": "4410091649765",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 79,
+    "section": "Reasoning",
+    "question_text": "Aman travels from his home to a park. He first goes 18 km west. Then he turns 135° left and travels 4√2 km. After that, he turns 45° right and travels 7 km. What is the shortest distance between his home and the park?",
+    "options": {
+      "A": "√315 km",
+      "B": "√327 km",
+      "C": "√337 km",
+      "D": "√317 km"
+    },
+    "correct_answer": "D",
+    "question_id": "4410091992440",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 80,
+    "section": "Reasoning",
+    "question_text": "Choose the option which is related to the third word in the same way as the second word is related to the first word and the sixth word is related to the fifth word. Ornithology : Birds :: Entomology : ______ :: Ichthyology : Fish",
+    "options": {
+      "A": "Mammals",
+      "B": "Reptiles",
+      "C": "Plants",
+      "D": "Insects"
+    },
+    "correct_answer": "D",
+    "question_id": "4410091987628",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 81,
+    "section": "Reasoning",
+    "question_text": "Neha starts from her home and walks 25 km south. She then turns left and walks 20 km. After that, she turns left again and walks 10 km. Finally, she turns right and walks 8 km to reach her school. How far (shortest distance) and in which direction is the school from Neha's home? (All turns are 90º unless specified.)",
+    "options": {
+      "A": "√1009 km, south-east",
+      "B": "20 km, south-east",
+      "C": "15√2 km, north-west",
+      "D": "22 km, south-west"
+    },
+    "correct_answer": "A",
+    "question_id": "4410092257167",
+    "status": "Answered",
+    "chosen_option": "1",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 82,
+    "section": "Reasoning",
+    "question_text": "In a code language, 'PROVEN' is coded as “17325132114” and “GROUND” is coded as “7122413215”. Which of the following are correct matches as per the given code language? WORD CODE (i) SOWN (X) 1019111 (ii) VILE (Y) 17211817 (iii) CHUG (Z) 8101219",
+    "options": {
+      "A": "i-Y, iii-X only",
+      "B": "iii-Y, i-Z only",
+      "C": "i-Z, ii-X, iii-Y",
+      "D": "ii-Z only"
+    },
+    "correct_answer": "A",
+    "question_id": "4410091649696",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 83,
+    "section": "Reasoning",
+    "question_text": "Four groups of letters are given in jumbled form. In each of the following a meaningful word is made by rearranging the letters. Find the odd one out after making meaningful words.",
+    "options": {
+      "A": "GENTRANIA",
+      "B": "PITERJU",
+      "C": "ARSM",
+      "D": "TUNENEP"
+    },
+    "correct_answer": "A",
+    "question_id": "4410091987615",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 84,
+    "section": "Reasoning",
+    "question_text": "In a certain code language, ‘election news portal launching’ is coded as ‘m7 o2 f6 q4’ and ‘winter time chilled icecream’ is coded as ‘d5 j6 u2 x4’. What is the probable code for ‘woolen sweater’?",
+    "options": {
+      "A": "t6 r5",
+      "B": "x4 t5",
+      "C": "v7 x5",
+      "D": "r5 v4"
+    },
+    "correct_answer": "B",
+    "question_id": "4410091649676",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 85,
+    "section": "Reasoning",
+    "question_text": "Study the given pattern carefully and select the letters that can replace the symbols in the last figure.",
+    "options": {
+      "A": "% =S , $ =O , @ =M",
+      "B": "% =Y , $ =U , @ =Z",
+      "C": "% =Y , $ =X , @ = X",
+      "D": "% =N , $ =C , @ =F"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091963605",
+    "status": "Answered",
+    "chosen_option": "3",
+    "has_figure": true,
+    "image_path": "data/images/2026_aug_s1/q85_fig_1.png",
+    "all_images": [
+      "data/images/2026_aug_s1/q85_fig_1.png"
+    ],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 86,
+    "section": "Reasoning",
+    "question_text": "Which of the mathematical signs should be interchanged in the below equation to make it mathematically correct? 12 - 5 x 77 ÷ 11 + 17 = 70",
+    "options": {
+      "A": "x and -",
+      "B": "÷ and -",
+      "C": "+ and x",
+      "D": "+ and -"
+    },
+    "correct_answer": "A",
+    "question_id": "4410091967556",
+    "status": "Answered",
+    "chosen_option": "1",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 87,
+    "section": "Reasoning",
+    "question_text": "In a row of certain number of students facing north, Anita’s position is 9th from the right end. There are exactly four students between Anita and Priya. Nisha is to the immediate right of Priya. If Nisha is at the most 7th from one of the extreme ends of the row, what is the maximum possible number of students in the row?",
+    "options": {
+      "A": "9",
+      "B": "18",
+      "C": "19",
+      "D": "10"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091655695",
+    "status": "Answered",
+    "chosen_option": "1",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 88,
+    "section": "Reasoning",
+    "question_text": "In a certain code language, A # B means ‘A is greater than B’, A $ B means ‘A is less than B’ and A * B means ‘A is equal to B’. If L = 49 − 5 × 3 + 63 ÷ 3 M = 88 ÷ 2 + 13 × 7 − 25 N = 48 × 3 + 78 ÷ 6 − 27 Which of the following statements is/are true? Statement I: M * 2L $ N Statement II: 3M * 2N $ L",
+    "options": {
+      "A": "Only II",
+      "B": "Both I and II",
+      "C": "Neither I nor II",
+      "D": "Only I"
+    },
+    "correct_answer": "D",
+    "question_id": "4410091651981",
+    "status": "Answered",
+    "chosen_option": "3",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 89,
+    "section": "Reasoning",
+    "question_text": "Select the Venn diagram that best illustrates the relationship between the following classes. Nurses, Pharmacists, Healthcare Workers",
+    "options": {
+      "A": "[Figure: data/images/2026_aug_s1/q89_opt_A.png]",
+      "B": "[Figure: data/images/2026_aug_s1/q89_opt_B.png]",
+      "C": "[Figure: data/images/2026_aug_s1/q89_opt_C.png]",
+      "D": "[Figure: data/images/2026_aug_s1/q89_opt_D.png]"
+    },
+    "correct_answer": "D",
+    "question_id": "4410092257136",
+    "status": "Answered",
+    "chosen_option": "4",
+    "has_figure": true,
+    "image_path": "data/images/2026_aug_s1/q89_fig_1.png",
+    "all_images": [
+      "data/images/2026_aug_s1/q89_fig_1.png",
+      "data/images/2026_aug_s1/q89_fig_2.png",
+      "data/images/2026_aug_s1/q89_fig_3.png",
+      "data/images/2026_aug_s1/q89_fig_4.png"
+    ],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 90,
+    "section": "Reasoning",
+    "question_text": "Three of the following four figures are alike in a certain way and thus form a group. Which figure DOES NOT belong to that group?",
+    "options": {
+      "A": "C",
+      "B": "B",
+      "C": "A",
+      "D": "D For Review"
+    },
+    "correct_answer": "D",
+    "question_id": "4410091651299",
+    "status": "Not Attempted and Marked",
+    "chosen_option": "--",
+    "has_figure": true,
+    "image_path": "data/images/2026_aug_s1/q90_fig_1.png",
+    "all_images": [
+      "data/images/2026_aug_s1/q90_fig_1.png"
+    ],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 91,
+    "section": "Reasoning",
+    "question_text": "Select the option figure that will replace the question mark (?) in the figure given below to complete the pattern. .",
+    "options": {
+      "A": "[Figure: data/images/2026_aug_s1/q91_opt_A.png]",
+      "B": "[Figure: data/images/2026_aug_s1/q91_opt_B.png]",
+      "C": "[Figure: data/images/2026_aug_s1/q91_opt_C.png]",
+      "D": "[Figure: data/images/2026_aug_s1/q91_opt_D.png]"
+    },
+    "correct_answer": "D",
+    "question_id": "4410091967631",
+    "status": "Answered",
+    "chosen_option": "4",
+    "has_figure": true,
+    "image_path": "data/images/2026_aug_s1/q91_stem.png",
+    "all_images": [
+      "data/images/2026_aug_s1/q91_stem.png"
+    ],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 92,
+    "section": "Reasoning",
+    "question_text": "In the following triads, each group of letters is related to the subsequent one following a certain logic. TIME – WGPC – HSLZ LONG – OMQE – JTRR Which of the following are correct matches as per the given code language? (i) WARD (W) ZYVB (A) GXCD (ii) CALM (X) ZYUB (B) PQDI (Y) FYNK (C) PRDI (Z) FYOK (D) GXDC",
+    "options": {
+      "A": "(i)-(W)-(A) , (ii)-(Y)-(C)",
+      "B": "(i)-(X)-(A) , (ii)-(Y)-(B)",
+      "C": "(i)-(X)-(D) , (ii)-(Z)-(C)",
+      "D": "(i)-(W)-(D) , (ii)-(Z)-(B)"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091649737",
+    "status": "Answered",
+    "chosen_option": "3",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 93,
+    "section": "Reasoning",
+    "question_text": "Which of the following letter-clusters should replace # and % so that the pattern and relationship followed between the letter-cluster pair on the left side of :: is the same as that on the right side of :: ? # : GEDC :: USRQ : %",
+    "options": {
+      "A": "# =GIER , % =QSRO",
+      "B": "# =IGEF , % =SPOL",
+      "C": "# =FEGI , % =QSPO",
+      "D": "# =IGFE , % = SQPO"
+    },
+    "correct_answer": "D",
+    "question_id": "4410091963654",
+    "status": "Not Answered",
+    "chosen_option": "--",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 94,
+    "section": "Reasoning",
+    "question_text": "A dice has its faces marked by the letters G, H, I, J, K and L. Three positions of the dice are given below. One of the faces in the first image is masked by '*'. How many letters are there according to the English alphabetical order between the masked symbol '*' and the letter on the face opposite to it?",
+    "options": {
+      "A": "Two",
+      "B": "Three",
+      "C": "Zero",
+      "D": "One"
+    },
+    "correct_answer": "D",
+    "question_id": "4410091967720",
+    "status": "Answered",
+    "chosen_option": "4",
+    "has_figure": true,
+    "image_path": "data/images/2026_aug_s1/q94_fig_1.png",
+    "all_images": [
+      "data/images/2026_aug_s1/q94_fig_1.png"
+    ],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 95,
+    "section": "Reasoning",
+    "question_text": "In the given diagram, the no. of people who could play different types of sports is given. The rectangle represents Cricket players, the triangle represents Football players, the circle represents Hockey players, and the square represents Golf players. Find the number of players who could play exactly two types of sports only.",
+    "options": {
+      "A": "16",
+      "B": "69",
+      "C": "25",
+      "D": "31"
+    },
+    "correct_answer": "B",
+    "question_id": "4410091987688",
+    "status": "Answered",
+    "chosen_option": "2",
+    "has_figure": true,
+    "image_path": "data/images/2026_aug_s1/q95_fig_1.png",
+    "all_images": [
+      "data/images/2026_aug_s1/q95_fig_1.png"
+    ],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 96,
+    "section": "Reasoning",
+    "question_text": "At present, an accurate clock shows 16:20 hrs. By how many degrees will the hour hand rotate when the clock shows the mirror image of the present time? (Assume the mirror is kept along the vertical plane.)",
+    "options": {
+      "A": "215°",
+      "B": "180°",
+      "C": "100°",
+      "D": "210°"
+    },
+    "correct_answer": "C",
+    "question_id": "4410092257184",
+    "status": "Marked For Review",
+    "chosen_option": "3",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 97,
+    "section": "Reasoning",
+    "question_text": "Identify the figure given in the options which when put in place of the (?) will logically complete the series.",
+    "options": {
+      "A": "[Figure: data/images/2026_aug_s1/q97_opt_A.png]",
+      "B": "[Figure: data/images/2026_aug_s1/q97_opt_B.png]",
+      "C": "[Figure: data/images/2026_aug_s1/q97_opt_C.png]",
+      "D": "[Figure: data/images/2026_aug_s1/q97_opt_D.png]"
+    },
+    "correct_answer": "B",
+    "question_id": "4410091967664",
+    "status": "Answered",
+    "chosen_option": "2",
+    "has_figure": true,
+    "image_path": "data/images/2026_aug_s1/q97_stem.png",
+    "all_images": [
+      "data/images/2026_aug_s1/q97_stem.png"
+    ],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 98,
+    "section": "Reasoning",
+    "question_text": "A dice has its faces named by three letters (L, M, N) and three symbols (β, π, θ). Two positions of the same dice are given below. Which face is opposite to face M?",
+    "options": {
+      "A": "N",
+      "B": "θ",
+      "C": "L",
+      "D": "β"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091651250",
+    "status": "Answered",
+    "chosen_option": "3",
+    "has_figure": true,
+    "image_path": "data/images/2026_aug_s1/q98_fig_1.png",
+    "all_images": [
+      "data/images/2026_aug_s1/q98_fig_1.png"
+    ],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 99,
+    "section": "Reasoning",
+    "question_text": "In a family, K is the daughter of E. G is the son of P. L is the mother of R. Q is the maternal grandmother of R. R is the brother of K. J is the sister of E. L is the sister of G. Which of the following statements is/are true? (I) E is the son-in-law of P. (II) J is the paternal aunt of R. (III) K is the granddaughter of G.",
+    "options": {
+      "A": "Only II and III",
+      "B": "Only I",
+      "C": "Only I and II",
+      "D": "Only II"
+    },
+    "correct_answer": "C",
+    "question_id": "4410091648109",
+    "status": "Answered",
+    "chosen_option": "3",
+    "has_figure": false,
+    "image_path": null,
+    "all_images": [],
+    "shift": "Shift 1"
+  },
+  {
+    "question_number": 100,
+    "section": "Reasoning",
+    "question_text": "From the given options, select the option in which the dots can be placed in the same way as shown in the question figure below.",
+    "options": {
+      "A": "[Figure: data/images/2026_aug_s1/q100_opt_A.png]",
+      "B": "[Figure: data/images/2026_aug_s1/q100_opt_B.png]",
+      "C": "[Figure: data/images/2026_aug_s1/q100_opt_C.png]",
+      "D": "[Figure: data/images/2026_aug_s1/q100_opt_D.png]"
+    },
+    "correct_answer": "B",
+    "question_id": "4410091967652",
+    "status": "Answered",
+    "chosen_option": "2",
+    "has_figure": true,
+    "image_path": "data/images/2026_aug_s1/q100_stem.png",
+    "all_images": [
+      "data/images/2026_aug_s1/q100_stem.png"
+    ],
+    "shift": "Shift 1"
+  }
+]

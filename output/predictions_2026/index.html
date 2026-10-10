@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AFCAT 2026 Mission Control</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
+    <title>AFCAT 01/2027 Mission Control</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -45,8 +45,48 @@
         }
     </script>
     <style>
+        html, body {
+            overflow-x: hidden;
+            max-width: 100vw;
+        }
         body { background-color: #f8fafc; color: #334155; }
-        
+        * { -webkit-tap-highlight-color: transparent; }
+        .overflow-x-auto { -webkit-overflow-scrolling: touch; }
+
+        /* Mobile Bottom Navigation */
+        .mobile-nav-bar {
+            padding-bottom: max(0.5rem, env(safe-area-inset-bottom, 0.5rem));
+        }
+        .mobile-nav-btn {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 2px;
+            min-height: 48px;
+            font-size: 10px;
+            font-weight: 700;
+            color: #94a3b8;
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+            border-radius: 12px;
+            padding: 4px 6px;
+            touch-action: manipulation;
+        }
+        .mobile-nav-btn:active {
+            transform: scale(0.94);
+        }
+        .mobile-nav-btn.active {
+            color: #3b82f6;
+            background: rgba(59, 130, 246, 0.12);
+        }
+        .mobile-nav-btn.active .mobile-nav-icon {
+            transform: translateY(-1px) scale(1.08);
+            color: #3b82f6;
+        }
+        .mobile-nav-icon {
+            transition: transform 0.2s ease, color 0.2s ease;
+        }
+
         /* Smooth Transitions */
         .tab-content { display: none; opacity: 0; transform: translateY(10px); transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1); }
         .tab-content.active { display: block; opacity: 1; transform: translateY(0); }
@@ -226,24 +266,24 @@
 <body class="min-h-screen flex flex-col font-sans selection:bg-brand-blue selection:text-white">
 
     <header class="bg-brand-navy sticky top-0 z-50 border-b border-slate-700/50 shadow-2xl">
-        <div class="max-w-7xl mx-auto px-6">
-            <div class="flex justify-between items-center h-24">
-                <div class="flex items-center gap-5">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6">
+            <div class="flex justify-between items-center h-20 sm:h-24">
+                <div class="flex items-center gap-3 sm:gap-5">
                     <div class="relative group">
                         <div class="absolute -inset-1 bg-brand-blue/50 rounded-full blur opacity-20 group-hover:opacity-60 transition duration-500"></div>
-                        <div class="relative w-12 h-12 bg-gradient-to-br from-slate-800 to-slate-900 rounded-xl flex items-center justify-center border border-slate-600 shadow-inner group-hover:scale-105 transition-transform">
-                            <svg class="w-7 h-7 text-white" fill="currentColor" viewBox="0 0 24 24">
+                        <div class="relative w-10 h-10 sm:w-12 sm:h-12 bg-gradient-to-br from-slate-800 to-slate-900 rounded-xl flex items-center justify-center border border-slate-600 shadow-inner group-hover:scale-105 transition-transform">
+                            <svg class="w-5 h-5 sm:w-7 sm:h-7 text-white" fill="currentColor" viewBox="0 0 24 24">
                                 <path d="M21,16V14L13,9V3.5A1.5,1.5,0,0,0,11.5,2A1.5,1.5,0,0,0,10,3.5V9L2,14V16L10,13.5V19L8,20.5V22L11.5,21L15,22V20.5L13,19V13.5L21,16Z"/>
                             </svg>
                         </div>
                     </div>
                     <div>
-                        <h1 class="font-heading font-black text-3xl tracking-tight text-white leading-none">
-                            AFCAT <span class="text-brand-blue">2026</span>
+                        <h1 class="font-heading font-black text-2xl sm:text-3xl tracking-tight text-white leading-none">
+                            AFCAT <span class="text-brand-blue">01/2027</span>
                         </h1>
                         <div class="flex items-center gap-2 mt-1">
-                            <span class="h-0.5 w-4 bg-brand-blue rounded-full"></span>
-                            <p class="text-[10px] uppercase tracking-[0.25em] text-slate-400 font-bold">Mission Control</p>
+                            <span class="h-0.5 w-3 sm:w-4 bg-brand-blue rounded-full"></span>
+                            <p class="text-[9px] sm:text-[10px] uppercase tracking-[0.2em] sm:tracking-[0.25em] text-slate-400 font-bold">Mission Control</p>
                         </div>
                     </div>
                 </div>
@@ -254,11 +294,11 @@
                     <button onclick="switchTab('mock')" class="nav-item" data-tab="mock">Mock Ops</button>
                     <button onclick="switchTab('blueprint')" class="nav-item" data-tab="blueprint">150+ Blueprint</button>
                 </nav>
-                
-                <div class="flex items-center gap-6">
-                    <div class="hidden lg:block text-right">
-                        <div class="text-[10px] text-slate-400 font-bold uppercase tracking-widest">System Status</div>
-                        <div class="text-xs font-bold text-green-400 flex items-center justify-end gap-1">
+
+                <div class="flex items-center gap-3 sm:gap-6">
+                    <div class="text-right">
+                        <div class="text-[9px] sm:text-[10px] text-slate-400 font-bold uppercase tracking-widest hidden sm:block">System Status</div>
+                        <div class="text-[11px] sm:text-xs font-bold text-green-400 flex items-center justify-end gap-1.5">
                             Online <span class="relative flex h-2 w-2">
                               <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
                               <span class="relative inline-flex rounded-full h-2 w-2 bg-green-500"></span>
@@ -270,68 +310,68 @@
         </div>
     </header>
 
-    <main class="flex-grow max-w-7xl mx-auto px-6 py-10 w-full">
+    <main class="flex-grow max-w-7xl mx-auto px-4 sm:px-6 py-6 sm:py-10 pb-24 md:pb-10 w-full">
 
         <div id="dashboard" class="tab-content active">
-            <div class="relative bg-brand-navy rounded-[2.5rem] p-12 mb-14 overflow-hidden shadow-float group">
+            <div class="relative bg-brand-navy rounded-2xl sm:rounded-[2.5rem] p-5 sm:p-12 mb-8 sm:mb-14 overflow-hidden shadow-float group">
                 <div class="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/carbon-fibre.png')] opacity-20"></div>
                 <div class="absolute -right-20 top-0 w-[500px] h-full bg-gradient-to-l from-brand-blue/20 to-transparent skew-x-12"></div>
-                
-                <svg class="absolute -bottom-10 -right-10 w-96 h-96 text-white/5 rotate-[-15deg]" fill="currentColor" viewBox="0 0 24 24">
+
+                <svg class="absolute -bottom-10 -right-10 w-64 h-64 sm:w-96 sm:h-96 text-white/5 rotate-[-15deg]" fill="currentColor" viewBox="0 0 24 24">
                     <path d="M21,16V14L13,9V3.5A1.5,1.5,0,0,0,11.5,2A1.5,1.5,0,0,0,10,3.5V9L2,14V16L10,13.5V19L8,20.5V22L11.5,21L15,22V20.5L13,19V13.5L21,16Z"/>
                 </svg>
-                
-                <div class="relative z-10 flex flex-col lg:flex-row justify-between items-center gap-12">
-                    <div class="max-w-2xl">
-                        <div class="inline-flex items-center gap-2 bg-brand-blue/20 backdrop-blur-md px-4 py-1.5 rounded-full border border-brand-blue/30 mb-6 shadow-glow">
-                            <span class="text-xs font-bold text-white uppercase tracking-widest">AI Prediction Model v3.0</span>
+
+                <div class="relative z-10 flex flex-col lg:flex-row justify-between items-start lg:items-center gap-6 sm:gap-12">
+                    <div class="max-w-2xl w-full">
+                        <div class="inline-flex items-center gap-2 bg-brand-blue/20 backdrop-blur-md px-3 sm:px-4 py-1.5 rounded-full border border-brand-blue/30 mb-4 sm:mb-6 shadow-glow">
+                            <span class="text-[10px] sm:text-xs font-bold text-white uppercase tracking-widest">AI Prediction Model v3.0</span>
                         </div>
-                        <h2 class="font-heading text-5xl lg:text-7xl font-black text-white mb-6 leading-tight tracking-tight">
+                        <h2 class="font-heading text-3xl sm:text-5xl lg:text-7xl font-black text-white mb-4 sm:mb-6 leading-tight tracking-tight">
                             TARGET <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-blue to-brand-sky">180+</span>
                         </h2>
-                        <p class="text-slate-300 text-xl leading-relaxed font-light">
-                            Analyzing <span id="total-pyq-display" class="text-white font-bold border-b-2 border-brand-blue/50">data stream</span>. 
-                            The system has identified high-probability zones for 2026.
+                        <p class="text-slate-300 text-sm sm:text-xl leading-relaxed font-light">
+                            Analyzing <span id="total-pyq-display" class="text-white font-bold border-b-2 border-brand-blue/50">data stream</span>.
+                            The system has identified high-probability zones for AFCAT 01/2027.
                         </p>
                     </div>
-                    
-                    <div class="flex gap-5">
-                        <div class="bg-slate-800/50 backdrop-blur-md p-6 rounded-[2rem] border border-white/5 text-center min-w-[160px] shadow-2xl">
-                            <div class="text-5xl font-heading font-black text-white mb-2">95%</div>
-                            <div class="text-[11px] text-brand-sky uppercase font-bold tracking-widest">Confidence</div>
+
+                    <div class="w-full sm:w-auto grid grid-cols-2 gap-3 sm:flex sm:gap-5">
+                        <div class="bg-slate-800/50 backdrop-blur-md p-4 sm:p-6 rounded-2xl sm:rounded-[2rem] border border-white/5 text-center sm:min-w-[160px] shadow-2xl">
+                            <div class="text-3xl sm:text-5xl font-heading font-black text-white mb-1 sm:mb-2">95%</div>
+                            <div class="text-[9px] sm:text-[11px] text-brand-sky uppercase font-bold tracking-widest">Confidence</div>
                         </div>
-                        <div class="bg-slate-800/50 backdrop-blur-md p-6 rounded-[2rem] border border-white/5 text-center min-w-[160px] shadow-2xl">
-                            <div class="text-5xl font-heading font-black text-white mb-2">15</div>
-                            <div class="text-[11px] text-brand-sky uppercase font-bold tracking-widest">Priority Topics</div>
+                        <div class="bg-slate-800/50 backdrop-blur-md p-4 sm:p-6 rounded-2xl sm:rounded-[2rem] border border-white/5 text-center sm:min-w-[160px] shadow-2xl">
+                            <div class="text-3xl sm:text-5xl font-heading font-black text-white mb-1 sm:mb-2">15</div>
+                            <div class="text-[9px] sm:text-[11px] text-brand-sky uppercase font-bold tracking-widest">Priority Topics</div>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="grid lg:grid-cols-3 gap-10">
+            <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 sm:gap-10">
                 <div class="lg:col-span-2">
-                    <div class="bg-white rounded-[2rem] shadow-card border border-slate-100 overflow-hidden">
-                        <div class="px-8 py-6 border-b border-slate-50 flex justify-between items-center bg-slate-50/30">
-                            <div class="flex items-center gap-4">
-                                <div class="w-10 h-10 rounded-full bg-brand-navy text-white flex items-center justify-center font-bold">15</div>
+                    <div class="bg-white rounded-2xl sm:rounded-[2rem] shadow-card border border-slate-100 overflow-hidden">
+                        <div class="px-4 sm:px-8 py-4 sm:py-6 border-b border-slate-50 flex justify-between items-center bg-slate-50/30 gap-2">
+                            <div class="flex items-center gap-2.5 sm:gap-4">
+                                <div class="w-8 h-8 sm:w-10 sm:h-10 rounded-full bg-brand-navy text-white flex items-center justify-center font-bold text-xs sm:text-base flex-shrink-0">15</div>
                                 <div>
-                                    <h3 class="font-heading text-2xl font-bold text-brand-navy">High Value Targets</h3>
-                                    <p class="text-xs text-slate-500 font-medium">Prioritize these for maximum ROI.</p>
+                                    <h3 class="font-heading text-lg sm:text-2xl font-bold text-brand-navy">High Value Targets</h3>
+                                    <p class="text-[11px] sm:text-xs text-slate-500 font-medium">Prioritize these for maximum ROI.</p>
                                 </div>
                             </div>
-                            <button onclick="switchTab('topics')" class="bg-brand-navy text-white px-6 py-3 rounded-xl text-xs font-bold shadow-lg hover:bg-slate-800 transition transform hover:-translate-y-0.5 flex items-center gap-2">
-                                Launch Grid
-                                <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
+                            <button onclick="switchTab('topics')" class="bg-brand-navy text-white px-3 sm:px-6 py-2 sm:py-3 rounded-xl text-[11px] sm:text-xs font-bold shadow-lg hover:bg-slate-800 transition transform hover:-translate-y-0.5 flex items-center gap-1.5 sm:gap-2 flex-shrink-0">
+                                <span>Launch Grid</span>
+                                <svg class="w-3.5 h-3.5 sm:w-4 sm:h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
                             </button>
                         </div>
                         <div class="overflow-x-auto">
                             <table class="w-full">
                                 <thead class="bg-slate-50/80 border-b border-slate-100">
                                     <tr>
-                                        <th class="px-8 py-4 text-left text-[10px] font-bold text-slate-400 uppercase tracking-widest">Rank</th>
-                                        <th class="px-8 py-4 text-left text-[10px] font-bold text-slate-400 uppercase tracking-widest">Topic Name</th>
-                                        <th class="px-8 py-4 text-left text-[10px] font-bold text-slate-400 uppercase tracking-widest">Section</th>
-                                        <th class="px-8 py-4 text-right text-[10px] font-bold text-slate-400 uppercase tracking-widest">Forecast</th>
+                                        <th class="px-3 sm:px-8 py-3 sm:py-4 text-left text-[9px] sm:text-[10px] font-black uppercase tracking-widest text-slate-400">Rank</th>
+                                        <th class="px-3 sm:px-8 py-3 sm:py-4 text-left text-[9px] sm:text-[10px] font-black uppercase tracking-widest text-slate-400">Target</th>
+                                        <th class="px-2 sm:px-8 py-3 sm:py-4 text-left text-[9px] sm:text-[10px] font-black uppercase tracking-widest text-slate-400">Domain</th>
+                                        <th class="px-3 sm:px-8 py-3 sm:py-4 text-right text-[9px] sm:text-[10px] font-black uppercase tracking-widest text-slate-400">Weight</th>
                                     </tr>
                                 </thead>
                                 <tbody id="priority-list" class="divide-y divide-slate-50"></tbody>
@@ -340,135 +380,139 @@
                     </div>
                 </div>
 
-                <div class="space-y-8">
-                    <div class="bg-white rounded-[2rem] p-8 shadow-card border border-slate-100 relative overflow-hidden group hover:border-green-200 transition">
+                <div class="space-y-6 sm:space-y-8">
+                    <div class="bg-white rounded-2xl sm:rounded-[2rem] p-5 sm:p-8 shadow-card border border-slate-100 relative overflow-hidden group hover:border-green-200 transition">
                         <div class="absolute top-0 right-0 p-6 opacity-5 group-hover:opacity-10 transition">
                             <svg class="w-24 h-24" fill="currentColor" viewBox="0 0 24 24"><path d="M16 6l2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6z"/></svg>
                         </div>
-                        <h3 class="font-heading font-bold text-xl text-slate-800 mb-6 flex items-center gap-3">
-                            <span class="w-8 h-8 rounded-lg bg-green-100 flex items-center justify-center text-green-600">
-                                <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"/></svg>
+                        <h3 class="font-heading font-bold text-lg sm:text-xl text-slate-800 mb-4 sm:mb-6 flex items-center gap-2.5 sm:gap-3">
+                            <span class="w-7 h-7 sm:w-8 sm:h-8 rounded-lg bg-green-100 flex items-center justify-center text-green-600">
+                                <svg class="w-4 h-4 sm:w-5 sm:h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"/></svg>
                             </span>
                             Rising Trends
                         </h3>
-                        <div id="trending-list" class="space-y-4 relative z-10"></div>
+                        <div id="trending-list" class="space-y-3 sm:space-y-4 relative z-10"></div>
                     </div>
 
-                    <div class="bg-white rounded-[2rem] p-8 shadow-card border border-slate-100 relative overflow-hidden group hover:border-red-200 transition">
-                        <h3 class="font-heading font-bold text-xl text-slate-800 mb-6 flex items-center gap-3">
-                            <span class="w-8 h-8 rounded-lg bg-red-100 flex items-center justify-center text-red-600">
-                                <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M13 17h8m0 0V9m0 8l-8-8-4 4-6-6"/></svg>
+                    <div class="bg-white rounded-2xl sm:rounded-[2rem] p-5 sm:p-8 shadow-card border border-slate-100 relative overflow-hidden group hover:border-red-200 transition">
+                        <h3 class="font-heading font-bold text-lg sm:text-xl text-slate-800 mb-4 sm:mb-6 flex items-center gap-2.5 sm:gap-3">
+                            <span class="w-7 h-7 sm:w-8 sm:h-8 rounded-lg bg-red-100 flex items-center justify-center text-red-600">
+                                <svg class="w-4 h-4 sm:w-5 sm:h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M13 17h8m0 0V9m0 8l-8-8-4 4-6-6"/></svg>
                             </span>
                             Declining
                         </h3>
-                        <div id="declining-list" class="space-y-4 relative z-10"></div>
+                        <div id="declining-list" class="space-y-3 sm:space-y-4 relative z-10"></div>
                     </div>
                 </div>
             </div>
         </div>
 
         <div id="topics" class="tab-content">
-            <div class="flex flex-col md:flex-row justify-between items-center mb-12 gap-6">
-                <div class="relative w-full md:w-96 group">
-                    <input type="text" id="topic-search" placeholder="Locate specific topic..." 
-                        class="w-full pl-14 pr-6 py-4 rounded-2xl bg-white border border-slate-200 focus:outline-none focus:ring-4 focus:ring-brand-blue/10 shadow-sm font-medium transition-all group-hover:border-blue-300"
+            <div class="flex flex-col md:flex-row justify-between items-start md:items-center mb-6 sm:mb-10 gap-4 sm:gap-6">
+                <div>
+                    <h2 class="font-heading text-2xl sm:text-4xl font-black text-brand-navy">Mission Grid</h2>
+                    <p class="text-xs sm:text-sm text-slate-400 font-medium">Select a node to engage tactical question bank.</p>
+                </div>
+                <div class="relative w-full md:w-80 group">
+                    <input type="text" id="topic-search" placeholder="Locate specific topic..."
+                        class="w-full pl-11 sm:pl-12 pr-4 sm:pr-6 py-2.5 sm:py-3.5 rounded-xl sm:rounded-2xl bg-white border border-slate-200 focus:outline-none focus:ring-4 focus:ring-brand-blue/10 shadow-sm font-semibold text-xs sm:text-sm text-brand-navy transition-all group-hover:border-blue-300"
                         onkeyup="filterTopics()">
-                    <svg class="w-6 h-6 absolute left-5 top-1/2 -translate-y-1/2 text-slate-400 group-hover:text-brand-blue transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <svg class="w-4 h-4 sm:w-5 sm:h-5 absolute left-3.5 sm:left-4 top-1/2 -translate-y-1/2 text-slate-400 group-hover:text-brand-blue transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                     </svg>
                 </div>
-                
-                <div class="flex gap-2 bg-white p-2 rounded-2xl border border-slate-200 shadow-sm overflow-x-auto w-full md:w-auto">
-                    <button onclick="filterBySection('all')" class="filter-btn active px-6 py-2.5 rounded-xl text-xs font-bold transition-all bg-brand-navy text-white shadow-md" data-filter="all">All</button>
-                    <button onclick="filterBySection('Verbal Ability')" class="filter-btn px-6 py-2.5 rounded-xl text-xs font-bold text-slate-500 hover:bg-slate-50 transition-all" data-filter="Verbal Ability">Verbal</button>
-                    <button onclick="filterBySection('Reasoning')" class="filter-btn px-6 py-2.5 rounded-xl text-xs font-bold text-slate-500 hover:bg-slate-50 transition-all" data-filter="Reasoning">Reasoning</button>
-                    <button onclick="filterBySection('General Awareness')" class="filter-btn px-6 py-2.5 rounded-xl text-xs font-bold text-slate-500 hover:bg-slate-50 transition-all" data-filter="General Awareness">GK</button>
-                    <button onclick="filterBySection('Numerical Ability')" class="filter-btn px-6 py-2.5 rounded-xl text-xs font-bold text-slate-500 hover:bg-slate-50 transition-all" data-filter="Numerical Ability">Maths</button>
-                </div>
             </div>
-            
-            <div id="topics-grid" class="grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8 pb-20">
-                </div>
+
+            <div class="flex gap-1.5 sm:gap-2 bg-white p-1.5 sm:p-2 rounded-xl sm:rounded-2xl border border-slate-200 shadow-sm overflow-x-auto w-full md:w-auto mb-6 sm:mb-8 pb-2 sm:pb-2">
+                <button onclick="filterBySection('all')" class="filter-btn active px-4 sm:px-6 py-2 sm:py-2.5 rounded-lg sm:rounded-xl text-[11px] sm:text-xs font-bold transition-all bg-brand-navy text-white shadow-md flex-shrink-0" data-filter="all">All</button>
+                <button onclick="filterBySection('Verbal Ability')" class="filter-btn px-4 sm:px-6 py-2 sm:py-2.5 rounded-lg sm:rounded-xl text-[11px] sm:text-xs font-bold text-slate-500 hover:bg-slate-50 transition-all flex-shrink-0" data-filter="Verbal Ability">Verbal</button>
+                <button onclick="filterBySection('Reasoning')" class="filter-btn px-4 sm:px-6 py-2 sm:py-2.5 rounded-lg sm:rounded-xl text-[11px] sm:text-xs font-bold text-slate-500 hover:bg-slate-50 transition-all flex-shrink-0" data-filter="Reasoning">Reasoning</button>
+                <button onclick="filterBySection('General Awareness')" class="filter-btn px-4 sm:px-6 py-2 sm:py-2.5 rounded-lg sm:rounded-xl text-[11px] sm:text-xs font-bold text-slate-500 hover:bg-slate-50 transition-all flex-shrink-0" data-filter="General Awareness">GK</button>
+                <button onclick="filterBySection('Numerical Ability')" class="filter-btn px-4 sm:px-6 py-2 sm:py-2.5 rounded-lg sm:rounded-xl text-[11px] sm:text-xs font-bold text-slate-500 hover:bg-slate-50 transition-all flex-shrink-0" data-filter="Numerical Ability">Maths</button>
+            </div>
+
+            <div id="topics-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-8 pb-10 sm:pb-20">
+            </div>
         </div>
 
         <div id="mock" class="tab-content">
-            <div class="bg-brand-navy rounded-[2.5rem] p-12 shadow-float text-center relative overflow-hidden mb-12">
+            <div class="bg-brand-navy rounded-2xl sm:rounded-[2.5rem] p-6 sm:p-12 shadow-float text-center relative overflow-hidden mb-8 sm:mb-12">
                 <div class="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/carbon-fibre.png')] opacity-10"></div>
-                <svg class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] text-white/5" fill="currentColor" viewBox="0 0 24 24"><path d="M21,16V14L13,9V3.5A1.5,1.5,0,0,0,11.5,2A1.5,1.5,0,0,0,10,3.5V9L2,14V16L10,13.5V19L8,20.5V22L11.5,21L15,22V20.5L13,19V13.5L21,16Z"/></svg>
+                <svg class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-72 h-72 sm:w-[600px] sm:h-[600px] text-white/5" fill="currentColor" viewBox="0 0 24 24"><path d="M21,16V14L13,9V3.5A1.5,1.5,0,0,0,11.5,2A1.5,1.5,0,0,0,10,3.5V9L2,14V16L10,13.5V19L8,20.5V22L11.5,21L15,22V20.5L13,19V13.5L21,16Z"/></svg>
 
                 <div class="relative z-10">
-                    <h2 class="font-heading text-4xl font-black text-white mb-4">Exam Simulator</h2>
-                    <p class="text-slate-400 text-lg mb-10 max-w-2xl mx-auto">Real-time operational environment based on the 2026 blueprint.</p>
-                    
-                    <div class="flex flex-wrap justify-center gap-3">
-                        <button onclick="filterMockSection('all')" class="mock-btn active px-8 py-3 rounded-xl text-xs font-bold bg-white text-brand-navy shadow-lg transition-all">Full Test</button>
-                        <button onclick="filterMockSection('Verbal Ability')" class="mock-btn px-8 py-3 rounded-xl text-xs font-bold bg-white/5 text-slate-300 border border-white/10 hover:bg-white/10 transition-all">English</button>
-                        <button onclick="filterMockSection('Reasoning')" class="mock-btn px-8 py-3 rounded-xl text-xs font-bold bg-white/5 text-slate-300 border border-white/10 hover:bg-white/10 transition-all">Reasoning</button>
-                        <button onclick="filterMockSection('General Awareness')" class="mock-btn px-8 py-3 rounded-xl text-xs font-bold bg-white/5 text-slate-300 border border-white/10 hover:bg-white/10 transition-all">GK</button>
-                        <button onclick="filterMockSection('Numerical Ability')" class="mock-btn px-8 py-3 rounded-xl text-xs font-bold bg-white/5 text-slate-300 border border-white/10 hover:bg-white/10 transition-all">Maths</button>
+                    <h2 class="font-heading text-2xl sm:text-4xl font-black text-white mb-2 sm:mb-4">Exam Simulator</h2>
+                    <p class="text-slate-400 text-xs sm:text-lg mb-6 sm:mb-10 max-w-2xl mx-auto">Real-time operational environment based on the AFCAT 01/2027 blueprint.</p>
+
+                    <div class="flex flex-wrap justify-center gap-2 sm:gap-3">
+                        <button onclick="filterMockSection('all')" class="mock-btn active px-4 sm:px-8 py-2.5 sm:py-3 rounded-xl text-[11px] sm:text-xs font-bold bg-white text-brand-navy shadow-lg transition-all">Full Test</button>
+                        <button onclick="filterMockSection('Verbal Ability')" class="mock-btn px-4 sm:px-8 py-2.5 sm:py-3 rounded-xl text-[11px] sm:text-xs font-bold bg-white/5 text-slate-300 border border-white/10 hover:bg-white/10 transition-all">English</button>
+                        <button onclick="filterMockSection('Reasoning')" class="mock-btn px-4 sm:px-8 py-2.5 sm:py-3 rounded-xl text-[11px] sm:text-xs font-bold bg-white/5 text-slate-300 border border-white/10 hover:bg-white/10 transition-all">Reasoning</button>
+                        <button onclick="filterMockSection('General Awareness')" class="mock-btn px-4 sm:px-8 py-2.5 sm:py-3 rounded-xl text-[11px] sm:text-xs font-bold bg-white/5 text-slate-300 border border-white/10 hover:bg-white/10 transition-all">GK</button>
+                        <button onclick="filterMockSection('Numerical Ability')" class="mock-btn px-4 sm:px-8 py-2.5 sm:py-3 rounded-xl text-[11px] sm:text-xs font-bold bg-white/5 text-slate-300 border border-white/10 hover:bg-white/10 transition-all">Maths</button>
                     </div>
                 </div>
             </div>
-            
-            <div id="mock-questions" class="space-y-8 max-w-4xl mx-auto">
-                </div>
+
+            <div id="mock-questions" class="space-y-4 sm:space-y-8 max-w-4xl mx-auto">
+            </div>
         </div>
 
         <div id="blueprint" class="tab-content hidden">
-            <div class="bg-brand-navy rounded-[2.5rem] p-12 shadow-float text-center relative overflow-hidden mb-12">
+            <div class="bg-brand-navy rounded-2xl sm:rounded-[2.5rem] p-6 sm:p-12 shadow-float text-center relative overflow-hidden mb-8 sm:mb-12">
                 <div class="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/carbon-fibre.png')] opacity-10"></div>
                 <div class="relative z-10">
-                    <h2 class="font-heading text-4xl font-black text-white mb-4">150+ Mark Blueprint</h2>
-                    <p class="text-slate-400 text-lg mb-4 max-w-2xl mx-auto">Target exactly 50 questions (150 marks) with maximum ROI and minimum effort.</p>
+                    <h2 class="font-heading text-2xl sm:text-4xl font-black text-white mb-2 sm:mb-4">150+ Mark Blueprint</h2>
+                    <p class="text-slate-400 text-xs sm:text-lg mb-2 sm:mb-4 max-w-2xl mx-auto">Target exactly 50 questions (150 marks) with maximum ROI and minimum effort.</p>
                 </div>
             </div>
 
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8 mb-8 sm:mb-12">
                 <!-- Reasoning & Math (35 Qs target) -->
-                <div class="bg-white rounded-3xl p-8 shadow-sm border border-slate-100 relative overflow-hidden group">
+                <div class="bg-white rounded-2xl sm:rounded-3xl p-5 sm:p-8 shadow-sm border border-slate-100 relative overflow-hidden group">
                     <div class="absolute top-0 right-0 w-32 h-32 bg-brand-blue/5 rounded-bl-full -z-10 group-hover:scale-110 transition-transform"></div>
-                    <div class="flex justify-between items-start mb-6">
-                        <span class="bg-green-100 text-green-700 px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest">Target: 35 Questions</span>
+                    <div class="flex justify-between items-start mb-4 sm:mb-6">
+                        <span class="bg-green-100 text-green-700 px-3 py-1 rounded-full text-[9px] sm:text-[10px] font-bold uppercase tracking-widest">Target: 35 Questions</span>
                     </div>
-                    <h3 class="font-heading font-black text-2xl text-brand-navy mb-4">Reasoning & Math</h3>
-                    <p class="text-slate-500 text-sm mb-6">Rely on AI predictions. Practice these high-weightage clusters relentlessly.</p>
-                    
-                    <div class="space-y-4">
-                        <div class="p-4 bg-slate-50 rounded-2xl border border-slate-100 hover:border-brand-blue/30 transition-colors">
-                            <h4 class="font-bold text-brand-navy flex justify-between"><span>👁️ Visual Reasoning</span><span class="text-brand-blue">7 Qs</span></h4>
+                    <h3 class="font-heading font-black text-xl sm:text-2xl text-brand-navy mb-3 sm:mb-4">Reasoning & Math</h3>
+                    <p class="text-slate-500 text-xs sm:text-sm mb-4 sm:mb-6">Rely on AI predictions. Practice these high-weightage clusters relentlessly.</p>
+
+                    <div class="space-y-3 sm:space-y-4">
+                        <div class="p-3.5 sm:p-4 bg-slate-50 rounded-xl sm:rounded-2xl border border-slate-100 hover:border-brand-blue/30 transition-colors">
+                            <h4 class="font-bold text-sm sm:text-base text-brand-navy flex justify-between"><span>👁️ Visual Reasoning</span><span class="text-brand-blue">7 Qs</span></h4>
                             <p class="text-xs text-slate-500 mt-1">Non-Verbal Pattern (Figure Series, Odd Figure). Practice these daily as they require zero formulas.</p>
                         </div>
-                        <div class="p-4 bg-slate-50 rounded-2xl border border-slate-100 hover:border-brand-blue/30 transition-colors">
-                            <h4 class="font-bold text-brand-navy flex justify-between"><span>🧠 Logic & Coding</span><span class="text-brand-blue">10 Qs</span></h4>
+                        <div class="p-3.5 sm:p-4 bg-slate-50 rounded-xl sm:rounded-2xl border border-slate-100 hover:border-brand-blue/30 transition-colors">
+                            <h4 class="font-bold text-sm sm:text-base text-brand-navy flex justify-between"><span>🧠 Logic & Coding</span><span class="text-brand-blue">10 Qs</span></h4>
                             <p class="text-xs text-slate-500 mt-1">Coding-Decoding (5 Qs) and Logical Reasoning (5 Qs). Overlapping puzzles like blood relations and letter coding.</p>
                         </div>
-                        <div class="p-4 bg-slate-50 rounded-2xl border border-slate-100 hover:border-brand-blue/30 transition-colors">
-                            <h4 class="font-bold text-brand-navy flex justify-between"><span>📐 Math Fundamentals</span><span class="text-brand-blue">6 Qs</span></h4>
+                        <div class="p-3.5 sm:p-4 bg-slate-50 rounded-xl sm:rounded-2xl border border-slate-100 hover:border-brand-blue/30 transition-colors">
+                            <h4 class="font-bold text-sm sm:text-base text-brand-navy flex justify-between"><span>📐 Math Fundamentals</span><span class="text-brand-blue">6 Qs</span></h4>
                             <p class="text-xs text-slate-500 mt-1">Mensuration, Profit/Loss, and Time & Work guarantee easy marks if you know the core formulas.</p>
                         </div>
                     </div>
                 </div>
 
                 <!-- English & GK (15 Qs target) -->
-                <div class="bg-white rounded-3xl p-8 shadow-sm border border-slate-100 relative overflow-hidden group">
+                <div class="bg-white rounded-2xl sm:rounded-3xl p-5 sm:p-8 shadow-sm border border-slate-100 relative overflow-hidden group">
                     <div class="absolute top-0 right-0 w-32 h-32 bg-amber-500/5 rounded-bl-full -z-10 group-hover:scale-110 transition-transform"></div>
-                    <div class="flex justify-between items-start mb-6">
-                        <span class="bg-amber-100 text-amber-700 px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest">Target: 20 Questions</span>
+                    <div class="flex justify-between items-start mb-4 sm:mb-6">
+                        <span class="bg-amber-100 text-amber-700 px-3 py-1 rounded-full text-[9px] sm:text-[10px] font-bold uppercase tracking-widest">Target: 20 Questions</span>
                     </div>
-                    <h3 class="font-heading font-black text-2xl text-brand-navy mb-4">English & General Awareness</h3>
-                    <p class="text-slate-500 text-sm mb-6">Minimum Effort / High ROI. Do not study everything.</p>
-                    
-                    <div class="space-y-4">
-                        <div class="p-4 bg-slate-50 rounded-2xl border border-slate-100 hover:border-brand-blue/30 transition-colors">
-                            <h4 class="font-bold text-brand-navy flex justify-between"><span>📰 Newspaper Vocab</span><span class="text-brand-blue">12+ Qs</span></h4>
+                    <h3 class="font-heading font-black text-xl sm:text-2xl text-brand-navy mb-3 sm:mb-4">English & General Awareness</h3>
+                    <p class="text-slate-500 text-xs sm:text-sm mb-4 sm:mb-6">Minimum Effort / High ROI. Do not study everything.</p>
+
+                    <div class="space-y-3 sm:space-y-4">
+                        <div class="p-3.5 sm:p-4 bg-slate-50 rounded-xl sm:rounded-2xl border border-slate-100 hover:border-brand-blue/30 transition-colors">
+                            <h4 class="font-bold text-sm sm:text-base text-brand-navy flex justify-between"><span>📰 Newspaper Vocab</span><span class="text-brand-blue">12+ Qs</span></h4>
                             <p class="text-xs text-slate-500 mt-1">Extract high-frequency words from <strong>The Hindu/Indian Express</strong> editorials. Focus strictly on <strong>personality traits and military themes</strong>. For Idioms (4 Qs), memorize phrases with <strong>body parts & colours</strong>.</p>
                         </div>
-                        <div class="p-4 bg-slate-50 rounded-2xl border border-slate-100 hover:border-brand-blue/30 transition-colors">
-                            <h4 class="font-bold text-brand-navy flex justify-between"><span>✅ Rule-Specific Grammar</span><span class="text-brand-blue">8+ Qs</span></h4>
+                        <div class="p-3.5 sm:p-4 bg-slate-50 rounded-xl sm:rounded-2xl border border-slate-100 hover:border-brand-blue/30 transition-colors">
+                            <h4 class="font-bold text-sm sm:text-base text-brand-navy flex justify-between"><span>✅ Rule-Specific Grammar</span><span class="text-brand-blue">8+ Qs</span></h4>
                             <p class="text-xs text-slate-500 mt-1">Do not study entire grammar books. 78/81 historical error questions test <strong>Fixed Prepositions</strong> (e.g. <em>addicted to</em>) and <strong>Subject-Verb Agreement</strong>.</p>
                         </div>
-                        <div class="p-4 bg-slate-50 rounded-2xl border border-slate-100 hover:border-brand-blue/30 transition-colors">
-                            <h4 class="font-bold text-brand-navy flex justify-between"><span>🎯 Sniper GK</span><span class="text-brand-blue">7 Qs</span></h4>
+                        <div class="p-3.5 sm:p-4 bg-slate-50 rounded-xl sm:rounded-2xl border border-slate-100 hover:border-brand-blue/30 transition-colors">
+                            <h4 class="font-bold text-sm sm:text-base text-brand-navy flex justify-between"><span>🎯 Sniper GK</span><span class="text-brand-blue">7 Qs</span></h4>
                             <p class="text-xs text-slate-500 mt-1"><strong>Defence (5 Qs):</strong> Memorize Missiles, Exercises, and Ranks.<br/><strong>Awards (2 Qs):</strong> Nobel & Civilian only.<br/><strong>Sports:</strong> Terminology & Trophies only.</p>
                         </div>
                     </div>
@@ -477,8 +521,8 @@
 
             <!-- Dedicated Micro-Topics Breakdown Section -->
             <div class="mt-8">
-                <h3 class="font-heading font-black text-2xl text-brand-navy mb-6 text-center">Complete Micro-Topics Breakdown (100 Qs)</h3>
-                <div id="micro-topics-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <h3 class="font-heading font-black text-xl sm:text-2xl text-brand-navy mb-6 text-center">Complete Micro-Topics Breakdown (100 Qs)</h3>
+                <div id="micro-topics-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
                     <!-- Populated by JS -->
                 </div>
             </div>
@@ -486,27 +530,27 @@
 
     </main>
 
-    <div id="practice-modal" class="fixed inset-0 bg-brand-navy/90 backdrop-blur-md z-[100] hidden flex items-center justify-center p-6">
-        <div class="bg-white w-full max-w-5xl h-[90vh] rounded-[2.5rem] shadow-2xl flex flex-col overflow-hidden animate-slide-up">
-            <div class="px-10 py-6 border-b border-slate-100 flex justify-between items-center bg-gradient-to-r from-white to-slate-50 sticky top-0 z-10">
-                <div class="flex items-center gap-6">
-                    <span id="modal-badge" class="px-4 py-1.5 rounded-full text-[10px] font-bold uppercase tracking-widest">Topic</span>
-                    <h3 id="modal-topic-title" class="font-heading text-2xl font-black text-brand-navy">Topic Name</h3>
+    <div id="practice-modal" class="fixed inset-0 bg-brand-navy/90 backdrop-blur-md z-[100] hidden flex items-center justify-center p-2 sm:p-6">
+        <div class="bg-white w-full max-w-5xl h-[95vh] sm:h-[90vh] rounded-2xl sm:rounded-[2.5rem] shadow-2xl flex flex-col overflow-hidden animate-slide-up">
+            <div class="px-4 sm:px-10 py-3.5 sm:py-6 border-b border-slate-100 flex justify-between items-center bg-gradient-to-r from-white to-slate-50 sticky top-0 z-10">
+                <div class="flex items-center gap-2.5 sm:gap-6 min-w-0 flex-1 mr-2">
+                    <span id="modal-badge" class="px-2.5 sm:px-4 py-1 sm:py-1.5 rounded-full text-[9px] sm:text-[10px] font-bold uppercase tracking-widest flex-shrink-0">Topic</span>
+                    <h3 id="modal-topic-title" class="font-heading text-base sm:text-2xl font-black text-brand-navy truncate">Topic Name</h3>
                 </div>
-                <div class="flex items-center gap-6">
-                    <div class="relative">
+                <div class="flex items-center gap-3 sm:gap-6 flex-shrink-0">
+                    <div class="hidden sm:flex relative">
                         <div class="absolute -inset-3 bg-brand-blue/20 rounded-2xl blur-lg opacity-0 group-hover:opacity-100 transition"></div>
                         <div class="relative bg-gradient-to-br from-brand-blue to-brand-sky px-6 py-3 rounded-2xl text-white shadow-lg">
                             <div class="text-[10px] font-bold uppercase tracking-widest opacity-90">Progress</div>
                             <div class="text-3xl font-heading font-black" id="progress-counter">0 / 0</div>
                         </div>
                     </div>
-                    <button onclick="closeModal()" class="w-12 h-12 rounded-2xl bg-slate-100 flex items-center justify-center text-slate-500 hover:bg-red-50 hover:text-red-500 transition-all">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M6 18L18 6M6 6l12 12"/></svg>
+                    <button onclick="closeModal()" class="w-9 h-9 sm:w-12 sm:h-12 rounded-xl sm:rounded-2xl bg-slate-100 flex items-center justify-center text-slate-500 hover:bg-red-50 hover:text-red-500 transition-all flex-shrink-0">
+                        <svg class="w-4 h-4 sm:w-6 sm:h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M6 18L18 6M6 6l12 12"/></svg>
                     </button>
                 </div>
             </div>
-            <div id="modal-questions" class="flex-1 overflow-y-auto p-10 bg-slate-50/50 space-y-8"></div>
+            <div id="modal-questions" class="flex-1 overflow-y-auto p-3.5 sm:p-10 bg-slate-50/50 space-y-4 sm:space-y-8"></div>
         </div>
     </div>
 
@@ -626,7 +670,7 @@
         // --- DASHBOARD ---
         function renderDashboard() {
             const preds = appData.predictions?.ml_predictions || [];
-            
+
             // TOP 15
             const topTopics = [...preds]
                 .filter(p => (p.Predicted_Questions || p.predicted_count) > 0)
@@ -641,23 +685,23 @@
                 
                 return `
                 <tr class="hover:bg-slate-50 transition-colors cursor-pointer group border-b border-slate-50 last:border-0" onclick="openPractice('${name}', '${section}')">
-                    <td class="px-8 py-5 w-24">
-                        <div class="w-10 h-10 rounded-xl bg-slate-100 text-slate-500 font-heading font-bold flex items-center justify-center text-sm group-hover:bg-brand-navy group-hover:text-white transition-all">${i+1}</div>
+                    <td class="px-3 sm:px-8 py-3.5 sm:py-5 w-12 sm:w-24">
+                        <div class="w-8 h-8 sm:w-10 sm:h-10 rounded-lg sm:rounded-xl bg-slate-100 text-slate-500 font-heading font-bold flex items-center justify-center text-xs sm:text-sm group-hover:bg-brand-navy group-hover:text-white transition-all">${i+1}</div>
                     </td>
-                    <td class="px-8 py-5">
-                        <div class="font-bold text-brand-navy text-lg group-hover:text-brand-blue transition-colors">${name}</div>
+                    <td class="px-3 sm:px-8 py-3.5 sm:py-5">
+                        <div class="font-bold text-brand-navy text-sm sm:text-lg group-hover:text-brand-blue transition-colors line-clamp-2">${name}</div>
                     </td>
-                    <td class="px-8 py-5">
-                        <span class="px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest ${colors.badge}">
+                    <td class="px-2 sm:px-8 py-3.5 sm:py-5">
+                        <span class="px-2 sm:px-3 py-0.5 sm:py-1 rounded-full text-[9px] sm:text-[10px] font-bold uppercase tracking-widest ${colors.badge} whitespace-nowrap">
                             ${section}
                         </span>
                     </td>
-                    <td class="px-8 py-5 text-right">
-                        <div class="flex items-center justify-end gap-3">
-                            <div class="w-24 h-2 bg-slate-100 rounded-full overflow-hidden hidden sm:block">
+                    <td class="px-3 sm:px-8 py-3.5 sm:py-5 text-right">
+                        <div class="flex items-center justify-end gap-2 sm:gap-3">
+                            <div class="w-16 sm:w-24 h-1.5 sm:h-2 bg-slate-100 rounded-full overflow-hidden hidden sm:block">
                                 <div class="h-full ${colors.bar}" style="width: ${Math.min((count/6)*100, 100)}%"></div>
                             </div>
-                            <span class="font-heading font-black text-xl text-brand-navy">${count.toFixed(1)}</span>
+                            <span class="font-heading font-black text-base sm:text-xl text-brand-navy">${count.toFixed(1)}</span>
                         </div>
                     </td>
                 </tr>
@@ -711,34 +755,34 @@
                     
                     <div style="color: ${colors.hex}" class="h-1 w-full absolute top-0 left-0 bg-current"></div>
                     
-                    <div class="p-8 flex flex-col h-full relative z-10">
-                        <div class="flex justify-between items-start mb-6">
-                            <span class="${colors.badge} px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest">
+                    <div class="p-5 sm:p-8 flex flex-col h-full relative z-10">
+                        <div class="flex justify-between items-start mb-4 sm:mb-6">
+                            <span class="${colors.badge} px-2.5 sm:px-3 py-0.5 sm:py-1 rounded-full text-[9px] sm:text-[10px] font-bold uppercase tracking-widest">
                                 ${getSectionShort(section)}
                             </span>
                             ${(t.Is_Core || t.is_core) ? '<span class="text-brand-blue">★</span>' : ''}
                         </div>
-                        
-                        <h3 class="font-heading font-black text-2xl text-brand-navy mb-auto leading-tight group-hover:text-brand-blue transition-colors line-clamp-3">
+
+                        <h3 class="font-heading font-black text-xl sm:text-2xl text-brand-navy mb-auto leading-tight group-hover:text-brand-blue transition-colors line-clamp-3">
                             ${name}
                         </h3>
-                        
+
                         ${t.Micro_Focus && t.Micro_Focus.length > 0 ? `
-                        <div class="mt-4 space-y-1.5 flex-grow">
+                        <div class="mt-3 sm:mt-4 space-y-1 sm:space-y-1.5 flex-grow">
                             ${t.Micro_Focus.map(m => `
-                            <div class="flex justify-between items-center text-xs group/micro hover:bg-slate-50 p-1.5 -mx-1.5 rounded-lg transition-colors cursor-pointer" onclick="event.stopPropagation(); openPractice('${name}', '${section}', '${m.name}')">
-                                <span class="text-slate-500 font-medium truncate pr-2 group-hover/micro:text-brand-blue transition-colors flex items-center gap-2"><div class="w-1 h-1 rounded-full bg-slate-300 group-hover/micro:bg-brand-blue"></div>${m.name}</span>
+                            <div class="flex justify-between items-center text-[11px] sm:text-xs">
+                                <span class="text-slate-500 font-medium truncate pr-2">• ${m.name}</span>
                                 <span class="text-brand-blue font-bold">${m.count.toFixed(1)}</span>
                             </div>
                             `).join('')}
                         </div>
                         ` : ''}
 
-                        <div class="flex items-center justify-between pt-6 border-t border-slate-50 mt-6">
-                            <span class="text-[10px] font-bold text-slate-400 uppercase tracking-widest">Prediction</span>
+                        <div class="flex items-center justify-between pt-4 sm:pt-6 border-t border-slate-50 mt-4 sm:mt-6">
+                            <span class="text-[9px] sm:text-[10px] font-bold text-slate-400 uppercase tracking-widest">Prediction</span>
                             <div class="flex items-baseline gap-1">
-                                <span class="font-heading font-black text-4xl text-brand-navy group-hover:text-brand-blue transition-colors">${count.toFixed(1)}</span>
-                                <span class="text-xs font-bold text-slate-400 uppercase">Qs</span>
+                                <span class="font-heading font-black text-3xl sm:text-4xl text-brand-navy group-hover:text-brand-blue transition-colors">${count.toFixed(1)}</span>
+                                <span class="text-[10px] sm:text-xs font-bold text-slate-400 uppercase">Qs</span>
                             </div>
                         </div>
                     </div>
@@ -793,15 +837,10 @@
         }
 
         // --- UTILS ---
-        window.openPractice = function(topicName, section, microTopicName = null) {
+        window.openPractice = function(topicName, section) {
             const modal = document.getElementById('practice-modal');
             const container = document.getElementById('modal-questions');
-            
-            let displayTitle = topicName;
-            if (microTopicName) {
-                displayTitle = `${topicName} <span class="text-slate-300 mx-2">/</span> <span class="text-brand-sky">${microTopicName}</span>`;
-            }
-            document.getElementById('modal-topic-title').innerHTML = displayTitle;
+            document.getElementById('modal-topic-title').textContent = topicName;
 
             const badge = document.getElementById('modal-badge');
             badge.textContent = section || 'Topic';
@@ -817,14 +856,7 @@
             const questions = (appData.question_bank || []).filter(q => {
                 const qt = slug(q.topic_name || q.topic || q.topic_display || '');
                 const qc = slug(q.topic_code || '');
-                const qm = slug(q.micro_topic || '');
-                
-                if (microTopicName) {
-                    const targetMicro = slug(microTopicName);
-                    return qm.includes(targetMicro) || targetMicro.includes(qm) || qm === targetMicro;
-                } else {
-                    return qt.includes(target) || target.includes(qt) || qc === target;
-                }
+                return qt.includes(target) || target.includes(qt) || qc === target;
             });
 
             if(questions.length === 0) {
@@ -870,74 +902,71 @@
             const qId = `${q.topic_code || q.topic_name || q.topic}_${q.year || 'pyq'}_${num}`.replace(/\s+/g, '_');
             const savedAnswer = getSavedAnswer(qId);
             const isAnswered = !!savedAnswer;
-            
-            const microBadge = q.micro_topic ? `<span class="bg-slate-100 text-slate-500 px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest border border-slate-200">${q.micro_topic}</span>` : '';
 
             return `
-            <div class="bg-white rounded-3xl p-8 shadow-card border border-slate-100" data-question-id="${qId}" data-answered="${isAnswered}">
-                <div class="flex justify-between items-start mb-8 gap-4 flex-wrap">
-                    <div class="flex items-center gap-4 flex-wrap">
-                        <div class="w-10 h-10 rounded-xl flex items-center justify-center text-sm font-heading font-black ${isAnswered ? 'bg-green-100 text-green-600' : 'bg-slate-100 text-slate-500'}">
+            <div class="bg-white rounded-2xl sm:rounded-3xl p-5 sm:p-8 shadow-card border border-slate-100" data-question-id="${qId}" data-answered="${isAnswered}">
+                <div class="flex justify-between items-start mb-5 sm:mb-8">
+                    <div class="flex items-center gap-3 sm:gap-4">
+                        <div class="w-8 h-8 sm:w-10 sm:h-10 rounded-lg sm:rounded-xl flex items-center justify-center text-xs sm:text-sm font-heading font-black ${isAnswered ? 'bg-green-100 text-green-600' : 'bg-slate-100 text-slate-500'}">
                             ${isAnswered ? '✓' : `Q${num}`}
                         </div>
-                        <span class="${colors.badge} px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest">${q.topic_name || q.topic}</span>
-                        ${microBadge}
+                        <span class="${colors.badge} px-2.5 sm:px-3 py-0.5 sm:py-1 rounded-full text-[9px] sm:text-[10px] font-bold uppercase tracking-widest">${q.topic_name || q.topic}</span>
                     </div>
-                    <span class="bg-brand-navy/5 text-brand-navy text-[10px] font-black px-3 py-1.5 rounded-lg uppercase tracking-widest border border-brand-navy/10">${q.year || 'PYQ'}</span>
+                    <span class="bg-brand-navy/5 text-brand-navy text-[9px] sm:text-[10px] font-black px-2.5 sm:px-3 py-1 sm:py-1.5 rounded-lg uppercase tracking-widest border border-brand-navy/10">${q.year || 'PYQ'}</span>
                 </div>
 
                 ${q.passage ? `
-                <div class="mb-6 p-5 bg-slate-50 border border-slate-200 rounded-2xl text-slate-700 text-sm leading-relaxed whitespace-pre-wrap font-medium shadow-sm">
-                    <div class="flex items-center gap-2 mb-3 text-slate-500 font-bold text-xs uppercase tracking-widest">
-                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+                <div class="mb-4 sm:mb-6 p-4 sm:p-5 bg-slate-50 border border-slate-200 rounded-xl sm:rounded-2xl text-slate-700 text-xs sm:text-sm leading-relaxed whitespace-pre-wrap font-medium shadow-sm">
+                    <div class="flex items-center gap-2 mb-2 text-slate-500 font-bold text-[10px] sm:text-xs uppercase tracking-widest">
+                        <svg class="w-3.5 h-3.5 sm:w-4 sm:h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
                         Passage
                     </div>
                     ${q.passage}
                 </div>` : ''}
 
-                <p class="text-xl font-bold text-brand-navy mb-10 leading-relaxed font-heading">${q.question_text || q.question}</p>
+                <p class="text-base sm:text-xl font-bold text-brand-navy mb-6 sm:mb-10 leading-relaxed font-heading">${q.question_text || q.question}</p>
 
                 ${(q.has_figure && q.image_path && q.image_path.length > 0) ? `
-                <div style="margin:12px 0 24px 0;padding:12px;background:#f8fafc;border-radius:12px;border:1px solid #e2e8f0;display:flex;flex-wrap:wrap;gap:10px;justify-content:center;align-items:center;">
+                <div style="margin:8px 0 16px 0;padding:8px;background:#f8fafc;border-radius:12px;border:1px solid #e2e8f0;display:flex;flex-wrap:wrap;gap:8px;justify-content:center;align-items:center;">
                     ${q.image_path.map((imgSrc,ii) => {
                         const finalImgSrc = imgSrc.startsWith('http') ? imgSrc : 'https://raw.githubusercontent.com/shreyash1234566/afcatpyq3/main/' + imgSrc.replace('assets/images/', 'data/images/');
-                        return `<img src="${finalImgSrc}" alt="Figure ${ii+1}" loading="lazy" style="${q.image_dark ? 'filter:invert(1) brightness(0.85);background:#111;' : 'background:#fff;'} max-height:180px;max-width:100%;object-fit:contain;border-radius:8px;padding:4px;" onerror="this.style.display='none'" />`;
+                        return `<img src="${finalImgSrc}" alt="Figure ${ii+1}" loading="lazy" style="${q.image_dark ? 'filter:invert(1) brightness(0.85);background:#111;' : 'background:#fff;'} max-height:160px;max-width:100%;object-fit:contain;border-radius:8px;padding:4px;" onerror="this.style.display='none'" />`;
                     }).join('')}
                 </div>` : ''}
-                
-                <div class="grid md:grid-cols-2 gap-4">
+
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-2.5 sm:gap-4">
                     ${options.map((opt, idx) => {
                         const val = typeof opt === 'object' ? opt.text : opt;
                         const key = typeof opt === 'object' ? opt.key : String.fromCharCode(65+idx);
                         const isCorrect = (val === correctAns) || (key === correctAns);
                         const wasSaved = savedAnswer === key;
 
-                        return `<button onclick="check(this, ${isCorrect}, '${qId}', '${key}')" class="option-btn w-full text-left p-5 rounded-2xl text-sm font-bold text-slate-600 relative group flex items-center gap-4 transition-all ${wasSaved ? (isCorrect ? 'option-correct' : 'option-wrong') : 'hover:border-brand-blue'}" data-answer-key="${key}">
-                            <span class="w-8 h-8 rounded-lg bg-slate-100 text-slate-400 text-[10px] flex items-center justify-center font-black group-hover:bg-white transition-all">${key}</span>
-                            <span class="flex-1">${val}</span>
+                        return `<button onclick="check(this, ${isCorrect}, '${qId}', '${key}')" class="option-btn w-full text-left p-3.5 sm:p-5 rounded-xl sm:rounded-2xl text-xs sm:text-sm font-bold text-slate-600 relative group flex items-center gap-3 sm:gap-4 transition-all min-h-[48px] ${wasSaved ? (isCorrect ? 'option-correct' : 'option-wrong') : 'hover:border-brand-blue'}" data-answer-key="${key}">
+                            <span class="w-7 h-7 sm:w-8 sm:h-8 rounded-lg bg-slate-100 text-slate-400 text-[10px] flex items-center justify-center font-black group-hover:bg-white transition-all flex-shrink-0">${key}</span>
+                            <span class="flex-1 break-words">${val}</span>
                         </button>`;
                     }).join('')}
                 </div>
-                <div class="mt-6 ${isAnswered ? 'flex' : 'hidden'} expl p-6 bg-green-50 rounded-2xl text-sm text-green-800 border border-green-100 items-start gap-4 animate-fade-in">
-                    <div class="w-8 h-8 bg-green-500 rounded-full flex items-center justify-center text-white flex-shrink-0">
-                        <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"/></svg>
-                    </div>
-                    <div class="flex-1">
-                        <span class="block text-[10px] font-black uppercase tracking-widest mb-1 opacity-60">Verified Answer</span>
-                        <div class="flex items-center gap-3">
-                            <span class="font-bold text-lg">${correctAns && correctAns !== 'undefined' ? correctAns : (options && options[0] ? '(AI will identify)' : 'N/A')}</span>
+                <div class="mt-4 sm:mt-6 ${isAnswered ? 'flex' : 'hidden'} expl p-4 sm:p-6 bg-green-50 rounded-xl sm:rounded-2xl text-xs sm:text-sm text-green-800 border border-green-100 items-start sm:items-center justify-between gap-3 sm:gap-4 flex-wrap sm:flex-nowrap animate-fade-in">
+                    <div class="flex items-center gap-3 flex-1 min-w-[200px]">
+                        <div class="w-7 h-7 sm:w-8 sm:h-8 bg-green-500 rounded-full flex items-center justify-center text-white flex-shrink-0">
+                            <svg class="w-4 h-4 sm:w-5 sm:h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M5 13l4 4L19 7"/></svg>
+                        </div>
+                        <div>
+                            <span class="block text-[9px] sm:text-[10px] font-black uppercase tracking-widest mb-0.5 opacity-60">Verified Answer</span>
+                            <span class="font-bold text-sm sm:text-lg">${correctAns && correctAns !== 'undefined' ? correctAns : (options && options[0] ? '(AI will identify)' : 'N/A')}</span>
                         </div>
                     </div>
-                    <button onclick="getAIExplanation(this, '${q.question_text || q.question}', '${correctAns}', '${q.section}', '${q.topic_name || q.topic}')" class="ai-explain-btn px-4 py-2 text-white text-xs font-bold uppercase tracking-wide rounded-xl flex-shrink-0 relative">
-                        <span class="ai-explain-btn-text">
+                    <button onclick="getAIExplanation(this, '${(q.question_text || q.question || '').replace(/'/g, "\\'")}', '${correctAns}', '${q.section}', '${q.topic_name || q.topic}')" class="ai-explain-btn px-3 sm:px-4 py-2 text-white text-[11px] sm:text-xs font-bold uppercase tracking-wide rounded-xl flex-shrink-0 relative w-full sm:w-auto text-center justify-center">
+                        <span class="ai-explain-btn-text justify-center">
                             <span class="ai-explain-btn-icon">✨</span>
                             <span>AI Explain</span>
                         </span>
                     </button>
                 </div>
-                <div class="mt-6 hidden ai-expl p-6 animate-fade-in">
-                    <span class="block text-[10px] font-black uppercase tracking-widest mb-2 opacity-60">💡 AI-Powered Explanation</span>
-                    <div class="text-sm leading-relaxed ai-expl-content">Loading...</div>
+                <div class="mt-4 sm:mt-6 hidden ai-expl p-4 sm:p-6 rounded-xl sm:rounded-2xl animate-fade-in">
+                    <span class="block text-[9px] sm:text-[10px] font-black uppercase tracking-widest mb-2 opacity-60">💡 AI-Powered Explanation</span>
+                    <div class="text-xs sm:text-sm leading-relaxed ai-expl-content">Loading...</div>
                 </div>
             </div>
             `;
@@ -1052,10 +1081,10 @@
             card.querySelector('.expl').classList.remove('hidden');
 
             // Update question badge - find the badge element in the card
-            const questionBadge = card.querySelector('div.w-10');
+            const questionBadge = card.querySelector('div.w-10, div.w-8');
             if(questionBadge) {
                 questionBadge.innerHTML = '✓';
-                questionBadge.className = 'w-10 h-10 rounded-xl flex items-center justify-center text-sm font-heading font-black bg-green-100 text-green-600';
+                questionBadge.className = 'w-8 h-8 sm:w-10 sm:h-10 rounded-lg sm:rounded-xl flex items-center justify-center text-xs sm:text-sm font-heading font-black bg-green-100 text-green-600';
             }
 
             // Update the card's data-answered attribute
@@ -1067,7 +1096,7 @@
 
         // --- UTILS ---
         function getCount(obj) { return obj.Predicted_Questions || obj.predicted_count || 0; }
-        
+
         function getSectionColors(sec) {
             sec = (sec || '').toLowerCase();
             if(sec.includes('verbal')) return { badge: 'bg-brand-blue/10 text-brand-blue', bar: 'bg-brand-blue', hex: '#3b82f6' };
@@ -1075,7 +1104,7 @@
             if(sec.includes('general')) return { badge: 'bg-green-100 text-green-700', bar: 'bg-green-500', hex: '#22c55e' };
             return { badge: 'bg-orange-100 text-orange-700', bar: 'bg-orange-500', hex: '#f97316' };
         }
-        
+
         function getSectionShort(sec) {
             if(!sec) return 'Topic';
             if(sec.includes('Verbal')) return 'Verbal';
@@ -1086,9 +1115,11 @@
 
         window.switchTab = function(id) {
             document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
-            document.getElementById(id).classList.add('active');
+            const target = document.getElementById(id);
+            if (target) target.classList.add('active');
             document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active'));
-            document.querySelector(`[data-tab="${id}"]`).classList.add('active');
+            document.querySelectorAll('.mobile-nav-btn').forEach(el => el.classList.remove('active'));
+            document.querySelectorAll(`[data-tab="${id}"]`).forEach(el => el.classList.add('active'));
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
@@ -1103,5 +1134,27 @@
 
         init();
     </script>
+
+    <!-- Mobile Fixed Bottom Navigation Bar -->
+    <nav class="md:hidden fixed bottom-0 left-0 right-0 z-50 bg-slate-900/95 backdrop-blur-xl border-t border-slate-700/60 shadow-[0_-8px_30px_rgba(0,0,0,0.35)] mobile-nav-bar">
+        <div class="grid grid-cols-4 px-2 py-1.5">
+            <button onclick="switchTab('dashboard')" class="mobile-nav-btn active" data-tab="dashboard">
+                <svg class="w-5 h-5 mobile-nav-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+                <span>Intel</span>
+            </button>
+            <button onclick="switchTab('topics')" class="mobile-nav-btn" data-tab="topics">
+                <svg class="w-5 h-5 mobile-nav-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z"/></svg>
+                <span>Grid</span>
+            </button>
+            <button onclick="switchTab('mock')" class="mobile-nav-btn" data-tab="mock">
+                <svg class="w-5 h-5 mobile-nav-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01"/></svg>
+                <span>Mock Ops</span>
+            </button>
+            <button onclick="switchTab('blueprint')" class="mobile-nav-btn" data-tab="blueprint">
+                <svg class="w-5 h-5 mobile-nav-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>
+                <span>150+ Mark</span>
+            </button>
+        </div>
+    </nav>
 </body>
 </html>

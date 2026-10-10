@@ -17,3 +17,16 @@ dist/
 .idea/
 
 /.github/workflows/*.log
+
+# Scratch dumps and backups
+data/images/test_*.png
+data/papers/*_dump.txt
+data/processed/*backup*.json
+data/processed/classify.py
+scripts/* (2).py
+scripts/*_1.py
+scripts/*_2.py
+scripts/classify.py
+scripts/accuracy_report_claude*.py
+scripts/compare_100q_hit_rate.py
+

@@ -310,6 +310,18 @@ def main():
         total_w = sum(micros.values())
         topic_micro_probs[top] = {m: w/total_w for m, w in micros.items()}
 
+    # Calculate Micro Topic probabilities from 2026 Paper 1 (70% Anchor)
+    p1_micro_weights = defaultdict(lambda: defaultdict(float))
+    for q in p1_data:
+        t_sec, t_top, t_micro = q.get("section"), q.get("topic"), q.get("micro_topic")
+        if not all([t_sec, t_top, t_micro]): continue
+        p1_micro_weights[t_top][t_micro] += 1.0
+        
+    p1_micro_probs = {}
+    for top, micros in p1_micro_weights.items():
+        total_w = sum(micros.values())
+        p1_micro_probs[top] = {m: w/total_w for m, w in micros.items()}
+
     for sec, blk in plan_2026.items():
         allocs = allocate_exact(blk["topics"], blk["section_total"])
 
@@ -317,10 +329,23 @@ def main():
         for topic, n_q in allocs.items():
             if n_q < 1: continue
             
-            probs = topic_micro_probs.get(topic, {})
-            if not probs:
-                probs = {f"General {topic}": 1.0}
-            micro_allocs = allocate_seats(n_q, probs)
+            # 70/30 Hybrid Blending for Micro Topics
+            hist_probs = topic_micro_probs.get(topic, {})
+            p1_probs = p1_micro_probs.get(topic, {})
+            
+            blended_probs = defaultdict(float)
+            all_micros = set(hist_probs.keys()) | set(p1_probs.keys())
+            
+            if not all_micros:
+                blended_probs = {f"General {topic}": 1.0}
+            else:
+                for m in all_micros:
+                    # If P1 has no examples for this topic, fallback 100% to historical
+                    w_p1 = 0.7 if p1_probs else 0.0
+                    w_hist = 0.3 if p1_probs else 1.0
+                    blended_probs[m] = (w_p1 * p1_probs.get(m, 0.0)) + (w_hist * hist_probs.get(m, 0.0))
+
+            micro_allocs = allocate_seats(n_q, blended_probs)
 
             for micro_topic, m_q in micro_allocs.items():
                 if m_q < 1: continue

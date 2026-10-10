@@ -3,7 +3,7 @@ from pathlib import Path
 import collections
 
 def main():
-    Q_PATH = Path("e:/afcatpyq3/Q_c976d91.json")
+    Q_PATH = Path("e:/afcatpyq3/data/processed/Q_clean.json")
     if not Q_PATH.exists():
         print(f"File not found: {Q_PATH}")
         return

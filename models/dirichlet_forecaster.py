@@ -62,6 +62,16 @@ GAMMA_GRID = (0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0)
 LAM_GRID = (0.0, 0.25, 0.5, 0.75, 1.0)   # empirical-vs-uniform prior blend, tuned per section
 A_GRID = np.array([0.25, 0.5, 1, 2, 3, 4, 6, 8, 12], float)
 
+# Regime boundary: section weights AND macro-topic mix shifted structurally
+# in 2022 (English 25->30, Reasoning 32->25, Numerical 18->20, and several
+# macro-topics like "Logical Reasoning" went from ~0-10% to a stable 13-27%).
+# Pre-2022 data is a different generating process, not just "older" data on
+# the same trend. pooled_empirical() already protects the prior with a
+# rolling-4-year window; this extends the same protection to decayed_evidence
+# (the evidence term) which was previously unprotected -- for GA where
+# gamma=1.0, pre-2022 data was contributing 73.3% of evidence weight.
+REGIME_START_YEAR = 2022
+
 
 # ----------------------------------------------------------------------------- data
 def _year(fn):
@@ -292,6 +302,12 @@ class DirichletForecaster:
         for sec in (sections or SEC_TARGET):
             topics = sorted(self.cnt[sec])
             hist = section_years(self.syt, sec)
+            # Regime-aware: exclude pre-2022 evidence when enough post-regime
+            # years exist. This fixes the evidence-side dilution that
+            # pooled_empirical's rolling window already fixed for the prior.
+            post_regime = [y for y in hist if y >= REGIME_START_YEAR]
+            if len(post_regime) >= MIN_HISTORY:
+                hist = post_regime
             if len(hist) < MIN_HISTORY:
                 continue
             gamma, lam = tune_params(self.cnt, self.syt, sec, topics, hist)
