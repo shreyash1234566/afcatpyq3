@@ -160,5 +160,11 @@ def main():
         f.write(js_content)
     print(f"Successfully compiled {pred_js}.")
 
+    # Write output/predictions_2026/data.js (GitHub Pages deploy target)
+    gh_pages_js = ROOT / "output" / "predictions_2026" / "data.js"
+    with open(gh_pages_js, "w", encoding="utf-8") as f:
+        f.write(js_content)
+    print(f"Successfully compiled {gh_pages_js}.")
+
 if __name__ == "__main__":
     main()

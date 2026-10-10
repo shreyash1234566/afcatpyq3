@@ -292,7 +292,6 @@
                     <button onclick="switchTab('dashboard')" class="nav-item active" data-tab="dashboard">Intel</button>
                     <button onclick="switchTab('topics')" class="nav-item" data-tab="topics">Grid</button>
                     <button onclick="switchTab('mock')" class="nav-item" data-tab="mock">Mock Ops</button>
-                    <button onclick="switchTab('blueprint')" class="nav-item" data-tab="blueprint">150+ Blueprint</button>
                 </nav>
 
                 <div class="flex items-center gap-3 sm:gap-6">
@@ -423,7 +422,7 @@
                 </div>
             </div>
 
-            <div class="flex gap-1.5 sm:gap-2 bg-white p-1.5 sm:p-2 rounded-xl sm:rounded-2xl border border-slate-200 shadow-sm overflow-x-auto w-full md:w-auto mb-6 sm:mb-8 pb-2 sm:pb-2">
+            <div class="inline-flex max-w-full w-fit gap-1.5 sm:gap-2 bg-white p-1.5 sm:p-2 rounded-xl sm:rounded-2xl border border-slate-200 shadow-sm overflow-x-auto mb-6 sm:mb-8">
                 <button onclick="filterBySection('all')" class="filter-btn active px-4 sm:px-6 py-2 sm:py-2.5 rounded-lg sm:rounded-xl text-[11px] sm:text-xs font-bold transition-all bg-brand-navy text-white shadow-md flex-shrink-0" data-filter="all">All</button>
                 <button onclick="filterBySection('Verbal Ability')" class="filter-btn px-4 sm:px-6 py-2 sm:py-2.5 rounded-lg sm:rounded-xl text-[11px] sm:text-xs font-bold text-slate-500 hover:bg-slate-50 transition-all flex-shrink-0" data-filter="Verbal Ability">Verbal</button>
                 <button onclick="filterBySection('Reasoning')" class="filter-btn px-4 sm:px-6 py-2 sm:py-2.5 rounded-lg sm:rounded-xl text-[11px] sm:text-xs font-bold text-slate-500 hover:bg-slate-50 transition-all flex-shrink-0" data-filter="Reasoning">Reasoning</button>
@@ -445,86 +444,16 @@
                     <p class="text-slate-400 text-xs sm:text-lg mb-6 sm:mb-10 max-w-2xl mx-auto">Real-time operational environment based on the AFCAT 01/2027 blueprint.</p>
 
                     <div class="flex flex-wrap justify-center gap-2 sm:gap-3">
-                        <button onclick="filterMockSection('all')" class="mock-btn active px-4 sm:px-8 py-2.5 sm:py-3 rounded-xl text-[11px] sm:text-xs font-bold bg-white text-brand-navy shadow-lg transition-all">Full Test</button>
-                        <button onclick="filterMockSection('Verbal Ability')" class="mock-btn px-4 sm:px-8 py-2.5 sm:py-3 rounded-xl text-[11px] sm:text-xs font-bold bg-white/5 text-slate-300 border border-white/10 hover:bg-white/10 transition-all">English</button>
-                        <button onclick="filterMockSection('Reasoning')" class="mock-btn px-4 sm:px-8 py-2.5 sm:py-3 rounded-xl text-[11px] sm:text-xs font-bold bg-white/5 text-slate-300 border border-white/10 hover:bg-white/10 transition-all">Reasoning</button>
-                        <button onclick="filterMockSection('General Awareness')" class="mock-btn px-4 sm:px-8 py-2.5 sm:py-3 rounded-xl text-[11px] sm:text-xs font-bold bg-white/5 text-slate-300 border border-white/10 hover:bg-white/10 transition-all">GK</button>
-                        <button onclick="filterMockSection('Numerical Ability')" class="mock-btn px-4 sm:px-8 py-2.5 sm:py-3 rounded-xl text-[11px] sm:text-xs font-bold bg-white/5 text-slate-300 border border-white/10 hover:bg-white/10 transition-all">Maths</button>
+                        <button onclick="filterMockSection('all')" class="mock-btn active px-4 sm:px-8 py-2.5 sm:py-3 rounded-xl text-[11px] sm:text-xs font-bold bg-white text-brand-navy shadow-lg transition-all" data-mock-filter="all">Full Test</button>
+                        <button onclick="filterMockSection('Verbal Ability')" class="mock-btn px-4 sm:px-8 py-2.5 sm:py-3 rounded-xl text-[11px] sm:text-xs font-bold bg-white/5 text-slate-300 border border-white/10 hover:bg-white/10 transition-all" data-mock-filter="Verbal Ability">English</button>
+                        <button onclick="filterMockSection('Reasoning')" class="mock-btn px-4 sm:px-8 py-2.5 sm:py-3 rounded-xl text-[11px] sm:text-xs font-bold bg-white/5 text-slate-300 border border-white/10 hover:bg-white/10 transition-all" data-mock-filter="Reasoning">Reasoning</button>
+                        <button onclick="filterMockSection('General Awareness')" class="mock-btn px-4 sm:px-8 py-2.5 sm:py-3 rounded-xl text-[11px] sm:text-xs font-bold bg-white/5 text-slate-300 border border-white/10 hover:bg-white/10 transition-all" data-mock-filter="General Awareness">GK</button>
+                        <button onclick="filterMockSection('Numerical Ability')" class="mock-btn px-4 sm:px-8 py-2.5 sm:py-3 rounded-xl text-[11px] sm:text-xs font-bold bg-white/5 text-slate-300 border border-white/10 hover:bg-white/10 transition-all" data-mock-filter="Numerical Ability">Maths</button>
                     </div>
                 </div>
             </div>
 
             <div id="mock-questions" class="space-y-4 sm:space-y-8 max-w-4xl mx-auto">
-            </div>
-        </div>
-
-        <div id="blueprint" class="tab-content hidden">
-            <div class="bg-brand-navy rounded-2xl sm:rounded-[2.5rem] p-6 sm:p-12 shadow-float text-center relative overflow-hidden mb-8 sm:mb-12">
-                <div class="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/carbon-fibre.png')] opacity-10"></div>
-                <div class="relative z-10">
-                    <h2 class="font-heading text-2xl sm:text-4xl font-black text-white mb-2 sm:mb-4">150+ Mark Blueprint</h2>
-                    <p class="text-slate-400 text-xs sm:text-lg mb-2 sm:mb-4 max-w-2xl mx-auto">Target exactly 50 questions (150 marks) with maximum ROI and minimum effort.</p>
-                </div>
-            </div>
-
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8 mb-8 sm:mb-12">
-                <!-- Reasoning & Math (35 Qs target) -->
-                <div class="bg-white rounded-2xl sm:rounded-3xl p-5 sm:p-8 shadow-sm border border-slate-100 relative overflow-hidden group">
-                    <div class="absolute top-0 right-0 w-32 h-32 bg-brand-blue/5 rounded-bl-full -z-10 group-hover:scale-110 transition-transform"></div>
-                    <div class="flex justify-between items-start mb-4 sm:mb-6">
-                        <span class="bg-green-100 text-green-700 px-3 py-1 rounded-full text-[9px] sm:text-[10px] font-bold uppercase tracking-widest">Target: 35 Questions</span>
-                    </div>
-                    <h3 class="font-heading font-black text-xl sm:text-2xl text-brand-navy mb-3 sm:mb-4">Reasoning & Math</h3>
-                    <p class="text-slate-500 text-xs sm:text-sm mb-4 sm:mb-6">Rely on AI predictions. Practice these high-weightage clusters relentlessly.</p>
-
-                    <div class="space-y-3 sm:space-y-4">
-                        <div class="p-3.5 sm:p-4 bg-slate-50 rounded-xl sm:rounded-2xl border border-slate-100 hover:border-brand-blue/30 transition-colors">
-                            <h4 class="font-bold text-sm sm:text-base text-brand-navy flex justify-between"><span>👁️ Visual Reasoning</span><span class="text-brand-blue">7 Qs</span></h4>
-                            <p class="text-xs text-slate-500 mt-1">Non-Verbal Pattern (Figure Series, Odd Figure). Practice these daily as they require zero formulas.</p>
-                        </div>
-                        <div class="p-3.5 sm:p-4 bg-slate-50 rounded-xl sm:rounded-2xl border border-slate-100 hover:border-brand-blue/30 transition-colors">
-                            <h4 class="font-bold text-sm sm:text-base text-brand-navy flex justify-between"><span>🧠 Logic & Coding</span><span class="text-brand-blue">10 Qs</span></h4>
-                            <p class="text-xs text-slate-500 mt-1">Coding-Decoding (5 Qs) and Logical Reasoning (5 Qs). Overlapping puzzles like blood relations and letter coding.</p>
-                        </div>
-                        <div class="p-3.5 sm:p-4 bg-slate-50 rounded-xl sm:rounded-2xl border border-slate-100 hover:border-brand-blue/30 transition-colors">
-                            <h4 class="font-bold text-sm sm:text-base text-brand-navy flex justify-between"><span>📐 Math Fundamentals</span><span class="text-brand-blue">6 Qs</span></h4>
-                            <p class="text-xs text-slate-500 mt-1">Mensuration, Profit/Loss, and Time & Work guarantee easy marks if you know the core formulas.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- English & GK (15 Qs target) -->
-                <div class="bg-white rounded-2xl sm:rounded-3xl p-5 sm:p-8 shadow-sm border border-slate-100 relative overflow-hidden group">
-                    <div class="absolute top-0 right-0 w-32 h-32 bg-amber-500/5 rounded-bl-full -z-10 group-hover:scale-110 transition-transform"></div>
-                    <div class="flex justify-between items-start mb-4 sm:mb-6">
-                        <span class="bg-amber-100 text-amber-700 px-3 py-1 rounded-full text-[9px] sm:text-[10px] font-bold uppercase tracking-widest">Target: 20 Questions</span>
-                    </div>
-                    <h3 class="font-heading font-black text-xl sm:text-2xl text-brand-navy mb-3 sm:mb-4">English & General Awareness</h3>
-                    <p class="text-slate-500 text-xs sm:text-sm mb-4 sm:mb-6">Minimum Effort / High ROI. Do not study everything.</p>
-
-                    <div class="space-y-3 sm:space-y-4">
-                        <div class="p-3.5 sm:p-4 bg-slate-50 rounded-xl sm:rounded-2xl border border-slate-100 hover:border-brand-blue/30 transition-colors">
-                            <h4 class="font-bold text-sm sm:text-base text-brand-navy flex justify-between"><span>📰 Newspaper Vocab</span><span class="text-brand-blue">12+ Qs</span></h4>
-                            <p class="text-xs text-slate-500 mt-1">Extract high-frequency words from <strong>The Hindu/Indian Express</strong> editorials. Focus strictly on <strong>personality traits and military themes</strong>. For Idioms (4 Qs), memorize phrases with <strong>body parts & colours</strong>.</p>
-                        </div>
-                        <div class="p-3.5 sm:p-4 bg-slate-50 rounded-xl sm:rounded-2xl border border-slate-100 hover:border-brand-blue/30 transition-colors">
-                            <h4 class="font-bold text-sm sm:text-base text-brand-navy flex justify-between"><span>✅ Rule-Specific Grammar</span><span class="text-brand-blue">8+ Qs</span></h4>
-                            <p class="text-xs text-slate-500 mt-1">Do not study entire grammar books. 78/81 historical error questions test <strong>Fixed Prepositions</strong> (e.g. <em>addicted to</em>) and <strong>Subject-Verb Agreement</strong>.</p>
-                        </div>
-                        <div class="p-3.5 sm:p-4 bg-slate-50 rounded-xl sm:rounded-2xl border border-slate-100 hover:border-brand-blue/30 transition-colors">
-                            <h4 class="font-bold text-sm sm:text-base text-brand-navy flex justify-between"><span>🎯 Sniper GK</span><span class="text-brand-blue">7 Qs</span></h4>
-                            <p class="text-xs text-slate-500 mt-1"><strong>Defence (5 Qs):</strong> Memorize Missiles, Exercises, and Ranks.<br/><strong>Awards (2 Qs):</strong> Nobel & Civilian only.<br/><strong>Sports:</strong> Terminology & Trophies only.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Dedicated Micro-Topics Breakdown Section -->
-            <div class="mt-8">
-                <h3 class="font-heading font-black text-xl sm:text-2xl text-brand-navy mb-6 text-center">Complete Micro-Topics Breakdown (100 Qs)</h3>
-                <div id="micro-topics-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
-                    <!-- Populated by JS -->
-                </div>
             </div>
         </div>
 
@@ -601,70 +530,7 @@
                 renderDashboard();
                 renderLibrary();
                 loadMockQuestions();
-                renderMicroTopics();
             } catch(e) { console.error("Init Error", e); }
-        }
-        
-        function renderMicroTopics() {
-            const qs = appData.mock_test?.all_questions || [];
-            const container = document.getElementById('micro-topics-grid');
-            if(!container) return;
-            
-            // Aggregate exactly what was generated
-            const aggregated = {};
-            qs.forEach(q => {
-                const sec = q.section || q.Section || 'General';
-                const topic = q.topic || q.Topic || 'Unknown';
-                const micro = q.micro_topic || 'General';
-                
-                if (!aggregated[topic]) {
-                    aggregated[topic] = {
-                        section: sec,
-                        topic: topic,
-                        totalCount: 0,
-                        micros: {}
-                    };
-                }
-                aggregated[topic].totalCount += 1;
-                
-                if (!aggregated[topic].micros[micro]) {
-                    aggregated[topic].micros[micro] = 0;
-                }
-                aggregated[topic].micros[micro] += 1;
-            });
-            
-            // Convert to array and sort by total count descending
-            const topicsArray = Object.values(aggregated).sort((a,b) => b.totalCount - a.totalCount);
-            
-            container.innerHTML = topicsArray.map(t => {
-                const colors = getSectionColors(t.section);
-                
-                // Sort micros by count descending
-                const sortedMicros = Object.entries(t.micros)
-                    .sort((a,b) => b[1] - a[1])
-                    .map(([name, count]) => ({name, count}));
-                
-                return `
-                <div class="bg-white rounded-3xl p-6 shadow-sm border border-slate-100 hover:border-brand-blue/30 transition-colors">
-                    <div class="flex justify-between items-center mb-4">
-                        <span class="${colors.badge} px-2 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-widest">${getSectionShort(t.section)}</span>
-                        <span class="text-xs font-bold text-slate-400">${t.totalCount} Qs</span>
-                    </div>
-                    <h4 class="font-heading font-black text-xl text-brand-navy mb-4">${t.topic}</h4>
-                    <div class="space-y-2 border-t border-slate-50 pt-4">
-                        ${sortedMicros.map(m => `
-                        <div class="flex justify-between items-center text-sm cursor-pointer hover:bg-slate-50 p-2 -mx-2 rounded-lg transition-colors group/m" onclick="openPractice('${t.topic}', '${t.section}', '${m.name}')">
-                            <span class="text-slate-600 font-medium flex items-center gap-2 group-hover/m:text-brand-blue transition-colors">
-                                <div class="w-1.5 h-1.5 rounded-full bg-slate-300 group-hover/m:bg-brand-blue transition-colors"></div>
-                                ${m.name}
-                            </span>
-                            <span class="font-bold text-brand-blue">${m.count} Qs</span>
-                        </div>
-                        `).join('')}
-                    </div>
-                </div>
-                `;
-            }).join('');
         }
 
         // --- DASHBOARD ---
@@ -828,11 +694,14 @@
 
         window.filterMockSection = function(sec) {
             document.querySelectorAll('.mock-btn').forEach(b => {
-                b.classList.remove('bg-brand-navy', 'text-white');
-                b.classList.add('bg-white/5', 'text-slate-300');
+                b.classList.remove('bg-white', 'text-brand-navy', 'shadow-lg');
+                b.classList.add('bg-white/5', 'text-slate-300', 'border', 'border-white/10');
             });
-            event.target.classList.remove('bg-white/5', 'text-slate-300');
-            event.target.classList.add('bg-brand-navy', 'text-white');
+            const active = document.querySelector(`[data-mock-filter="${sec}"]`);
+            if (active) {
+                active.classList.remove('bg-white/5', 'text-slate-300', 'border', 'border-white/10');
+                active.classList.add('bg-white', 'text-brand-navy', 'shadow-lg');
+            }
             loadMockQuestions(sec);
         }
 
@@ -895,13 +764,23 @@
 
         function createQuestionCard(q, num) {
             const colors = getSectionColors(q.section);
-            let options = q.choices || q.options || [];
+            let options = Array.isArray(q.choices)
+                ? q.choices
+                : (Array.isArray(q.options)
+                    ? q.options
+                    : (typeof q.options === 'object' && q.options !== null
+                        ? Object.entries(q.options).map(([k, v]) => ({ key: k, text: v }))
+                        : []));
             let correctAns = q.answer || q.correct_answer;
 
             // Generate unique question ID
-            const qId = `${q.topic_code || q.topic_name || q.topic}_${q.year || 'pyq'}_${num}`.replace(/\s+/g, '_');
+            const qId = `${q.topic_code || q.topic_name || q.topic || 'q'}_${q.year || '2027'}_${num}`.replace(/\s+/g, '_');
             const savedAnswer = getSavedAnswer(qId);
             const isAnswered = !!savedAnswer;
+
+            const imgArr = Array.isArray(q.image_path)
+                ? q.image_path
+                : (typeof q.image_path === 'string' && q.image_path.trim() ? [q.image_path.trim()] : []);
 
             return `
             <div class="bg-white rounded-2xl sm:rounded-3xl p-5 sm:p-8 shadow-card border border-slate-100" data-question-id="${qId}" data-answered="${isAnswered}">
@@ -926,9 +805,9 @@
 
                 <p class="text-base sm:text-xl font-bold text-brand-navy mb-6 sm:mb-10 leading-relaxed font-heading">${q.question_text || q.question}</p>
 
-                ${(q.has_figure && q.image_path && q.image_path.length > 0) ? `
+                ${(q.has_figure && imgArr.length > 0) ? `
                 <div style="margin:8px 0 16px 0;padding:8px;background:#f8fafc;border-radius:12px;border:1px solid #e2e8f0;display:flex;flex-wrap:wrap;gap:8px;justify-content:center;align-items:center;">
-                    ${q.image_path.map((imgSrc,ii) => {
+                    ${imgArr.map((imgSrc,ii) => {
                         const finalImgSrc = imgSrc.startsWith('http') ? imgSrc : 'https://raw.githubusercontent.com/shreyash1234566/afcatpyq3/main/' + imgSrc.replace('assets/images/', 'data/images/');
                         return `<img src="${finalImgSrc}" alt="Figure ${ii+1}" loading="lazy" style="${q.image_dark ? 'filter:invert(1) brightness(0.85);background:#111;' : 'background:#fff;'} max-height:160px;max-width:100%;object-fit:contain;border-radius:8px;padding:4px;" onerror="this.style.display='none'" />`;
                     }).join('')}
@@ -1137,7 +1016,7 @@
 
     <!-- Mobile Fixed Bottom Navigation Bar -->
     <nav class="md:hidden fixed bottom-0 left-0 right-0 z-50 bg-slate-900/95 backdrop-blur-xl border-t border-slate-700/60 shadow-[0_-8px_30px_rgba(0,0,0,0.35)] mobile-nav-bar">
-        <div class="grid grid-cols-4 px-2 py-1.5">
+        <div class="grid grid-cols-3 px-2 py-1.5">
             <button onclick="switchTab('dashboard')" class="mobile-nav-btn active" data-tab="dashboard">
                 <svg class="w-5 h-5 mobile-nav-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
                 <span>Intel</span>
@@ -1149,10 +1028,6 @@
             <button onclick="switchTab('mock')" class="mobile-nav-btn" data-tab="mock">
                 <svg class="w-5 h-5 mobile-nav-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01"/></svg>
                 <span>Mock Ops</span>
-            </button>
-            <button onclick="switchTab('blueprint')" class="mobile-nav-btn" data-tab="blueprint">
-                <svg class="w-5 h-5 mobile-nav-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>
-                <span>150+ Mark</span>
             </button>
         </div>
     </nav>
