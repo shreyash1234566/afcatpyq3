@@ -62,7 +62,44 @@ def main():
     with open(pred_path, "r", encoding="utf-8") as f:
         plan_2027 = json.load(f)
 
-    # 4b. Calculate 2027 Micro-Topic Momentum & Apportionment
+    # 4b. Calculate 2027 Micro-Topic Momentum & Discrete Apportionment (Hare-Niemeyer / Largest Remainder)
+    # Architecture from commit 9a7d0ac & scripts/predict_micro_topics.py:
+    # Allocates discrete integer seats (>= 1 Q) totaling exactly 100 questions.
+    # Prunes all fractional / 0-seat micro-topics to maintain high-conviction discrete focus.
+    import math
+
+    def allocate_seats(total_seats: int, weights: dict) -> dict:
+        if total_seats == 0 or not weights:
+            return {item: 0 for item in weights}
+        total_weight = sum(weights.values())
+        if total_weight == 0:
+            return {item: 0 for item in weights}
+        quotients, seats = {}, {}
+        for item, weight in weights.items():
+            fractional = (weight / total_weight) * total_seats
+            seats[item] = int(fractional)
+            quotients[item] = fractional - seats[item]
+        remaining = total_seats - sum(seats.values())
+        sorted_items = sorted(quotients.items(), key=lambda x: x[1], reverse=True)
+        for i in range(int(remaining)):
+            seats[sorted_items[i][0]] += 1
+        return seats
+
+    def allocate_exact(topics_list: list, section_target: int) -> dict:
+        allocs = {}
+        remainders = []
+        for row in topics_list:
+            t = row["topic"]
+            e = row["expected_count_exact"]
+            allocs[t] = int(math.floor(e))
+            remainders.append((e - math.floor(e), t))
+        shortfall = section_target - sum(allocs.values())
+        remainders.sort(reverse=True, key=lambda x: x[0])
+        for i in range(shortfall):
+            if i < len(remainders):
+                allocs[remainders[i][1]] += 1
+        return allocs
+
     topic_micro_weights = defaultdict(lambda: defaultdict(float))
     for q in q_clean:
         sec = q.get("section")
@@ -78,45 +115,59 @@ def main():
     topic_micro_focus = {}
 
     for sec, blk in plan_2027.items():
+        macro_allocs = allocate_exact(blk["topics"], blk["section_total"])
         for t in blk["topics"]:
             top = t["topic"]
-            exp = round(float(t["expected_count_exact"]), 2)
-            micros = topic_micro_weights.get(top, {})
+            n_macro = macro_allocs.get(top, 0)
+            micros = topic_micro_weights.get(top) or topic_micro_weights.get(top.split('/')[0]) or {f"General {top}": 1.0}
             tot_w = sum(micros.values())
 
             micro_list = []
-            if tot_w > 0:
-                sorted_m = sorted(micros.items(), key=lambda x: -x[1])
-                for m_name, m_w in sorted_m:
-                    m_share = m_w / tot_w
-                    m_pred = round(m_share * exp, 1)
-                    if m_pred >= 0.05 or len(micro_list) < 2:
+            if n_macro > 0 and tot_w > 0:
+                probs = {m: w / tot_w for m, w in micros.items()}
+                m_allocs = allocate_seats(n_macro, probs)
+                sorted_allocs = sorted(m_allocs.items(), key=lambda x: (-x[1], -probs.get(x[0], 0)))
+                for m_name, count in sorted_allocs:
+                    if count > 0:
                         micro_list.append({
                             "name": m_name,
-                            "count": max(m_pred, 0.1),
-                            "share": round(m_share, 3)
+                            "count": int(count),
+                            "share": round(probs.get(m_name, 0), 3)
                         })
                         all_micro_predictions.append({
                             "Section": sec,
+                            "Broad_Topic": top,
                             "Topic": top,
                             "Micro_Topic": m_name,
-                            "Predicted_Questions": max(m_pred, 0.1),
-                            "Probability_Weight": round(m_share, 4)
+                            "Predicted_Questions": int(count),
+                            "Probability_Weight": round(probs.get(m_name, 0), 4)
                         })
             topic_micro_focus[top] = micro_list
 
+    from predict_micro_topics_2027 import blueprint
+    all_micro_predictions = blueprint(q_clean, plan_2027)
+    from build_unified_2027 import validate_paper
+    validate_paper(all_micro_predictions, mock_raw)
+    topic_micro_focus = {}
+    for row in all_micro_predictions:
+        topic_micro_focus.setdefault((row['Section'], row['Broad_Topic']), []).append({
+            'name': row['Micro_Topic'], 'count': row['Predicted_Questions'],
+            'share': row['Probability_Weight']})
     # Save standalone micro-predictions artifact
     micro_pred_path = ROOT / "output" / "predictions_2027" / "afcat_2027_micro_predictions.json"
     with open(micro_pred_path, "w", encoding="utf-8") as f:
         json.dump(all_micro_predictions, f, indent=2, ensure_ascii=False)
-    print(f"Saved {len(all_micro_predictions)} micro predictions to {micro_pred_path}.")
+    print(f"Saved {len(all_micro_predictions)} discrete integer micro predictions (Total Qs: {sum(m['Predicted_Questions'] for m in all_micro_predictions)}) to {micro_pred_path}.")
 
     ml_predictions = []
     topic_distribution = {}
     for sec, blk in plan_2027.items():
         topic_distribution[sec] = {}
+        quotas = allocate_exact(blk['topics'], blk['section_total'])
         for t in blk["topics"]:
-            exp = round(float(t["expected_count_exact"]), 2)
+            exp = quotas[t['topic']]
+            if exp <= 0:
+                continue
             prob = round(float(t.get("share", t.get("dm_share", 0))), 4)
             topic_distribution[sec][t["topic"]] = exp
             ml_predictions.append({
@@ -127,7 +178,7 @@ def main():
                 "CI_Lower": t.get("ci90_low", 0),
                 "CI_Upper": t.get("ci90_high", 0),
                 "growth": round((prob - (1.0 / len(blk["topics"]))) * 100, 1),
-                "Micro_Focus": topic_micro_focus.get(t["topic"], [])
+                "Micro_Focus": topic_micro_focus.get((sec, t["topic"]), [])
             })
 
     # Sort ml_predictions
@@ -156,7 +207,20 @@ def main():
         },
         "note": "Rolling-origin walk-forward validation across all historical folds beating naive persistence (MASE < 1.0)."
     }
+    if any(b.get('anchor_month') for b in plan_2027.values()):
+        model_accuracy = {'metric':'August anchor + historical model',
+                          'note':'Provisional cycle weights; historical model/PDF scores do not validate this new forecast.',
+                          'validation_status':'Not independently validated',
+                          'anchor_weights':{s:b['anchor_weight'] for s,b in plan_2027.items()}}
 
+    audit_path = ROOT / 'output/predictions_2027/micro_coverage_audit.json'
+    if audit_path.exists() and not any(b.get('anchor_month') for b in plan_2027.values()):
+        audit = json.loads(audit_path.read_text(encoding='utf-8'))
+        model_accuracy['micro_hit_rate'] = audit['overall']['hit_percent'] / 100
+        model_accuracy['micro_question_coverage'] = audit['overall']['coverage_percent'] / 100
+        model_accuracy['micro_validation_note'] = audit['caveat']
+        model_accuracy['micro_validation_method'] = audit['method']
+        model_accuracy['micro_mae'] = sum(r['normalized_count_mae'] for r in audit['years']) / len(audit['years'])
     # Construct complete dashboardData
     dashboard_data = {
         "pyqCount": len(q_clean),
@@ -189,6 +253,7 @@ def main():
     js_content = f"const dashboardData = {json.dumps(dashboard_data, ensure_ascii=False)};\n\n"
     js_content += """if (typeof window !== 'undefined') {
   window.predictionsData = {
+    "micro_predictions": dashboardData.predictions.micro_predictions,
     "ml_predictions": dashboardData.predictions.ml_predictions,
     "rising_topics": dashboardData.risingTopics,
     "declining_topics": dashboardData.decliningTopics,

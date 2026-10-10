@@ -1,2578 +1,754 @@
 [
   {
     "Section": "Verbal Ability",
-    "Topic": "Fill in the Blanks",
-    "Micro_Topic": "Fill in the Blanks - General",
-    "Predicted_Questions": 1.0,
-    "Probability_Weight": 0.2667
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Fill in the Blanks",
-    "Micro_Topic": "Phrasal Verb Double Blank",
-    "Predicted_Questions": 0.5,
-    "Probability_Weight": 0.1333
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Fill in the Blanks",
-    "Micro_Topic": "Subject-Verb Agreement Fill-in",
-    "Predicted_Questions": 0.5,
-    "Probability_Weight": 0.1333
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Fill in the Blanks",
-    "Micro_Topic": "Single Blank (Vocabulary)",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0667
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Fill in the Blanks",
-    "Micro_Topic": "Homonym Fill-in",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0667
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Fill in the Blanks",
-    "Micro_Topic": "Grammar-based Fill-in",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0667
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Fill in the Blanks",
-    "Micro_Topic": "Homophone Fill-in (Weather/Whether)",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0667
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Fill in the Blanks",
-    "Micro_Topic": "Vocabulary Fill-in",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0667
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Fill in the Blanks",
-    "Micro_Topic": "Phrasal Verb Single Blank",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0667
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Fill in the Blanks",
-    "Micro_Topic": "Prepositional Gerund Fill-in",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0667
-  },
-  {
-    "Section": "Verbal Ability",
+    "Broad_Topic": "Cloze Test",
     "Topic": "Cloze Test",
     "Micro_Topic": "Vocabulary-in-Context Cloze",
-    "Predicted_Questions": 2.6,
-    "Probability_Weight": 0.7825
+    "Predicted_Questions": 3,
+    "Probability_Weight": 0.8939226519337017
   },
   {
     "Section": "Verbal Ability",
-    "Topic": "Cloze Test",
-    "Micro_Topic": "Phrasal Verb / Structure Cloze",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.0888
+    "Broad_Topic": "Fill in the Blanks",
+    "Topic": "Fill in the Blanks",
+    "Micro_Topic": "Fill in the Blanks - General",
+    "Predicted_Questions": 2,
+    "Probability_Weight": 0.5333333333333334
   },
   {
     "Section": "Verbal Ability",
-    "Topic": "Cloze Test",
-    "Micro_Topic": "Preposition Cloze",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0688
+    "Broad_Topic": "Fill in the Blanks",
+    "Topic": "Fill in the Blanks",
+    "Micro_Topic": "Phrasal Verb Double Blank",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.08484848484848484
   },
   {
     "Section": "Verbal Ability",
-    "Topic": "Cloze Test",
-    "Micro_Topic": "Conjunction/Connector Cloze",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0289
+    "Broad_Topic": "Fill in the Blanks",
+    "Topic": "Fill in the Blanks",
+    "Micro_Topic": "Subject-Verb Agreement Fill-in",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.08484848484848484
   },
   {
     "Section": "Verbal Ability",
-    "Topic": "Cloze Test",
-    "Micro_Topic": "Modal Verb Cloze",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.02
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Para Jumbles",
-    "Micro_Topic": "Sentence Rearrangement",
-    "Predicted_Questions": 1.7,
-    "Probability_Weight": 0.5552
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Para Jumbles",
-    "Micro_Topic": "Sentence Rearrangement (PQRS)",
-    "Predicted_Questions": 0.7,
-    "Probability_Weight": 0.2269
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Para Jumbles",
-    "Micro_Topic": "Sentence Part Rearrangement",
-    "Predicted_Questions": 0.7,
-    "Probability_Weight": 0.2179
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Reading Comprehension",
-    "Micro_Topic": "Detail-based Question",
-    "Predicted_Questions": 2.2,
-    "Probability_Weight": 0.7171
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Reading Comprehension",
-    "Micro_Topic": "Reading Comprehension - Assertion & Reason",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0693
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Reading Comprehension",
-    "Micro_Topic": "Reading Comprehension - Inference/Detail",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0693
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Reading Comprehension",
-    "Micro_Topic": "Reading Comprehension - Main Idea/Purpose",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0693
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Reading Comprehension",
-    "Micro_Topic": "Inference",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0527
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Reading Comprehension",
-    "Micro_Topic": "Main Idea/Theme",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0194
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Idioms & Phrases",
-    "Micro_Topic": "Idiom Meaning",
-    "Predicted_Questions": 1.7,
-    "Probability_Weight": 0.5823
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Idioms & Phrases",
-    "Micro_Topic": "Proverb Meaning",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.1073
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Idioms & Phrases",
-    "Micro_Topic": "Body-Part Idiom",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.083
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Idioms & Phrases",
-    "Micro_Topic": "Object/Household Idiom",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0801
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Idioms & Phrases",
-    "Micro_Topic": "Idiom Replacement",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0358
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Idioms & Phrases",
-    "Micro_Topic": "Weather/Nature Idiom",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0343
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Idioms & Phrases",
-    "Micro_Topic": "Color Idiom",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0315
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Idioms & Phrases",
-    "Micro_Topic": "Food/Cooking Idiom",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0258
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "One Word Substitution",
-    "Micro_Topic": "Abstract Concept Descriptor",
-    "Predicted_Questions": 0.5,
-    "Probability_Weight": 0.1771
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "One Word Substitution",
-    "Micro_Topic": "Person/Character Descriptor",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.1147
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "One Word Substitution",
-    "Micro_Topic": "Field of Study Descriptor",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.0905
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "One Word Substitution",
-    "Micro_Topic": "Place/Structure Descriptor",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0865
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "One Word Substitution",
-    "Micro_Topic": "Medical/Health Descriptor",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0785
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "One Word Substitution",
-    "Micro_Topic": "Literary/Rhetorical Descriptor",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0503
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "One Word Substitution",
-    "Micro_Topic": "Personality/Behavior Descriptor",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0503
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "One Word Substitution",
-    "Micro_Topic": "Psychological/Philosophical Concept",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0503
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "One Word Substitution",
-    "Micro_Topic": "Attribute/Condition Descriptor",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0503
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "One Word Substitution",
-    "Micro_Topic": "Sound / Music Descriptor",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0503
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "One Word Substitution",
-    "Micro_Topic": "Action / Destruction Descriptor",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0503
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "One Word Substitution",
-    "Micro_Topic": "Literary/Rhetorical Device (Epizeuxis)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0503
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "One Word Substitution",
-    "Micro_Topic": "Literary/Written Work Descriptor",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0241
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Spotting Errors",
-    "Micro_Topic": "Sentence Error Identification",
-    "Predicted_Questions": 0.8,
-    "Probability_Weight": 0.2956
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Spotting Errors",
-    "Micro_Topic": "Preposition Error",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0676
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Spotting Errors",
-    "Micro_Topic": "Subject-Verb Agreement (One of the)",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0588
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Spotting Errors",
-    "Micro_Topic": "Subject-Verb Agreement",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0574
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Spotting Errors",
-    "Micro_Topic": "Sentence-Level Error Identification",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0529
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Spotting Errors",
-    "Micro_Topic": "Conjunction Pairing Error",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0471
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Spotting Errors",
-    "Micro_Topic": "Subject-Verb Agreement (Each/Neither)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0382
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Spotting Errors",
-    "Micro_Topic": "Noun Number Error",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0382
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Spotting Errors",
-    "Micro_Topic": "Article Error",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0382
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Spotting Errors",
-    "Micro_Topic": "Gerund Error",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0382
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Spotting Errors",
-    "Micro_Topic": "Comparison Error (Degree)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0353
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Spotting Errors",
-    "Micro_Topic": "Conjunction Redundancy Error",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0353
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Spotting Errors",
-    "Micro_Topic": "Conditional/Tense Error",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0324
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Spotting Errors",
-    "Micro_Topic": "Verb Form Error (Tense/Participle)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0235
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Spotting Errors",
-    "Micro_Topic": "Preposition Error (Since/For)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0235
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Grammar",
-    "Micro_Topic": "Sentence Transformation (Complex to Simple)",
-    "Predicted_Questions": 0.7,
-    "Probability_Weight": 0.271
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Grammar",
-    "Micro_Topic": "Sentence Completion (Blank Fill)",
-    "Predicted_Questions": 0.6,
-    "Probability_Weight": 0.2114
-  },
-  {
-    "Section": "Verbal Ability",
+    "Broad_Topic": "Grammar",
     "Topic": "Grammar",
     "Micro_Topic": "Grammar - General",
-    "Predicted_Questions": 0.4,
-    "Probability_Weight": 0.168
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.14962292609351435
   },
   {
     "Section": "Verbal Ability",
+    "Broad_Topic": "Grammar",
     "Topic": "Grammar",
-    "Micro_Topic": "Word Substitution in Sentence",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.1301
+    "Micro_Topic": "Sentence Transformation (Complex to Simple)",
+    "Predicted_Questions": 2,
+    "Probability_Weight": 0.4666666666666666
   },
   {
     "Section": "Verbal Ability",
-    "Topic": "Grammar",
-    "Micro_Topic": "Active-Passive Voice",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0759
+    "Broad_Topic": "Idioms & Phrases",
+    "Topic": "Idioms & Phrases",
+    "Micro_Topic": "Idiom Meaning",
+    "Predicted_Questions": 2,
+    "Probability_Weight": 0.46378896882494014
   },
   {
     "Section": "Verbal Ability",
-    "Topic": "Grammar",
-    "Micro_Topic": "Subject-Verb Agreement",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0678
+    "Broad_Topic": "Idioms & Phrases",
+    "Topic": "Idioms & Phrases",
+    "Micro_Topic": "Proverb Meaning",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.2333333333333333
   },
   {
     "Section": "Verbal Ability",
-    "Topic": "Grammar",
-    "Micro_Topic": "Correct Word Choice",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0542
+    "Broad_Topic": "One Word Substitution",
+    "Topic": "One Word Substitution",
+    "Micro_Topic": "Abstract Concept Descriptor",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.12104018912529554
   },
   {
     "Section": "Verbal Ability",
-    "Topic": "Grammar",
-    "Micro_Topic": "Preposition Usage",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0217
+    "Broad_Topic": "One Word Substitution",
+    "Topic": "One Word Substitution",
+    "Micro_Topic": "Field of Study Descriptor",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.08510638297872343
   },
   {
     "Section": "Verbal Ability",
-    "Topic": "Synonyms/Antonyms",
-    "Micro_Topic": "Antonym - Direct Meaning",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0722
+    "Broad_Topic": "One Word Substitution",
+    "Topic": "One Word Substitution",
+    "Micro_Topic": "Person/Character Descriptor",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.10780141843971634
   },
   {
     "Section": "Verbal Ability",
-    "Topic": "Synonyms/Antonyms",
-    "Micro_Topic": "Antonym - Praise/Admiration Word",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.05
+    "Broad_Topic": "Para Jumbles",
+    "Topic": "Para Jumbles",
+    "Micro_Topic": "Sentence Part Rearrangement",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.16368286445012795
   },
   {
     "Section": "Verbal Ability",
-    "Topic": "Synonyms/Antonyms",
-    "Micro_Topic": "Antonym",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0481
+    "Broad_Topic": "Para Jumbles",
+    "Topic": "Para Jumbles",
+    "Micro_Topic": "Sentence Rearrangement",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.3696504688832055
   },
   {
     "Section": "Verbal Ability",
-    "Topic": "Synonyms/Antonyms",
-    "Micro_Topic": "Synonym - Growth/Development Word",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0385
+    "Broad_Topic": "Para Jumbles",
+    "Topic": "Para Jumbles",
+    "Micro_Topic": "Sentence Rearrangement (PQRS)",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.4666666666666666
   },
   {
     "Section": "Verbal Ability",
-    "Topic": "Synonyms/Antonyms",
-    "Micro_Topic": "Synonym - Deception/Manipulation Word",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0366
+    "Broad_Topic": "Reading Comprehension",
+    "Topic": "Reading Comprehension",
+    "Micro_Topic": "Detail-based Question",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.4694752402069476
   },
   {
     "Section": "Verbal Ability",
-    "Topic": "Synonyms/Antonyms",
-    "Micro_Topic": "Synonym - Sociability Word",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0327
+    "Broad_Topic": "Reading Comprehension",
+    "Topic": "Reading Comprehension",
+    "Micro_Topic": "Reading Comprehension - Assertion & Reason",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.15555555555555553
   },
   {
     "Section": "Verbal Ability",
-    "Topic": "Synonyms/Antonyms",
-    "Micro_Topic": "Synonym - Criticism/Reproach Word",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0327
+    "Broad_Topic": "Reading Comprehension",
+    "Topic": "Reading Comprehension",
+    "Micro_Topic": "Reading Comprehension - Inference/Detail",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.15555555555555553
   },
   {
     "Section": "Verbal Ability",
-    "Topic": "Synonyms/Antonyms",
-    "Micro_Topic": "Synonym - Confusion/Uncertainty Word",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0269
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Synonyms/Antonyms",
-    "Micro_Topic": "Antonym - Abundance/Scarcity Word",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0269
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Synonyms/Antonyms",
-    "Micro_Topic": "Antonym - Calm/Docile Word",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0269
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Synonyms/Antonyms",
-    "Micro_Topic": "Synonym",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.026
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Synonyms/Antonyms",
-    "Micro_Topic": "Synonym - Calm/Docile Word",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.025
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Synonyms/Antonyms",
-    "Micro_Topic": "Antonym - Growth/Development Word",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.025
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Synonyms/Antonyms",
-    "Micro_Topic": "Synonym - Contextual Meaning",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0241
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Synonyms/Antonyms",
-    "Micro_Topic": "Synonym - Direct Meaning",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0241
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Synonyms/Antonyms",
-    "Micro_Topic": "Antonym - Contextual Meaning",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0241
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Synonyms/Antonyms",
-    "Micro_Topic": "Synonym - Cultural Reference Word",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0231
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Verbal Analogy",
-    "Micro_Topic": "Word Pair Analogy",
-    "Predicted_Questions": 1.5,
-    "Probability_Weight": 0.7367
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Verbal Analogy",
-    "Micro_Topic": "Letter Analogy",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1038
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Verbal Analogy",
-    "Micro_Topic": "Number Analogy",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0667
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Verbal Analogy",
-    "Micro_Topic": "Verbal Analogy - General",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0309
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Verbal Analogy",
-    "Micro_Topic": "Word Pair Analogy (Philosophy Concepts)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0309
-  },
-  {
-    "Section": "Verbal Ability",
-    "Topic": "Verbal Analogy",
-    "Micro_Topic": "Word Pair Analogy (Medical Specialties)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0309
-  },
-  {
-    "Section": "Verbal Ability",
+    "Broad_Topic": "Spelling",
     "Topic": "Spelling",
     "Micro_Topic": "Correctly Spelt Word",
-    "Predicted_Questions": 1.0,
-    "Probability_Weight": 0.6444
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.8095238095238095
   },
   {
     "Section": "Verbal Ability",
-    "Topic": "Spelling",
-    "Micro_Topic": "Incorrectly Spelt Word",
-    "Predicted_Questions": 0.5,
-    "Probability_Weight": 0.3556
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Defence",
-    "Micro_Topic": "Air Force Asset",
-    "Predicted_Questions": 1.0,
-    "Probability_Weight": 0.1938
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Defence",
-    "Micro_Topic": "Defence - General",
-    "Predicted_Questions": 0.8,
-    "Probability_Weight": 0.1479
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Defence",
-    "Micro_Topic": "Naval Asset",
-    "Predicted_Questions": 0.5,
-    "Probability_Weight": 0.1044
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Defence",
-    "Micro_Topic": "Missile System",
-    "Predicted_Questions": 0.4,
-    "Probability_Weight": 0.0849
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Defence",
-    "Micro_Topic": "Military Exercise",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.0585
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Defence",
-    "Micro_Topic": "Army/Rank",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.0516
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Defence",
-    "Micro_Topic": "Defence Ministry/Leadership",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0356
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Defence",
-    "Micro_Topic": "Joint Exercises & Operations",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0287
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Defence",
-    "Micro_Topic": "Gallantry Awards & IAF History",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0287
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Defence",
-    "Micro_Topic": "Missiles & Weapons Systems",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0287
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Defence",
-    "Micro_Topic": "Military Operations & History",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0287
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Defence",
-    "Micro_Topic": "Military Operations",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0287
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Defence",
-    "Micro_Topic": "Joint Exercises & Operations (Tiger Triumph)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0287
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Defence",
-    "Micro_Topic": "Military Operations & HADR (Operation Him Setu)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0287
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Defence",
-    "Micro_Topic": "Indian Air Force History & Chiefs",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0287
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Defence",
-    "Micro_Topic": "Joint Military Exercises (LAMITIYE-2026)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0287
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Defence",
-    "Micro_Topic": "Evacuation & Humanitarian Operations (Operation Ganga)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0287
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Defence",
-    "Micro_Topic": "Defence Institution",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0183
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Defence",
-    "Micro_Topic": "Defence Equipment (Tech)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0115
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "General Science",
-    "Micro_Topic": "General Science - Other",
-    "Predicted_Questions": 1.2,
-    "Probability_Weight": 0.3766
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "General Science",
-    "Micro_Topic": "Biology",
-    "Predicted_Questions": 0.4,
-    "Probability_Weight": 0.1353
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "General Science",
-    "Micro_Topic": "Physics",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.075
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "General Science",
-    "Micro_Topic": "Chemistry",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0475
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "General Science",
-    "Micro_Topic": "Nuclear Science & SMR",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0457
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "General Science",
-    "Micro_Topic": "Physics (Mechanics)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0457
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "General Science",
-    "Micro_Topic": "Science & Tech (Quantum Tech)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0457
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "General Science",
-    "Micro_Topic": "Biology & Health",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0457
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "General Science",
-    "Micro_Topic": "Nuclear Energy & Technology (HTGCR)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0457
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "General Science",
-    "Micro_Topic": "Chemistry (Biomolecules - Fructose)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0457
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "General Science",
-    "Micro_Topic": "Science & Tech (Disaster Communication - CBS)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0457
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "General Science",
-    "Micro_Topic": "Biology & Health (Hantavirus)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0457
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Static GK",
-    "Micro_Topic": "Static GK - General",
-    "Predicted_Questions": 2.3,
-    "Probability_Weight": 1.0
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Current Affairs",
-    "Micro_Topic": "Current Affairs - General",
-    "Predicted_Questions": 0.7,
-    "Probability_Weight": 0.3417
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Current Affairs",
-    "Micro_Topic": "Important Days & Themes",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.1401
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Current Affairs",
-    "Micro_Topic": "International Summit",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.098
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Current Affairs",
-    "Micro_Topic": "Observance Day",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0812
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Current Affairs",
-    "Micro_Topic": "Aviation News",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0728
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Current Affairs",
-    "Micro_Topic": "International Summits",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.07
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Current Affairs",
-    "Micro_Topic": "Appointment News",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0616
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Current Affairs",
-    "Micro_Topic": "Space Mission News",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0392
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Current Affairs",
-    "Micro_Topic": "Named Operation",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.028
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "History (Modern)",
-    "Micro_Topic": "Gandhi & Congress Movement",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1201
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "History (Modern)",
-    "Micro_Topic": "History (Modern) - General",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1071
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "History (Modern)",
-    "Micro_Topic": "Socio-Religious Reform Movements",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0812
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "History (Modern)",
-    "Micro_Topic": "World War II & Modern History",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0812
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "History (Modern)",
-    "Micro_Topic": "Freedom Movement & Congress Sessions",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0812
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "History (Modern)",
-    "Micro_Topic": "World History (French Revolution)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0812
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "History (Modern)",
-    "Micro_Topic": "Historical Monument",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0779
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "History (Modern)",
-    "Micro_Topic": "Political/Social Organization Founding",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0779
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "History (Modern)",
-    "Micro_Topic": "Revolt of 1857 / British Administration",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0584
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "History (Modern)",
-    "Micro_Topic": "Congress Session/Resolution",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0584
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "History (Modern)",
-    "Micro_Topic": "Social Reform Movement",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0455
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "History (Modern)",
-    "Micro_Topic": "Newspaper/Publication History",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.039
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Organizations",
-    "Micro_Topic": "UN Bodies",
-    "Predicted_Questions": 0.5,
-    "Probability_Weight": 0.3475
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Organizations",
-    "Micro_Topic": "International Organization",
-    "Predicted_Questions": 0.4,
-    "Probability_Weight": 0.2542
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Organizations",
-    "Micro_Topic": "International Economic Body",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.161
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Organizations",
-    "Micro_Topic": "International Organizations",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1059
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Organizations",
-    "Micro_Topic": "United Nations & Security Council",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1059
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Awards",
-    "Micro_Topic": "Sports Award",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1366
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Awards",
-    "Micro_Topic": "Awards - General",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1101
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Awards",
-    "Micro_Topic": "National/International Award",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1101
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Awards",
-    "Micro_Topic": "Padma Awards 2026 (Padma Bhushan)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1101
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Awards",
-    "Micro_Topic": "Padma Awards 2026 (Padma Vibhushan)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1101
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Awards",
-    "Micro_Topic": "Film Award",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0881
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Awards",
-    "Micro_Topic": "Nobel Prize",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0793
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Awards",
-    "Micro_Topic": "Literary Award",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0705
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Awards",
-    "Micro_Topic": "Beauty Pageant Title",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0529
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Awards",
-    "Micro_Topic": "Civilian Award",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0441
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Indian Polity",
-    "Micro_Topic": "Constitutional Articles",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1494
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Indian Polity",
-    "Micro_Topic": "Citizenship",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.112
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Indian Polity",
-    "Micro_Topic": "Election Commission & Political Parties",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1037
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Indian Polity",
-    "Micro_Topic": "Center-State Relations & Executive Power",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1037
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Indian Polity",
-    "Micro_Topic": "CAG/Constitutional Bodies",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0996
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Indian Polity",
-    "Micro_Topic": "Schedules of Constitution",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.083
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Indian Polity",
-    "Micro_Topic": "Fundamental Rights/DPSP",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0664
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Indian Polity",
-    "Micro_Topic": "Planning Commission/NITI Aayog",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0498
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Indian Polity",
-    "Micro_Topic": "Constitution Drafting",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0415
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Geography (World)",
-    "Micro_Topic": "Polar Research",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1059
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Geography (World)",
-    "Micro_Topic": "Oceans & Sea Routes",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1059
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Geography (World)",
-    "Micro_Topic": "World Agriculture",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.102
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Geography (World)",
-    "Micro_Topic": "Oceanography & Marine Landforms",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.098
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Geography (World)",
-    "Micro_Topic": "Capitals & Countries",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.098
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Geography (World)",
-    "Micro_Topic": "Natural Disasters & Geomorphology (Tsunamis)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.098
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Geography (World)",
-    "Micro_Topic": "Natural Phenomena",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0784
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Geography (World)",
-    "Micro_Topic": "Countries & Capitals",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0784
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Geography (World)",
-    "Micro_Topic": "World Currency",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0549
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Economy",
-    "Micro_Topic": "Economy - General",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.2394
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Economy",
-    "Micro_Topic": "Banking & Currency",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1878
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Economy",
-    "Micro_Topic": "Government Schemes & Banking",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1174
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Economy",
-    "Micro_Topic": "Indian Banking & Financial Institutions",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1174
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Economy",
-    "Micro_Topic": "Foreign Direct Investment (FDI)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1174
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Economy",
-    "Micro_Topic": "Government Initiatives & Agriculture (5F Vision)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1174
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Economy",
-    "Micro_Topic": "Inflation Measures",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0657
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Geography (India)",
-    "Micro_Topic": "Geography (India) - General",
-    "Predicted_Questions": 0.4,
-    "Probability_Weight": 0.2995
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Geography (India)",
-    "Micro_Topic": "Indian States",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1594
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Geography (India)",
-    "Micro_Topic": "Rivers of India",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1256
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Geography (India)",
-    "Micro_Topic": "Minerals & Energy Resources",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1208
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Geography (India)",
-    "Micro_Topic": "Drainage Patterns & River Systems",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1208
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Art & Culture",
-    "Micro_Topic": "Classical/Folk Dance",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.4488
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Art & Culture",
-    "Micro_Topic": "Folk Dance & Theatre",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1969
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Art & Culture",
-    "Micro_Topic": "Folk Dance & Traditions (Gaur Maria)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1969
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Art & Culture",
-    "Micro_Topic": "Art & Culture - General",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0945
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Books",
-    "Micro_Topic": "Author-Book Identification",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.9412
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Books",
-    "Micro_Topic": "Autobiography",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0588
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Personalities",
-    "Micro_Topic": "Personalities - General",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.7143
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "Personalities",
-    "Micro_Topic": "Scientist",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0952
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "History (Ancient)",
-    "Micro_Topic": "Ancient Dynasty",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.4545
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "History (Ancient)",
-    "Micro_Topic": "Gupta Empire",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1515
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "History (Medieval)",
-    "Micro_Topic": "Mughal Empire",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.2609
-  },
-  {
-    "Section": "General Awareness",
-    "Topic": "History (Medieval)",
-    "Micro_Topic": "History (Medieval) - General",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.2609
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Non-Verbal Pattern",
-    "Micro_Topic": "Figure Series Completion",
-    "Predicted_Questions": 1.2,
-    "Probability_Weight": 0.194
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Non-Verbal Pattern",
-    "Micro_Topic": "Pattern Completion",
-    "Predicted_Questions": 1.0,
-    "Probability_Weight": 0.174
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Non-Verbal Pattern",
-    "Micro_Topic": "Dot Placement in Figure",
-    "Predicted_Questions": 0.8,
-    "Probability_Weight": 0.1283
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Non-Verbal Pattern",
-    "Micro_Topic": "Odd Figure Out",
-    "Predicted_Questions": 0.4,
-    "Probability_Weight": 0.0695
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Non-Verbal Pattern",
-    "Micro_Topic": "Non-Verbal Pattern - General",
-    "Predicted_Questions": 0.4,
-    "Probability_Weight": 0.0607
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Non-Verbal Pattern",
-    "Micro_Topic": "Embedded Figure",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.0526
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Non-Verbal Pattern",
-    "Micro_Topic": "Rotated Figure",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0401
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Non-Verbal Pattern",
-    "Micro_Topic": "Cube & Dice",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0313
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Non-Verbal Pattern",
-    "Micro_Topic": "Mathematical Operations Pattern Matrix",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0313
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Non-Verbal Pattern",
-    "Micro_Topic": "Letter & Symbol Pattern Matrix",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0313
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Non-Verbal Pattern",
-    "Micro_Topic": "Non-Verbal Classification (Odd Figure)",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0313
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Non-Verbal Pattern",
-    "Micro_Topic": "Dice / Cube Opposite Faces",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0313
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Non-Verbal Pattern",
-    "Micro_Topic": "Dot Situation",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0313
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Non-Verbal Pattern",
-    "Micro_Topic": "Mirror/Water Image",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0307
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Non-Verbal Pattern",
-    "Micro_Topic": "Dice / Cube Face Identification",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0156
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Non-Verbal Pattern",
-    "Micro_Topic": "Dice / Cube Masked Face",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0156
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Non-Verbal Pattern",
-    "Micro_Topic": "Figure Construction from Pieces",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.015
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Non-Verbal Pattern",
-    "Micro_Topic": "Figure Analogy",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.015
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Logical Reasoning",
-    "Micro_Topic": "Blood Relations",
-    "Predicted_Questions": 1.3,
-    "Probability_Weight": 0.2227
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Logical Reasoning",
-    "Micro_Topic": "Ranking/Comparison Puzzle",
-    "Predicted_Questions": 0.6,
-    "Probability_Weight": 0.1013
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Logical Reasoning",
-    "Micro_Topic": "Direction-based Puzzle",
-    "Predicted_Questions": 0.5,
-    "Probability_Weight": 0.0952
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Logical Reasoning",
-    "Micro_Topic": "Calendar Reasoning",
-    "Predicted_Questions": 0.4,
-    "Probability_Weight": 0.076
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Logical Reasoning",
-    "Micro_Topic": "Clock-based Reasoning",
-    "Predicted_Questions": 0.4,
-    "Probability_Weight": 0.076
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Logical Reasoning",
-    "Micro_Topic": "Logical Reasoning - General",
-    "Predicted_Questions": 0.4,
-    "Probability_Weight": 0.0638
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Logical Reasoning",
-    "Micro_Topic": "Mathematical Signs Interchange",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0437
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Logical Reasoning",
-    "Micro_Topic": "Ranking & Ordering (Row Position)",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0437
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Logical Reasoning",
-    "Micro_Topic": "Inequality & Mathematical Comparison",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0437
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Logical Reasoning",
-    "Micro_Topic": "Clock Reasoning (Mirror Image & Angle)",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0437
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Logical Reasoning",
-    "Micro_Topic": "Blood Relations (Family Tree)",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0437
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Logical Reasoning",
-    "Micro_Topic": "Seating Arrangement",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0419
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Logical Reasoning",
-    "Micro_Topic": "Number/Symbol Pattern",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0314
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Logical Reasoning",
-    "Micro_Topic": "Symbol-Operator Substitution",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0192
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Logical Reasoning",
-    "Micro_Topic": "Sign/Symbol Interchange",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.014
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Logical Reasoning",
-    "Micro_Topic": "Word Puzzle (Hidden Name)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0105
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Coding-Decoding",
-    "Micro_Topic": "Word/Letter Coding",
-    "Predicted_Questions": 1.2,
-    "Probability_Weight": 0.4003
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Coding-Decoding",
-    "Micro_Topic": "Number Coding",
-    "Predicted_Questions": 0.5,
-    "Probability_Weight": 0.1764
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Coding-Decoding",
-    "Micro_Topic": "Coded Analogy",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.0951
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Coding-Decoding",
-    "Micro_Topic": "Coded Blood Relations",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0767
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Coding-Decoding",
-    "Micro_Topic": "Letter to Number Coding",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0767
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Coding-Decoding",
-    "Micro_Topic": "Message / Word Pattern Coding",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0767
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Coding-Decoding",
-    "Micro_Topic": "Letter Triad Pattern Shift",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0767
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Verbal Classification",
-    "Micro_Topic": "Odd Word Out (Word Group)",
-    "Predicted_Questions": 2.0,
-    "Probability_Weight": 0.7898
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Verbal Classification",
-    "Micro_Topic": "Jumbled Word Odd One Out",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.1226
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Verbal Classification",
-    "Micro_Topic": "Odd One Out (Anagrams / Jumbled Words)",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0876
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Verbal Analogy",
-    "Micro_Topic": "Word Pair Analogy",
-    "Predicted_Questions": 1.7,
-    "Probability_Weight": 0.7367
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Verbal Analogy",
-    "Micro_Topic": "Letter Analogy",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1038
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Verbal Analogy",
-    "Micro_Topic": "Number Analogy",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0667
-  },
-  {
-    "Section": "Reasoning",
+    "Broad_Topic": "Spotting Errors",
+    "Topic": "Spotting Errors",
+    "Micro_Topic": "Sentence Error Identification",
+    "Predicted_Questions": 2,
+    "Probability_Weight": 0.5139773716275022
+  },
+  {
+    "Section": "Verbal Ability",
+    "Broad_Topic": "Spotting Errors",
+    "Topic": "Spotting Errors",
+    "Micro_Topic": "Subject-Verb Agreement",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.11282854656222803
+  },
+  {
+    "Section": "Verbal Ability",
+    "Broad_Topic": "Synonyms/Antonyms",
+    "Topic": "Synonyms/Antonyms",
+    "Micro_Topic": "Antonym - Contextual Meaning",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.07777777777777777
+  },
+  {
+    "Section": "Verbal Ability",
+    "Broad_Topic": "Synonyms/Antonyms",
+    "Topic": "Synonyms/Antonyms",
+    "Micro_Topic": "Antonym - Direct Meaning",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.2333333333333333
+  },
+  {
+    "Section": "Verbal Ability",
+    "Broad_Topic": "Verbal Analogy",
     "Topic": "Verbal Analogy",
     "Micro_Topic": "Verbal Analogy - General",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0309
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.5333333333333334
   },
   {
-    "Section": "Reasoning",
+    "Section": "Verbal Ability",
+    "Broad_Topic": "Verbal Analogy",
     "Topic": "Verbal Analogy",
-    "Micro_Topic": "Word Pair Analogy (Philosophy Concepts)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0309
+    "Micro_Topic": "Word Pair Analogy",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.31111111111111106
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "Art & Culture",
+    "Topic": "Art & Culture",
+    "Micro_Topic": "Classical/Folk Dance",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.3434615384615385
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "Awards",
+    "Topic": "Awards",
+    "Micro_Topic": "National/International Award",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.17499999999999996
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "Awards",
+    "Topic": "Awards",
+    "Micro_Topic": "Padma Awards 2026 (Padma Bhushan)",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.17499999999999996
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "Current Affairs",
+    "Topic": "Current Affairs",
+    "Micro_Topic": "Current Affairs - General",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.22420000000000007
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "Current Affairs",
+    "Topic": "Current Affairs",
+    "Micro_Topic": "Important Days & Themes",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.3499999999999999
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "Current Affairs",
+    "Topic": "Current Affairs",
+    "Micro_Topic": "International Summits",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.17499999999999996
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "Defence",
+    "Topic": "Defence",
+    "Micro_Topic": "Air Force Asset",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.12875000000000003
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "Defence",
+    "Topic": "Defence",
+    "Micro_Topic": "Defence - General",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.08625000000000002
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "Defence",
+    "Topic": "Defence",
+    "Micro_Topic": "Evacuation & Humanitarian Operations (Operation Ganga)",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.05249999999999999
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "Defence",
+    "Topic": "Defence",
+    "Micro_Topic": "Gallantry Awards & IAF History",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.05249999999999999
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "Defence",
+    "Topic": "Defence",
+    "Micro_Topic": "Naval Asset",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.06875000000000002
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "Economy",
+    "Topic": "Economy",
+    "Micro_Topic": "Economy - General",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.30664556962025324
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "Economy",
+    "Topic": "Economy",
+    "Micro_Topic": "Foreign Direct Investment (FDI)",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.13124999999999998
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "Environment/Ecology",
+    "Topic": "Environment/Ecology",
+    "Micro_Topic": "Protected Area",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.1847222222222222
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "General Science",
+    "Topic": "General Science",
+    "Micro_Topic": "Biology & Health",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.06562499999999999
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "General Science",
+    "Topic": "General Science",
+    "Micro_Topic": "General Science - Other",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.3090361445783133
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "General Science",
+    "Topic": "General Science",
+    "Micro_Topic": "Physics",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.07821285140562251
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "Geography (India)",
+    "Topic": "Geography (India)",
+    "Micro_Topic": "Drainage Patterns & River Systems",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.26249999999999996
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "Geography (World)",
+    "Topic": "Geography (World)",
+    "Micro_Topic": "Capitals & Countries",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.17499999999999996
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "History (Modern)",
+    "Topic": "History (Modern)",
+    "Micro_Topic": "Freedom Movement & Congress Sessions",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.13124999999999998
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "History (Modern)",
+    "Topic": "History (Modern)",
+    "Micro_Topic": "Socio-Religious Reform Movements",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.13124999999999998
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "Indian Polity",
+    "Topic": "Indian Polity",
+    "Micro_Topic": "Center-State Relations & Executive Power",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.26249999999999996
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "Organizations",
+    "Topic": "Organizations",
+    "Micro_Topic": "International Organizations",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.26249999999999996
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "Static GK",
+    "Topic": "Static GK",
+    "Micro_Topic": "National Sports Awards",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.13124999999999998
+  },
+  {
+    "Section": "General Awareness",
+    "Broad_Topic": "Static GK",
+    "Topic": "Static GK",
+    "Micro_Topic": "Olympic Games & Athletes (PV Sindhu)",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.13124999999999998
   },
   {
     "Section": "Reasoning",
-    "Topic": "Verbal Analogy",
-    "Micro_Topic": "Word Pair Analogy (Medical Specialties)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0309
+    "Broad_Topic": "Coding-Decoding",
+    "Topic": "Coding-Decoding",
+    "Micro_Topic": "Coded Blood Relations",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.16666666666666666
   },
   {
     "Section": "Reasoning",
-    "Topic": "Venn Diagrams",
-    "Micro_Topic": "Three-Term Relationship Venn",
-    "Predicted_Questions": 2.0,
-    "Probability_Weight": 0.875
+    "Broad_Topic": "Coding-Decoding",
+    "Topic": "Coding-Decoding",
+    "Micro_Topic": "Letter Triad Pattern Shift",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.16666666666666666
   },
   {
     "Section": "Reasoning",
-    "Topic": "Venn Diagrams",
-    "Micro_Topic": "Geometrical Venn Diagram (Region Counting)",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1042
+    "Broad_Topic": "Coding-Decoding",
+    "Topic": "Coding-Decoding",
+    "Micro_Topic": "Letter to Number Coding",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.16666666666666666
   },
   {
     "Section": "Reasoning",
-    "Topic": "Number/Letter Series",
-    "Micro_Topic": "Number Series",
-    "Predicted_Questions": 1.0,
-    "Probability_Weight": 0.6173
+    "Broad_Topic": "Coding-Decoding",
+    "Topic": "Coding-Decoding",
+    "Micro_Topic": "Word/Letter Coding",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.22189922480620153
   },
   {
     "Section": "Reasoning",
-    "Topic": "Number/Letter Series",
-    "Micro_Topic": "Letter Series",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1327
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Number/Letter Series",
-    "Micro_Topic": "Letter Analogy / Cluster Shift",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1276
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Number/Letter Series",
-    "Micro_Topic": "Mixed Series",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1173
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Direction Sense",
-    "Micro_Topic": "Shortest Distance from Start",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.2967
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Direction Sense",
-    "Micro_Topic": "Distance & Direction Sense (Angle Turns)",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1374
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Direction Sense",
-    "Micro_Topic": "Distance & Direction Sense (Turns & Path)",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1374
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Direction Sense",
-    "Micro_Topic": "Distance & Direction Sense (Turns & Distance)",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1374
-  },
-  {
-    "Section": "Reasoning",
+    "Broad_Topic": "Direction Sense",
     "Topic": "Direction Sense",
     "Micro_Topic": "Distance & Direction Sense (Angle & Drone Flight)",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1374
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.16666666666666666
   },
   {
     "Section": "Reasoning",
-    "Topic": "Direction Sense",
-    "Micro_Topic": "Final Direction Facing",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1099
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Direction Sense",
-    "Micro_Topic": "Direction Sense - General",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.044
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Syllogism",
-    "Micro_Topic": "Two-Statement Syllogism",
-    "Predicted_Questions": 0.4,
-    "Probability_Weight": 0.625
-  },
-  {
-    "Section": "Reasoning",
-    "Topic": "Syllogism",
-    "Micro_Topic": "Syllogism - General",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.3125
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Profit & Loss",
-    "Micro_Topic": "CP-SP Relationship",
-    "Predicted_Questions": 0.5,
-    "Probability_Weight": 0.2626
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Profit & Loss",
-    "Micro_Topic": "Profit Percentage",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.1553
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Profit & Loss",
-    "Micro_Topic": "Discount & Marked Price",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.1461
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Profit & Loss",
-    "Micro_Topic": "Loss Percentage",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.1301
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Profit & Loss",
-    "Micro_Topic": "Successive Discount",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0594
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Profit & Loss",
-    "Micro_Topic": "Cost Price & Gain Percentage",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0571
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Profit & Loss",
-    "Micro_Topic": "Marked Price, Discount & Overall Gain",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0571
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Profit & Loss",
-    "Micro_Topic": "Alligation in Profit & Loss",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0571
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Profit & Loss",
-    "Micro_Topic": "Cost Price from Differential Profit",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0571
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Mensuration",
-    "Micro_Topic": "Square Area/Perimeter",
-    "Predicted_Questions": 0.5,
-    "Probability_Weight": 0.2521
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Mensuration",
-    "Micro_Topic": "Circle Area/Circumference",
-    "Predicted_Questions": 0.4,
-    "Probability_Weight": 0.2105
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Mensuration",
-    "Micro_Topic": "Mensuration - General",
-    "Predicted_Questions": 0.4,
-    "Probability_Weight": 0.1994
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Mensuration",
-    "Micro_Topic": "Square Perimeter & Percentage Change",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0693
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Mensuration",
-    "Micro_Topic": "Cylinder Surface Area & Volume",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0693
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Mensuration",
-    "Micro_Topic": "Volume of Cone to Cylinders",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0693
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Mensuration",
-    "Micro_Topic": "Parallelogram & Rectangle Area",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0693
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Mensuration",
-    "Micro_Topic": "Rectangle Area/Perimeter",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0499
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Number System",
-    "Micro_Topic": "LCM & HCF / Divisibility",
-    "Predicted_Questions": 0.6,
-    "Probability_Weight": 0.3158
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Number System",
-    "Micro_Topic": "Number System - General",
-    "Predicted_Questions": 0.5,
-    "Probability_Weight": 0.2327
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Number System",
-    "Micro_Topic": "HCF & LCM Problems (Bells Toll)",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.1385
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Number System",
-    "Micro_Topic": "HCF & LCM Product Property",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0693
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Number System",
-    "Micro_Topic": "Divisibility Rules (Divisible by 11)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0693
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Number System",
-    "Micro_Topic": "HCF & LCM of Ratio Numbers",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0693
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Number System",
-    "Micro_Topic": "Number from Square Difference",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0554
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Number System",
-    "Micro_Topic": "Remainder & Divisibility Chain",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0277
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Simplification",
-    "Micro_Topic": "Exponent/Indices Equation",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1311
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Simplification",
-    "Micro_Topic": "Decimal Simplification",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1189
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Simplification",
-    "Micro_Topic": "BODMAS Expression",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1037
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Simplification",
-    "Micro_Topic": "Arithmetic & Fraction Simplification",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0762
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Simplification",
-    "Micro_Topic": "Exponents & Power Equations",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0762
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Simplification",
-    "Micro_Topic": "Surds & Square Root Radical",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0762
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Simplification",
-    "Micro_Topic": "Exponents & Power Attenuation",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0762
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Simplification",
-    "Micro_Topic": "Cube Roots & Indices",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0762
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Simplification",
-    "Micro_Topic": "BODMAS Decimals Simplification",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0762
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Simplification",
-    "Micro_Topic": "Fraction Simplification",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0732
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Simplification",
-    "Micro_Topic": "Sign Interchange Puzzle",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0671
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Time, Speed & Dist.",
-    "Micro_Topic": "Train Problems",
-    "Predicted_Questions": 0.4,
-    "Probability_Weight": 0.2394
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Time, Speed & Dist.",
-    "Micro_Topic": "Boats & Streams",
-    "Predicted_Questions": 0.4,
-    "Probability_Weight": 0.1995
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Time, Speed & Dist.",
-    "Micro_Topic": "Time, Speed & Distance - General",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.1421
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Time, Speed & Dist.",
-    "Micro_Topic": "Boats & Streams (Downstream)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0623
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Time, Speed & Dist.",
-    "Micro_Topic": "Heights & Distances (Speed & Angles)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0623
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Time, Speed & Dist.",
-    "Micro_Topic": "Train Speed Ratio & Times",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0623
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Time, Speed & Dist.",
-    "Micro_Topic": "Heights & Distances (Elevation & Reflection)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0623
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Time, Speed & Dist.",
-    "Micro_Topic": "Speed Ratio Time Difference",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0599
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Time, Speed & Dist.",
-    "Micro_Topic": "Average Speed",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0299
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Time & Work",
-    "Micro_Topic": "Individual Work Rate",
-    "Predicted_Questions": 0.5,
-    "Probability_Weight": 0.2601
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Time & Work",
-    "Micro_Topic": "Pipes & Cisterns",
-    "Predicted_Questions": 0.4,
-    "Probability_Weight": 0.2038
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Time & Work",
-    "Micro_Topic": "Men-Days Work",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.1528
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Time & Work",
-    "Micro_Topic": "Efficiency Ratio",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.0965
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Time & Work",
-    "Micro_Topic": "Pipes & Cisterns (Fraction Filled)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.067
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Time & Work",
-    "Micro_Topic": "Pipes & Cisterns (Combined Time)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.067
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Time & Work",
-    "Micro_Topic": "Work, Workers & Days Formula",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.067
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Time & Work",
-    "Micro_Topic": "Pairwise Work Combination",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.059
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Ratio & Proportion",
-    "Micro_Topic": "Division/Partnership Ratio",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.2258
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Ratio & Proportion",
-    "Micro_Topic": "Age Ratio",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.129
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Ratio & Proportion",
-    "Micro_Topic": "Direct/Inverse Proportion",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0762
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Ratio & Proportion",
-    "Micro_Topic": "Partnership & Profit Sharing",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0733
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Ratio & Proportion",
-    "Micro_Topic": "Partnership & Capital Investment",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0733
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Ratio & Proportion",
-    "Micro_Topic": "Ratio & Proportion - General",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0704
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Ratio & Proportion",
-    "Micro_Topic": "Ratio Comparison/Ordering",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0704
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Ratio & Proportion",
-    "Micro_Topic": "Algebraic Ratio Manipulation",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0645
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Ratio & Proportion",
-    "Micro_Topic": "Chained Ratio (Multi-part)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0528
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Ratio & Proportion",
-    "Micro_Topic": "Item Count Ratio",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0469
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Ratio & Proportion",
-    "Micro_Topic": "Ratio-based Savings Problem",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0352
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Simple/Compound Int.",
-    "Micro_Topic": "Simple Interest",
-    "Predicted_Questions": 0.6,
-    "Probability_Weight": 0.4306
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Simple/Compound Int.",
-    "Micro_Topic": "Compound Interest",
-    "Predicted_Questions": 0.4,
-    "Probability_Weight": 0.272
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Simple/Compound Int.",
-    "Micro_Topic": "CI-SI Difference",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1331
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Simple/Compound Int.",
-    "Micro_Topic": "CI-SI Difference Formula",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0708
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Simple/Compound Int.",
-    "Micro_Topic": "CI and SI Difference & Rate Finding",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0708
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Average",
-    "Micro_Topic": "Age Average",
-    "Predicted_Questions": 0.9,
-    "Probability_Weight": 0.6603
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Average",
-    "Micro_Topic": "Reciprocal & Average Capacities",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0801
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Average",
-    "Micro_Topic": "Weighted Average Comparison",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0801
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Average",
-    "Micro_Topic": "Weighted Mean Price",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0801
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Average",
-    "Micro_Topic": "Mean & Mode of Algebraic Dataset",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0801
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Percentage",
-    "Micro_Topic": "Salary/Income Percentage",
-    "Predicted_Questions": 0.4,
-    "Probability_Weight": 0.2862
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Percentage",
-    "Micro_Topic": "Percentage - General",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1953
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Percentage",
-    "Micro_Topic": "Election Votes",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1145
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Percentage",
-    "Micro_Topic": "Successive % Change",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0875
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Percentage",
-    "Micro_Topic": "Percentage Success Rate & Games",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0842
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Percentage",
-    "Micro_Topic": "Election Voting & Margin Percentages",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0842
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Percentage",
-    "Micro_Topic": "Price-Consumption Percentage",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0539
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Mixture & Alligation",
-    "Micro_Topic": "Milk-Water Mixture",
-    "Predicted_Questions": 0.4,
-    "Probability_Weight": 0.322
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Mixture & Alligation",
-    "Micro_Topic": "Price Blending (Alligation)",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.2331
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Mixture & Alligation",
-    "Micro_Topic": "Mixture & Alligation - General",
-    "Predicted_Questions": 0.2,
-    "Probability_Weight": 0.1568
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Mixture & Alligation",
-    "Micro_Topic": "Three Solutions Mixture",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1059
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Mixture & Alligation",
-    "Micro_Topic": "Replacement & Dilution (Milk & Water)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1059
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Mixture & Alligation",
-    "Micro_Topic": "Alloy Mixture",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0678
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Statistics",
-    "Micro_Topic": "Probability - Balls in Bag",
-    "Predicted_Questions": 0.4,
-    "Probability_Weight": 0.3466
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Statistics",
-    "Micro_Topic": "Mean/Median/Mode",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.142
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Statistics",
-    "Micro_Topic": "Probability (Cards)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.142
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Statistics",
-    "Micro_Topic": "Probability (Numbers)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.142
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Statistics",
-    "Micro_Topic": "Probability - Cards",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1023
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Statistics",
-    "Micro_Topic": "Probability - Dice",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.0682
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Algebra",
-    "Micro_Topic": "Linear Equations (Word Problem)",
-    "Predicted_Questions": 0.3,
-    "Probability_Weight": 0.493
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Algebra",
-    "Micro_Topic": "Sum/Difference of Cubes",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.2254
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Algebra",
-    "Micro_Topic": "Number-Reciprocal Equations",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1972
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Clock Problems",
-    "Micro_Topic": "Hands Coincide",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 1.0
-  },
-  {
-    "Section": "Numerical Ability",
-    "Topic": "Clocks",
-    "Micro_Topic": "Angle Between Hands",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 1.0
-  },
-  {
-    "Section": "Numerical Ability",
+    "Broad_Topic": "Direction Sense",
     "Topic": "Direction Sense",
     "Micro_Topic": "Shortest Distance from Start",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.2967
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.21951219512195122
+  },
+  {
+    "Section": "Reasoning",
+    "Broad_Topic": "Logical Reasoning",
+    "Topic": "Logical Reasoning",
+    "Micro_Topic": "Blood Relations (Family Tree)",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.1111111111111111
+  },
+  {
+    "Section": "Reasoning",
+    "Broad_Topic": "Logical Reasoning",
+    "Topic": "Logical Reasoning",
+    "Micro_Topic": "Calendar Reasoning",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.12901144976616674
+  },
+  {
+    "Section": "Reasoning",
+    "Broad_Topic": "Logical Reasoning",
+    "Topic": "Logical Reasoning",
+    "Micro_Topic": "Clock Reasoning (Mirror Image & Angle)",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.1111111111111111
+  },
+  {
+    "Section": "Reasoning",
+    "Broad_Topic": "Logical Reasoning",
+    "Topic": "Logical Reasoning",
+    "Micro_Topic": "Inequality & Mathematical Comparison",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.1111111111111111
+  },
+  {
+    "Section": "Reasoning",
+    "Broad_Topic": "Logical Reasoning",
+    "Topic": "Logical Reasoning",
+    "Micro_Topic": "Mathematical Signs Interchange",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.1111111111111111
+  },
+  {
+    "Section": "Reasoning",
+    "Broad_Topic": "Logical Reasoning",
+    "Topic": "Logical Reasoning",
+    "Micro_Topic": "Ranking & Ordering (Row Position)",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.1111111111111111
+  },
+  {
+    "Section": "Reasoning",
+    "Broad_Topic": "Non-Verbal Pattern",
+    "Topic": "Non-Verbal Pattern",
+    "Micro_Topic": "Dice / Cube Opposite Faces",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.08333333333333333
+  },
+  {
+    "Section": "Reasoning",
+    "Broad_Topic": "Non-Verbal Pattern",
+    "Topic": "Non-Verbal Pattern",
+    "Micro_Topic": "Dot Situation",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.08333333333333333
+  },
+  {
+    "Section": "Reasoning",
+    "Broad_Topic": "Non-Verbal Pattern",
+    "Topic": "Non-Verbal Pattern",
+    "Micro_Topic": "Figure Series Completion",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.14669966996699668
+  },
+  {
+    "Section": "Reasoning",
+    "Broad_Topic": "Non-Verbal Pattern",
+    "Topic": "Non-Verbal Pattern",
+    "Micro_Topic": "Letter & Symbol Pattern Matrix",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.08333333333333333
+  },
+  {
+    "Section": "Reasoning",
+    "Broad_Topic": "Non-Verbal Pattern",
+    "Topic": "Non-Verbal Pattern",
+    "Micro_Topic": "Mathematical Operations Pattern Matrix",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.08333333333333333
+  },
+  {
+    "Section": "Reasoning",
+    "Broad_Topic": "Non-Verbal Pattern",
+    "Topic": "Non-Verbal Pattern",
+    "Micro_Topic": "Non-Verbal Classification (Odd Figure)",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.08333333333333333
+  },
+  {
+    "Section": "Reasoning",
+    "Broad_Topic": "Non-Verbal Pattern",
+    "Topic": "Non-Verbal Pattern",
+    "Micro_Topic": "Pattern Completion",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.1559405940594059
+  },
+  {
+    "Section": "Reasoning",
+    "Broad_Topic": "Number/Letter Series",
+    "Topic": "Number/Letter Series",
+    "Micro_Topic": "Letter Analogy / Cluster Shift",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.6666666666666666
+  },
+  {
+    "Section": "Reasoning",
+    "Broad_Topic": "Venn Diagrams",
+    "Topic": "Venn Diagrams",
+    "Micro_Topic": "Geometrical Venn Diagram (Region Counting)",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.3333333333333333
+  },
+  {
+    "Section": "Reasoning",
+    "Broad_Topic": "Venn Diagrams",
+    "Topic": "Venn Diagrams",
+    "Micro_Topic": "Three-Term Relationship Venn",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.6542288557213931
+  },
+  {
+    "Section": "Reasoning",
+    "Broad_Topic": "Verbal Analogy",
+    "Topic": "Verbal Analogy",
+    "Micro_Topic": "Word Pair Analogy",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.5818656229615133
+  },
+  {
+    "Section": "Reasoning",
+    "Broad_Topic": "Verbal Classification",
+    "Topic": "Verbal Classification",
+    "Micro_Topic": "Odd One Out (Anagrams / Jumbled Words)",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.6666666666666666
+  },
+  {
+    "Section": "Reasoning",
+    "Broad_Topic": "Verbal Classification",
+    "Topic": "Verbal Classification",
+    "Micro_Topic": "Odd Word Out (Word Group)",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.30419880034275926
   },
   {
     "Section": "Numerical Ability",
-    "Topic": "Direction Sense",
-    "Micro_Topic": "Distance & Direction Sense (Angle Turns)",
-    "Predicted_Questions": 0.1,
-    "Probability_Weight": 0.1374
+    "Broad_Topic": "Algebra",
+    "Topic": "Algebra",
+    "Micro_Topic": "Linear Equations (Word Problem)",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.49295774647887325
+  },
+  {
+    "Section": "Numerical Ability",
+    "Broad_Topic": "Average",
+    "Topic": "Average",
+    "Micro_Topic": "Age Average",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.4664728682170543
+  },
+  {
+    "Section": "Numerical Ability",
+    "Broad_Topic": "Average",
+    "Topic": "Average",
+    "Micro_Topic": "Mean & Mode of Algebraic Dataset",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.12916666666666668
+  },
+  {
+    "Section": "Numerical Ability",
+    "Broad_Topic": "Mensuration",
+    "Topic": "Mensuration",
+    "Micro_Topic": "Circle Area/Circumference",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.13298059964726633
+  },
+  {
+    "Section": "Numerical Ability",
+    "Broad_Topic": "Mensuration",
+    "Topic": "Mensuration",
+    "Micro_Topic": "Mensuration - General",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.1841269841269841
+  },
+  {
+    "Section": "Numerical Ability",
+    "Broad_Topic": "Mixture & Alligation",
+    "Topic": "Mixture & Alligation",
+    "Micro_Topic": "Replacement & Dilution (Milk & Water)",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.25833333333333336
+  },
+  {
+    "Section": "Numerical Ability",
+    "Broad_Topic": "Number System",
+    "Topic": "Number System",
+    "Micro_Topic": "HCF & LCM Problems (Bells Toll)",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.2066666666666667
+  },
+  {
+    "Section": "Numerical Ability",
+    "Broad_Topic": "Number System",
+    "Topic": "Number System",
+    "Micro_Topic": "LCM & HCF / Divisibility",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.21081560283687942
+  },
+  {
+    "Section": "Numerical Ability",
+    "Broad_Topic": "Percentage",
+    "Topic": "Percentage",
+    "Micro_Topic": "Election Voting & Margin Percentages",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.25833333333333336
+  },
+  {
+    "Section": "Numerical Ability",
+    "Broad_Topic": "Profit & Loss",
+    "Topic": "Profit & Loss",
+    "Micro_Topic": "Alligation in Profit & Loss",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.12916666666666668
+  },
+  {
+    "Section": "Numerical Ability",
+    "Broad_Topic": "Profit & Loss",
+    "Topic": "Profit & Loss",
+    "Micro_Topic": "CP-SP Relationship",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.2004521963824289
+  },
+  {
+    "Section": "Numerical Ability",
+    "Broad_Topic": "Ratio & Proportion",
+    "Topic": "Ratio & Proportion",
+    "Micro_Topic": "Partnership & Capital Investment",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.25833333333333336
+  },
+  {
+    "Section": "Numerical Ability",
+    "Broad_Topic": "Simple/Compound Int.",
+    "Topic": "Simple/Compound Int.",
+    "Micro_Topic": "CI and SI Difference & Rate Finding",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.25833333333333336
+  },
+  {
+    "Section": "Numerical Ability",
+    "Broad_Topic": "Simplification",
+    "Topic": "Simplification",
+    "Micro_Topic": "Decimal Simplification",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.12240259740259737
+  },
+  {
+    "Section": "Numerical Ability",
+    "Broad_Topic": "Simplification",
+    "Topic": "Simplification",
+    "Micro_Topic": "Exponent/Indices Equation",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.10984848484848483
+  },
+  {
+    "Section": "Numerical Ability",
+    "Broad_Topic": "Statistics",
+    "Topic": "Statistics",
+    "Micro_Topic": "Probability (Cards)",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.25833333333333336
+  },
+  {
+    "Section": "Numerical Ability",
+    "Broad_Topic": "Time & Work",
+    "Topic": "Time & Work",
+    "Micro_Topic": "Pipes & Cisterns (Combined Time)",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.17222222222222225
+  },
+  {
+    "Section": "Numerical Ability",
+    "Broad_Topic": "Time & Work",
+    "Topic": "Time & Work",
+    "Micro_Topic": "Pipes & Cisterns (Fraction Filled)",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.17222222222222225
+  },
+  {
+    "Section": "Numerical Ability",
+    "Broad_Topic": "Time, Speed & Dist.",
+    "Topic": "Time, Speed & Dist.",
+    "Micro_Topic": "Boats & Streams",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.15466666666666665
+  },
+  {
+    "Section": "Numerical Ability",
+    "Broad_Topic": "Time, Speed & Dist.",
+    "Topic": "Time, Speed & Dist.",
+    "Micro_Topic": "Boats & Streams (Downstream)",
+    "Predicted_Questions": 1,
+    "Probability_Weight": 0.12916666666666668
   }
 ]

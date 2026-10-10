@@ -1,0 +1,4778 @@
+{
+  "transition": "August of Y -> January/February of Y+1",
+  "reliable_test_pairs": 1,
+  "exploratory_weight_analysis": {
+    "Verbal Ability": {
+      "macro_count_optimum": {
+        "august_weight": 0.3,
+        "macro_l1": 15.969089819799226,
+        "micro_coverage": 56.666666666666664,
+        "micro_hit": 38.095238095238095
+      },
+      "micro_coverage_optimum": {
+        "august_weight": 0.0,
+        "macro_l1": 16.676380197762363,
+        "micro_coverage": 56.666666666666664,
+        "micro_hit": 36.36363636363637
+      },
+      "curve": [
+        {
+          "august_weight": 0.0,
+          "macro_l1": 16.676380197762363,
+          "micro_coverage": 56.666666666666664,
+          "micro_hit": 36.36363636363637
+        },
+        {
+          "august_weight": 0.05,
+          "macro_l1": 16.54256118787424,
+          "micro_coverage": 56.666666666666664,
+          "micro_hit": 38.095238095238095
+        },
+        {
+          "august_weight": 0.1,
+          "macro_l1": 16.408742177986117,
+          "micro_coverage": 56.666666666666664,
+          "micro_hit": 40.0
+        },
+        {
+          "august_weight": 0.15,
+          "macro_l1": 16.274923168098,
+          "micro_coverage": 56.666666666666664,
+          "micro_hit": 40.0
+        },
+        {
+          "august_weight": 0.2,
+          "macro_l1": 16.14110415820989,
+          "micro_coverage": 56.666666666666664,
+          "micro_hit": 38.095238095238095
+        },
+        {
+          "august_weight": 0.25,
+          "macro_l1": 16.00728514832177,
+          "micro_coverage": 56.666666666666664,
+          "micro_hit": 38.095238095238095
+        },
+        {
+          "august_weight": 0.3,
+          "macro_l1": 15.969089819799226,
+          "micro_coverage": 56.666666666666664,
+          "micro_hit": 38.095238095238095
+        },
+        {
+          "august_weight": 0.35,
+          "macro_l1": 15.971297689813564,
+          "micro_coverage": 43.333333333333336,
+          "micro_hit": 30.0
+        },
+        {
+          "august_weight": 0.4,
+          "macro_l1": 15.973505559827911,
+          "micro_coverage": 43.333333333333336,
+          "micro_hit": 30.0
+        },
+        {
+          "august_weight": 0.45,
+          "macro_l1": 15.97571342984225,
+          "micro_coverage": 43.333333333333336,
+          "micro_hit": 28.571428571428573
+        },
+        {
+          "august_weight": 0.5,
+          "macro_l1": 15.977921299856588,
+          "micro_coverage": 43.333333333333336,
+          "micro_hit": 30.0
+        },
+        {
+          "august_weight": 0.55,
+          "macro_l1": 15.980129169870931,
+          "micro_coverage": 43.333333333333336,
+          "micro_hit": 30.0
+        },
+        {
+          "august_weight": 0.6,
+          "macro_l1": 15.982337039885271,
+          "micro_coverage": 43.333333333333336,
+          "micro_hit": 30.0
+        },
+        {
+          "august_weight": 0.65,
+          "macro_l1": 15.984544909899615,
+          "micro_coverage": 43.333333333333336,
+          "micro_hit": 28.571428571428573
+        },
+        {
+          "august_weight": 0.7,
+          "macro_l1": 15.986752779913955,
+          "micro_coverage": 43.333333333333336,
+          "micro_hit": 30.0
+        },
+        {
+          "august_weight": 0.75,
+          "macro_l1": 15.988960649928298,
+          "micro_coverage": 43.333333333333336,
+          "micro_hit": 30.0
+        },
+        {
+          "august_weight": 0.8,
+          "macro_l1": 16.16777204659665,
+          "micro_coverage": 43.333333333333336,
+          "micro_hit": 31.57894736842105
+        },
+        {
+          "august_weight": 0.85,
+          "macro_l1": 16.802259209157008,
+          "micro_coverage": 43.333333333333336,
+          "micro_hit": 33.333333333333336
+        },
+        {
+          "august_weight": 0.9,
+          "macro_l1": 17.53483947277134,
+          "micro_coverage": 43.333333333333336,
+          "micro_hit": 31.57894736842105
+        },
+        {
+          "august_weight": 0.95,
+          "macro_l1": 18.26741973638567,
+          "micro_coverage": 50.0,
+          "micro_hit": 36.8421052631579
+        },
+        {
+          "august_weight": 1.0,
+          "macro_l1": 19.0,
+          "micro_coverage": 50.0,
+          "micro_hit": 36.8421052631579
+        }
+      ],
+      "status": "Exploratory optimum on the same scored pair; not an out-of-sample accuracy result."
+    },
+    "General Awareness": {
+      "macro_count_optimum": {
+        "august_weight": 0.55,
+        "macro_l1": 16.669749889002194,
+        "micro_coverage": 32.0,
+        "micro_hit": 21.73913043478261
+      },
+      "micro_coverage_optimum": {
+        "august_weight": 0.1,
+        "macro_l1": 17.199391175441246,
+        "micro_coverage": 36.0,
+        "micro_hit": 25.0
+      },
+      "curve": [
+        {
+          "august_weight": 0.0,
+          "macro_l1": 17.322995025852595,
+          "micro_coverage": 16.0,
+          "micro_hit": 16.666666666666668
+        },
+        {
+          "august_weight": 0.05,
+          "macro_l1": 17.26119310064692,
+          "micro_coverage": 20.0,
+          "micro_hit": 20.833333333333332
+        },
+        {
+          "august_weight": 0.1,
+          "macro_l1": 17.199391175441246,
+          "micro_coverage": 36.0,
+          "micro_hit": 25.0
+        },
+        {
+          "august_weight": 0.15,
+          "macro_l1": 17.137589250235575,
+          "micro_coverage": 32.0,
+          "micro_hit": 20.833333333333332
+        },
+        {
+          "august_weight": 0.2,
+          "macro_l1": 17.075787325029896,
+          "micro_coverage": 36.0,
+          "micro_hit": 25.0
+        },
+        {
+          "august_weight": 0.25,
+          "macro_l1": 17.01398539982423,
+          "micro_coverage": 36.0,
+          "micro_hit": 25.0
+        },
+        {
+          "august_weight": 0.3,
+          "macro_l1": 16.952183474618554,
+          "micro_coverage": 36.0,
+          "micro_hit": 26.08695652173913
+        },
+        {
+          "august_weight": 0.35,
+          "macro_l1": 16.89038154941288,
+          "micro_coverage": 36.0,
+          "micro_hit": 26.08695652173913
+        },
+        {
+          "august_weight": 0.4,
+          "macro_l1": 16.828579624207208,
+          "micro_coverage": 32.0,
+          "micro_hit": 21.73913043478261
+        },
+        {
+          "august_weight": 0.45,
+          "macro_l1": 16.766777699001533,
+          "micro_coverage": 32.0,
+          "micro_hit": 21.73913043478261
+        },
+        {
+          "august_weight": 0.5,
+          "macro_l1": 16.704975773795862,
+          "micro_coverage": 32.0,
+          "micro_hit": 21.73913043478261
+        },
+        {
+          "august_weight": 0.55,
+          "macro_l1": 16.669749889002194,
+          "micro_coverage": 32.0,
+          "micro_hit": 21.73913043478261
+        },
+        {
+          "august_weight": 0.6,
+          "macro_l1": 16.706444345779726,
+          "micro_coverage": 32.0,
+          "micro_hit": 21.73913043478261
+        },
+        {
+          "august_weight": 0.65,
+          "macro_l1": 16.74313880255726,
+          "micro_coverage": 32.0,
+          "micro_hit": 21.73913043478261
+        },
+        {
+          "august_weight": 0.7,
+          "macro_l1": 16.779833259334797,
+          "micro_coverage": 36.0,
+          "micro_hit": 26.08695652173913
+        },
+        {
+          "august_weight": 0.75,
+          "macro_l1": 16.81652771611233,
+          "micro_coverage": 36.0,
+          "micro_hit": 26.08695652173913
+        },
+        {
+          "august_weight": 0.8,
+          "macro_l1": 16.85322217288986,
+          "micro_coverage": 36.0,
+          "micro_hit": 26.08695652173913
+        },
+        {
+          "august_weight": 0.85,
+          "macro_l1": 16.889916629667397,
+          "micro_coverage": 36.0,
+          "micro_hit": 26.08695652173913
+        },
+        {
+          "august_weight": 0.9,
+          "macro_l1": 16.926611086444932,
+          "micro_coverage": 28.0,
+          "micro_hit": 18.181818181818183
+        },
+        {
+          "august_weight": 0.95,
+          "macro_l1": 16.963305543222464,
+          "micro_coverage": 28.0,
+          "micro_hit": 18.181818181818183
+        },
+        {
+          "august_weight": 1.0,
+          "macro_l1": 17.0,
+          "micro_coverage": 32.0,
+          "micro_hit": 22.727272727272727
+        }
+      ],
+      "status": "Exploratory optimum on the same scored pair; not an out-of-sample accuracy result."
+    },
+    "Reasoning": {
+      "macro_count_optimum": {
+        "august_weight": 0.05,
+        "macro_l1": 12.493996654193069,
+        "micro_coverage": 60.0,
+        "micro_hit": 55.55555555555556
+      },
+      "micro_coverage_optimum": {
+        "august_weight": 0.05,
+        "macro_l1": 12.493996654193069,
+        "micro_coverage": 60.0,
+        "micro_hit": 55.55555555555556
+      },
+      "curve": [
+        {
+          "august_weight": 0.0,
+          "macro_l1": 12.586695499129476,
+          "micro_coverage": 56.0,
+          "micro_hit": 52.94117647058823
+        },
+        {
+          "august_weight": 0.05,
+          "macro_l1": 12.493996654193069,
+          "micro_coverage": 60.0,
+          "micro_hit": 55.55555555555556
+        },
+        {
+          "august_weight": 0.1,
+          "macro_l1": 12.896185947148119,
+          "micro_coverage": 60.0,
+          "micro_hit": 55.55555555555556
+        },
+        {
+          "august_weight": 0.15,
+          "macro_l1": 13.298375240103166,
+          "micro_coverage": 48.0,
+          "micro_hit": 52.94117647058823
+        },
+        {
+          "august_weight": 0.2,
+          "macro_l1": 13.700564533058213,
+          "micro_coverage": 48.0,
+          "micro_hit": 52.94117647058823
+        },
+        {
+          "august_weight": 0.25,
+          "macro_l1": 14.102753826013265,
+          "micro_coverage": 48.0,
+          "micro_hit": 52.94117647058823
+        },
+        {
+          "august_weight": 0.3,
+          "macro_l1": 14.504943118968308,
+          "micro_coverage": 48.0,
+          "micro_hit": 47.36842105263158
+        },
+        {
+          "august_weight": 0.35,
+          "macro_l1": 14.907132411923357,
+          "micro_coverage": 56.0,
+          "micro_hit": 57.89473684210526
+        },
+        {
+          "august_weight": 0.4,
+          "macro_l1": 15.39144889075931,
+          "micro_coverage": 56.0,
+          "micro_hit": 57.89473684210526
+        },
+        {
+          "august_weight": 0.45,
+          "macro_l1": 15.908263178111289,
+          "micro_coverage": 56.0,
+          "micro_hit": 61.111111111111114
+        },
+        {
+          "august_weight": 0.5,
+          "macro_l1": 16.42507746546327,
+          "micro_coverage": 56.0,
+          "micro_hit": 57.89473684210526
+        },
+        {
+          "august_weight": 0.55,
+          "macro_l1": 16.94189175281525,
+          "micro_coverage": 56.0,
+          "micro_hit": 57.89473684210526
+        },
+        {
+          "august_weight": 0.6,
+          "macro_l1": 17.458706040167222,
+          "micro_coverage": 56.0,
+          "micro_hit": 57.89473684210526
+        },
+        {
+          "august_weight": 0.65,
+          "macro_l1": 17.975520327519202,
+          "micro_coverage": 56.0,
+          "micro_hit": 57.89473684210526
+        },
+        {
+          "august_weight": 0.7,
+          "macro_l1": 18.492334614871183,
+          "micro_coverage": 52.0,
+          "micro_hit": 58.8235294117647
+        },
+        {
+          "august_weight": 0.75,
+          "macro_l1": 19.00914890222316,
+          "micro_coverage": 52.0,
+          "micro_hit": 58.8235294117647
+        },
+        {
+          "august_weight": 0.8,
+          "macro_l1": 19.525963189575137,
+          "micro_coverage": 52.0,
+          "micro_hit": 55.55555555555556
+        },
+        {
+          "august_weight": 0.85,
+          "macro_l1": 20.042777476927117,
+          "micro_coverage": 52.0,
+          "micro_hit": 55.55555555555556
+        },
+        {
+          "august_weight": 0.9,
+          "macro_l1": 20.55959176427909,
+          "micro_coverage": 52.0,
+          "micro_hit": 58.8235294117647
+        },
+        {
+          "august_weight": 0.95,
+          "macro_l1": 21.07640605163107,
+          "micro_coverage": 52.0,
+          "micro_hit": 58.8235294117647
+        },
+        {
+          "august_weight": 1.0,
+          "macro_l1": 21.593220338983052,
+          "micro_coverage": 52.0,
+          "micro_hit": 58.8235294117647
+        }
+      ],
+      "status": "Exploratory optimum on the same scored pair; not an out-of-sample accuracy result."
+    },
+    "Numerical Ability": {
+      "macro_count_optimum": {
+        "august_weight": 0.15,
+        "macro_l1": 11.42010704178431,
+        "micro_coverage": 20.0,
+        "micro_hit": 21.05263157894737
+      },
+      "micro_coverage_optimum": {
+        "august_weight": 0.65,
+        "macro_l1": 11.649175728689897,
+        "micro_coverage": 35.0,
+        "micro_hit": 26.31578947368421
+      },
+      "curve": [
+        {
+          "august_weight": 0.0,
+          "macro_l1": 11.83067832137616,
+          "micro_coverage": 25.0,
+          "micro_hit": 26.31578947368421
+        },
+        {
+          "august_weight": 0.05,
+          "macro_l1": 11.67723964340259,
+          "micro_coverage": 25.0,
+          "micro_hit": 26.31578947368421
+        },
+        {
+          "august_weight": 0.1,
+          "macro_l1": 11.523800965429018,
+          "micro_coverage": 20.0,
+          "micro_hit": 21.05263157894737
+        },
+        {
+          "august_weight": 0.15,
+          "macro_l1": 11.42010704178431,
+          "micro_coverage": 20.0,
+          "micro_hit": 21.05263157894737
+        },
+        {
+          "august_weight": 0.2,
+          "macro_l1": 11.443013910474868,
+          "micro_coverage": 20.0,
+          "micro_hit": 21.05263157894737
+        },
+        {
+          "august_weight": 0.25,
+          "macro_l1": 11.465920779165426,
+          "micro_coverage": 15.0,
+          "micro_hit": 15.789473684210526
+        },
+        {
+          "august_weight": 0.3,
+          "macro_l1": 11.488827647855985,
+          "micro_coverage": 15.0,
+          "micro_hit": 15.789473684210526
+        },
+        {
+          "august_weight": 0.35,
+          "macro_l1": 11.511734516546545,
+          "micro_coverage": 25.0,
+          "micro_hit": 21.05263157894737
+        },
+        {
+          "august_weight": 0.4,
+          "macro_l1": 11.534641385237105,
+          "micro_coverage": 30.0,
+          "micro_hit": 26.31578947368421
+        },
+        {
+          "august_weight": 0.45,
+          "macro_l1": 11.557548253927663,
+          "micro_coverage": 25.0,
+          "micro_hit": 21.05263157894737
+        },
+        {
+          "august_weight": 0.5,
+          "macro_l1": 11.580455122618218,
+          "micro_coverage": 25.0,
+          "micro_hit": 21.05263157894737
+        },
+        {
+          "august_weight": 0.55,
+          "macro_l1": 11.60336199130878,
+          "micro_coverage": 25.0,
+          "micro_hit": 21.05263157894737
+        },
+        {
+          "august_weight": 0.6,
+          "macro_l1": 11.62626885999934,
+          "micro_coverage": 25.0,
+          "micro_hit": 21.05263157894737
+        },
+        {
+          "august_weight": 0.65,
+          "macro_l1": 11.649175728689897,
+          "micro_coverage": 35.0,
+          "micro_hit": 26.31578947368421
+        },
+        {
+          "august_weight": 0.7,
+          "macro_l1": 11.672082597380458,
+          "micro_coverage": 25.0,
+          "micro_hit": 21.05263157894737
+        },
+        {
+          "august_weight": 0.75,
+          "macro_l1": 11.816769644906081,
+          "micro_coverage": 25.0,
+          "micro_hit": 21.05263157894737
+        },
+        {
+          "august_weight": 0.8,
+          "macro_l1": 11.967701430210578,
+          "micro_coverage": 25.0,
+          "micro_hit": 21.05263157894737
+        },
+        {
+          "august_weight": 0.85,
+          "macro_l1": 12.118633215515075,
+          "micro_coverage": 15.0,
+          "micro_hit": 16.666666666666668
+        },
+        {
+          "august_weight": 0.9,
+          "macro_l1": 12.269565000819577,
+          "micro_coverage": 15.0,
+          "micro_hit": 16.666666666666668
+        },
+        {
+          "august_weight": 0.95,
+          "macro_l1": 12.420496786124072,
+          "micro_coverage": 15.0,
+          "micro_hit": 16.666666666666668
+        },
+        {
+          "august_weight": 1.0,
+          "macro_l1": 12.571428571428573,
+          "micro_coverage": 25.0,
+          "micro_hit": 22.22222222222222
+        }
+      ],
+      "status": "Exploratory optimum on the same scored pair; not an out-of-sample accuracy result."
+    }
+  },
+  "results": [
+    {
+      "paper": "AFCAT 2026 Jan 31 Shift 1",
+      "anchor_papers": [
+        "AFCAT 2025 Aug 23 Shift 2",
+        "AFCAT 2025 Aug 24 Shift 1",
+        "AFCAT 2025 Aug 24 Shift 2"
+      ],
+      "anchor_questions": 207,
+      "target_questions": 100,
+      "regular_exact": {
+        "predicted_slots": 85,
+        "hit_slots": 29,
+        "hit_percent": 34.11764705882353,
+        "recall_percent": 39.726027397260275,
+        "covered_questions": 46,
+        "observed_questions": 100,
+        "coverage_percent": 46.0,
+        "exact_count_percent": 18.823529411764707,
+        "predicted_slot_mae": 0.9176470588235294,
+        "union_mae": 1.0232558139534884,
+        "slots": [
+          {
+            "section": "General Awareness",
+            "topic": "Art & Culture",
+            "micro_topic": "Classical/Folk Dance",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Awards",
+            "micro_topic": "Awards - General",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Awards",
+            "micro_topic": "Literary Award",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Awards",
+            "micro_topic": "Sports Award",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Books",
+            "micro_topic": "Author-Book Identification",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Current Affairs",
+            "micro_topic": "Appointment News",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Current Affairs",
+            "micro_topic": "Current Affairs - General",
+            "predicted": 1,
+            "actual": 4
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Current Affairs",
+            "micro_topic": "International Summit",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Current Affairs",
+            "micro_topic": "Observance Day",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Air Force Asset",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Army/Rank",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Defence - General",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Defence Ministry/Leadership",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Military Exercise",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Missile System",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Naval Asset",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Economy",
+            "micro_topic": "Economy - General",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Environment/Ecology",
+            "micro_topic": "Protected Area",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "General Science",
+            "micro_topic": "Chemistry",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "General Science",
+            "micro_topic": "General Science - Other",
+            "predicted": 2,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "General Science",
+            "micro_topic": "Physics",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Geography (India)",
+            "micro_topic": "Geography (India) - General",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Geography (India)",
+            "micro_topic": "Indian States",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Geography (World)",
+            "micro_topic": "Oceans & Sea Routes",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Geography (World)",
+            "micro_topic": "Polar Research",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Geography (World)",
+            "micro_topic": "World Currency",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "History (Medieval)",
+            "micro_topic": "Bhakti/Sufi Movement",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "History (Modern)",
+            "micro_topic": "Gandhi & Congress Movement",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "History (Modern)",
+            "micro_topic": "History (Modern) - General",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "History (Modern)",
+            "micro_topic": "Political/Social Organization Founding",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "History (Modern)",
+            "micro_topic": "Revolt of 1857 / British Administration",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Indian Polity",
+            "micro_topic": "CAG/Constitutional Bodies",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Indian Polity",
+            "micro_topic": "Citizenship",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Indian Polity",
+            "micro_topic": "Schedules of Constitution",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Organizations",
+            "micro_topic": "International Organization",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Personalities",
+            "micro_topic": "Personalities - General",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Static GK",
+            "micro_topic": "Cricket",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Static GK",
+            "micro_topic": "Olympics",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Static GK",
+            "micro_topic": "Sports Terminology",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Algebra",
+            "micro_topic": "Linear Equations (Word Problem)",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Algebra",
+            "micro_topic": "Number-Reciprocal Equations",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Average",
+            "micro_topic": "Age Average",
+            "predicted": 2,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mensuration",
+            "micro_topic": "Circle Area/Circumference",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mensuration",
+            "micro_topic": "Mensuration - General",
+            "predicted": 1,
+            "actual": 2
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mensuration",
+            "micro_topic": "Square Area/Perimeter",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mixture & Alligation",
+            "micro_topic": "Milk-Water Mixture",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mixture & Alligation",
+            "micro_topic": "Mixture & Alligation - General",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mixture & Alligation",
+            "micro_topic": "Price Blending (Alligation)",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Number System",
+            "micro_topic": "LCM & HCF / Divisibility",
+            "predicted": 1,
+            "actual": 2
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Number System",
+            "micro_topic": "Number System - General",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Percentage",
+            "micro_topic": "Percentage - General",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Percentage",
+            "micro_topic": "Salary/Income Percentage",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Profit & Loss",
+            "micro_topic": "CP-SP Relationship",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Profit & Loss",
+            "micro_topic": "Loss Percentage",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Profit & Loss",
+            "micro_topic": "Profit Percentage",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Ratio & Proportion",
+            "micro_topic": "Age Ratio",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Ratio & Proportion",
+            "micro_topic": "Direct/Inverse Proportion",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Ratio & Proportion",
+            "micro_topic": "Division/Partnership Ratio",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Simple/Compound Int.",
+            "micro_topic": "CI-SI Difference",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Simple/Compound Int.",
+            "micro_topic": "Compound Interest",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Simple/Compound Int.",
+            "micro_topic": "Simple Interest",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Simplification",
+            "micro_topic": "BODMAS Expression",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Simplification",
+            "micro_topic": "Decimal Simplification",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Simplification",
+            "micro_topic": "Exponent/Indices Equation",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Statistics",
+            "micro_topic": "Mean/Median/Mode",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Statistics",
+            "micro_topic": "Probability - Balls in Bag",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Statistics",
+            "micro_topic": "Probability - Cards",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Time & Work",
+            "micro_topic": "Individual Work Rate",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Time & Work",
+            "micro_topic": "Men-Days Work",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Time, Speed & Dist.",
+            "micro_topic": "Boats & Streams",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Time, Speed & Dist.",
+            "micro_topic": "Time, Speed & Distance - General",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Time, Speed & Dist.",
+            "micro_topic": "Train Problems",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Coding-Decoding",
+            "micro_topic": "Number Coding",
+            "predicted": 0,
+            "actual": 3
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Coding-Decoding",
+            "micro_topic": "Word/Letter Coding",
+            "predicted": 2,
+            "actual": 3
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Direction Sense",
+            "micro_topic": "Shortest Distance from Start",
+            "predicted": 0,
+            "actual": 2
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Blood Relations",
+            "predicted": 2,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Calendar Reasoning",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Clock-based Reasoning",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Direction-based Puzzle",
+            "predicted": 2,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Logical Reasoning - General",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Number/Symbol Pattern",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Ranking/Comparison Puzzle",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Cube & Dice",
+            "predicted": 0,
+            "actual": 2
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Dot Placement in Figure",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Figure Series Completion",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Mirror/Water Image",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Non-Verbal Pattern - General",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Odd Figure Out",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Pattern Completion",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Rotated Figure",
+            "predicted": 0,
+            "actual": 2
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Number/Letter Series",
+            "micro_topic": "Letter Series",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Number/Letter Series",
+            "micro_topic": "Mixed Series",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Number/Letter Series",
+            "micro_topic": "Number Series",
+            "predicted": 2,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Syllogism",
+            "micro_topic": "Syllogism - General",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Venn Diagrams",
+            "micro_topic": "Three-Term Relationship Venn",
+            "predicted": 1,
+            "actual": 2
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Verbal Analogy",
+            "micro_topic": "Letter Analogy",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Verbal Analogy",
+            "micro_topic": "Word Pair Analogy",
+            "predicted": 2,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Verbal Classification",
+            "micro_topic": "Odd Word Out (Word Group)",
+            "predicted": 2,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Cloze Test",
+            "micro_topic": "Phrasal Verb / Structure Cloze",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Cloze Test",
+            "micro_topic": "Vocabulary-in-Context Cloze",
+            "predicted": 3,
+            "actual": 3
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Fill in the Blanks",
+            "micro_topic": "Fill in the Blanks - General",
+            "predicted": 0,
+            "actual": 4
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Grammar",
+            "micro_topic": "Active-Passive Voice",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Grammar",
+            "micro_topic": "Grammar - General",
+            "predicted": 0,
+            "actual": 2
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Grammar",
+            "micro_topic": "Sentence Completion (Blank Fill)",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Grammar",
+            "micro_topic": "Subject-Verb Agreement",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Grammar",
+            "micro_topic": "Word Substitution in Sentence",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Idioms & Phrases",
+            "micro_topic": "Body-Part Idiom",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Idioms & Phrases",
+            "micro_topic": "Idiom Meaning",
+            "predicted": 1,
+            "actual": 3
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Idioms & Phrases",
+            "micro_topic": "Object/Household Idiom",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "One Word Substitution",
+            "micro_topic": "Abstract Concept Descriptor",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "One Word Substitution",
+            "micro_topic": "Field of Study Descriptor",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "One Word Substitution",
+            "micro_topic": "Medical/Health Descriptor",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "One Word Substitution",
+            "micro_topic": "Person/Character Descriptor",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "One Word Substitution",
+            "micro_topic": "Place/Structure Descriptor",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Para Jumbles",
+            "micro_topic": "Sentence Part Rearrangement",
+            "predicted": 1,
+            "actual": 2
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Para Jumbles",
+            "micro_topic": "Sentence Rearrangement",
+            "predicted": 4,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Reading Comprehension",
+            "micro_topic": "Detail-based Question",
+            "predicted": 3,
+            "actual": 3
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Reading Comprehension",
+            "micro_topic": "Inference",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Spelling",
+            "micro_topic": "Correctly Spelt Word",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Spotting Errors",
+            "micro_topic": "Noun Number Error",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Spotting Errors",
+            "micro_topic": "Sentence Error Identification",
+            "predicted": 1,
+            "actual": 3
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Spotting Errors",
+            "micro_topic": "Sentence-Level Error Identification",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Synonyms/Antonyms",
+            "micro_topic": "Antonym",
+            "predicted": 0,
+            "actual": 2
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Synonyms/Antonyms",
+            "micro_topic": "Antonym - Anger/Conflict Word",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Synonyms/Antonyms",
+            "micro_topic": "Synonym",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Synonyms/Antonyms",
+            "micro_topic": "Synonym - Confusion/Uncertainty Word",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Synonyms/Antonyms",
+            "micro_topic": "Synonym - Physical Description Word",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Synonyms/Antonyms",
+            "micro_topic": "Synonym - Sociability Word",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Verbal Analogy",
+            "micro_topic": "Verbal Analogy - General",
+            "predicted": 0,
+            "actual": 1
+          }
+        ]
+      },
+      "august_70_30_exact": {
+        "predicted_slots": 79,
+        "hit_slots": 26,
+        "hit_percent": 32.91139240506329,
+        "recall_percent": 35.61643835616438,
+        "covered_questions": 40,
+        "observed_questions": 100,
+        "coverage_percent": 40.0,
+        "exact_count_percent": 17.72151898734177,
+        "predicted_slot_mae": 0.9620253164556962,
+        "union_mae": 1.0793650793650793,
+        "slots": [
+          {
+            "section": "General Awareness",
+            "topic": "Art & Culture",
+            "micro_topic": "Classical/Folk Dance",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Awards",
+            "micro_topic": "Awards - General",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Awards",
+            "micro_topic": "Literary Award",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Awards",
+            "micro_topic": "Sports Award",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Books",
+            "micro_topic": "Author-Book Identification",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Current Affairs",
+            "micro_topic": "Appointment News",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Current Affairs",
+            "micro_topic": "Current Affairs - General",
+            "predicted": 1,
+            "actual": 4
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Current Affairs",
+            "micro_topic": "International Summit",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Current Affairs",
+            "micro_topic": "Observance Day",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Air Force Asset",
+            "predicted": 2,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Army/Rank",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Defence - General",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Defence Ministry/Leadership",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Military Exercise",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Naval Asset",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Economy",
+            "micro_topic": "Economy - General",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Economy",
+            "micro_topic": "Inflation Measures",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Environment/Ecology",
+            "micro_topic": "Protected Area",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Environment/Ecology",
+            "micro_topic": "Wildlife Conservation Programme",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "General Science",
+            "micro_topic": "Chemistry",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "General Science",
+            "micro_topic": "General Science - Other",
+            "predicted": 2,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "General Science",
+            "micro_topic": "Physics",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Geography (India)",
+            "micro_topic": "Geography (India) - General",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Geography (India)",
+            "micro_topic": "Indian States",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Geography (World)",
+            "micro_topic": "Oceans & Sea Routes",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Geography (World)",
+            "micro_topic": "Polar Research",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Geography (World)",
+            "micro_topic": "World Currency",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "History (Modern)",
+            "micro_topic": "Gandhi & Congress Movement",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "History (Modern)",
+            "micro_topic": "History (Modern) - General",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "History (Modern)",
+            "micro_topic": "Political/Social Organization Founding",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "History (Modern)",
+            "micro_topic": "Revolt of 1857 / British Administration",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Indian Polity",
+            "micro_topic": "CAG/Constitutional Bodies",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Indian Polity",
+            "micro_topic": "Citizenship",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Indian Polity",
+            "micro_topic": "Schedules of Constitution",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Organizations",
+            "micro_topic": "UN Bodies",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Personalities",
+            "micro_topic": "Personalities - General",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Static GK",
+            "micro_topic": "Cricket",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Static GK",
+            "micro_topic": "Olympics",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Static GK",
+            "micro_topic": "Sports Terminology",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Algebra",
+            "micro_topic": "Linear Equations (Word Problem)",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Algebra",
+            "micro_topic": "Number-Reciprocal Equations",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Average",
+            "micro_topic": "Age Average",
+            "predicted": 2,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mensuration",
+            "micro_topic": "Circle Area/Circumference",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mensuration",
+            "micro_topic": "Mensuration - General",
+            "predicted": 0,
+            "actual": 2
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mensuration",
+            "micro_topic": "Square Area/Perimeter",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mixture & Alligation",
+            "micro_topic": "Milk-Water Mixture",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mixture & Alligation",
+            "micro_topic": "Mixture & Alligation - General",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mixture & Alligation",
+            "micro_topic": "Price Blending (Alligation)",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Number System",
+            "micro_topic": "LCM & HCF / Divisibility",
+            "predicted": 1,
+            "actual": 2
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Number System",
+            "micro_topic": "Number System - General",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Percentage",
+            "micro_topic": "Election Votes",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Percentage",
+            "micro_topic": "Percentage - General",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Percentage",
+            "micro_topic": "Salary/Income Percentage",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Profit & Loss",
+            "micro_topic": "CP-SP Relationship",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Profit & Loss",
+            "micro_topic": "Loss Percentage",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Profit & Loss",
+            "micro_topic": "Profit Percentage",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Ratio & Proportion",
+            "micro_topic": "Age Ratio",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Ratio & Proportion",
+            "micro_topic": "Algebraic Ratio Manipulation",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Ratio & Proportion",
+            "micro_topic": "Direct/Inverse Proportion",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Ratio & Proportion",
+            "micro_topic": "Division/Partnership Ratio",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Simple/Compound Int.",
+            "micro_topic": "CI-SI Difference",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Simple/Compound Int.",
+            "micro_topic": "Simple Interest",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Simplification",
+            "micro_topic": "BODMAS Expression",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Simplification",
+            "micro_topic": "Decimal Simplification",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Simplification",
+            "micro_topic": "Exponent/Indices Equation",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Statistics",
+            "micro_topic": "Mean/Median/Mode",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Statistics",
+            "micro_topic": "Probability - Balls in Bag",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Time & Work",
+            "micro_topic": "Efficiency Ratio",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Time & Work",
+            "micro_topic": "Individual Work Rate",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Time & Work",
+            "micro_topic": "Men-Days Work",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Time, Speed & Dist.",
+            "micro_topic": "Boats & Streams",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Time, Speed & Dist.",
+            "micro_topic": "Time, Speed & Distance - General",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Coding-Decoding",
+            "micro_topic": "Number Coding",
+            "predicted": 0,
+            "actual": 3
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Coding-Decoding",
+            "micro_topic": "Word/Letter Coding",
+            "predicted": 2,
+            "actual": 3
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Direction Sense",
+            "micro_topic": "Shortest Distance from Start",
+            "predicted": 0,
+            "actual": 2
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Blood Relations",
+            "predicted": 3,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Calendar Reasoning",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Clock-based Reasoning",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Direction-based Puzzle",
+            "predicted": 2,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Logical Reasoning - General",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Ranking/Comparison Puzzle",
+            "predicted": 2,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Cube & Dice",
+            "predicted": 0,
+            "actual": 2
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Dot Placement in Figure",
+            "predicted": 2,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Figure Series Completion",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Mirror/Water Image",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Non-Verbal Pattern - General",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Odd Figure Out",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Pattern Completion",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Rotated Figure",
+            "predicted": 0,
+            "actual": 2
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Number/Letter Series",
+            "micro_topic": "Letter Series",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Number/Letter Series",
+            "micro_topic": "Mixed Series",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Number/Letter Series",
+            "micro_topic": "Number Series",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Venn Diagrams",
+            "micro_topic": "Three-Term Relationship Venn",
+            "predicted": 2,
+            "actual": 2
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Verbal Analogy",
+            "micro_topic": "Word Pair Analogy",
+            "predicted": 2,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Verbal Classification",
+            "micro_topic": "Jumbled Word Odd One Out",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Verbal Classification",
+            "micro_topic": "Odd Word Out (Word Group)",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Cloze Test",
+            "micro_topic": "Conjunction/Connector Cloze",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Cloze Test",
+            "micro_topic": "Phrasal Verb / Structure Cloze",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Cloze Test",
+            "micro_topic": "Vocabulary-in-Context Cloze",
+            "predicted": 3,
+            "actual": 3
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Fill in the Blanks",
+            "micro_topic": "Fill in the Blanks - General",
+            "predicted": 0,
+            "actual": 4
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Grammar",
+            "micro_topic": "Active-Passive Voice",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Grammar",
+            "micro_topic": "Grammar - General",
+            "predicted": 0,
+            "actual": 2
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Grammar",
+            "micro_topic": "Sentence Completion (Blank Fill)",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Grammar",
+            "micro_topic": "Subject-Verb Agreement",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Grammar",
+            "micro_topic": "Word Substitution in Sentence",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Idioms & Phrases",
+            "micro_topic": "Idiom Meaning",
+            "predicted": 1,
+            "actual": 3
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Idioms & Phrases",
+            "micro_topic": "Object/Household Idiom",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "One Word Substitution",
+            "micro_topic": "Abstract Concept Descriptor",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "One Word Substitution",
+            "micro_topic": "Field of Study Descriptor",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "One Word Substitution",
+            "micro_topic": "Medical/Health Descriptor",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "One Word Substitution",
+            "micro_topic": "Person/Character Descriptor",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "One Word Substitution",
+            "micro_topic": "Place/Structure Descriptor",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Para Jumbles",
+            "micro_topic": "Sentence Part Rearrangement",
+            "predicted": 1,
+            "actual": 2
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Para Jumbles",
+            "micro_topic": "Sentence Rearrangement",
+            "predicted": 5,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Reading Comprehension",
+            "micro_topic": "Detail-based Question",
+            "predicted": 5,
+            "actual": 3
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Reading Comprehension",
+            "micro_topic": "Inference",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Spotting Errors",
+            "micro_topic": "Conditional/Tense Error",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Spotting Errors",
+            "micro_topic": "Noun Number Error",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Spotting Errors",
+            "micro_topic": "Sentence Error Identification",
+            "predicted": 0,
+            "actual": 3
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Spotting Errors",
+            "micro_topic": "Sentence-Level Error Identification",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Synonyms/Antonyms",
+            "micro_topic": "Antonym",
+            "predicted": 0,
+            "actual": 2
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Synonyms/Antonyms",
+            "micro_topic": "Antonym - Calm/Docile Word",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Synonyms/Antonyms",
+            "micro_topic": "Synonym",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Synonyms/Antonyms",
+            "micro_topic": "Synonym - Legal/Formal Word",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Synonyms/Antonyms",
+            "micro_topic": "Synonym - Sociability Word",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Verbal Analogy",
+            "micro_topic": "Verbal Analogy - General",
+            "predicted": 0,
+            "actual": 1
+          }
+        ]
+      },
+      "regular_family": {
+        "predicted_slots": 82,
+        "hit_slots": 31,
+        "hit_percent": 37.80487804878049,
+        "recall_percent": 42.465753424657535,
+        "covered_questions": 49,
+        "observed_questions": 100,
+        "coverage_percent": 49.0,
+        "exact_count_percent": 19.51219512195122,
+        "predicted_slot_mae": 0.9146341463414634,
+        "union_mae": 1.0161290322580645,
+        "slots": [
+          {
+            "section": "General Awareness",
+            "topic": "Art & Culture",
+            "micro_topic": "Classical/Folk Dance",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Awards",
+            "micro_topic": "Awards - General",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Awards",
+            "micro_topic": "Literary Award",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Awards",
+            "micro_topic": "Sports Award",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Books",
+            "micro_topic": "Author-Book Identification",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Current Affairs",
+            "micro_topic": "Appointment News",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Current Affairs",
+            "micro_topic": "Current Affairs - General",
+            "predicted": 1,
+            "actual": 4
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Current Affairs",
+            "micro_topic": "International Summit",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Current Affairs",
+            "micro_topic": "Observance Day",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Air Force Asset",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Army/Rank",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Defence - General",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Defence Ministry/Leadership",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Military Exercise",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Missile System",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Naval Asset",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Economy",
+            "micro_topic": "Economy - General",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Environment/Ecology",
+            "micro_topic": "Protected Area",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "General Science",
+            "micro_topic": "Chemistry",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "General Science",
+            "micro_topic": "General Science - Other",
+            "predicted": 2,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "General Science",
+            "micro_topic": "Physics",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Geography (India)",
+            "micro_topic": "Geography (India) - General",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Geography (India)",
+            "micro_topic": "Indian States",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Geography (World)",
+            "micro_topic": "Oceans & Sea Routes",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Geography (World)",
+            "micro_topic": "Polar Research",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Geography (World)",
+            "micro_topic": "World Currency",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "History (Medieval)",
+            "micro_topic": "Bhakti/Sufi Movement",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "History (Modern)",
+            "micro_topic": "Gandhi & Congress Movement",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "History (Modern)",
+            "micro_topic": "History (Modern) - General",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "History (Modern)",
+            "micro_topic": "Political/Social Organization Founding",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "History (Modern)",
+            "micro_topic": "Revolt of 1857 / British Administration",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Indian Polity",
+            "micro_topic": "CAG/Constitutional Bodies",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Indian Polity",
+            "micro_topic": "Citizenship",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Indian Polity",
+            "micro_topic": "Schedules of Constitution",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Organizations",
+            "micro_topic": "International Organization",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Personalities",
+            "micro_topic": "Personalities - General",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Static GK",
+            "micro_topic": "Cricket",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Static GK",
+            "micro_topic": "Olympics",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Static GK",
+            "micro_topic": "Sports Terminology",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Algebra",
+            "micro_topic": "Linear Equations (Word Problem)",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Algebra",
+            "micro_topic": "Number-Reciprocal Equations",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Average",
+            "micro_topic": "Age Average",
+            "predicted": 2,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mensuration",
+            "micro_topic": "Circle Area/Circumference",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mensuration",
+            "micro_topic": "Mensuration - General",
+            "predicted": 1,
+            "actual": 2
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mensuration",
+            "micro_topic": "Square Area/Perimeter",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mixture & Alligation",
+            "micro_topic": "Milk-Water Mixture",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mixture & Alligation",
+            "micro_topic": "Mixture & Alligation - General",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mixture & Alligation",
+            "micro_topic": "Price Blending (Alligation)",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Number System",
+            "micro_topic": "LCM & HCF / Divisibility",
+            "predicted": 1,
+            "actual": 2
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Number System",
+            "micro_topic": "Number System - General",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Percentage",
+            "micro_topic": "Percentage - General",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Percentage",
+            "micro_topic": "Salary/Income Percentage",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Profit & Loss",
+            "micro_topic": "CP-SP Relationship",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Profit & Loss",
+            "micro_topic": "Loss Percentage",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Profit & Loss",
+            "micro_topic": "Profit Percentage",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Ratio & Proportion",
+            "micro_topic": "Age Ratio",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Ratio & Proportion",
+            "micro_topic": "Direct/Inverse Proportion",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Ratio & Proportion",
+            "micro_topic": "Division/Partnership Ratio",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Simple/Compound Int.",
+            "micro_topic": "CI-SI Difference",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Simple/Compound Int.",
+            "micro_topic": "Compound Interest",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Simple/Compound Int.",
+            "micro_topic": "Simple Interest",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Simplification",
+            "micro_topic": "BODMAS Expression",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Simplification",
+            "micro_topic": "Decimal Simplification",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Simplification",
+            "micro_topic": "Exponent/Indices Equation",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Statistics",
+            "micro_topic": "Mean/Median/Mode",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Statistics",
+            "micro_topic": "Probability - Balls in Bag",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Statistics",
+            "micro_topic": "Probability - Cards",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Time & Work",
+            "micro_topic": "Individual Work Rate",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Time & Work",
+            "micro_topic": "Men-Days Work",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Time, Speed & Dist.",
+            "micro_topic": "Boats & Streams",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Time, Speed & Dist.",
+            "micro_topic": "Time, Speed & Distance - General",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Time, Speed & Dist.",
+            "micro_topic": "Train Problems",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Coding-Decoding",
+            "micro_topic": "Number Coding",
+            "predicted": 0,
+            "actual": 3
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Coding-Decoding",
+            "micro_topic": "Word/Letter Coding",
+            "predicted": 2,
+            "actual": 3
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Direction Sense",
+            "micro_topic": "Shortest Distance from Start",
+            "predicted": 0,
+            "actual": 2
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Blood Relations",
+            "predicted": 2,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Calendar Reasoning",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Clock-based Reasoning",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Direction-based Puzzle",
+            "predicted": 2,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Logical Reasoning - General",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Number/Symbol Pattern",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Ranking/Comparison Puzzle",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Cube & Dice",
+            "predicted": 0,
+            "actual": 2
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Dot Placement in Figure",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Figure Series Completion",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Mirror/Water Image",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Non-Verbal Pattern - General",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Odd Figure Out",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Pattern Completion",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Rotated Figure",
+            "predicted": 0,
+            "actual": 2
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Number/Letter Series",
+            "micro_topic": "Letter Series",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Number/Letter Series",
+            "micro_topic": "Mixed Series",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Number/Letter Series",
+            "micro_topic": "Number Series",
+            "predicted": 2,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Syllogism",
+            "micro_topic": "Syllogism - General",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Venn Diagrams",
+            "micro_topic": "Three-Term Relationship Venn",
+            "predicted": 1,
+            "actual": 2
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Verbal Analogy",
+            "micro_topic": "Letter Analogy",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Verbal Analogy",
+            "micro_topic": "Word Pair Analogy",
+            "predicted": 2,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Verbal Classification",
+            "micro_topic": "Odd Word Out (Word Group)",
+            "predicted": 2,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Cloze Test",
+            "micro_topic": "Phrasal Verb / Structure Cloze",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Cloze Test",
+            "micro_topic": "Vocabulary-in-Context Cloze",
+            "predicted": 3,
+            "actual": 3
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Fill in the Blanks",
+            "micro_topic": "Fill in the Blanks - General",
+            "predicted": 0,
+            "actual": 4
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Grammar",
+            "micro_topic": "Active-Passive Voice",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Grammar",
+            "micro_topic": "Grammar - General",
+            "predicted": 0,
+            "actual": 2
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Grammar",
+            "micro_topic": "Sentence Completion (Blank Fill)",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Grammar",
+            "micro_topic": "Subject-Verb Agreement",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Grammar",
+            "micro_topic": "Word Substitution in Sentence",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Idioms & Phrases",
+            "micro_topic": "Body-Part Idiom",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Idioms & Phrases",
+            "micro_topic": "Idiom Meaning",
+            "predicted": 1,
+            "actual": 3
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Idioms & Phrases",
+            "micro_topic": "Object/Household Idiom",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "One Word Substitution",
+            "micro_topic": "Abstract Concept Descriptor",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "One Word Substitution",
+            "micro_topic": "Field of Study Descriptor",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "One Word Substitution",
+            "micro_topic": "Medical/Health Descriptor",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "One Word Substitution",
+            "micro_topic": "Person/Character Descriptor",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "One Word Substitution",
+            "micro_topic": "Place/Structure Descriptor",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Para Jumbles",
+            "micro_topic": "Sentence Part Rearrangement",
+            "predicted": 1,
+            "actual": 2
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Para Jumbles",
+            "micro_topic": "Sentence Rearrangement",
+            "predicted": 4,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Reading Comprehension",
+            "micro_topic": "Detail-based Question",
+            "predicted": 3,
+            "actual": 3
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Reading Comprehension",
+            "micro_topic": "Inference",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Spelling",
+            "micro_topic": "Correctly Spelt Word",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Spotting Errors",
+            "micro_topic": "Noun Number Error",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Spotting Errors",
+            "micro_topic": "Sentence Error Identification",
+            "predicted": 2,
+            "actual": 3
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Synonyms/Antonyms",
+            "micro_topic": "Antonym question family",
+            "predicted": 1,
+            "actual": 2
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Synonyms/Antonyms",
+            "micro_topic": "Synonym question family",
+            "predicted": 3,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Verbal Analogy",
+            "micro_topic": "Verbal Analogy - General",
+            "predicted": 0,
+            "actual": 1
+          }
+        ]
+      },
+      "august_70_30_family": {
+        "predicted_slots": 78,
+        "hit_slots": 29,
+        "hit_percent": 37.17948717948718,
+        "recall_percent": 39.726027397260275,
+        "covered_questions": 46,
+        "observed_questions": 100,
+        "coverage_percent": 46.0,
+        "exact_count_percent": 17.94871794871795,
+        "predicted_slot_mae": 0.9743589743589743,
+        "union_mae": 1.0655737704918034,
+        "slots": [
+          {
+            "section": "General Awareness",
+            "topic": "Art & Culture",
+            "micro_topic": "Classical/Folk Dance",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Awards",
+            "micro_topic": "Awards - General",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Awards",
+            "micro_topic": "Literary Award",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Awards",
+            "micro_topic": "Sports Award",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Books",
+            "micro_topic": "Author-Book Identification",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Current Affairs",
+            "micro_topic": "Appointment News",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Current Affairs",
+            "micro_topic": "Current Affairs - General",
+            "predicted": 1,
+            "actual": 4
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Current Affairs",
+            "micro_topic": "International Summit",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Current Affairs",
+            "micro_topic": "Observance Day",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Air Force Asset",
+            "predicted": 2,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Army/Rank",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Defence - General",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Defence Ministry/Leadership",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Military Exercise",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Defence",
+            "micro_topic": "Naval Asset",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Economy",
+            "micro_topic": "Economy - General",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Economy",
+            "micro_topic": "Inflation Measures",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Environment/Ecology",
+            "micro_topic": "Protected Area",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Environment/Ecology",
+            "micro_topic": "Wildlife Conservation Programme",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "General Science",
+            "micro_topic": "Chemistry",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "General Science",
+            "micro_topic": "General Science - Other",
+            "predicted": 2,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "General Science",
+            "micro_topic": "Physics",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Geography (India)",
+            "micro_topic": "Geography (India) - General",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Geography (India)",
+            "micro_topic": "Indian States",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Geography (World)",
+            "micro_topic": "Oceans & Sea Routes",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Geography (World)",
+            "micro_topic": "Polar Research",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Geography (World)",
+            "micro_topic": "World Currency",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "History (Modern)",
+            "micro_topic": "Gandhi & Congress Movement",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "History (Modern)",
+            "micro_topic": "History (Modern) - General",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "History (Modern)",
+            "micro_topic": "Political/Social Organization Founding",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "History (Modern)",
+            "micro_topic": "Revolt of 1857 / British Administration",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Indian Polity",
+            "micro_topic": "CAG/Constitutional Bodies",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Indian Polity",
+            "micro_topic": "Citizenship",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Indian Polity",
+            "micro_topic": "Schedules of Constitution",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Organizations",
+            "micro_topic": "UN Bodies",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Personalities",
+            "micro_topic": "Personalities - General",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Static GK",
+            "micro_topic": "Cricket",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Static GK",
+            "micro_topic": "Olympics",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "General Awareness",
+            "topic": "Static GK",
+            "micro_topic": "Sports Terminology",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Algebra",
+            "micro_topic": "Linear Equations (Word Problem)",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Algebra",
+            "micro_topic": "Number-Reciprocal Equations",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Average",
+            "micro_topic": "Age Average",
+            "predicted": 2,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mensuration",
+            "micro_topic": "Circle Area/Circumference",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mensuration",
+            "micro_topic": "Mensuration - General",
+            "predicted": 0,
+            "actual": 2
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mensuration",
+            "micro_topic": "Square Area/Perimeter",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mixture & Alligation",
+            "micro_topic": "Milk-Water Mixture",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mixture & Alligation",
+            "micro_topic": "Mixture & Alligation - General",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Mixture & Alligation",
+            "micro_topic": "Price Blending (Alligation)",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Number System",
+            "micro_topic": "LCM & HCF / Divisibility",
+            "predicted": 1,
+            "actual": 2
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Number System",
+            "micro_topic": "Number System - General",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Percentage",
+            "micro_topic": "Election Votes",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Percentage",
+            "micro_topic": "Percentage - General",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Percentage",
+            "micro_topic": "Salary/Income Percentage",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Profit & Loss",
+            "micro_topic": "CP-SP Relationship",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Profit & Loss",
+            "micro_topic": "Loss Percentage",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Profit & Loss",
+            "micro_topic": "Profit Percentage",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Ratio & Proportion",
+            "micro_topic": "Age Ratio",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Ratio & Proportion",
+            "micro_topic": "Algebraic Ratio Manipulation",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Ratio & Proportion",
+            "micro_topic": "Direct/Inverse Proportion",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Ratio & Proportion",
+            "micro_topic": "Division/Partnership Ratio",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Simple/Compound Int.",
+            "micro_topic": "CI-SI Difference",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Simple/Compound Int.",
+            "micro_topic": "Simple Interest",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Simplification",
+            "micro_topic": "BODMAS Expression",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Simplification",
+            "micro_topic": "Decimal Simplification",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Simplification",
+            "micro_topic": "Exponent/Indices Equation",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Statistics",
+            "micro_topic": "Mean/Median/Mode",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Statistics",
+            "micro_topic": "Probability - Balls in Bag",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Time & Work",
+            "micro_topic": "Efficiency Ratio",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Time & Work",
+            "micro_topic": "Individual Work Rate",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Time & Work",
+            "micro_topic": "Men-Days Work",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Time, Speed & Dist.",
+            "micro_topic": "Boats & Streams",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Numerical Ability",
+            "topic": "Time, Speed & Dist.",
+            "micro_topic": "Time, Speed & Distance - General",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Coding-Decoding",
+            "micro_topic": "Number Coding",
+            "predicted": 0,
+            "actual": 3
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Coding-Decoding",
+            "micro_topic": "Word/Letter Coding",
+            "predicted": 2,
+            "actual": 3
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Direction Sense",
+            "micro_topic": "Shortest Distance from Start",
+            "predicted": 0,
+            "actual": 2
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Blood Relations",
+            "predicted": 3,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Calendar Reasoning",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Clock-based Reasoning",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Direction-based Puzzle",
+            "predicted": 2,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Logical Reasoning - General",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Logical Reasoning",
+            "micro_topic": "Ranking/Comparison Puzzle",
+            "predicted": 2,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Cube & Dice",
+            "predicted": 0,
+            "actual": 2
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Dot Placement in Figure",
+            "predicted": 2,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Figure Series Completion",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Mirror/Water Image",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Non-Verbal Pattern - General",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Odd Figure Out",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Pattern Completion",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Non-Verbal Pattern",
+            "micro_topic": "Rotated Figure",
+            "predicted": 0,
+            "actual": 2
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Number/Letter Series",
+            "micro_topic": "Letter Series",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Number/Letter Series",
+            "micro_topic": "Mixed Series",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Number/Letter Series",
+            "micro_topic": "Number Series",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Venn Diagrams",
+            "micro_topic": "Three-Term Relationship Venn",
+            "predicted": 2,
+            "actual": 2
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Verbal Analogy",
+            "micro_topic": "Word Pair Analogy",
+            "predicted": 2,
+            "actual": 1
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Verbal Classification",
+            "micro_topic": "Jumbled Word Odd One Out",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Reasoning",
+            "topic": "Verbal Classification",
+            "micro_topic": "Odd Word Out (Word Group)",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Cloze Test",
+            "micro_topic": "Conjunction/Connector Cloze",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Cloze Test",
+            "micro_topic": "Phrasal Verb / Structure Cloze",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Cloze Test",
+            "micro_topic": "Vocabulary-in-Context Cloze",
+            "predicted": 3,
+            "actual": 3
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Fill in the Blanks",
+            "micro_topic": "Fill in the Blanks - General",
+            "predicted": 0,
+            "actual": 4
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Grammar",
+            "micro_topic": "Active-Passive Voice",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Grammar",
+            "micro_topic": "Grammar - General",
+            "predicted": 0,
+            "actual": 2
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Grammar",
+            "micro_topic": "Sentence Completion (Blank Fill)",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Grammar",
+            "micro_topic": "Subject-Verb Agreement",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Grammar",
+            "micro_topic": "Word Substitution in Sentence",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Idioms & Phrases",
+            "micro_topic": "Idiom Meaning",
+            "predicted": 1,
+            "actual": 3
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Idioms & Phrases",
+            "micro_topic": "Object/Household Idiom",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "One Word Substitution",
+            "micro_topic": "Abstract Concept Descriptor",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "One Word Substitution",
+            "micro_topic": "Field of Study Descriptor",
+            "predicted": 1,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "One Word Substitution",
+            "micro_topic": "Medical/Health Descriptor",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "One Word Substitution",
+            "micro_topic": "Person/Character Descriptor",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "One Word Substitution",
+            "micro_topic": "Place/Structure Descriptor",
+            "predicted": 0,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Para Jumbles",
+            "micro_topic": "Sentence Part Rearrangement",
+            "predicted": 1,
+            "actual": 2
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Para Jumbles",
+            "micro_topic": "Sentence Rearrangement",
+            "predicted": 5,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Reading Comprehension",
+            "micro_topic": "Detail-based Question",
+            "predicted": 5,
+            "actual": 3
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Reading Comprehension",
+            "micro_topic": "Inference",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Spotting Errors",
+            "micro_topic": "Conditional/Tense Error",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Spotting Errors",
+            "micro_topic": "Noun Number Error",
+            "predicted": 1,
+            "actual": 0
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Spotting Errors",
+            "micro_topic": "Sentence Error Identification",
+            "predicted": 1,
+            "actual": 3
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Synonyms/Antonyms",
+            "micro_topic": "Antonym question family",
+            "predicted": 1,
+            "actual": 2
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Synonyms/Antonyms",
+            "micro_topic": "Synonym question family",
+            "predicted": 2,
+            "actual": 1
+          },
+          {
+            "section": "Verbal Ability",
+            "topic": "Verbal Analogy",
+            "micro_topic": "Verbal Analogy - General",
+            "predicted": 0,
+            "actual": 1
+          }
+        ]
+      },
+      "topic_changes": {
+        "Verbal Ability": {
+          "total_variation": 0.31666666666666665,
+          "topics": [
+            {
+              "topic": "Cloze Test",
+              "august_share": 0.13333333333333333,
+              "next_january_share": 0.1,
+              "change_percentage_points": -3.3333333333333326
+            },
+            {
+              "topic": "Fill in the Blanks",
+              "august_share": 0,
+              "next_january_share": 0.13333333333333333,
+              "change_percentage_points": 13.333333333333334
+            },
+            {
+              "topic": "Grammar",
+              "august_share": 0.11666666666666667,
+              "next_january_share": 0.1,
+              "change_percentage_points": -1.6666666666666663
+            },
+            {
+              "topic": "Idioms & Phrases",
+              "august_share": 0.06666666666666667,
+              "next_january_share": 0.1,
+              "change_percentage_points": 3.333333333333334
+            },
+            {
+              "topic": "One Word Substitution",
+              "august_share": 0.05,
+              "next_january_share": 0.13333333333333333,
+              "change_percentage_points": 8.333333333333332
+            },
+            {
+              "topic": "Para Jumbles",
+              "august_share": 0.25,
+              "next_january_share": 0.1,
+              "change_percentage_points": -15.0
+            },
+            {
+              "topic": "Reading Comprehension",
+              "august_share": 0.21666666666666667,
+              "next_january_share": 0.1,
+              "change_percentage_points": -11.666666666666666
+            },
+            {
+              "topic": "Spotting Errors",
+              "august_share": 0.1,
+              "next_january_share": 0.1,
+              "change_percentage_points": 0.0
+            },
+            {
+              "topic": "Synonyms/Antonyms",
+              "august_share": 0.06666666666666667,
+              "next_january_share": 0.1,
+              "change_percentage_points": 3.333333333333334
+            },
+            {
+              "topic": "Verbal Analogy",
+              "august_share": 0,
+              "next_january_share": 0.03333333333333333,
+              "change_percentage_points": 3.3333333333333335
+            }
+          ]
+        },
+        "General Awareness": {
+          "total_variation": 0.33999999999999997,
+          "topics": [
+            {
+              "topic": "Art & Culture",
+              "august_share": 0.021739130434782608,
+              "next_january_share": 0.04,
+              "change_percentage_points": 1.8260869565217392
+            },
+            {
+              "topic": "Awards",
+              "august_share": 0.06521739130434782,
+              "next_january_share": 0.08,
+              "change_percentage_points": 1.4782608695652177
+            },
+            {
+              "topic": "Books",
+              "august_share": 0.021739130434782608,
+              "next_january_share": 0,
+              "change_percentage_points": -2.1739130434782608
+            },
+            {
+              "topic": "Current Affairs",
+              "august_share": 0.06521739130434782,
+              "next_january_share": 0.24,
+              "change_percentage_points": 17.478260869565215
+            },
+            {
+              "topic": "Defence",
+              "august_share": 0.1956521739130435,
+              "next_january_share": 0.24,
+              "change_percentage_points": 4.4347826086956506
+            },
+            {
+              "topic": "Economy",
+              "august_share": 0.021739130434782608,
+              "next_january_share": 0.04,
+              "change_percentage_points": 1.8260869565217392
+            },
+            {
+              "topic": "Environment/Ecology",
+              "august_share": 0.08695652173913043,
+              "next_january_share": 0,
+              "change_percentage_points": -8.695652173913043
+            },
+            {
+              "topic": "General Science",
+              "august_share": 0.13043478260869565,
+              "next_january_share": 0.04,
+              "change_percentage_points": -9.043478260869565
+            },
+            {
+              "topic": "Geography (India)",
+              "august_share": 0.043478260869565216,
+              "next_january_share": 0.04,
+              "change_percentage_points": -0.3478260869565215
+            },
+            {
+              "topic": "Geography (World)",
+              "august_share": 0.043478260869565216,
+              "next_january_share": 0.08,
+              "change_percentage_points": 3.6521739130434785
+            },
+            {
+              "topic": "History (Medieval)",
+              "august_share": 0.021739130434782608,
+              "next_january_share": 0,
+              "change_percentage_points": -2.1739130434782608
+            },
+            {
+              "topic": "History (Modern)",
+              "august_share": 0.06521739130434782,
+              "next_january_share": 0.08,
+              "change_percentage_points": 1.4782608695652177
+            },
+            {
+              "topic": "Indian Polity",
+              "august_share": 0.06521739130434782,
+              "next_january_share": 0.04,
+              "change_percentage_points": -2.5217391304347823
+            },
+            {
+              "topic": "Organizations",
+              "august_share": 0.06521739130434782,
+              "next_january_share": 0,
+              "change_percentage_points": -6.521739130434782
+            },
+            {
+              "topic": "Personalities",
+              "august_share": 0.021739130434782608,
+              "next_january_share": 0.04,
+              "change_percentage_points": 1.8260869565217392
+            },
+            {
+              "topic": "Static GK",
+              "august_share": 0.06521739130434782,
+              "next_january_share": 0.04,
+              "change_percentage_points": -2.5217391304347823
+            }
+          ]
+        },
+        "Reasoning": {
+          "total_variation": 0.4318644067796611,
+          "topics": [
+            {
+              "topic": "Coding-Decoding",
+              "august_share": 0.06779661016949153,
+              "next_january_share": 0.24,
+              "change_percentage_points": 17.220338983050848
+            },
+            {
+              "topic": "Direction Sense",
+              "august_share": 0,
+              "next_january_share": 0.08,
+              "change_percentage_points": 8.0
+            },
+            {
+              "topic": "Logical Reasoning",
+              "august_share": 0.4067796610169492,
+              "next_january_share": 0.2,
+              "change_percentage_points": -20.677966101694917
+            },
+            {
+              "topic": "Non-Verbal Pattern",
+              "august_share": 0.1694915254237288,
+              "next_january_share": 0.32,
+              "change_percentage_points": 15.05084745762712
+            },
+            {
+              "topic": "Number/Letter Series",
+              "august_share": 0.1694915254237288,
+              "next_january_share": 0,
+              "change_percentage_points": -16.94915254237288
+            },
+            {
+              "topic": "Venn Diagrams",
+              "august_share": 0.05084745762711865,
+              "next_january_share": 0.08,
+              "change_percentage_points": 2.9152542372881354
+            },
+            {
+              "topic": "Verbal Analogy",
+              "august_share": 0.06779661016949153,
+              "next_january_share": 0.04,
+              "change_percentage_points": -2.7796610169491522
+            },
+            {
+              "topic": "Verbal Classification",
+              "august_share": 0.06779661016949153,
+              "next_january_share": 0.04,
+              "change_percentage_points": -2.7796610169491522
+            }
+          ]
+        },
+        "Numerical Ability": {
+          "total_variation": 0.3142857142857142,
+          "topics": [
+            {
+              "topic": "Algebra",
+              "august_share": 0.047619047619047616,
+              "next_january_share": 0.05,
+              "change_percentage_points": 0.23809523809523864
+            },
+            {
+              "topic": "Average",
+              "august_share": 0.09523809523809523,
+              "next_january_share": 0,
+              "change_percentage_points": -9.523809523809524
+            },
+            {
+              "topic": "Mensuration",
+              "august_share": 0.07142857142857142,
+              "next_january_share": 0.15,
+              "change_percentage_points": 7.857142857142857
+            },
+            {
+              "topic": "Mixture & Alligation",
+              "august_share": 0.07142857142857142,
+              "next_january_share": 0.1,
+              "change_percentage_points": 2.857142857142858
+            },
+            {
+              "topic": "Number System",
+              "august_share": 0.11904761904761904,
+              "next_january_share": 0.1,
+              "change_percentage_points": -1.9047619047619035
+            },
+            {
+              "topic": "Percentage",
+              "august_share": 0.07142857142857142,
+              "next_january_share": 0.05,
+              "change_percentage_points": -2.1428571428571423
+            },
+            {
+              "topic": "Profit & Loss",
+              "august_share": 0.11904761904761904,
+              "next_january_share": 0.1,
+              "change_percentage_points": -1.9047619047619035
+            },
+            {
+              "topic": "Ratio & Proportion",
+              "august_share": 0.14285714285714285,
+              "next_january_share": 0.05,
+              "change_percentage_points": -9.285714285714285
+            },
+            {
+              "topic": "Simple/Compound Int.",
+              "august_share": 0.07142857142857142,
+              "next_january_share": 0.05,
+              "change_percentage_points": -2.1428571428571423
+            },
+            {
+              "topic": "Simplification",
+              "august_share": 0.07142857142857142,
+              "next_january_share": 0.1,
+              "change_percentage_points": 2.857142857142858
+            },
+            {
+              "topic": "Statistics",
+              "august_share": 0,
+              "next_january_share": 0.1,
+              "change_percentage_points": 10.0
+            },
+            {
+              "topic": "Time & Work",
+              "august_share": 0.023809523809523808,
+              "next_january_share": 0.1,
+              "change_percentage_points": 7.6190476190476195
+            },
+            {
+              "topic": "Time, Speed & Dist.",
+              "august_share": 0.09523809523809523,
+              "next_january_share": 0.05,
+              "change_percentage_points": -4.523809523809523
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "unavailable": [
+    {
+      "paper": "AFCAT 2022 Feb 13 Shift 1",
+      "reason": "No previous-August records"
+    },
+    {
+      "paper": "AFCAT 2022 Feb 14 Shift 1",
+      "reason": "No previous-August records"
+    },
+    {
+      "paper": "AFCAT 2024 Feb 16",
+      "reason": "No previous-August records"
+    },
+    {
+      "paper": "AFCAT 2024 Feb 17",
+      "reason": "No previous-August records"
+    },
+    {
+      "paper": "AFCAT 2025 Jan 22 Shift 1",
+      "reason": "Target is partial or a conflicting merged paper"
+    }
+  ],
+  "conclusion": "Too few reliable transitions to learn or certify a reusable cycle-change rule. The 70/30 blend is a historical configuration, not an estimated optimum.",
+  "limitations": [
+    "Anchor sets can be partial memory-based papers.",
+    "Exact micro-label scores and coarser study-family scores must remain separate.",
+    "2023 first-cycle filenames have no confirmed month; they are not silently treated as January.",
+    "Multiple shifts from the same cycle are dependent, not independent training years."
+  ],
+  "january_to_august_2026_topic_changes": {
+    "Verbal Ability": {
+      "total_variation": 0.06666666666666667,
+      "topics": [
+        {
+          "topic": "Cloze Test",
+          "august_share": 0.1,
+          "next_january_share": 0.1,
+          "change_percentage_points": 0.0
+        },
+        {
+          "topic": "Fill in the Blanks",
+          "august_share": 0.13333333333333333,
+          "next_january_share": 0.18333333333333332,
+          "change_percentage_points": 4.999999999999999
+        },
+        {
+          "topic": "Grammar",
+          "august_share": 0.1,
+          "next_january_share": 0.06666666666666667,
+          "change_percentage_points": -3.333333333333334
+        },
+        {
+          "topic": "Idioms & Phrases",
+          "august_share": 0.1,
+          "next_january_share": 0.1,
+          "change_percentage_points": 0.0
+        },
+        {
+          "topic": "One Word Substitution",
+          "august_share": 0.13333333333333333,
+          "next_january_share": 0.11666666666666667,
+          "change_percentage_points": -1.6666666666666663
+        },
+        {
+          "topic": "Para Jumbles",
+          "august_share": 0.1,
+          "next_january_share": 0.1,
+          "change_percentage_points": 0.0
+        },
+        {
+          "topic": "Reading Comprehension",
+          "august_share": 0.1,
+          "next_january_share": 0.1,
+          "change_percentage_points": 0.0
+        },
+        {
+          "topic": "Spotting Errors",
+          "august_share": 0.1,
+          "next_january_share": 0.08333333333333333,
+          "change_percentage_points": -1.6666666666666676
+        },
+        {
+          "topic": "Synonyms/Antonyms",
+          "august_share": 0.1,
+          "next_january_share": 0.1,
+          "change_percentage_points": 0.0
+        },
+        {
+          "topic": "Verbal Analogy",
+          "august_share": 0.03333333333333333,
+          "next_january_share": 0.05,
+          "change_percentage_points": 1.666666666666667
+        }
+      ]
+    },
+    "General Awareness": {
+      "total_variation": 0.30000000000000004,
+      "topics": [
+        {
+          "topic": "Art & Culture",
+          "august_share": 0.04,
+          "next_january_share": 0.04,
+          "change_percentage_points": 0.0
+        },
+        {
+          "topic": "Awards",
+          "august_share": 0.08,
+          "next_january_share": 0.06,
+          "change_percentage_points": -2.0000000000000004
+        },
+        {
+          "topic": "Current Affairs",
+          "august_share": 0.24,
+          "next_january_share": 0.06,
+          "change_percentage_points": -18.0
+        },
+        {
+          "topic": "Defence",
+          "august_share": 0.24,
+          "next_january_share": 0.2,
+          "change_percentage_points": -3.9999999999999982
+        },
+        {
+          "topic": "Economy",
+          "august_share": 0.04,
+          "next_january_share": 0.08,
+          "change_percentage_points": 4.0
+        },
+        {
+          "topic": "Environment/Ecology",
+          "august_share": 0,
+          "next_january_share": 0.06,
+          "change_percentage_points": 6.0
+        },
+        {
+          "topic": "General Science",
+          "august_share": 0.04,
+          "next_january_share": 0.16,
+          "change_percentage_points": 12.0
+        },
+        {
+          "topic": "Geography (India)",
+          "august_share": 0.04,
+          "next_january_share": 0.04,
+          "change_percentage_points": 0.0
+        },
+        {
+          "topic": "Geography (World)",
+          "august_share": 0.08,
+          "next_january_share": 0.06,
+          "change_percentage_points": -2.0000000000000004
+        },
+        {
+          "topic": "History (Modern)",
+          "august_share": 0.08,
+          "next_january_share": 0.08,
+          "change_percentage_points": 0.0
+        },
+        {
+          "topic": "Indian Polity",
+          "august_share": 0.04,
+          "next_january_share": 0.04,
+          "change_percentage_points": 0.0
+        },
+        {
+          "topic": "Organizations",
+          "august_share": 0,
+          "next_january_share": 0.04,
+          "change_percentage_points": 4.0
+        },
+        {
+          "topic": "Personalities",
+          "august_share": 0.04,
+          "next_january_share": 0,
+          "change_percentage_points": -4.0
+        },
+        {
+          "topic": "Static GK",
+          "august_share": 0.04,
+          "next_january_share": 0.08,
+          "change_percentage_points": 4.0
+        }
+      ]
+    },
+    "Reasoning": {
+      "total_variation": 0.07999999999999999,
+      "topics": [
+        {
+          "topic": "Coding-Decoding",
+          "august_share": 0.24,
+          "next_january_share": 0.16,
+          "change_percentage_points": -7.999999999999999
+        },
+        {
+          "topic": "Direction Sense",
+          "august_share": 0.08,
+          "next_january_share": 0.08,
+          "change_percentage_points": 0.0
+        },
+        {
+          "topic": "Logical Reasoning",
+          "august_share": 0.2,
+          "next_january_share": 0.24,
+          "change_percentage_points": 3.9999999999999982
+        },
+        {
+          "topic": "Non-Verbal Pattern",
+          "august_share": 0.32,
+          "next_january_share": 0.32,
+          "change_percentage_points": 0.0
+        },
+        {
+          "topic": "Number/Letter Series",
+          "august_share": 0,
+          "next_january_share": 0.04,
+          "change_percentage_points": 4.0
+        },
+        {
+          "topic": "Venn Diagrams",
+          "august_share": 0.08,
+          "next_january_share": 0.08,
+          "change_percentage_points": 0.0
+        },
+        {
+          "topic": "Verbal Analogy",
+          "august_share": 0.04,
+          "next_january_share": 0.04,
+          "change_percentage_points": 0.0
+        },
+        {
+          "topic": "Verbal Classification",
+          "august_share": 0.04,
+          "next_january_share": 0.04,
+          "change_percentage_points": 0.0
+        }
+      ]
+    },
+    "Numerical Ability": {
+      "total_variation": 0.22499999999999995,
+      "topics": [
+        {
+          "topic": "Algebra",
+          "august_share": 0.05,
+          "next_january_share": 0,
+          "change_percentage_points": -5.0
+        },
+        {
+          "topic": "Average",
+          "august_share": 0,
+          "next_january_share": 0.1,
+          "change_percentage_points": 10.0
+        },
+        {
+          "topic": "Mensuration",
+          "august_share": 0.15,
+          "next_january_share": 0.1,
+          "change_percentage_points": -4.999999999999999
+        },
+        {
+          "topic": "Mixture & Alligation",
+          "august_share": 0.1,
+          "next_january_share": 0.05,
+          "change_percentage_points": -5.0
+        },
+        {
+          "topic": "Number System",
+          "august_share": 0.1,
+          "next_january_share": 0.125,
+          "change_percentage_points": 2.4999999999999996
+        },
+        {
+          "topic": "Percentage",
+          "august_share": 0.05,
+          "next_january_share": 0.05,
+          "change_percentage_points": 0.0
+        },
+        {
+          "topic": "Profit & Loss",
+          "august_share": 0.1,
+          "next_january_share": 0.1,
+          "change_percentage_points": 0.0
+        },
+        {
+          "topic": "Ratio & Proportion",
+          "august_share": 0.05,
+          "next_january_share": 0.05,
+          "change_percentage_points": 0.0
+        },
+        {
+          "topic": "Simple/Compound Int.",
+          "august_share": 0.05,
+          "next_january_share": 0.05,
+          "change_percentage_points": 0.0
+        },
+        {
+          "topic": "Simplification",
+          "august_share": 0.1,
+          "next_january_share": 0.15,
+          "change_percentage_points": 4.999999999999999
+        },
+        {
+          "topic": "Statistics",
+          "august_share": 0.1,
+          "next_january_share": 0.05,
+          "change_percentage_points": -5.0
+        },
+        {
+          "topic": "Time & Work",
+          "august_share": 0.1,
+          "next_january_share": 0.075,
+          "change_percentage_points": -2.500000000000001
+        },
+        {
+          "topic": "Time, Speed & Dist.",
+          "august_share": 0.05,
+          "next_january_share": 0.1,
+          "change_percentage_points": 5.0
+        }
+      ]
+    }
+  }
+}
