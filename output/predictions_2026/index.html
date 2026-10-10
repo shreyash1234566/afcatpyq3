@@ -479,6 +479,7 @@
                     </button>
                 </div>
             </div>
+            <div id="modal-micro-filters" class="px-4 sm:px-10 py-2.5 bg-slate-100/70 border-b border-slate-200/60 flex items-center gap-2 overflow-x-auto scrollbar-none flex-shrink-0 hidden"></div>
             <div id="modal-questions" class="flex-1 overflow-y-auto p-3.5 sm:p-10 bg-slate-50/50 space-y-4 sm:space-y-8"></div>
         </div>
     </div>
@@ -634,13 +635,19 @@
                         </h3>
 
                         ${t.Micro_Focus && t.Micro_Focus.length > 0 ? `
-                        <div class="mt-3 sm:mt-4 space-y-1 sm:space-y-1.5 flex-grow">
-                            ${t.Micro_Focus.map(m => `
-                            <div class="flex justify-between items-center text-[11px] sm:text-xs">
-                                <span class="text-slate-500 font-medium truncate pr-2">• ${m.name}</span>
-                                <span class="text-brand-blue font-bold">${m.count.toFixed(1)}</span>
+                        <div class="mt-3 sm:mt-4 space-y-1.5 flex-grow">
+                            ${t.Micro_Focus.slice(0, 3).map(m => `
+                            <div class="flex justify-between items-center text-[11px] sm:text-xs hover:text-brand-blue transition-colors group/m cursor-pointer" onclick="event.stopPropagation(); openPractice('${name.replace(/'/g, "\\'")}', '${section.replace(/'/g, "\\'")}', '${m.name.replace(/'/g, "\\'")}')" title="Practice ${m.name}">
+                                <span class="text-slate-500 group-hover/m:text-brand-blue font-medium truncate pr-2">• ${m.name}</span>
+                                <span class="text-brand-blue font-bold flex-shrink-0 bg-brand-blue/5 px-1.5 py-0.5 rounded text-[10px]">${m.count.toFixed(1)} Q</span>
                             </div>
                             `).join('')}
+                            ${t.Micro_Focus.length > 3 ? `
+                            <div class="text-[10px] text-slate-400 font-medium pt-1 flex justify-between items-center border-t border-slate-50">
+                                <span>+${t.Micro_Focus.length - 3} more micro-topics</span>
+                                <span class="text-brand-blue font-bold group-hover:underline">Explore →</span>
+                            </div>
+                            ` : ''}
                         </div>
                         ` : ''}
 
@@ -706,9 +713,10 @@
         }
 
         // --- UTILS ---
-        window.openPractice = function(topicName, section) {
+        window.openPractice = function(topicName, section, initialMicro = null) {
             const modal = document.getElementById('practice-modal');
             const container = document.getElementById('modal-questions');
+            const microFilterBar = document.getElementById('modal-micro-filters');
             document.getElementById('modal-topic-title').textContent = topicName;
 
             const badge = document.getElementById('modal-badge');
@@ -722,32 +730,105 @@
             const slug = (str) => (str || '').toLowerCase().replace(/[^a-z0-9]/g, '');
             const target = slug(topicName);
 
-            const questions = (appData.question_bank || []).filter(q => {
+            const allTopicQuestions = (appData.question_bank || []).filter(q => {
                 const qt = slug(q.topic_name || q.topic || q.topic_display || '');
                 const qc = slug(q.topic_code || '');
                 return qt.includes(target) || target.includes(qt) || qc === target;
             });
 
-            if(questions.length === 0) {
-                container.innerHTML = `<div class="flex flex-col items-center justify-center py-32 text-center">
-                    <div class="w-20 h-20 bg-slate-100 rounded-full flex items-center justify-center text-4xl mb-6">🔍</div>
-                    <h3 class="font-heading font-black text-2xl text-brand-navy mb-2">No specific questions found</h3>
-                    <p class="text-slate-500">Try searching for a related topic.</p>
-                </div>`;
-            } else {
-                container.innerHTML = questions.map((q, i) => createQuestionCard(q, i+1)).join('');
+            // Find topic prediction for Micro_Focus data
+            const topicPred = (appData.predictions?.ml_predictions || []).find(p => {
+                const pt = slug(p.Topic || p.topic_name || '');
+                return pt.includes(target) || target.includes(pt);
+            });
+            const microFocus = topicPred?.Micro_Focus || [];
 
-                // Update progress counter
-                updateProgressCounter();
+            // Group questions by micro-topic
+            const microCounts = {};
+            allTopicQuestions.forEach(q => {
+                const m = q.micro_topic || 'General';
+                microCounts[m] = (microCounts[m] || 0) + 1;
+            });
 
-                // Scroll to first unanswered question
-                setTimeout(() => {
-                    const firstUnanswered = container.querySelector('[data-answered="false"]');
-                    if(firstUnanswered) {
-                        firstUnanswered.scrollIntoView({ behavior: 'smooth', block: 'start' });
-                    }
-                }, 100);
+            // Function to render filtered questions
+            function renderModalQuestions(selectedMicro = null) {
+                const filtered = !selectedMicro || selectedMicro === 'all'
+                    ? allTopicQuestions
+                    : allTopicQuestions.filter(q => (q.micro_topic || 'General') === selectedMicro);
+
+                if (filtered.length === 0) {
+                    container.innerHTML = `<div class="flex flex-col items-center justify-center py-24 text-center">
+                        <div class="w-16 h-16 bg-slate-100 rounded-full flex items-center justify-center text-3xl mb-4">🔍</div>
+                        <h4 class="font-heading font-black text-xl text-brand-navy mb-1">No questions found for this micro-topic</h4>
+                        <p class="text-xs text-slate-500">Select 'All' to view all questions for ${topicName}.</p>
+                    </div>`;
+                } else {
+                    container.innerHTML = filtered.map((q, i) => createQuestionCard(q, i + 1)).join('');
+                    updateProgressCounter();
+
+                    setTimeout(() => {
+                        const firstUnanswered = container.querySelector('[data-answered="false"]');
+                        if (firstUnanswered) {
+                            firstUnanswered.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                        }
+                    }, 100);
+                }
+
+                // Update active state on filter pills
+                if (microFilterBar) {
+                    microFilterBar.querySelectorAll('.micro-pill').forEach(pill => {
+                        const pMicro = pill.getAttribute('data-micro');
+                        const isMatch = (!selectedMicro && pMicro === 'all') || (selectedMicro === pMicro);
+                        if (isMatch) {
+                            pill.className = 'micro-pill px-3 py-1 rounded-lg text-[10px] sm:text-xs font-bold transition-all bg-brand-navy text-white shadow-sm flex-shrink-0 cursor-pointer flex items-center gap-1.5 whitespace-nowrap';
+                        } else {
+                            pill.className = 'micro-pill px-3 py-1 rounded-lg text-[10px] sm:text-xs font-bold text-slate-600 bg-white hover:bg-slate-200/80 transition-all flex-shrink-0 cursor-pointer flex items-center gap-1.5 border border-slate-200/80 whitespace-nowrap';
+                        }
+                    });
+                }
             }
+
+            // Populate micro-topic filter bar
+            if (microFilterBar) {
+                const distinctMicros = Object.keys(microCounts).sort((a, b) => microCounts[b] - microCounts[a]);
+
+                if (allTopicQuestions.length === 0 || distinctMicros.length <= 1) {
+                    microFilterBar.innerHTML = '';
+                    microFilterBar.classList.add('hidden');
+                } else {
+                    microFilterBar.classList.remove('hidden');
+
+                    let pillsHtml = `
+                    <button class="micro-pill px-3 py-1 rounded-lg text-[10px] sm:text-xs font-bold transition-all bg-brand-navy text-white shadow-sm flex-shrink-0 cursor-pointer flex items-center gap-1.5 whitespace-nowrap" data-micro="all">
+                        <span>All</span>
+                        <span class="px-1.5 py-0.2 rounded-full text-[9px] bg-white/20 text-white font-bold">${allTopicQuestions.length}</span>
+                    </button>
+                    `;
+
+                    distinctMicros.forEach(m => {
+                        const focusItem = microFocus.find(f => f.name.toLowerCase() === m.toLowerCase());
+                        const quotaText = focusItem ? `${focusItem.count.toFixed(1)} Qs pred` : `${microCounts[m]} Qs`;
+                        pillsHtml += `
+                        <button class="micro-pill px-3 py-1 rounded-lg text-[10px] sm:text-xs font-bold text-slate-600 bg-white hover:bg-slate-200/80 transition-all flex-shrink-0 cursor-pointer flex items-center gap-1.5 border border-slate-200/80 whitespace-nowrap" data-micro="${m.replace(/"/g, '&quot;')}">
+                            <span>${m}</span>
+                            <span class="px-1.5 py-0.2 rounded-full text-[9px] bg-brand-blue/10 text-brand-blue font-bold">${quotaText}</span>
+                        </button>
+                        `;
+                    });
+
+                    microFilterBar.innerHTML = pillsHtml;
+
+                    microFilterBar.querySelectorAll('.micro-pill').forEach(pill => {
+                        pill.onclick = () => {
+                            const selected = pill.getAttribute('data-micro');
+                            renderModalQuestions(selected);
+                        };
+                    });
+                }
+            }
+
+            // Initial render
+            renderModalQuestions(initialMicro);
         }
 
         function updateProgressCounter() {
@@ -790,6 +871,7 @@
                             ${isAnswered ? '✓' : `Q${num}`}
                         </div>
                         <span class="${colors.badge} px-2.5 sm:px-3 py-0.5 sm:py-1 rounded-full text-[9px] sm:text-[10px] font-bold uppercase tracking-widest">${q.topic_name || q.topic}</span>
+                        ${q.micro_topic ? `<span class="bg-slate-100 text-slate-600 px-2 sm:px-2.5 py-0.5 sm:py-1 rounded-full text-[9px] sm:text-[10px] font-medium border border-slate-200">${q.micro_topic}</span>` : ''}
                     </div>
                     <span class="bg-brand-navy/5 text-brand-navy text-[9px] sm:text-[10px] font-black px-2.5 sm:px-3 py-1 sm:py-1.5 rounded-lg uppercase tracking-widest border border-brand-navy/10">${q.year || 'PYQ'}</span>
                 </div>

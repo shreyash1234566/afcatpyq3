@@ -62,6 +62,55 @@ def main():
     with open(pred_path, "r", encoding="utf-8") as f:
         plan_2027 = json.load(f)
 
+    # 4b. Calculate 2027 Micro-Topic Momentum & Apportionment
+    topic_micro_weights = defaultdict(lambda: defaultdict(float))
+    for q in q_clean:
+        sec = q.get("section")
+        top = q.get("topic")
+        micro = q.get("micro_topic")
+        yr = get_yr(q.get("file_name", ""), q.get("test_name", ""))
+        if not (sec and top and micro and yr):
+            continue
+        w = 2.5 if yr >= 2026 else (1.2 if yr == 2025 else (0.8 if yr == 2024 else 0.2))
+        topic_micro_weights[top][micro] += w
+
+    all_micro_predictions = []
+    topic_micro_focus = {}
+
+    for sec, blk in plan_2027.items():
+        for t in blk["topics"]:
+            top = t["topic"]
+            exp = round(float(t["expected_count_exact"]), 2)
+            micros = topic_micro_weights.get(top, {})
+            tot_w = sum(micros.values())
+
+            micro_list = []
+            if tot_w > 0:
+                sorted_m = sorted(micros.items(), key=lambda x: -x[1])
+                for m_name, m_w in sorted_m:
+                    m_share = m_w / tot_w
+                    m_pred = round(m_share * exp, 1)
+                    if m_pred >= 0.05 or len(micro_list) < 2:
+                        micro_list.append({
+                            "name": m_name,
+                            "count": max(m_pred, 0.1),
+                            "share": round(m_share, 3)
+                        })
+                        all_micro_predictions.append({
+                            "Section": sec,
+                            "Topic": top,
+                            "Micro_Topic": m_name,
+                            "Predicted_Questions": max(m_pred, 0.1),
+                            "Probability_Weight": round(m_share, 4)
+                        })
+            topic_micro_focus[top] = micro_list
+
+    # Save standalone micro-predictions artifact
+    micro_pred_path = ROOT / "output" / "predictions_2027" / "afcat_2027_micro_predictions.json"
+    with open(micro_pred_path, "w", encoding="utf-8") as f:
+        json.dump(all_micro_predictions, f, indent=2, ensure_ascii=False)
+    print(f"Saved {len(all_micro_predictions)} micro predictions to {micro_pred_path}.")
+
     ml_predictions = []
     topic_distribution = {}
     for sec, blk in plan_2027.items():
@@ -77,7 +126,8 @@ def main():
                 "Probability": prob,
                 "CI_Lower": t.get("ci90_low", 0),
                 "CI_Upper": t.get("ci90_high", 0),
-                "growth": round((prob - (1.0 / len(blk["topics"]))) * 100, 1)
+                "growth": round((prob - (1.0 / len(blk["topics"]))) * 100, 1),
+                "Micro_Focus": topic_micro_focus.get(t["topic"], [])
             })
 
     # Sort ml_predictions
@@ -118,6 +168,7 @@ def main():
         },
         "predictions": {
             "ml_predictions": ml_predictions,
+            "micro_predictions": all_micro_predictions,
             "rising_topics": rising_topics,
             "declining_topics": declining_topics,
             "topic_predictions": topic_distribution
