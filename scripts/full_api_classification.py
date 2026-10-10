@@ -18,7 +18,7 @@ import requests
 # Groq API settings
 GROQ_API_KEY = "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"
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
-MODEL = "llama-3.3-70b-versatile"
+MODEL = "openai/gpt-oss-120b"
 
 
 def classify_question_with_api(question_text: str, question_number: int) -> dict:

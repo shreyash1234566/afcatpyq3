@@ -7,7 +7,7 @@ and HOW MANY questions to generate or sample per topic.
 
 THREE strategies (absolutely no hallucination):
   1. GROQ GENERATE  — text-based topics (Verbal, Numerical, text-only Reasoning)
-                      Groq llama-3.3-70b writes new unique questions using 
+                      Groq openai/gpt-oss-120b writes new unique questions using
                       real PYQs as few-shot context (MMR retrieval).
   2. PYQ SAMPLE     — figure-dependent topics (Non-Verbal Pattern, Venn etc.)
                       We cannot generate these without images, so we pull the 

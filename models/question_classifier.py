@@ -1564,7 +1564,7 @@ Respond with ONLY valid JSON (no markdown):
             }
             
             payload = {
-                "model": "llama-3.3-70b-versatile",
+                "model": "openai/gpt-oss-120b",
                 "messages": [
                     {"role": "system", "content": "You are an expert at classifying exam questions. Return only valid JSON."},
                     {"role": "user", "content": prompt}

@@ -15,7 +15,13 @@ export default async function handler(req, res) {
     }
 
     const { question, answer, section, topic, options } = req.body;
-    const groqApiKey = process.env.GROQ_API_KEY;
+    let groqApiKey = process.env.GROQ_API_KEY;
+    if (!groqApiKey && process.env.GROQ_API_KEYS) {
+        groqApiKey = process.env.GROQ_API_KEYS.split(',')[0].trim();
+    }
+    if (groqApiKey) {
+        groqApiKey = groqApiKey.replace(/^['"]|['"]$/g, '').trim();
+    }
 
     console.log('🔧 Backend /api/explain called');
     console.log('📋 Request body keys:', Object.keys(req.body));
@@ -95,48 +101,63 @@ Your task:
 
 Be CONCISE and practical.`;
 
-        const groqResponse = await fetch('https://api.groq.com/openai/v1/chat/completions', {
-            method: 'POST',
-            headers: {
-                'Authorization': `Bearer ${groqApiKey}`,
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify({
-                model: 'llama-3.3-70b-versatile',
-                messages: [{
-                    role: 'user',
-                    content: userPrompt
-                }],
-                temperature: 0.7,
-                max_tokens: 400
-            })
-        });
+        // Active models on Groq with automatic fallback
+        const candidateModels = [
+            'openai/gpt-oss-120b',
+            'openai/gpt-oss-20b',
+            'qwen/qwen3.8-27b'
+        ];
 
-        const data = await groqResponse.json();
+        let explanationContent = null;
+        let lastError = null;
 
-        console.log('📨 Groq API response status:', groqResponse.status);
-        console.log('📨 Groq API response:', JSON.stringify(data).substring(0, 200));
+        for (const modelName of candidateModels) {
+            console.log(`🚀 Trying Groq model: ${modelName}...`);
+            try {
+                const groqResponse = await fetch('https://api.groq.com/openai/v1/chat/completions', {
+                    method: 'POST',
+                    headers: {
+                        'Authorization': `Bearer ${groqApiKey}`,
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({
+                        model: modelName,
+                        messages: [{
+                            role: 'user',
+                            content: userPrompt
+                        }],
+                        temperature: 0.6,
+                        max_tokens: 800
+                    })
+                });
 
-        if (groqResponse.status !== 200) {
-            console.error('❌ Groq API error:', data);
-            return res.status(400).json({
-                error: 'API Error: ' + (data.error?.message || 'Unknown error'),
-                details: data
-            });
+                const data = await groqResponse.json();
+                console.log(`📨 Groq (${modelName}) status:`, groqResponse.status);
+
+                if (groqResponse.status === 200 && data.choices && data.choices[0]?.message?.content) {
+                    explanationContent = data.choices[0].message.content.trim();
+                    console.log(`✅ Explanation generated successfully using ${modelName}`);
+                    break;
+                } else {
+                    lastError = data.error?.message || `HTTP ${groqResponse.status}`;
+                    console.warn(`⚠️ Model ${modelName} failed:`, lastError);
+                }
+            } catch (err) {
+                lastError = err.message;
+                console.warn(`⚠️ Error calling ${modelName}:`, err);
+            }
         }
 
-        if(data.choices && data.choices[0]) {
-            console.log('✅ Explanation generated successfully');
+        if (explanationContent) {
             return res.status(200).json({
-                explanation: data.choices[0].message.content
-            });
-        } else {
-            console.error('❌ No choices in Groq response:', data);
-            return res.status(400).json({
-                error: 'No explanation generated',
-                details: data
+                explanation: explanationContent
             });
         }
+
+        return res.status(400).json({
+            error: 'API Error: ' + (lastError || 'Unable to generate explanation across available models'),
+            details: lastError
+        });
     } catch (error) {
         console.error('❌ Groq API Error:', error);
         return res.status(500).json({

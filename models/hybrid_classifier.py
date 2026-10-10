@@ -32,7 +32,7 @@ logger = logging.getLogger(__name__)
 # Groq API Configuration
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 GROQ_API_KEY = "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"
-GROQ_MODEL = "llama-3.3-70b-versatile"
+GROQ_MODEL = "openai/gpt-oss-120b"
 
 # Section order for AFCAT (sequential, never goes back)
 SECTION_ORDER = ["verbal_ability", "general_awareness", "numerical_ability", "reasoning"]
