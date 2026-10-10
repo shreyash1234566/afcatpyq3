@@ -223,6 +223,9 @@ def main():
         model_accuracy['micro_mae'] = sum(r['normalized_count_mae'] for r in audit['years']) / len(audit['years'])
     # Construct complete dashboardData
     dashboard_data = {
+        "schemaVersion": "2027-integer-pyq-v2",
+        "blueprintSummary": {"microTopicCount":len(all_micro_predictions), "questionCount":len(mock_raw),
+                             "practiceSource":"Original PYQs, newest eligible year first"},
         "pyqCount": len(q_clean),
         "targetExam": "AFCAT 01/2027",
         "modelAccuracy": model_accuracy,

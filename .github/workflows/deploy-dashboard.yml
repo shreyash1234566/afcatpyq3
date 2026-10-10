@@ -19,10 +19,12 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt || true
+          pip install -r requirements.txt
 
       - name: Generate dashboard data
-        run: python scripts/generate_complete_data.py
+        run: |
+          python scripts/compile_dashboard_2027.py
+          python -m unittest discover -s tests -p test_shift_validation.py
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3

@@ -9,7 +9,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Outfit:wght@400;500;700;800&display=swap" rel="stylesheet">
     
-    <script src="data.js"></script>
+    <script src="data.js?v=2027-integer-pyq-v2"></script>
     
     <script>
         tailwind.config = {
@@ -515,23 +515,32 @@
                 if (typeof window.dashboardData !== 'undefined') {
                     appData = window.dashboardData;
                 } else {
-                    const res = await fetch('data.js');
+                    const res = await fetch('data.js?v=2027-integer-pyq-v2', {cache:'no-store'});
                     const text = await res.text();
                     // Fix: Strip JS variable declaration to parse pure JSON if fallback needed
-                    const jsonStr = text.replace(/^const\s+dashboardData\s*=\s*/, '').replace(/;\s*$/, '');
+                    const jsonStr = text.split('const dashboardData = ')[1].split(';\n\n')[0];
                     appData = JSON.parse(jsonStr);
                 }
 
                 if(!appData) throw new Error("No Data");
+                const allocations = appData.predictions?.micro_predictions || [];
+                if (appData.schemaVersion !== '2027-integer-pyq-v2' ||
+                    allocations.reduce((sum,r) => sum + r.Predicted_Questions,0) !== 100 ||
+                    allocations.some(r => !Number.isInteger(r.Predicted_Questions) || r.Predicted_Questions < 1)) {
+                    throw new Error('Outdated prediction data. Latest January 2027 integer blueprint required.');
+                }
 
                 if(document.getElementById('total-pyq-display')) {
-                    document.getElementById('total-pyq-display').textContent = (appData.question_bank?.length || 0) + " Questions";
+                    document.getElementById('total-pyq-display').textContent = (appData.question_bank?.length || 0) + " PYQs · " + allocations.length + " micro-topics · 100-question blueprint";
                 }
 
                 renderDashboard();
                 renderLibrary();
                 loadMockQuestions();
-            } catch(e) { console.error("Init Error", e); }
+            } catch(e) {
+                console.error("Init Error", e);
+                document.getElementById('priority-list').innerHTML = '<tr><td colspan="4">Latest January 2027 data could not load. Please reload after deployment completes.</td></tr>';
+            }
         }
 
         // --- DASHBOARD ---
@@ -636,18 +645,12 @@
 
                         ${t.Micro_Focus && t.Micro_Focus.length > 0 ? `
                         <div class="mt-3 sm:mt-4 space-y-1.5 flex-grow">
-                            ${t.Micro_Focus.slice(0, 3).map(m => `
+                            ${t.Micro_Focus.map(m => `
                             <div class="flex justify-between items-center text-[11px] sm:text-xs hover:text-brand-blue transition-colors group/m cursor-pointer" onclick="event.stopPropagation(); openPractice('${name.replace(/'/g, "\\'")}', '${section.replace(/'/g, "\\'")}', '${m.name.replace(/'/g, "\\'")}')" title="Practice ${m.name}">
                                 <span class="text-slate-500 group-hover/m:text-brand-blue font-medium truncate pr-2">• ${m.name}</span>
                                 <span class="text-brand-blue font-bold flex-shrink-0 bg-brand-blue/5 px-1.5 py-0.5 rounded text-[10px]">${m.count.toFixed(1)} Q</span>
                             </div>
                             `).join('')}
-                            ${t.Micro_Focus.length > 3 ? `
-                            <div class="text-[10px] text-slate-400 font-medium pt-1 flex justify-between items-center border-t border-slate-50">
-                                <span>+${t.Micro_Focus.length - 3} more micro-topics</span>
-                                <span class="text-brand-blue font-bold group-hover:underline">Explore →</span>
-                            </div>
-                            ` : ''}
                         </div>
                         ` : ''}
 

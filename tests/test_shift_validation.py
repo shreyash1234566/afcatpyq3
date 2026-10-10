@@ -11,6 +11,15 @@ from build_unified_2027 import validate_paper
 
 
 class ShiftValidationTests(unittest.TestCase):
+    def test_deploy_uses_unified_compiler_and_versioned_frontend(self):
+        root = Path(__file__).resolve().parents[1]
+        workflow = (root/'.github/workflows/deploy-dashboard.yml').read_text(encoding='utf-8')
+        self.assertIn('python scripts/compile_dashboard_2027.py',workflow)
+        self.assertNotIn('python scripts/generate_complete_data.py',workflow)
+        for relative in ('dashboard/index.html','output/predictions_2026/index.html'):
+            page = (root/relative).read_text(encoding='utf-8')
+            self.assertIn('data.js?v=2027-integer-pyq-v2',page)
+            self.assertIn('Number.isInteger(r.Predicted_Questions)',page)
     def test_live_blueprint_and_paper_match(self):
         import json
         root = Path(__file__).resolve().parents[1]
